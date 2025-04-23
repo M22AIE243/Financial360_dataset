@@ -21,6 +21,8 @@ Although the dataset was created using in real financial data, the visualization
 It’s designed not just for researchers in vision and language tasks, but also for those looking to validate or fine-tune small, efficient models on domain-specific data with real-world utility
 
 #Dataset Structure company wise (Exaple Apple)
+
+
 AAPL/
 │
 ├── AAPL_stock_price.png                   # Line graph of stock prices

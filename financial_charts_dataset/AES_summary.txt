@@ -1,0 +1,16 @@
+Summary of AES data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 25.74
+Lowest Closing Price: 11.64
+Average Closing Price: 17.84
+Total Volume: 3,890,414,800
+
+Quarterly Volume:
+2023-Qq: 282,317,800
+2023-Qq: 380,572,200
+2023-Qq: 355,724,300
+2023-Qq: 516,350,400
+2024-Qq: 520,377,300
+2024-Qq: 504,923,200
+2024-Qq: 510,920,900
+2024-Qq: 819,228,700

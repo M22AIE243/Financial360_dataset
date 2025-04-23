@@ -1,0 +1,7 @@
+Here's a summary of the ROST stock trading data in 4-5 concise lines:
+
+- **Average Price:** $127.50, with a highest closing price of $155.74 and a lowest closing price of $98.48.
+- **Total Volume:** 1,163,329,100 shares traded across 502 trading days.
+- **Quarterly Volume:** Volumes decreased from 2023-Q1 to 2024-Q1, then increased in 2024-Q2 and Q3.
+- **Key Trend:** The stock's price and volume showed fluctuations, but generally trending upward.
+- **Performance:** The stock's average closing price increased over the period, indicating overall positive performance.

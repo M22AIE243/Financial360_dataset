@@ -1,0 +1,15 @@
+The provided image is a pie chart, not a stock price chart. However, I will analyze the data and provide insights.
+
+The pie chart shows the MTZ quarterly volume distribution across eight quarters. The data indicates that:
+
+* The largest share of volume (18.6%) occurred in 2023-Q3.
+* The quarters in 2023 have a relatively higher volume distribution, with 18.6%, 11.4%, 9.5%, and 9.3% respectively.
+* The quarters in 2024 have a relatively lower volume distribution, with 14.3%, 12.8%, 12.5%, and 11.6% respectively.
+
+There is no clear trend in the stock price, as the chart shows volume distribution rather than stock price. However, it can be observed that the volume distribution in 2023 seems to have a higher peak (18.6%) compared to 2024. 
+
+In terms of relationship between X (quarter) and Y (volume distribution), it can be said that the volume distribution varies across different quarters, with some quarters having a higher volume distribution than others. 
+
+However, if we consider the hypothetical stock price, we would expect to see a line chart or a cand chart rather than a pie chart. 
+
+If you provide a stock price chart, I will be happy to provide a 4-5 line summary.

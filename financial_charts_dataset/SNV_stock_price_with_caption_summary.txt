@@ -1,0 +1,6 @@
+The SNV stock price chart shows a volatile trend over the period from January 2023 to January 2025. 
+
+* The stock price started around $35, dropped to a low of $23.58, and then fluctuated between $25 and $40 from January 2023 to October 2023. 
+* A significant upward trend emerged from October 2023 to January 2025, with the stock price rising from around $25 to a peak of $57.81. 
+* The overall trend indicates a strong positive correlation between time (X) and stock price (Y), with an average stock price of $35.89. 
+* The recent surge in stock price from mid-2024 to early 2025 is particularly notable, suggesting increased investor confidence or positive market developments.

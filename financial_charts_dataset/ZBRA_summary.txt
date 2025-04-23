@@ -1,0 +1,16 @@
+Summary of ZBRA data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 411.94
+Lowest Closing Price: 197.99
+Average Closing Price: 297.58
+Total Volume: 191,082,800
+
+Quarterly Volume:
+2023-Qq: 22,531,400
+2023-Qq: 21,173,300
+2023-Qq: 28,355,400
+2023-Qq: 29,105,800
+2024-Qq: 23,992,800
+2024-Qq: 20,555,700
+2024-Qq: 22,730,500
+2024-Qq: 22,637,900

@@ -1,0 +1,6 @@
+Here's a concise summary of the DY stock trading data:
+
+- **Average Closing Price**: $129.26, with a **range of $122.52** (80.30 - 202.82) from 2023-01-01 to 2025-01-01.
+- **Total Trading Volume**: 177,733,200 shares traded over 502 days.
+- **Quarterly Volume Trend**: Volume decreased in 2023 (35.94M, 23.39M, 19.07M, 18.97M) and then slightly increased in 2024 (16.16M, 16.51M, 19.80M, 27.88M).
+- **Price Movement**: The stock price fluctuated, but there's no clear indication of a significant upward or downward trend based on the provided data.

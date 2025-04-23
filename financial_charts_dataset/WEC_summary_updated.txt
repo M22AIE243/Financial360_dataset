@@ -1,0 +1,7 @@
+Here's a concise summary of the WEC stock trading data:
+
+- **Key Performance**: WEC's average closing price was $83.81, with a highest closing price of $100.94 and a lowest closing price of $72.77.
+- **Volume Trend**: Total trading volume increased from 2023 to 2024, with a total of 905,735,200 shares traded.
+- **Quarterly Volume Growth**: Volume growth accelerated in 2024, with a 68% increase in the first quarter of 2024 compared to the same period in 2023.
+- **Price Movement**: The stock's price fluctuated, but overall, it remained stable, with no significant downward trend observed.
+- **Notable Increase in Volume**: The fourth quarter of 2023 saw a notable increase in volume, with 127,249,500 shares traded, indicating increased investor interest.

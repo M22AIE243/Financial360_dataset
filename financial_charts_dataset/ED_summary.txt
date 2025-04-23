@@ -1,0 +1,16 @@
+Summary of ED data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 105.54
+Lowest Closing Price: 77.42
+Average Closing Price: 89.78
+Total Volume: 959,934,800
+
+Quarterly Volume:
+2023-Qq: 116,538,000
+2023-Qq: 114,621,900
+2023-Qq: 109,336,100
+2023-Qq: 138,141,500
+2024-Qq: 109,018,500
+2024-Qq: 130,712,100
+2024-Qq: 106,231,400
+2024-Qq: 135,335,300

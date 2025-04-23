@@ -1,0 +1,6 @@
+Here's a summary of the XYL stock trading data:
+
+- **Key Trend:** The stock price fluctuated within a range, with the average closing price at $114.73.
+- **Price Movement:** The highest closing price was $144.33, while the lowest was $86.25, indicating a price variation of 67.08%.
+- **Volume Change:** Total trading volume was 736,492,700 shares, with a noticeable decline in volume from 2023-Q4 to 2024-Q4.
+- **Key Performance:** The average closing price remained relatively stable, with a slight increase in the last quarter of 2024.

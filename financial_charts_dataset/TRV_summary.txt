@@ -1,0 +1,16 @@
+Summary of TRV data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 264.47
+Lowest Closing Price: 153.62
+Average Closing Price: 195.28
+Total Volume: 665,809,500
+
+Quarterly Volume:
+2023-Qq: 95,571,600
+2023-Qq: 76,127,100
+2023-Qq: 77,405,100
+2023-Qq: 87,809,000
+2024-Qq: 91,661,300
+2024-Qq: 81,237,300
+2024-Qq: 76,908,400
+2024-Qq: 79,089,700

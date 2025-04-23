@@ -1,0 +1,13 @@
+The provided image is a pie chart, not a stock price chart. However, I can analyze it and provide a summary.
+
+### Analysis Summary:
+- The pie chart shows the quarterly volume distribution for HIG.
+- The data is distributed across multiple quarters in 2023 and 2024.
+- The largest share is 16.9% in 2023-Qq, and the smallest is 9.7% in 2023-Qq.
+- The chart indicates varying volume distributions across quarters, with 2023-Qq having the highest and 2023-Qq the lowest.
+
+### Key Trends and Relationship:
+- There is no direct relationship between X (time) and Y (stock price) as this is not a stock price chart but a volume distribution chart.
+- The chart shows that the volume distribution varies significantly across different quarters, with a peak in 2023-Qq and a trough in 2023-Qq. 
+
+If you provide the actual stock price chart, I can assist further.

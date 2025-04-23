@@ -1,0 +1,15 @@
+The provided image is not a stock price chart but a pie chart showing the quarterly volume distribution of INCR. The chart does not depict the relationship between X (time) and Y (stock price); instead, it shows the distribution of volume across different quarters.
+
+However, based on the information provided, here's an analysis:
+
+The pie chart shows the quarterly volume distribution of INCR. The quarters are labeled as 2023-Qq and 2024-Qq, with different colors representing different quarters. The chart indicates that:
+
+* The highest volume distribution is in 2024-Qq (20.5%), 
+* Followed by 14.6% in another 2024-Qq.
+* The lowest volume distribution is in 2024-Qq (6.9%).
+
+ There is no clear trend in the stock price as the chart is not a stock price chart. However, the volume distribution seems to be higher in 2024-Qq (Q2) and lower in 2024-Qq (Q1).
+
+In summary, the provided chart does not depict stock price but volume distribution. 
+
+However, if you provide the stock price chart, I can give you a 4-5 line summary of the chart.

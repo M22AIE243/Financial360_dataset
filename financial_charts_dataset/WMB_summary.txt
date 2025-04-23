@@ -1,0 +1,16 @@
+Summary of WMB data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 58.70
+Lowest Closing Price: 25.79
+Average Closing Price: 36.12
+Total Volume: 3,288,375,400
+
+Quarterly Volume:
+2023-Qq: 451,970,300
+2023-Qq: 442,108,800
+2023-Qq: 384,735,900
+2023-Qq: 405,422,200
+2024-Qq: 436,337,200
+2024-Qq: 397,544,100
+2024-Qq: 351,645,000
+2024-Qq: 418,611,900

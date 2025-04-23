@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The WCN stock price chart shows an overall upward trend from January 2023 to January 2025. The stock price started around $130 and increased to a peak of nearly $190. The relationship between time (X) and stock price (Y) is generally positive, with some fluctuations. There was a significant surge in stock price from early 2024 to late 2024, followed by a sharp decline in early 2025. The stock price appears to be volatile, with several peaks and troughs throughout the period.

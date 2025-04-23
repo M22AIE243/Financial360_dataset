@@ -1,0 +1,16 @@
+Here's a concise summary of the OSK stock trading data:
+
+**Key Trends:**
+- Average closing price: $97.86
+- Highest closing price: $124.99
+- Lowest closing price: $70.75
+
+**Performance:**
+- Total trading days: 502
+- Total volume: 266,388,200 shares traded
+
+**Volume Changes:**
+- Quarterly volume trend: Generally stable, with a slight decrease from 34.5M to 28.4M in Q2 2024, followed by an increase to 36.2M in Q4 2024.
+
+**Price Movements:**
+- The stock's average closing price has remained relatively stable over the period, with some fluctuations.

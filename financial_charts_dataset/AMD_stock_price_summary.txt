@@ -1,0 +1,9 @@
+The AMD stock price exhibits an overall upward trend from January 2023 to April 2024, rising from approximately $60 to a peak of around $210. 
+
+However, after reaching its peak in April 2024, the stock price experiences a decline, dropping to around $120 by January 2025. 
+
+The relationship between time (X-axis) and stock price (Y-axis) shows a strong positive correlation until April 2024, followed by a negative correlation. 
+
+The stock's volatility is evident, with significant fluctuations in price throughout the period. 
+
+The chart suggests that the stock's performance was strong in 2023 and early 2024 but weakened in the latter half of 2024 and early 2025.

@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The chart shows the quarterly volume of AMZN stock from Q1 2023 to Q4 2024. The total volume has been declining over time, from approximately 4.1 billion in Q1 2023 to around 2.3 billion in Q4 2024. The relationship between time (X-axis) and total volume (Y-axis) shows a clear downward trend. The highest volume was recorded in Q1 2023, while the lowest volume is projected in Q4 2024. Overall, the chart indicates a steady decline in AMZN's quarterly volume over the past two years.

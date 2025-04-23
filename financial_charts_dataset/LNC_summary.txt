@@ -1,0 +1,16 @@
+Summary of LNC data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 35.82
+Lowest Closing Price: 16.87
+Average Closing Price: 25.89
+Total Volume: 1,155,814,900
+
+Quarterly Volume:
+2023-Qq: 228,687,100
+2023-Qq: 204,147,000
+2023-Qq: 185,483,700
+2023-Qq: 137,361,200
+2024-Qq: 120,429,000
+2024-Qq: 101,999,700
+2024-Qq: 91,938,500
+2024-Qq: 85,768,700

@@ -1,0 +1,16 @@
+Summary of NTR data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 77.29
+Lowest Closing Price: 43.03
+Average Closing Price: 54.42
+Total Volume: 1,025,656,500
+
+Quarterly Volume:
+2023-Qq: 138,028,300
+2023-Qq: 173,645,900
+2023-Qq: 111,529,700
+2023-Qq: 109,279,200
+2024-Qq: 125,542,300
+2024-Qq: 106,698,300
+2024-Qq: 131,709,400
+2024-Qq: 129,223,400

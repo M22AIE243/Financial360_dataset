@@ -1,0 +1,16 @@
+Summary of CTSH data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 81.72
+Lowest Closing Price: 55.25
+Average Closing Price: 68.66
+Total Volume: 1,873,629,600
+
+Quarterly Volume:
+2023-Qq: 288,853,200
+2023-Qq: 226,517,200
+2023-Qq: 218,173,400
+2023-Qq: 205,418,400
+2024-Qq: 272,236,300
+2024-Qq: 241,907,500
+2024-Qq: 223,980,600
+2024-Qq: 196,543,000

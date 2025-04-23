@@ -1,0 +1,16 @@
+Summary of JWN data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 24.50
+Lowest Closing Price: 12.36
+Average Closing Price: 18.39
+Total Volume: 2,106,784,400
+
+Quarterly Volume:
+2023-Qq: 384,414,100
+2023-Qq: 307,352,500
+2023-Qq: 296,700,900
+2023-Qq: 349,861,700
+2024-Qq: 286,592,800
+2024-Qq: 178,785,600
+2024-Qq: 154,359,900
+2024-Qq: 148,716,900

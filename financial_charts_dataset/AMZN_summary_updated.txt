@@ -1,0 +1,6 @@
+Here's a concise summary of the AMZN stock trading data:
+
+- **Price Movement:** AMZN's stock price fluctuated between $83.12 (lowest) and $232.93 (highest), with an average closing price of $153.13.
+- **Volume Trend:** The total trading volume was 25,035,653,300 shares, with a decrease in volume over time, from 4,237,140,900 shares in 2023-Q1 to 2,400,707,700 shares in 2024-Q4.
+- **Quarterly Performance:** AMZN's stock price generally increased over the quarters, with a slight dip in 2024-Q1 and Q2.
+- **Key Takeaway:** Despite a decline in trading volume, AMZN's stock price showed resilience, with a relatively high average closing price and a wide price range.

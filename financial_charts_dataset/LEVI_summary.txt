@@ -1,0 +1,16 @@
+Summary of LEVI data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 23.64
+Lowest Closing Price: 12.28
+Average Closing Price: 16.49
+Total Volume: 1,112,988,000
+
+Quarterly Volume:
+2023-Qq: 132,499,900
+2023-Qq: 154,151,200
+2023-Qq: 136,040,400
+2023-Qq: 140,553,500
+2024-Qq: 113,661,000
+2024-Qq: 193,048,900
+2024-Qq: 105,709,900
+2024-Qq: 137,323,200

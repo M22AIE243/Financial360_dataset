@@ -1,0 +1,16 @@
+Summary of HVT data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 34.45
+Lowest Closing Price: 21.27
+Average Closing Price: 27.58
+Total Volume: 74,194,500
+
+Quarterly Volume:
+2023-Qq: 8,719,600
+2023-Qq: 8,820,000
+2023-Qq: 5,719,000
+2023-Qq: 5,473,300
+2024-Qq: 6,580,200
+2024-Qq: 9,630,900
+2024-Qq: 18,231,100
+2024-Qq: 11,020,400

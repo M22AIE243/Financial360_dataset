@@ -1,0 +1,16 @@
+Summary of HUM data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 525.20
+Lowest Closing Price: 232.31
+Average Closing Price: 405.59
+Total Volume: 768,271,100
+
+Quarterly Volume:
+2023-Qq: 65,661,200
+2023-Qq: 69,632,800
+2023-Qq: 80,083,900
+2023-Qq: 84,753,200
+2024-Qq: 122,070,300
+2024-Qq: 104,666,200
+2024-Qq: 79,501,200
+2024-Qq: 161,902,300

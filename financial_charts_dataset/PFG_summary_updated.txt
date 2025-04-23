@@ -1,0 +1,7 @@
+Here's a concise summary of the PFG stock trading data:
+
+- Average Closing Price: $75.71 (2023-01-01 to 2025-01-01)
+- Total Trading Days: 502
+- Total Volume: 640,625,400 shares traded
+- Key Trend: The average closing price has remained relatively stable, with a slight upward trend.
+- Volume Change: Quarterly volume has fluctuated, with a slight decrease in 2023-Q2 and Q3, followed by a slight increase in 2024.

@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The WPM stock price chart shows a general upward trend from January 2023 to January 2025. The stock price fluctuates between $37.82 and $68.38, with an average price of $49.50. The price increases steadily from early 2024, peaking in late 2024 before declining. The relationship between time (X) and stock price (Y) is positively correlated, with some volatility. Overall, the stock price shows a significant increase over the two-year period.

@@ -1,0 +1,16 @@
+Summary of EL data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 269.17
+Lowest Closing Price: 62.14
+Average Closing Price: 146.53
+Total Volume: 1,466,299,100
+
+Quarterly Volume:
+2023-Qq: 88,723,500
+2023-Qq: 143,408,800
+2023-Qq: 158,524,700
+2023-Qq: 177,318,400
+2024-Qq: 171,543,400
+2024-Qq: 177,603,300
+2024-Qq: 256,441,200
+2024-Qq: 292,735,800

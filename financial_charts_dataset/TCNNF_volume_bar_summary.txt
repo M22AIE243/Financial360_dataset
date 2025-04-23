@@ -1,0 +1,12 @@
+Here is a summary of the stock price chart:
+
+The TCNNF quarterly volume chart shows a fluctuating trend over the eight quarters from Q1 2023 to Q4 2024. The stock price started at approximately 2.65 million in Q1 2023, dipped to 2 million in Q2 2023, and then rose to 2.65 million in Q3 2023. A significant increase is observed in Q1 2024, reaching 3.65 million, followed by a slight decrease to 3.35 million in Q2 2024. The relationship between time (X) and stock price (Y) indicates an overall upward trend.
+
+Key trends include:
+
+* Initial decline from Q1 2023 to Q2 2023
+* Subsequent recovery and growth from Q3 2023 to Q1 2024
+* Slight correction in Q2 2024
+* Strongest volume recorded in Q4 2024 at approximately 4 million. 
+
+The chart suggests that the stock has experienced increased investor interest and trading activity over the past two years, with some quarterly fluctuations.

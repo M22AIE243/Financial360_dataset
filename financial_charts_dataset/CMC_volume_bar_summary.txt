@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The CMC quarterly volume chart shows a fluctuating trend over time. The highest volume was recorded on 2023-03-31 at approximately 7.2 million, while the lowest was on 2023-09-30 at around 4.7 million. The volume generally decreased from Q1 2023 to Q3 2023, then increased in Q4 2023. However, it declined in Q2 2024 and Q3 2024, before rising again in Q4 2024 to approximately 5.7 million. Overall, the relationship between time (X) and stock price (Y) appears to be volatile.

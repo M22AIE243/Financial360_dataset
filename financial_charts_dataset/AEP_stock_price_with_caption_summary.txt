@@ -1,0 +1,7 @@
+The stock price of AEP exhibits a fluctuating trend over the observed period. 
+
+The stock price initially fluctuons, then declines to a low of around 67 in late 2023. 
+It then shows a significant upward trend from late 2023 to mid-2024, peaking at around 100. 
+The price then declines to around 90 in early 2025. 
+The relationship between X (time) and Y (stock price) indicates that the stock price experienced a significant increase over the period from late 2023 to late 2024. 
+The average stock price was 83.74.

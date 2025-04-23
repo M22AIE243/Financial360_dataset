@@ -1,0 +1,9 @@
+**VLO Stock Price Analysis**
+
+The stock price of VLO exhibits a volatile trend over the period from January 2023 to January 2025. 
+
+* The stock price starts at around $120 in January 2023, fluctuates between $100 and $140 until March 2024. 
+* It then experiences a significant surge, peaking at approximately $180 in April 2024. 
+* Following this peak, the stock price declines to around $110 by January 2025. 
+
+Overall, the relationship between time (X) and stock price (Y) shows an initial stability, followed by a sharp increase and subsequent decline.

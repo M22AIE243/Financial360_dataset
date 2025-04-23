@@ -1,0 +1,6 @@
+The stock price of AEO has exhibited a significant trend over the past two years. 
+
+The stock price started at around $15 and decreased to approximately $10, however the stock price began to rise in early 2024 and increased significantly to around $26. 
+The stock price started to decline in late 2024 and was approximately $17 in early 2025. 
+The overall trend shows a positive relationship between X (time) and Y (stock price) for the first 16 months, and a negative relationship for the last 8 months. 
+The stock price exhibited significant volatility throughout the period.

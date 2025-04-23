@@ -1,0 +1,16 @@
+Summary of XYL data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 144.33
+Lowest Closing Price: 86.25
+Average Closing Price: 114.73
+Total Volume: 736,492,700
+
+Quarterly Volume:
+2023-Qq: 105,579,300
+2023-Qq: 139,386,500
+2023-Qq: 90,116,000
+2023-Qq: 88,867,200
+2024-Qq: 72,028,200
+2024-Qq: 79,721,600
+2024-Qq: 75,489,900
+2024-Qq: 85,304,000

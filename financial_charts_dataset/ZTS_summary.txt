@@ -1,0 +1,16 @@
+Summary of ZTS data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 197.16
+Lowest Closing Price: 141.81
+Average Closing Price: 173.87
+Total Volume: 1,123,512,100
+
+Quarterly Volume:
+2023-Qq: 134,681,500
+2023-Qq: 119,908,400
+2023-Qq: 111,129,200
+2023-Qq: 119,695,900
+2024-Qq: 167,125,300
+2024-Qq: 201,094,600
+2024-Qq: 120,210,700
+2024-Qq: 149,666,500

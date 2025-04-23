@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The PCG stock price chart shows a general upward trend from January 2023 to January 2025. The stock price started around $16 and increased to a high of $21.57, with a low of $15.10. The average stock price over the period was $17.47. The chart exhibits volatility, with fluctuations throughout, but a significant increase in price from mid-2024 onwards. Overall, the relationship between time (X) and stock price (Y) is positively correlated, indicating a long-term increase in stock value.

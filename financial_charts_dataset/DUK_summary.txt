@@ -1,0 +1,16 @@
+Summary of DUK data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 118.52
+Lowest Closing Price: 80.40
+Average Closing Price: 94.83
+Total Volume: 1,553,408,600
+
+Quarterly Volume:
+2023-Qq: 186,118,800
+2023-Qq: 184,246,300
+2023-Qq: 190,544,500
+2023-Qq: 216,495,900
+2024-Qq: 192,174,200
+2024-Qq: 173,746,000
+2024-Qq: 194,026,500
+2024-Qq: 216,056,400

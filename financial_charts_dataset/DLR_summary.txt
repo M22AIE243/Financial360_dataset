@@ -1,0 +1,16 @@
+Summary of DLR data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 192.79
+Lowest Closing Price: 80.69
+Average Closing Price: 129.00
+Total Volume: 1,069,253,500
+
+Quarterly Volume:
+2023-Qq: 138,407,100
+2023-Qq: 192,686,900
+2023-Qq: 144,941,100
+2023-Qq: 121,739,500
+2024-Qq: 128,590,400
+2024-Qq: 117,218,100
+2024-Qq: 103,367,200
+2024-Qq: 122,303,200

@@ -1,0 +1,16 @@
+Summary of AG data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 8.88
+Lowest Closing Price: 4.20
+Average Closing Price: 6.16
+Total Volume: 3,572,532,800
+
+Quarterly Volume:
+2023-Qq: 458,415,200
+2023-Qq: 304,715,600
+2023-Qq: 286,043,500
+2023-Qq: 384,719,400
+2024-Qq: 456,044,800
+2024-Qq: 546,771,800
+2024-Qq: 496,266,100
+2024-Qq: 639,556,400

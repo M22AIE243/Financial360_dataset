@@ -1,0 +1,7 @@
+Here's a concise summary of the stock trading data for BK:
+
+- The stock's average closing price over 502 trading days is $52.89.
+- The highest and lowest closing prices are $80.92 and $37.37, respectively.
+- Total trading volume for the period is 2,217,886,000 shares.
+- Quarterly volume trends show a slight decline from 2023-Q1 to 2024-Q4, with a decrease of approximately 34% over the 8 quarters.
+- The stock's price movement indicates a range-bound behavior with no significant upward or downward trend.

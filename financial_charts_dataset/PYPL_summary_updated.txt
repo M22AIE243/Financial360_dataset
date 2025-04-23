@@ -1,0 +1,7 @@
+Here's a summary of the PYPL stock trading data in 4-5 concise lines:
+
+- Average Closing Price: $67.98
+- Total Volume: 7,064,532,900 shares traded
+- Highest Closing Price: $91.30, lowest at $50.39
+- Quarterly volume trend: Increased in Q1 2023, peaked in Q2 2023, then declined in Q3 and Q4 2023, and continued to decline in Q1 and Q2 2024
+- Price movement: Increased by 42.8% from the lowest closing price to the highest closing price.

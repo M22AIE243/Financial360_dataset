@@ -1,0 +1,16 @@
+Summary of TFSL data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 13.92
+Lowest Closing Price: 9.37
+Average Closing Price: 11.70
+Total Volume: 152,281,400
+
+Quarterly Volume:
+2023-Qq: 18,678,000
+2023-Qq: 23,599,900
+2023-Qq: 18,084,500
+2023-Qq: 23,559,300
+2024-Qq: 17,877,200
+2024-Qq: 16,240,100
+2024-Qq: 16,022,800
+2024-Qq: 18,219,600

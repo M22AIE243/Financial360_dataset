@@ -1,0 +1,16 @@
+Summary of NG data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 6.95
+Lowest Closing Price: 2.28
+Average Closing Price: 4.16
+Total Volume: 740,247,600
+
+Quarterly Volume:
+2023-Qq: 65,855,000
+2023-Qq: 78,300,900
+2023-Qq: 72,171,300
+2023-Qq: 97,985,700
+2024-Qq: 149,433,200
+2024-Qq: 115,419,900
+2024-Qq: 81,771,600
+2024-Qq: 79,310,000

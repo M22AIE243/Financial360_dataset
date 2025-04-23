@@ -1,0 +1,16 @@
+Summary of ES data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 77.76
+Lowest Closing Price: 48.92
+Average Closing Price: 61.29
+Total Volume: 1,142,855,300
+
+Quarterly Volume:
+2023-Qq: 111,243,100
+2023-Qq: 119,961,700
+2023-Qq: 135,859,200
+2023-Qq: 180,480,000
+2024-Qq: 198,810,600
+2024-Qq: 124,995,500
+2024-Qq: 136,507,400
+2024-Qq: 134,997,800

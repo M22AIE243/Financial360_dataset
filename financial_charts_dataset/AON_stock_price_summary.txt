@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The AON stock price chart shows a generally upward trend from January 2023 to January 2025. The stock price fluctuates between $280 and $310 from January 2023 to mid-2024, with no clear direction. However, from mid-2024 onwards, the stock price exhibits a significant and steady increase, reaching a peak of around $400 in late 2024. The relationship between time (X) and stock price (Y) is positive, with a notable acceleration in price growth from mid-2024 to January 2025. Overall, the chart suggests a strong upward momentum in the stock price over the past year.

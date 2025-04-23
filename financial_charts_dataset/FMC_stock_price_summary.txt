@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The FMC stock price chart shows a significant downtrend from January 2023 to January 2025. The stock price started at around $120 and declined to around $50, with some fluctuations. The downtrend was steeper from January 2023 to October 2023, with a relatively stable but low price range from January 2024 to January 2025. The relationship between time (X) and stock price (Y) is strongly negative, indicating a decline in stock price over time. The stock price volatility decreased over time, with more pronounced fluctuations in the earlier period.

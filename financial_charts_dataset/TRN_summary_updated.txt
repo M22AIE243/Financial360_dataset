@@ -1,0 +1,7 @@
+Here's a concise summary of the TRN stock trading data:
+
+- **Average Closing Price:** $26.38 (stable with a slight increase over the period)
+- **Total Volume:** 242.4 million shares traded over 502 days
+- **Key Trend:** Increasing trading volume, with a noticeable surge in 2024 (average quarterly volume increased by 25.6% from 2023)
+- **Price Movement:** Prices ranged from $18.98 (lowest) to $37.62 (highest), indicating a moderate price volatility
+- **Volume Growth:** Quarterly volume increased in 2024, with the highest quarterly volume of 37.6 million shares traded in 2024-Q4

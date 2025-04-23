@@ -1,0 +1,14 @@
+The provided image is a pie chart, not a stock price chart. However, I can still provide an analysis of the data.
+
+The pie chart shows the quarterly volume distribution of MAR (Marriott International) from 2023 to 2024. The chart is divided into eight sections, each representing a quarter.
+
+**Key Trends:**
+- The highest volume distribution was in 2023-Q3 (15.9%), while the lowest was in 2024-Q4 (9.8%).
+- The volume distribution in 2023 seems to have a slightly higher average than 2024.
+- The quarters in 2023 and 2024 show a relatively similar distribution, with a slight decrease in 2024.
+
+**Relationship between X (time) and Y (volume distribution):**
+- The volume distribution varies across quarters, with no clear and consistent upward or downward trend from 2023 to 2024.
+- The data suggests that the volume distribution is not strongly correlated with time, and other factors may influence the distribution.
+
+In summary, the pie chart shows the quarterly volume distribution of MAR from 2023 to 2024, with 2023-Q3 having the highest distribution and 2024-Q4 having the lowest. The distribution seems to be similar across the two years, with a slight decrease in 2024. There is no clear trend in the relationship between time and volume distribution. However, a proper analysis of the stock price would require a time series plot of the stock price over time.

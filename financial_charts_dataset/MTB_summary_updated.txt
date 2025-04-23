@@ -1,0 +1,6 @@
+Here's a summary of the MTB stock trading data in 4-5 concise lines:
+
+- **Key Trends:** MTB's average closing price increased from $141.01, indicating a positive trend.
+- **Volume Changes:** Total volume was 600,836,200, with a decline in trading volume in 2023-Q3 (-34.5% from Q2) and a steady recovery in 2024.
+- **Price Movements:** The stock price fluctuated between $103.67 (lowest) and $219.03 (highest), demonstrating volatility.
+- **Quarterly Performance:** The stock's average closing price showed a slight increase in 2024 compared to 2023, indicating a positive performance.

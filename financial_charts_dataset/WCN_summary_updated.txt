@@ -1,0 +1,6 @@
+Key Stock Trading Data for WCN (2023-01-01 to 2025-01-01):
+
+- **Price Movement:** The stock's average closing price was $154.20, with a highest closing price of $193.25 and a lowest closing price of $125.53.
+- **Volume Change:** Total trading volume was 463,327,400 shares.
+- **Quarterly Trends:** Quarterly volume showed a slight decline in the first two quarters of 2023, followed by a moderate increase in the last quarter of 2023 and the first three quarters of 2024.
+- **Performance:** The stock's price showed fluctuations throughout the period, but overall, the average closing price remained relatively stable.

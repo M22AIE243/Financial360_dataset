@@ -1,0 +1,16 @@
+Summary of TX data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 42.49
+Lowest Closing Price: 25.62
+Average Closing Price: 35.53
+Total Volume: 107,974,100
+
+Quarterly Volume:
+2023-Qq: 19,819,200
+2023-Qq: 13,769,300
+2023-Qq: 10,935,300
+2023-Qq: 11,643,900
+2024-Qq: 9,188,600
+2024-Qq: 17,945,900
+2024-Qq: 13,641,100
+2024-Qq: 11,030,800

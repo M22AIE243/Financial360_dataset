@@ -1,0 +1,16 @@
+Summary of NI data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 37.96
+Lowest Closing Price: 21.98
+Average Closing Price: 27.69
+Total Volume: 2,123,904,700
+
+Quarterly Volume:
+2023-Qq: 243,476,200
+2023-Qq: 236,779,200
+2023-Qq: 260,351,700
+2023-Qq: 376,993,100
+2024-Qq: 269,885,300
+2024-Qq: 267,578,700
+2024-Qq: 252,684,700
+2024-Qq: 216,155,800

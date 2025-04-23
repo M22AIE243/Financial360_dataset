@@ -1,0 +1,16 @@
+Summary of BIIB data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 318.06
+Lowest Closing Price: 146.47
+Average Closing Price: 239.26
+Total Volume: 561,800,500
+
+Quarterly Volume:
+2023-Qq: 61,604,600
+2023-Qq: 62,137,100
+2023-Qq: 63,276,200
+2023-Qq: 69,090,100
+2024-Qq: 72,040,000
+2024-Qq: 72,473,700
+2024-Qq: 63,671,400
+2024-Qq: 97,507,400

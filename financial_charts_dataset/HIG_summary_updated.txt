@@ -1,0 +1,7 @@
+Here's a concise summary of the HIG stock trading data:
+
+- **Average Closing Price:** $86.96, indicating a relatively stable performance.
+- **Price Movement:** The stock price fluctuated between a high of $122.68 and a low of $62.74, showing a price range of $59.94.
+- **Volume Trend:** The total trading volume was 833,901,000, with a slight decrease in volume over the years (2023-Qq: 140,855,500 to 2024-Qq: 99,139,700).
+- **Volume Change:** The quarterly volume showed a decline of 29.3% from the first quarter of 2023 to the first quarter of 2024.
+- **Key Trend:** The stock price and volume have been relatively stable, indicating a consistent trading environment for HIG.

@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The TTEK stock price chart shows an overall upward trend from January 2023 to January 2025. The stock price started around $28-$30 and increased steadily to around $50 by mid-2024. However, the price experienced a significant drop to around $40 by January 2025. The chart exhibits some volatility, with fluctuations in the stock price over time. The relationship between time (X) and stock price (Y) is generally positive, with some periods of decline.

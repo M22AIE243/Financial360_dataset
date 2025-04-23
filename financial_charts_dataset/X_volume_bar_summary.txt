@@ -1,0 +1,7 @@
+The stock's quarterly volume shows a significant peak in Q3 2023, with a total volume of around $6 \times 10^{8}$. 
+
+The volume is relatively stable around $4 \times 10^{8}$ in the first quarter of 2023 and the second quarter. It then decreases to around $3.2 \times 10^{8}$ in Q1 2024 before rising to approximately $3.8\times10^{8}$ in Q3 2024. 
+
+The stock price shows an overall downward trend from Q3 2023 to Q2 2024, followed by a slight recovery to Q3 2024. However, the total volume in 2024 is still lower than that in 2023.
+
+Overall, the stock's quarterly volume has been fluctuating, with a significant peak in Q3 2023 and a downward trend in 2024.

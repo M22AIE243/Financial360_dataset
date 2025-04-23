@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The chart shows the quarterly volume of DIS stock from Q1 2023 to Q4 2024. The stock's volume peaked in Q3 2023 at approximately $1.0 billion and trended downward thereafter. The volume decreased steadily from Q3 2023 to Q4 2024, with some fluctuations, to around $0.5 billion. Overall, the relationship between time (X) and stock price (Y) indicates a decline in volume over the observed period, with a notable spike in Q3 2023. The general trend suggests a decrease in investor activity or interest in the stock over time.

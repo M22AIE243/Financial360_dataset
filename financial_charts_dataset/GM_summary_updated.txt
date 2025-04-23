@@ -1,0 +1,13 @@
+Here's a concise summary of the GM stock trading data:
+
+**Key Trends and Performance:**
+- Average closing price: $39.74
+- Highest closing price: $59.91
+- Lowest closing price: $26.23
+
+**Volume Changes:**
+- Total trading volume: 7,543,428,000
+- Quarterly volume fluctuations, with a notable increase in Q2 2023 (1,265,333,800) and a slight decrease in Q4 2024 (771,701,800)
+
+**Price Movements:**
+- The stock price fluctuated significantly, with a 131.3% increase from the lowest closing price ($26.23) to the highest closing price ($59.91)

@@ -1,0 +1,16 @@
+Summary of AWK data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 153.79
+Lowest Closing Price: 111.24
+Average Closing Price: 132.18
+Total Volume: 568,873,700
+
+Quarterly Volume:
+2023-Qq: 76,199,700
+2023-Qq: 56,072,900
+2023-Qq: 59,098,600
+2023-Qq: 75,054,900
+2024-Qq: 88,658,600
+2024-Qq: 82,339,100
+2024-Qq: 59,371,300
+2024-Qq: 72,078,600

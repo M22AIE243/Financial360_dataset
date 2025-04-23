@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The AMP stock price chart shows an overall upward trend from January 2023 to January 2025. The stock price starts around 300, fluctuates between 280 and 350 until early 2024, then steadily increases to around 450. A significant surge occurs from mid-2024 to January 2025, reaching a peak of approximately 560 before declining. The relationship between time (X) and stock price (Y) is generally positive, with some volatility. The stock price more than doubles over the 2-year period.

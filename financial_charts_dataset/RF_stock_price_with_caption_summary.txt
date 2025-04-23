@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The RF stock price chart shows a volatile trend from January 2023 to January 2025. The stock price initially fluctuated between $18 and $22, then declined sharply to a low of around $13.06. However, it rebounded and steadily increased to a high of $26.93, indicating a strong upward trend from mid-2023 to early 2025. Overall, the relationship between time (X) and stock price (Y) shows a general upward trajectory.

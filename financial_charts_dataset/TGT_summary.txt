@@ -1,0 +1,16 @@
+Summary of TGT data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 172.50
+Lowest Closing Price: 100.09
+Average Closing Price: 139.81
+Total Volume: 2,272,591,700
+
+Quarterly Volume:
+2023-Qq: 203,576,200
+2023-Qq: 322,869,300
+2023-Qq: 299,355,300
+2023-Qq: 301,369,300
+2024-Qq: 240,764,700
+2024-Qq: 248,798,300
+2024-Qq: 263,184,200
+2024-Qq: 392,674,400

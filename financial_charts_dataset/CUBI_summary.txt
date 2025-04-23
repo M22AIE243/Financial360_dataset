@@ -1,0 +1,16 @@
+Summary of CUBI data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 66.85
+Lowest Closing Price: 16.02
+Average Closing Price: 41.49
+Total Volume: 222,080,600
+
+Quarterly Volume:
+2023-Qq: 52,938,700
+2023-Qq: 35,860,100
+2023-Qq: 19,754,300
+2023-Qq: 21,142,800
+2024-Qq: 18,397,500
+2024-Qq: 20,649,300
+2024-Qq: 29,681,500
+2024-Qq: 23,656,400

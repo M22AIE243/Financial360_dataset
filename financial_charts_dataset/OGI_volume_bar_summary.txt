@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The chart shows the quarterly volume of OGI stock from Q1 2023 to Q4 2024. The total volume has fluctuated over time, with a significant increase from Q2 2023 to Q4 2023. The highest volume was recorded in Q2 2024 and Q4 2023, while the lowest volume was in Q1 2023 and Q2 2023. Overall, the relationship between time (X) and total volume (Y) shows an initial increase, followed by a slight decrease. The volume seems to have peaked in 2023 and 2024.

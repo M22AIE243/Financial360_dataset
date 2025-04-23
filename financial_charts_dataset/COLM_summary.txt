@@ -1,0 +1,16 @@
+Summary of COLM data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 94.19
+Lowest Closing Price: 68.42
+Average Closing Price: 79.14
+Total Volume: 211,342,100
+
+Quarterly Volume:
+2023-Qq: 18,818,100
+2023-Qq: 21,942,000
+2023-Qq: 27,270,300
+2023-Qq: 26,458,500
+2024-Qq: 30,794,400
+2024-Qq: 29,147,500
+2024-Qq: 27,722,700
+2024-Qq: 29,188,600

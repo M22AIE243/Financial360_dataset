@@ -1,0 +1,8 @@
+**Stock Price Analysis Summary**
+
+The NSC stock price chart exhibits a volatile trend over the period from January 2023 to January 2025. 
+
+* The stock price started at around 240, declined to a low of 178.18, and then recovered to reach a high of 275.51.
+* The overall trend shows an increase in stock price over time, with an average price of 224.26.
+* The relationship between time (X) and stock price (Y) is positively correlated, with some fluctuations. 
+* The stock price shows a general upward trend from 2023-10 to 2025-01.

@@ -1,0 +1,16 @@
+Summary of HCA data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 413.73
+Lowest Closing Price: 219.09
+Average Closing Price: 297.11
+Total Volume: 630,268,200
+
+Quarterly Volume:
+2023-Qq: 78,732,200
+2023-Qq: 81,081,200
+2023-Qq: 80,180,000
+2023-Qq: 85,766,800
+2024-Qq: 66,465,700
+2024-Qq: 68,479,300
+2024-Qq: 78,508,900
+2024-Qq: 91,054,100

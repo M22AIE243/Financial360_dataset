@@ -1,0 +1,16 @@
+Here's a concise summary of the ABT stock trading data:
+
+**Key Performance Indicators:**
+
+- Average Closing Price: $104.95
+- Highest Closing Price: $118.22
+- Lowest Closing Price: $87.56
+
+**Volume Trends:**
+
+- Total Volume: 2,702,732,800 shares traded
+- Quarterly volume increased in Q4 2023 and Q1 2024, with a peak in Q3 2024 (382,171,000 shares)
+
+**Price Movement:**
+
+- The stock price has shown a moderate increase over the period, with a slight decline in the lowest closing price compared to the highest closing price.

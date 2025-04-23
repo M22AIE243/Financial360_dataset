@@ -1,0 +1,16 @@
+Summary of KGC data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 10.75
+Lowest Closing Price: 3.32
+Average Closing Price: 6.34
+Total Volume: 7,081,706,800
+
+Quarterly Volume:
+2023-Qq: 972,465,000
+2023-Qq: 758,274,400
+2023-Qq: 589,262,400
+2023-Qq: 855,778,100
+2024-Qq: 804,846,300
+2024-Qq: 1,065,220,800
+2024-Qq: 1,047,197,700
+2024-Qq: 988,662,100

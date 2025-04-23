@@ -1,0 +1,16 @@
+Summary of MA data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 534.51
+Lowest Closing Price: 340.16
+Average Closing Price: 426.68
+Total Volume: 1,280,796,100
+
+Quarterly Volume:
+2023-Qq: 179,077,500
+2023-Qq: 174,551,600
+2023-Qq: 143,694,900
+2023-Qq: 161,583,400
+2024-Qq: 149,026,400
+2024-Qq: 156,104,600
+2024-Qq: 157,863,900
+2024-Qq: 158,893,800

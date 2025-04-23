@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The TLRY stock price chart shows a downward trend over the period from January 2023 to January 2025. The stock price peaked at $3.35 and hit a low of $1.16, with an average price of $2.05. The price experienced significant fluctuations, with several peaks and troughs, but overall, it trended downward over time. The relationship between time (X) and stock price (Y) is inversely related, as the stock price generally decreased as time progressed. The chart indicates a decline in investor confidence or company performance over the observed period.

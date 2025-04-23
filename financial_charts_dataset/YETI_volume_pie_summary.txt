@@ -1,0 +1,3 @@
+The provided image is a pie chart, not a stock price chart. It appears to show the quarterly volume distribution of YETI stock for 2023 and 2024. Here's a summary of the image:
+
+The pie chart shows YETI's quarterly volume distribution for 2023 and 2024. The chart is divided into 8 sections, with each section representing a quarter. The largest volume distribution is 14.5% in 2024-Qq, while the smallest is 9.3% in 2023-Qq. The chart indicates that the volume distribution has been relatively stable across quarters, with a slight increase in 2024. There is no clear upward or downward trend in the stock price, as this is a volume distribution chart, not a stock price chart.

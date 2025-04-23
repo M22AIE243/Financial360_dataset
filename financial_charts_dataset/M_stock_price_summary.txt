@@ -1,0 +1,8 @@
+The stock price chart for M Stock exhibits a volatile trend over the period from January 2023 to January 2025. 
+
+* It peaked at around 22 in early 2023, then declined to around 10 by late 2023. 
+* A significant recovery occurred in early 2024, with the price rising to approximately 21. 
+* However, the price fluctuated between 14 and 19 for the remainder of 2024. 
+* By January 2025, the stock price had risen to around 17. 
+
+The relationship between time (X) and stock price (Y) shows a general decline from early 2023 to late 2023, followed by a recovery and stabilization in 2024 and early 2025.

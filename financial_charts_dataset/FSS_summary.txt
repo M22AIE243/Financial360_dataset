@@ -1,0 +1,16 @@
+Summary of FSS data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 99.53
+Lowest Closing Price: 45.85
+Average Closing Price: 72.31
+Total Volume: 165,868,700
+
+Quarterly Volume:
+2023-Qq: 22,464,700
+2023-Qq: 18,129,800
+2023-Qq: 19,469,000
+2023-Qq: 16,148,700
+2024-Qq: 21,849,500
+2024-Qq: 20,148,000
+2024-Qq: 23,127,700
+2024-Qq: 24,531,300

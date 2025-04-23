@@ -1,0 +1,16 @@
+Summary of ROK data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 336.03
+Lowest Closing Price: 244.84
+Average Closing Price: 276.94
+Total Volume: 419,262,900
+
+Quarterly Volume:
+2023-Qq: 43,676,700
+2023-Qq: 47,095,800
+2023-Qq: 47,118,600
+2023-Qq: 55,770,900
+2024-Qq: 64,563,100
+2024-Qq: 61,276,500
+2024-Qq: 45,948,200
+2024-Qq: 53,813,100

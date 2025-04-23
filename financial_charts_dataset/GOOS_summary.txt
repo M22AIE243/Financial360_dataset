@@ -1,0 +1,16 @@
+Summary of GOOS data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 24.65
+Lowest Closing Price: 9.32
+Average Closing Price: 14.01
+Total Volume: 596,978,500
+
+Quarterly Volume:
+2023-Qq: 142,027,400
+2023-Qq: 79,451,800
+2023-Qq: 49,424,700
+2023-Qq: 94,006,000
+2024-Qq: 83,372,100
+2024-Qq: 49,976,600
+2024-Qq: 42,524,000
+2024-Qq: 56,195,900

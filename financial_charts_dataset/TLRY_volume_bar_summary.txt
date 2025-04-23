@@ -1,0 +1,8 @@
+The stock price chart shows the quarterly volume of TLRY from March 2023 to December 2024. 
+
+The key trends are: 
+* A significant spike in volume in Q3 2023, 
+* A general upward trend in volume over the period, 
+* A relatively low volume in Q2 2023 and Q4 2023. 
+
+The relationship between X (time) and Y (stock price/volume) shows that as time progresses, the total volume generally increases, with some fluctuations.

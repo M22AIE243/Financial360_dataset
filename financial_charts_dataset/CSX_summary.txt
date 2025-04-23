@@ -1,0 +1,16 @@
+Summary of CSX data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 37.83
+Lowest Closing Price: 27.30
+Average Closing Price: 32.49
+Total Volume: 6,175,857,900
+
+Quarterly Volume:
+2023-Qq: 860,593,700
+2023-Qq: 751,961,400
+2023-Qq: 847,739,000
+2023-Qq: 788,518,400
+2024-Qq: 711,635,900
+2024-Qq: 775,251,600
+2024-Qq: 687,904,900
+2024-Qq: 752,253,000

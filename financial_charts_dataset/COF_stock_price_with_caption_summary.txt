@@ -1,0 +1,9 @@
+The COF stock price chart exhibits a general upward trend over the period from January 2023 to January 2025. 
+
+* The stock price starts around $90 in January 2023, 
+* It fluctuates significantly, reaching a low of $82.49, 
+* Then increases steadily from October 2023, 
+* Surpassing $140 in early 2024, 
+* And peaking at $191.44 in late 2024 before slightly declining.
+
+The overall trend indicates a positive relationship between time (X) and stock price (Y), with an average stock price of $124.24.

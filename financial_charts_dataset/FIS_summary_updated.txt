@@ -1,0 +1,7 @@
+Here's a concise summary of the FIS stock trading data:
+
+- Average Closing Price: $65.35
+- Total Volume: 2,287,970,000 shares traded
+- Key Trend: The average closing price has remained relatively stable, with a slight increase from the lowest closing price of $45.63 to the highest closing price of $90.06.
+- Volume Change: Quarterly volume decreased in 2024, with the largest drop seen in Q3 (2024-Qq) at 178,529,600 shares, indicating a decline in trading activity.
+- Price Movement: The stock price fluctuated throughout the year, with the highest closing price in the first quarter of 2023 and the lowest in an unspecified quarter.

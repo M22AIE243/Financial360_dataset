@@ -1,0 +1,16 @@
+Summary of OKE data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 115.81
+Lowest Closing Price: 51.80
+Average Closing Price: 71.59
+Total Volume: 1,588,123,900
+
+Quarterly Volume:
+2023-Qq: 158,891,600
+2023-Qq: 194,445,400
+2023-Qq: 273,973,100
+2023-Qq: 251,092,200
+2024-Qq: 189,240,500
+2024-Qq: 164,473,700
+2024-Qq: 168,956,000
+2024-Qq: 187,051,400

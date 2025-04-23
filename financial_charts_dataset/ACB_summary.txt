@@ -1,0 +1,16 @@
+Summary of ACB data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 11.30
+Lowest Closing Price: 2.89
+Average Closing Price: 5.79
+Total Volume: 930,593,100
+
+Quarterly Volume:
+2023-Qq: 38,120,530
+2023-Qq: 20,041,080
+2023-Qq: 126,299,660
+2023-Qq: 48,127,720
+2024-Qq: 111,637,610
+2024-Qq: 443,474,800
+2024-Qq: 83,336,700
+2024-Qq: 59,555,000

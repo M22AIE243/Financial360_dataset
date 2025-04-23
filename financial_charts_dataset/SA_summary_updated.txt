@@ -1,0 +1,7 @@
+Here's a concise summary of the stock trading data:
+
+- Total Trading Days: 502
+- Average Closing Price: $13.49
+- Price Range: $9.43 (Lowest) - $20.53 (Highest)
+- Key Trend: Increasing volume with a notable increase in 2024, with the highest quarterly volume of 37,424,400 in 2024-Q4.
+- Price Movement: The stock price appears to have fluctuated throughout the period but generally remained stable, with no significant downward trend.

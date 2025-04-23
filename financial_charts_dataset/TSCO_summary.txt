@@ -1,0 +1,16 @@
+Summary of TSCO data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 60.27
+Lowest Closing Price: 36.76
+Average Closing Price: 47.69
+Total Volume: 2,798,352,700
+
+Quarterly Volume:
+2023-Qq: 323,978,500
+2023-Qq: 382,363,000
+2023-Qq: 375,482,000
+2023-Qq: 393,577,500
+2024-Qq: 363,593,500
+2024-Qq: 358,288,500
+2024-Qq: 272,021,500
+2024-Qq: 329,048,200

@@ -1,0 +1,16 @@
+Summary of KHC data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 38.37
+Lowest Closing Price: 28.69
+Average Closing Price: 33.53
+Total Volume: 3,927,888,300
+
+Quarterly Volume:
+2023-Qq: 418,970,000
+2023-Qq: 444,960,400
+2023-Qq: 494,269,100
+2023-Qq: 495,286,000
+2024-Qq: 514,977,100
+2024-Qq: 481,601,900
+2024-Qq: 495,055,500
+2024-Qq: 582,768,300

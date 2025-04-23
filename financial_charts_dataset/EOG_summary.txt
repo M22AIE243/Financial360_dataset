@@ -1,0 +1,16 @@
+Summary of EOG data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 134.35
+Lowest Closing Price: 93.92
+Average Closing Price: 117.49
+Total Volume: 1,620,431,400
+
+Quarterly Volume:
+2023-Qq: 243,669,900
+2023-Qq: 212,773,300
+2023-Qq: 172,544,000
+2023-Qq: 200,141,600
+2024-Qq: 213,609,800
+2024-Qq: 193,935,400
+2024-Qq: 200,028,100
+2024-Qq: 183,729,300

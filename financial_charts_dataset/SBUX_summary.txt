@@ -1,0 +1,16 @@
+Summary of SBUX data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 109.31
+Lowest Closing Price: 70.70
+Average Closing Price: 92.17
+Total Volume: 4,362,358,600
+
+Quarterly Volume:
+2023-Qq: 383,635,800
+2023-Qq: 404,956,900
+2023-Qq: 371,501,600
+2023-Qq: 480,205,300
+2024-Qq: 523,771,900
+2024-Qq: 771,797,000
+2024-Qq: 924,853,000
+2024-Qq: 501,637,100

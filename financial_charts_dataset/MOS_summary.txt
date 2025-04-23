@@ -1,0 +1,16 @@
+Summary of MOS data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 53.77
+Lowest Closing Price: 23.65
+Average Closing Price: 33.09
+Total Volume: 2,099,644,900
+
+Quarterly Volume:
+2023-Qq: 269,509,000
+2023-Qq: 271,417,200
+2023-Qq: 233,048,800
+2023-Qq: 229,557,200
+2024-Qq: 316,173,500
+2024-Qq: 279,951,300
+2024-Qq: 235,413,000
+2024-Qq: 264,574,900

@@ -1,0 +1,16 @@
+Summary of PYPL data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 91.30
+Lowest Closing Price: 50.39
+Average Closing Price: 67.98
+Total Volume: 7,064,532,900
+
+Quarterly Volume:
+2023-Qq: 819,934,000
+2023-Qq: 1,065,568,300
+2023-Qq: 955,358,100
+2023-Qq: 988,414,400
+2024-Qq: 1,119,019,100
+2024-Qq: 745,118,400
+2024-Qq: 779,945,100
+2024-Qq: 591,175,500

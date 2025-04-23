@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The LULU stock price chart shows a volatile trend over the past two years, with a significant increase in early 2024. The stock price peaked at $511.29 in late 2023 to early 2024, before declining sharply to a low of $233.40. The average stock price over the period is $360.04. The stock price has largely trended upward over the long-term, with some fluctuations. Overall, the relationship between time (X) and stock price (Y) is positively correlated.

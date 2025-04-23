@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The chart displays the quarterly volume of LOW stock from Q1 2023 to Q4 2024. The total volume has fluctuated over time, with a peak of nearly 2.00 billion shares in Q1 2023 and a low of around 1.50 billion shares in Q3 2023. The volume has generally trended downward, with some quarterly fluctuations. The relationship between time (X-axis) and total volume (Y-axis) shows a slight decline in volume over the observed period. Overall, the chart suggests a relatively stable trading volume for LOW stock.

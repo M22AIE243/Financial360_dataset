@@ -1,0 +1,6 @@
+Here's a concise summary of the stock trading data for GL:
+
+- Key trend: The average closing price increased from 106.45 to 106.45 over the two years.
+- Performance: The highest closing price reached 126.92, while the lowest was 48.71, indicating a significant price fluctuation.
+- Volume changes: Total volume increased from 2023 to 2024, with a notable spike in the 2024-Qq2 quarter (219,468,900).
+- Price movements: The stock showed significant price fluctuation, with the highest and lowest closing prices far apart, indicating volatility in the market.

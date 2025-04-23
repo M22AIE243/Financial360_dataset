@@ -1,0 +1,7 @@
+The provided image is a pie chart, not a stock price chart. It appears to show the quarterly volume distribution of KGC, with each section representing a different quarter.
+
+Here's a summary of the chart:
+
+The pie chart displays KGC's quarterly volume distribution across multiple quarters. The chart shows a varied distribution, with the largest share being 15.0% in 2024-Qq and the smallest being 8.3% in 2023-Qq. There is no clear upward or downward trend in the data, as it appears to be a snapshot of quarterly volumes rather than a time-series chart. The quarters in 2023 have volumes ranging from 8.3% to 13.7%, while the quarters in 2024 have volumes ranging from 11.4% to 15.0%. 
+
+If you provide a stock price chart, I can analyze it and provide a summary.

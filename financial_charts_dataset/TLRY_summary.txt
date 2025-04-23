@@ -1,0 +1,16 @@
+Summary of TLRY data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 3.35
+Lowest Closing Price: 1.16
+Average Closing Price: 2.05
+Total Volume: 11,482,799,000
+
+Quarterly Volume:
+2023-Qq: 900,435,000
+2023-Qq: 861,463,400
+2023-Qq: 2,025,955,700
+2023-Qq: 1,034,765,500
+2024-Qq: 1,569,972,900
+2024-Qq: 1,807,009,600
+2024-Qq: 1,342,207,900
+2024-Qq: 1,940,989,000

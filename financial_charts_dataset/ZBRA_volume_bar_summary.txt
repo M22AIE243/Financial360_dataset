@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The chart shows the quarterly volume of ZBRA stock from Q1 2023 to Q4 2024. The total volume generally increased from 2023 to 2024, with a peak in Q4 2023. The relationship between time (X-axis) and total volume (Y-axis) shows fluctuations, with the highest volume recorded in Q4 2023. The volume then decreased in Q1 2024 but stabilized around 2.2-2.4 million in the subsequent quarters. Overall, the trend suggests a slight increase in trading activity over the period.

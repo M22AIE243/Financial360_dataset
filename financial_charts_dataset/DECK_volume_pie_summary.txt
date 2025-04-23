@@ -1,0 +1,5 @@
+The image presents a pie chart illustrating the quarterly volume distribution of DECK stock, divided into eight sections representing different quarters. 
+
+Here is a summary of the chart:
+
+The DECK stock price chart shows a varied quarterly volume distribution. The chart indicates that the highest volume was in 2023-Qq at 14.5%, and the lowest was in 2024-Qq at 10.8%. The distribution across quarters shows fluctuations, with no clear upward or downward trend over time. The relationship between time (X) and volume (Y) appears to be inconsistent, with volumes varying significantly across quarters. Overall, the chart suggests volatility in DECK's quarterly trading activity.

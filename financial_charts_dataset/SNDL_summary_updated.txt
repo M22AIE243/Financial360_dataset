@@ -1,0 +1,15 @@
+Here's a concise summary of the SNDL stock trading data:
+
+- Average closing price: $1.79
+- Highest closing price: $2.65
+- Lowest closing price: $1.25
+- Total trading volume: 1,777,149,000 shares
+
+Key trends and performance:
+- The average closing price is slightly above the lowest closing price, indicating a relatively stable market.
+- The highest closing price of $2.65 shows a potential for growth in the stock.
+- The total trading volume is significant, indicating high market activity.
+
+Volume changes and price movements:
+- The quarterly volume shows fluctuations, with a notable increase in the fourth quarter of 2023 and a decline in the third quarter of 2024.
+- The price movement is relatively stable, with the highest closing price and lowest closing price being close to the average closing price.

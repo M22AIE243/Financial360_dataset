@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The chart shows the quarterly total volume of AEP stock from Q1 2023 to Q4 2024. The total volume generally increased from $1.8B in Q1 2023 to a peak of $2.5B in Q1 2024. However, it then declined to around $1.7B by Q2 2024 and remained stable. The relationship between time (X) and total volume (Y) shows an initial increase, followed by a sharp rise and then a decline. Overall, the chart indicates a volatile trend in AEP's quarterly total volume over the past two years.

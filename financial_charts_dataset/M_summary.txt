@@ -1,0 +1,16 @@
+Summary of M data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 22.23
+Lowest Closing Price: 9.93
+Average Closing Price: 16.05
+Total Volume: 4,523,736,200
+
+Quarterly Volume:
+2023-Qq: 604,615,100
+2023-Qq: 777,703,000
+2023-Qq: 686,350,800
+2023-Qq: 837,677,700
+2024-Qq: 516,368,500
+2024-Qq: 311,004,300
+2024-Qq: 409,369,500
+2024-Qq: 380,647,300

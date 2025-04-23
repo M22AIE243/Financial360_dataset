@@ -1,0 +1,16 @@
+Summary of META data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 631.61
+Lowest Closing Price: 124.15
+Average Closing Price: 384.51
+Total Volume: 9,753,485,300
+
+Quarterly Volume:
+2023-Qq: 2,010,994,500
+2023-Qq: 1,414,636,300
+2023-Qq: 1,454,439,500
+2023-Qq: 1,173,392,200
+2024-Qq: 1,092,730,500
+2024-Qq: 946,557,500
+2024-Qq: 893,822,600
+2024-Qq: 766,912,200

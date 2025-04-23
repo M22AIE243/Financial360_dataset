@@ -1,0 +1,6 @@
+The stock price chart of AG exhibits a downward trend from January 2023 to early 2024, with the price decreasing from around 9 to 4.20. 
+
+* The stock price then shows an overall upward trend from early 2024 to January 2025. 
+* The highest stock price was 8.88, and the lowest was 4.20, with an average of 6.16. 
+* The stock price has fluctuated significantly over time, indicating high volatility. 
+* Overall, the stock price seems to have recovered from its low in early 2024 but remains below its peak in early 2023.

@@ -1,0 +1,12 @@
+Here's a summary of the MS stock trading data in 4-5 concise lines:
+
+**Key Trends and Performance:**
+- The average closing price increased from 2023 to 2024, indicating a positive trend.
+- The highest closing price reached $134.10 in 2025, while the lowest closing price was $66.66 in 2023.
+
+**Volume Changes:**
+- Total volume traded was 3,679,250,500 shares over 502 trading days.
+- Quarterly volume showed a decrease in Q4 2023 and Q4 2024 compared to the previous quarters.
+
+**Price Movements:**
+- The stock price range was between $66.66 and $134.10, indicating a significant price increase over the period.

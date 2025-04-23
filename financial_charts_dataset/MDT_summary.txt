@@ -1,0 +1,16 @@
+Summary of MDT data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 90.76
+Lowest Closing Price: 66.06
+Average Closing Price: 79.58
+Total Volume: 3,069,775,200
+
+Quarterly Volume:
+2023-Qq: 392,964,300
+2023-Qq: 366,651,200
+2023-Qq: 304,359,900
+2023-Qq: 435,905,200
+2024-Qq: 385,674,600
+2024-Qq: 399,605,100
+2024-Qq: 418,472,400
+2024-Qq: 366,142,500

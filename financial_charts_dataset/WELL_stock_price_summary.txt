@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The WELL stock price chart shows a general upward trend from January 2023 to January 2025. The stock price started around $65 and increased to around $130, with some fluctuations. There was a significant acceleration in the price increase from mid-2024 onwards. The price peaked in late 2024 and then declined slightly by January 2025. Overall, the relationship between time (X) and stock price (Y) is positively correlated, with some volatility.

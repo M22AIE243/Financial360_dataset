@@ -1,0 +1,16 @@
+Summary of STLD data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 153.08
+Lowest Closing Price: 89.17
+Average Closing Price: 116.10
+Total Volume: 713,055,800
+
+Quarterly Volume:
+2023-Qq: 116,937,000
+2023-Qq: 105,640,400
+2023-Qq: 81,390,100
+2023-Qq: 83,128,400
+2024-Qq: 74,981,000
+2024-Qq: 77,866,700
+2024-Qq: 86,866,600
+2024-Qq: 86,245,600

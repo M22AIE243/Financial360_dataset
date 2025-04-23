@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The BURL stock price chart shows a downward trend from January 2023 to October 2023, with the price decreasing from around $225 to $125. However, from October 2023 to January 2025, the stock price exhibits a strong upward trend, increasing to around $280. The relationship between time (X) and stock price (Y) is positively correlated over the latter period, with the stock price generally increasing as time progresses. The chart indicates a significant recovery and growth in the stock price over the past year. Overall, the stock price has trended upward over the 2-year period.

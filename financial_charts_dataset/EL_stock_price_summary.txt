@@ -1,0 +1,3 @@
+Here is a succinct summary of the stock price chart:
+
+The EL stock price chart shows a downward trend over the period from January 2023 to January 2025. The stock price started at around $260 in January 2023 and declined to around $80 in January 2025. The relationship between time (X) and stock price (Y) is strongly negative, indicating that as time progresses, the stock price tends to decrease. There are some fluctuations in the stock price over time, but the overall trend is downward. The stock price appears to have declined by approximately 69% over the 2-year period.

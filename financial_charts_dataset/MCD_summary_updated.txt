@@ -1,0 +1,6 @@
+Here's a concise summary of the MCD stock trading data:
+
+- Average Closing Price: $272.42 (with a range of $237.56 to $312.86)
+- Total Volume: 1,542,049,300 shares traded over 502 trading days
+- Volume trend: Increased in 2024 (average of 213,451,400 shares per quarter) compared to 2023 (average of 160,411,000 shares per quarter)
+- Price movement: The stock price has generally trended upward, with the highest closing price in 2024 and a 15% increase from the lowest closing price.

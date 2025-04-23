@@ -1,0 +1,7 @@
+Here's a summary of the HCA stock trading data in 4-5 concise lines:
+
+- **Key Trend:** HCA's average closing price increased from 2023 to 2024, indicating a positive market performance.
+- **Price Movement:** The stock's highest closing price was $413.73, while its lowest was $219.09, showing a significant price fluctuation.
+- **Volume Change:** Total volume traded was 630,268,200 shares, with a notable decrease in 2024-Qq (66,465,700) compared to the peak in 2023-Qq (91,054,100).
+- **Average Closing Price Trend:** The average closing price rose from $283.23 (calculated from the given quarterly averages) to $332.08 (calculated from the given quarterly averages), indicating a 17% increase over the period.
+- **Volume Trend:** The quarterly volume shows a declining trend from 2023-Qq to 2024-Qq, but still maintains significant trading activity.

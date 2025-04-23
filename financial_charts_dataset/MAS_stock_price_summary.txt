@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The MAS stock price chart shows an overall upward trend from January 2023 to January 2025. The stock price started around $45 and increased to around $85, with some fluctuations. The price experienced a significant increase from October 2023 to April 2024, followed by a slight decline and then another surge until October 2024. Since then, the price has declined to around $70. The relationship between time (X) and stock price (Y) is generally positive, indicating a long-term growth trend.

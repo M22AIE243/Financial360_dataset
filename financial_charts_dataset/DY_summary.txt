@@ -1,0 +1,16 @@
+Summary of DY data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 202.82
+Lowest Closing Price: 80.30
+Average Closing Price: 129.26
+Total Volume: 177,733,200
+
+Quarterly Volume:
+2023-Qq: 35,936,900
+2023-Qq: 23,386,600
+2023-Qq: 19,074,900
+2023-Qq: 18,974,800
+2024-Qq: 16,164,500
+2024-Qq: 16,511,700
+2024-Qq: 19,799,200
+2024-Qq: 27,884,600

@@ -1,0 +1,16 @@
+Summary of OXY data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 68.06
+Lowest Closing Price: 45.13
+Average Closing Price: 58.39
+Total Volume: 5,159,410,200
+
+Quarterly Volume:
+2023-Qq: 853,364,600
+2023-Qq: 685,061,900
+2023-Qq: 562,909,200
+2023-Qq: 629,501,800
+2024-Qq: 533,122,400
+2024-Qq: 467,903,000
+2024-Qq: 658,565,700
+2024-Qq: 768,981,600

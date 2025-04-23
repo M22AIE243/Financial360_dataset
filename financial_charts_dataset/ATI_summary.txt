@@ -1,0 +1,16 @@
+Summary of ATI data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 67.71
+Lowest Closing Price: 29.56
+Average Closing Price: 48.14
+Total Volume: 671,285,200
+
+Quarterly Volume:
+2023-Qq: 89,773,900
+2023-Qq: 69,565,800
+2023-Qq: 59,820,400
+2023-Qq: 86,695,900
+2024-Qq: 85,483,300
+2024-Qq: 105,439,800
+2024-Qq: 81,070,900
+2024-Qq: 93,435,200

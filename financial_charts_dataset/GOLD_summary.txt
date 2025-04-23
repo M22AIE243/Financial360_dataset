@@ -1,0 +1,16 @@
+Summary of GOLD data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 21.19
+Lowest Closing Price: 13.81
+Average Closing Price: 17.05
+Total Volume: 9,393,930,000
+
+Quarterly Volume:
+2023-Qq: 1,183,400,700
+2023-Qq: 939,516,400
+2023-Qq: 834,487,500
+2023-Qq: 1,082,678,900
+2024-Qq: 1,252,843,100
+2024-Qq: 1,464,989,600
+2024-Qq: 1,297,779,400
+2024-Qq: 1,338,234,400

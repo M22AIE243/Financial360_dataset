@@ -1,0 +1,6 @@
+The SNDL stock price chart shows a volatile trend over the period from January 2023 to January 2025. 
+
+* The stock price started at around $2.3 in January 2023, declined to a low of $1.25, and then surged to a high of $2.65. 
+* The overall trend appears to be slightly upward, with an average stock price of $1.79. 
+* The relationship between time (X) and stock price (Y) is positively correlated in the long term but exhibits significant short-term fluctuations. 
+* The stock price has generally trended upward from 2023 to 2024 but has declined since then.

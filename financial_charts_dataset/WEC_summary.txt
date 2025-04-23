@@ -1,0 +1,16 @@
+Summary of WEC data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 100.94
+Lowest Closing Price: 72.77
+Average Closing Price: 83.81
+Total Volume: 905,735,200
+
+Quarterly Volume:
+2023-Qq: 84,926,200
+2023-Qq: 85,398,800
+2023-Qq: 83,609,800
+2023-Qq: 127,249,500
+2024-Qq: 142,054,600
+2024-Qq: 125,137,600
+2024-Qq: 137,925,100
+2024-Qq: 119,433,600

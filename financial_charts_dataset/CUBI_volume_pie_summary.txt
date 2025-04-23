@@ -1,0 +1,5 @@
+The provided image is a pie chart, not a stock price chart. It shows the quarterly volume distribution of CUBI. 
+
+Here is the summary:
+
+The pie chart shows the quarterly volume distribution of CUBI, with 2023-Qq having the largest share at 23.8%. The quarters in 2023 have a total of 58.3%, while the quarters in 2024 have 41.7%. The volume distribution varies across quarters, with no clear trend. The relationship between X (quarter) and Y (volume distribution) is categorical, showing the proportion of volume for each quarter. There is no obvious correlation or trend.

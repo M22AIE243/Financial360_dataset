@@ -1,0 +1,3 @@
+Here is a succinct summary of the stock price chart:
+
+The chart shows AON's quarterly volume from Q1 2023 to Q4 2024. The stock's volume remained relatively stable, ranging from approximately 0.4 to 0.6 billion, until a significant spike in Q2 2024 to nearly 1.0 billion. Following this peak, the volume decreased to around 0.6 billion in subsequent quarters. Overall, the chart indicates a notable increase in volume in Q2 2024, but a return to a stable range in recent quarters.

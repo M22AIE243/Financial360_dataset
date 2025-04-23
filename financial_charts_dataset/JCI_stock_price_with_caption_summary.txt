@@ -1,0 +1,8 @@
+**Stock Price Analysis Summary:**
+
+The JCI stock price chart exhibits a notable upward trend over the observed period, with fluctuations. 
+
+* The stock price started around 65 and experienced a decline to a low of approximately 46.58 before rising steadily to a high of 85.82.
+* A clear recovery phase is evident from late 2023 to early 2024, followed by a strong bullish run.
+* The overall relationship between time (X) and stock price (Y) indicates a positive correlation, with the stock price increasing over time, particularly from early 2024 onwards. 
+* The average stock price is 62.80, suggesting that the recent surge has elevated the stock's value significantly.

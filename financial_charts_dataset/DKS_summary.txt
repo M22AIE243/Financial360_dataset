@@ -1,0 +1,16 @@
+Summary of DKS data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 235.40
+Lowest Closing Price: 97.73
+Average Closing Price: 160.85
+Total Volume: 651,732,200
+
+Quarterly Volume:
+2023-Qq: 84,774,900
+2023-Qq: 90,582,900
+2023-Qq: 111,148,700
+2023-Qq: 87,239,800
+2024-Qq: 75,595,400
+2024-Qq: 68,398,400
+2024-Qq: 66,383,700
+2024-Qq: 67,608,400

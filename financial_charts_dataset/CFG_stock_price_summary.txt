@@ -1,0 +1,14 @@
+**CFG Stock Price Analysis**
+
+The CFG stock price chart exhibits a notable trend over the observed period. 
+
+* The stock price began around $36 in early 2023, peaking at approximately $40 before declining sharply to around $24.
+* A recovery phase commenced, with the price gradually increasing to about $30 by early 2024.
+* A significant upward trend emerged, driving the stock price up to nearly $50 by late 2024.
+* However, the price experienced a slight decline to around $42 by early 2025.
+
+**Key Takeaways:**
+
+* The stock price demonstrates a general upward trend over time, with significant volatility.
+* A sharp decline occurred in mid-2023, followed by a recovery and subsequent growth phase. 
+* The relationship between time (X) and stock price (Y) is generally positive, indicating an increase in stock price over time.

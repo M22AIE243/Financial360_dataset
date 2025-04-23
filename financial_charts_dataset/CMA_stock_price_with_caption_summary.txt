@@ -1,0 +1,6 @@
+The CMA stock price chart shows a volatile trend over the period from January 2023 to January 2025. 
+
+* The stock price started at around 60, increased to a peak of about 70 in April 2023, and then sharply declined to a low of around 28 in July 2023. 
+* From July 2023 to October 2023, the stock price recovered to around 40, then fluctuated between 30 and 50 until January 2024. 
+* A steady upward trend is observed from January 2024 to January 2025, with the stock price rising from around 50 to a peak of about 70. 
+* The overall trend indicates a U-shaped recovery, with an average stock price of 49.15 over the period.

@@ -1,0 +1,7 @@
+Here's a summary of the AMP stock trading data in 4-5 concise lines:
+
+- The AMP stock's average closing price from 2023-01-01 to 2025-01-01 was $384.11.
+- The stock's highest closing price was $572.43, while its lowest was $273.36.
+- The total trading volume was 251,407,000 shares over 502 trading days.
+- Quarterly volume showed a slight decline from 2023-Q1 to 2024-Q4, with a total decrease of about 2.5 million shares.
+- The stock's price movement indicates a potential increase of about 11.5% from the lowest to the highest closing price.

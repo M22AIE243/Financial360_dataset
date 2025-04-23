@@ -1,0 +1,8 @@
+Here is a summary of the stock price chart:
+
+The WDC stock price chart shows an overall upward trend from January 2023 to July 2024, with the price increasing from around $25 to $60. 
+* The stock price exhibits a strong bullish run from late 2023 to mid-2024, with a significant surge in price.
+* However, the price then declines sharply from July 2024 to January 2025, giving back some of the gains.
+* The relationship between time (X) and stock price (Y) is generally positive from 2023 to 2024 but turns negative in the latter part of the chart.
+
+Key trends include a strong uptrend from late 2023 to mid-2024 and a subsequent sharp decline.

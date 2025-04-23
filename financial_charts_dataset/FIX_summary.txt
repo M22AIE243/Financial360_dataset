@@ -1,0 +1,16 @@
+Summary of FIX data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 503.50
+Lowest Closing Price: 110.79
+Average Closing Price: 247.48
+Total Volume: 168,138,700
+
+Quarterly Volume:
+2023-Qq: 15,542,000
+2023-Qq: 17,124,600
+2023-Qq: 14,729,100
+2023-Qq: 26,342,900
+2024-Qq: 22,147,300
+2024-Qq: 28,120,500
+2024-Qq: 23,676,900
+2024-Qq: 20,455,400

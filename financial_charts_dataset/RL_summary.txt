@@ -1,0 +1,16 @@
+Summary of RL data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 231.73
+Lowest Closing Price: 102.13
+Average Closing Price: 147.36
+Total Volume: 433,148,800
+
+Quarterly Volume:
+2023-Qq: 58,903,000
+2023-Qq: 57,481,800
+2023-Qq: 54,461,900
+2023-Qq: 51,110,500
+2024-Qq: 60,178,300
+2024-Qq: 60,206,100
+2024-Qq: 49,609,400
+2024-Qq: 41,197,800

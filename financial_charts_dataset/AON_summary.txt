@@ -1,0 +1,16 @@
+Summary of AON data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 393.31
+Lowest Closing Price: 274.75
+Average Closing Price: 320.95
+Total Volume: 502,790,800
+
+Quarterly Volume:
+2023-Qq: 52,263,600
+2023-Qq: 52,551,000
+2023-Qq: 45,845,100
+2023-Qq: 61,631,400
+2024-Qq: 61,695,900
+2024-Qq: 100,577,100
+2024-Qq: 63,571,900
+2024-Qq: 64,654,800

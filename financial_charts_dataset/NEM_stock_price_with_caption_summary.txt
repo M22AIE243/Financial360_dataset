@@ -1,0 +1,9 @@
+The stock price of NEM experienced a significant fluctuation from early 2023 to late 2025. The stock price started at around 47 and fluctuated between 45 and 52 in the first four months. It then declined to around 37, with a slight recovery to around 40. The stock price started to rise significantly in late 2024, reaching a peak of around 57. However, it then declined sharply to around 33 and then recovered to around 40. The stock price then increased significantly to around 60 and then declined to around 35.
+
+The key trends are:
+
+* The stock price experienced a significant decline from 2023 to mid-2024.
+* The stock price then experienced a significant increase from mid-2024 to late 2024.
+* The stock price then declined sharply.
+
+The relationship between X (time) and Y (stock price) is that the stock price fluctuates significantly over time, with a significant decline and then an increase. The stock price appears to be volatile, with significant fluctuations in a short period. The average stock price was around 41.51, with a high of 57.99 and a low of 28.96.

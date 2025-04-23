@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The UNM stock price chart shows a general upward trend from January 2023 to January 2025. The stock price started around $40, experienced a sharp decline in April 2023 to around $34.57, but then recovered and steadily increased over time. The price surged significantly from mid-2024, reaching a peak of $76.64 in late 2024. Overall, the relationship between time (X) and stock price (Y) is positively correlated, with some volatility. The average stock price over the period was $48.95.

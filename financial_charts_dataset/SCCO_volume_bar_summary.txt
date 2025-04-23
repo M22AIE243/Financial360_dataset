@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The SCCO quarterly volume chart shows fluctuations in trading volume over eight quarters. The volume started high in Q1 2023, decreased in Q2 2023, and remained relatively stable with some fluctuations until Q2 2024. A notable spike in volume occurred in Q2 2024, followed by a significant decline in Q4 2024. Overall, the relationship between time (X) and total volume (Y) appears to be volatile, with no clear linear trend. The highest volumes were recorded in Q1 2023 and Q2 2024.

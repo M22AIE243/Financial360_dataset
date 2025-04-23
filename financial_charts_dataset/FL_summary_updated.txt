@@ -1,0 +1,6 @@
+Here's a concise summary of the stock trading data for FL:
+
+- **Key Trends:** FL's stock price has shown a moderate increase over the past two years, with a highest closing price of $44.50 and an average closing price of $27.74.
+- **Price Movement:** The stock price has fluctuated between $16.32 (lowest closing price) and $44.50 (highest closing price), indicating a 173% price movement.
+- **Volume Changes:** Total trading volume for the period is 1,802,912,800 shares, with a noticeable decrease in volume from 2023-Qq to 2024-Qq (down by 29.3%).
+- **Performance:** FL's stock has shown a relatively stable performance, with an average closing price that is 61.5% higher than the lowest closing price.

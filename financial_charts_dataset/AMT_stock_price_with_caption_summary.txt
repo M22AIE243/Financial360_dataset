@@ -1,0 +1,3 @@
+The stock price chart of AMT exhibits a volatile trend over the period from January 2023 to January 2025. The stock price fluctuated between $148.58 and $237.00, with an average price of $190.27. 
+
+Key trends include an initial decline from January 2023 to October 2023, followed by a recovery and subsequent increase until October 2024. However, the price declined sharply thereafter. Overall, the relationship between time (X) and stock price (Y) shows significant variability, with no clear linear or consistent upward/downward trend over the entire period.

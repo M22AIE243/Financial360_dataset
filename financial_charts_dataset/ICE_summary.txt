@@ -1,0 +1,16 @@
+Summary of ICE data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 165.95
+Lowest Closing Price: 92.53
+Average Closing Price: 125.74
+Total Volume: 1,287,669,200
+
+Quarterly Volume:
+2023-Qq: 171,504,300
+2023-Qq: 140,562,100
+2023-Qq: 152,338,800
+2023-Qq: 164,753,400
+2024-Qq: 147,331,500
+2024-Qq: 143,310,300
+2024-Qq: 177,991,500
+2024-Qq: 189,877,300

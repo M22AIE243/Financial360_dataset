@@ -1,0 +1,16 @@
+Summary of LNT data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 63.09
+Lowest Closing Price: 43.80
+Average Closing Price: 51.01
+Total Volume: 792,576,500
+
+Quarterly Volume:
+2023-Qq: 96,117,100
+2023-Qq: 86,851,400
+2023-Qq: 92,216,900
+2023-Qq: 114,135,100
+2024-Qq: 124,713,900
+2024-Qq: 95,519,400
+2024-Qq: 83,336,800
+2024-Qq: 99,685,900

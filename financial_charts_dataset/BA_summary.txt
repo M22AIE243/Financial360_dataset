@@ -1,0 +1,16 @@
+Summary of BA data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 264.27
+Lowest Closing Price: 138.14
+Average Closing Price: 194.82
+Total Volume: 3,775,652,700
+
+Quarterly Volume:
+2023-Qq: 391,534,600
+2023-Qq: 337,225,800
+2023-Qq: 316,668,500
+2023-Qq: 372,373,700
+2024-Qq: 635,416,700
+2024-Qq: 425,397,300
+2024-Qq: 449,997,700
+2024-Qq: 847,038,400

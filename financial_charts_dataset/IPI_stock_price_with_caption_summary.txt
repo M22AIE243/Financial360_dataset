@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The IPI stock price chart shows a downward trend from January 2023 to mid-2023, with a peak of around $33.55 and a trough of $17.58. The stock price then fluctuates between $18 and $28, with an overall average of $23.97. The relationship between time (X) and stock price (Y) appears to be volatile, with frequent price swings. Despite some recoveries, the stock price generally remains below its initial peak. The chart indicates a high level of price variability over the observed period.

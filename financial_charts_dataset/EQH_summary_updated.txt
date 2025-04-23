@@ -1,0 +1,7 @@
+Here's a concise summary of the EQH stock trading data:
+
+- **Total Trading Days:** 502
+- **Average Closing Price:** $33.24
+- **Price Range:** $21.65 (Low) to $49.92 (High)
+- **Total Volume:** 1,394,056,300 shares traded
+- **Volume Trend:** A slight decline in volume from 2023-Qq4 ($239.7M) to 2024-Qq4 ($155.4M)

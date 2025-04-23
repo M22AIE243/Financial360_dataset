@@ -1,0 +1,13 @@
+Here's a concise summary of the MTG stock trading data:
+
+**Key Trends and Performance:**
+MTG's average closing price increased from 2023 to 2024, indicating overall market growth. The highest closing price was $26.19, while the lowest was $11.81.
+
+**Volume Changes:**
+Total volume was 999,162,500 shares, with a noticeable decrease in volume from 2023-Q4 to 2024-Q4, suggesting market stability.
+
+**Price Movements:**
+The stock price fluctuated between $11.81 and $26.19, showing a significant price increase over the period.
+
+**Quarterly Analysis:**
+Volume decreased in 2024 compared to 2023, with a slight increase in average closing price.

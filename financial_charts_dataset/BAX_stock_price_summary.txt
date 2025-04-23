@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The BAX stock price chart shows a downward trend over the period from January 2023 to January 2025. The stock price started at around 49 and fluctuated, peaking at around 47-48 in early 2023 and reaching a low of around 28-30 in January 2025. The overall trend indicates a decline in stock price over time, with some volatility. The relationship between time (X) and stock price (Y) is generally inverse, with Y decreasing as X increases. The stock price has been trending downward over the past two years.

@@ -1,0 +1,16 @@
+Summary of MU data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 152.75
+Lowest Closing Price: 49.75
+Average Closing Price: 85.49
+Total Volume: 9,334,813,300
+
+Quarterly Volume:
+2023-Qq: 953,558,700
+2023-Qq: 1,147,830,700
+2023-Qq: 867,049,800
+2023-Qq: 837,016,500
+2024-Qq: 1,156,607,500
+2024-Qq: 1,414,602,800
+2024-Qq: 1,617,070,200
+2024-Qq: 1,341,077,100

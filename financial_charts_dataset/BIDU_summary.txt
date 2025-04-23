@@ -1,0 +1,16 @@
+Summary of BIDU data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 160.22
+Lowest Closing Price: 80.33
+Average Closing Price: 114.23
+Total Volume: 1,591,247,800
+
+Quarterly Volume:
+2023-Qq: 248,984,000
+2023-Qq: 159,710,800
+2023-Qq: 120,803,900
+2023-Qq: 168,132,500
+2024-Qq: 211,862,200
+2024-Qq: 201,907,700
+2024-Qq: 240,004,500
+2024-Qq: 239,842,200

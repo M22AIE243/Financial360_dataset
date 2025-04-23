@@ -1,0 +1,7 @@
+Here's a concise summary of the UNM stock trading data:
+
+- **Average Closing Price**: $48.95
+- **Price Range**: $34.57 (Lowest) to $76.64 (Highest)
+- **Total Volume**: 663,155,300 shares traded
+- **Volume Trend**: Volume decreased in 2023 (111.7M - 65.0M) but increased in 2024 (66.9M - 83.5M)
+- **Year-over-Year Performance**: Overall, the stock price has shown a moderate increase, with some fluctuations.

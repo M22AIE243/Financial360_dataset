@@ -1,0 +1,1 @@
+The stock price of BIDU exhibits a downward trend from 2023 to 2025. The stock price peaked at $160.22 and plummeted to $80.33. It started at approximately $130, surged to $160, and then consistently declined to hit the lowest point. The average stock price was around $114.23. Overall, the relationship between time and stock price reveals a predominantly negative correlation..

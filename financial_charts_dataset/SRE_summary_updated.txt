@@ -1,0 +1,13 @@
+Here's a summary of the SRE stock trading data in 4-5 concise lines:
+
+**Key Trends and Performance:**
+SRE's average closing price over 502 trading days is $72.96, with a highest closing price of $93.27 and a lowest closing price of $62.18. The stock's performance indicates a relatively stable price range.
+
+**Volume Changes:**
+Total trading volume is 1,421,450,500 shares, with quarterly volume increasing from 142,722,800 shares in Q4 2023 to 201,043,600 shares in Q4 2024.
+
+**Price Movements:**
+While the stock's price range is relatively stable, there are slight fluctuations throughout the year. Overall, the stock's price movements indicate a consistent trend with no significant downturns.
+
+**Notable Observations:**
+The stock's volume increased in Q4 2024, indicating growing investor interest, while the price range remained relatively stable throughout the year.

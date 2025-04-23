@@ -1,0 +1,16 @@
+Summary of GPC data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 169.22
+Lowest Closing Price: 111.28
+Average Closing Price: 142.10
+Total Volume: 522,292,700
+
+Quarterly Volume:
+2023-Qq: 75,306,700
+2023-Qq: 55,621,400
+2023-Qq: 53,584,300
+2023-Qq: 67,909,000
+2024-Qq: 61,612,800
+2024-Qq: 61,492,100
+2024-Qq: 59,708,500
+2024-Qq: 87,057,900

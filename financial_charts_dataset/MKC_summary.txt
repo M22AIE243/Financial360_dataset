@@ -1,0 +1,16 @@
+Summary of MKC data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 89.65
+Lowest Closing Price: 57.53
+Average Closing Price: 74.00
+Total Volume: 875,942,200
+
+Quarterly Volume:
+2023-Qq: 92,581,500
+2023-Qq: 93,385,700
+2023-Qq: 73,800,100
+2023-Qq: 140,590,000
+2024-Qq: 132,294,900
+2024-Qq: 116,389,200
+2024-Qq: 114,363,600
+2024-Qq: 112,537,200

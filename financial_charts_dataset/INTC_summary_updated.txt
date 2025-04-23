@@ -1,0 +1,9 @@
+Here's a concise summary of the INTC stock trading data:
+
+- Average Closing Price: $31.99 (2023-2025)
+- Total Trading Volume: 25,990,811,200 shares
+- Highest Closing Price: $50.09
+- Lowest Closing Price: $18.89
+- Key trend: Significant increase in volume from 2023-Q4 to 2024-Q3, with a notable spike in 2024-Q3.
+
+Please note that the provided data is from 2023-01-01 to 2025-01-01.

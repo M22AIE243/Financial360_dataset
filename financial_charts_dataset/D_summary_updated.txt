@@ -1,0 +1,17 @@
+Here's a concise summary of the stock trading data:
+
+**Key Performance Indicators:**
+
+- Average Closing Price: $48.86
+- Highest Closing Price: $59.54
+- Lowest Closing Price: $36.64
+
+**Volume Trends:**
+
+- Total Volume: 2,345,480,100 shares traded
+- Quarterly volume has shown a general downward trend, with a peak in 2023-Q3 and a trough in 2024-Q4
+
+**Price Movement:**
+
+- The stock price has fluctuated, with a slight upward trend over the two-year period
+- The stock price has increased by approximately 33% from the lowest closing price to the highest closing price

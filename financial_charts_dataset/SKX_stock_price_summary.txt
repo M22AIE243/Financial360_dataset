@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The SKX stock price exhibits an overall upward trend from January 2023 to January 2025. The stock price starts around $45, increases to around $55 by mid-2023, and then surges to a peak of around $75 by mid-2024. After reaching its peak, the stock price experiences a decline and then stabilizes around $60-$70. The relationship between time (X) and stock price (Y) shows a general positive correlation, with some fluctuations. The stock price appears to be volatile, with several peaks and troughs throughout the period.

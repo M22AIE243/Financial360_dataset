@@ -1,0 +1,16 @@
+Summary of CL data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 107.02
+Lowest Closing Price: 66.19
+Average Closing Price: 82.07
+Total Volume: 2,261,564,600
+
+Quarterly Volume:
+2023-Qq: 278,031,200
+2023-Qq: 329,765,400
+2023-Qq: 258,670,900
+2023-Qq: 292,999,100
+2024-Qq: 286,454,400
+2024-Qq: 272,255,600
+2024-Qq: 257,060,200
+2024-Qq: 286,327,800

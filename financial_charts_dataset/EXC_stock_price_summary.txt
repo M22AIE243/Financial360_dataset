@@ -1,0 +1,7 @@
+The EXC stock price chart shows a fluctuating trend over the period from January 2023 to January 2025. 
+
+* The stock price started at around 40, declined to approximately 32 by early 2024, 
+* then recovered to around 38 by late 2024, 
+* and ended at around 37 by January 2025. 
+
+The overall trend indicates a decline from early 2023 to early 2024, followed by a significant recovery. The relationship between time (X) and stock price (Y) is characterized by high volatility.

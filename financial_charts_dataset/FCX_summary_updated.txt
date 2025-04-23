@@ -1,0 +1,16 @@
+Here's a concise summary of the FCX stock trading data:
+
+- Average closing price: $41.40 (2023-01-01 to 2025-01-01)
+- Total trading days: 502
+- Total volume: 6,133,743,900 shares
+- Highest closing price: $54.08
+- Lowest closing price: $32.27
+
+Key trends and performance:
+- FCX experienced a price range of $21.81 ($54.08 - $32.27) during the period.
+- The average closing price is relatively stable, indicating a balanced market performance.
+- The total volume remains high, suggesting strong market interest in FCX.
+
+Volume and price movements:
+- Quarterly volume fluctuations are evident, with a peak of 953,908,400 shares in 2024-Qq and a low of 642,145,100 shares in 2023-Qq.
+- The price movements are not directly correlated with the volume changes, indicating other market factors are influencing FCX stock performance.

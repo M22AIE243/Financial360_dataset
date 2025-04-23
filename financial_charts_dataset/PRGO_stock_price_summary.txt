@@ -1,0 +1,17 @@
+Here is a succinct representation of the stock price chart:
+
+| **Date** | **Stock Price** |
+| :-------: | :-------------: |
+|  2023-01  |       34-35     |
+|  2023-04  |       34-36     |
+|  2023-07  |       32-33     |
+|  2023-10  |       37-28     |
+|  2024-01  |       30-34     |
+|  2024-04  |       24-29     |
+|  2024-07  |       27-29     |
+|  2024-10  |       26-28     |
+|  2025-01  |       26-29     |
+
+As a financial analyst, here is a summary of the stock price chart:
+
+The PRGO stock price chart shows a general downward trend from January 2023 to January 2025. The stock price started around $34-35 in January 2023 and peaked at around $37 in October 2023, before declining to a low of around $24 in April 2024. The price then fluctuated between $26-29 from July 2024 to January 2025. Overall, the relationship between time (X) and stock price (Y) indicates a decline in stock price over the 2-year period, with significant volatility. The stock price has been range-bound between $26-29 in the latter part of the period.

@@ -1,0 +1,16 @@
+Summary of CMA data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 71.06
+Lowest Closing Price: 27.94
+Average Closing Price: 49.15
+Total Volume: 1,279,648,500
+
+Quarterly Volume:
+2023-Qq: 203,297,300
+2023-Qq: 257,123,800
+2023-Qq: 140,486,800
+2023-Qq: 127,815,400
+2024-Qq: 135,169,200
+2024-Qq: 142,997,100
+2024-Qq: 131,612,500
+2024-Qq: 141,146,400

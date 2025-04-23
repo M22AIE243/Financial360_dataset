@@ -1,0 +1,16 @@
+Summary of HBAN data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 17.85
+Lowest Closing Price: 8.44
+Average Closing Price: 12.26
+Total Volume: 7,969,055,100
+
+Quarterly Volume:
+2023-Qq: 1,247,300,000
+2023-Qq: 963,727,500
+2023-Qq: 781,236,000
+2023-Qq: 995,101,100
+2024-Qq: 1,083,554,200
+2024-Qq: 1,025,575,000
+2024-Qq: 972,636,900
+2024-Qq: 899,924,400

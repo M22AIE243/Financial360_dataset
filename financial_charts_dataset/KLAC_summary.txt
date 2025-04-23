@@ -1,0 +1,16 @@
+Summary of KLAC data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 886.25
+Lowest Closing Price: 350.30
+Average Closing Price: 576.66
+Total Volume: 503,538,000
+
+Quarterly Volume:
+2023-Qq: 72,622,100
+2023-Qq: 63,402,900
+2023-Qq: 62,071,000
+2023-Qq: 58,359,900
+2024-Qq: 60,329,000
+2024-Qq: 52,365,200
+2024-Qq: 61,776,200
+2024-Qq: 72,611,700

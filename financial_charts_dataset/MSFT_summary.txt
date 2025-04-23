@@ -1,0 +1,16 @@
+Summary of MSFT data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 464.85
+Lowest Closing Price: 218.28
+Average Closing Price: 364.06
+Total Volume: 12,107,022,200
+
+Quarterly Volume:
+2023-Qq: 2,029,304,100
+2023-Qq: 1,699,893,000
+2023-Qq: 1,562,901,800
+2023-Qq: 1,626,791,000
+2024-Qq: 1,398,924,900
+2024-Qq: 1,196,948,900
+2024-Qq: 1,269,289,400
+2024-Qq: 1,322,969,100

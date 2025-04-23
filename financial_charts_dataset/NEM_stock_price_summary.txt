@@ -1,0 +1,9 @@
+Here is a succinct summary of the stock price chart:
+
+The NEM stock price chart shows a fluctuating trend over the period from January 2023 to January 2025. 
+* The stock price started around $47 in January 2023, 
+* declined to a low of around $30 in April 2024, 
+* then surged to a peak of approximately $58 in November 2024, 
+* before dropping to around $35 in January 2025.
+
+Key trends include an initial decline, a sharp recovery, and a subsequent decline. The relationship between X (time) and Y (stock price) indicates a volatile market with significant price swings over the observed period.

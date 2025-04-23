@@ -1,0 +1,7 @@
+Here's a concise summary of the CMS stock trading data:
+
+- **Average Closing Price:** $58.78 (from $48.12 to $71.00)
+- **Total Volume:** 1,114,602,100 shares traded over 502 days
+- **Quarterly Volume Growth:** Increased by 50% in Q4 2023 (171,628,900) compared to Q1 2023 (115,287,800)
+- **Price Movement:** Price fluctuated between a high of $71.00 and a low of $48.12, indicating a range-bound market
+- **Volume Trends:** Quarterly volumes showed an overall increase, with a slight dip in Q3 2024 (130,018,800)

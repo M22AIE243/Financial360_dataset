@@ -1,0 +1,16 @@
+Summary of ORCL data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 191.27
+Lowest Closing Price: 80.57
+Average Closing Price: 120.54
+Total Volume: 4,388,891,300
+
+Quarterly Volume:
+2023-Qq: 448,123,900
+2023-Qq: 634,622,200
+2023-Qq: 634,493,300
+2023-Qq: 570,544,700
+2024-Qq: 562,083,200
+2024-Qq: 519,360,500
+2024-Qq: 538,337,200
+2024-Qq: 481,326,300

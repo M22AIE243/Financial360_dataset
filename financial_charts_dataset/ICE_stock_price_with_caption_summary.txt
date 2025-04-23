@@ -1,0 +1,6 @@
+The stock price chart of ICE exhibits an overall upward trend from January 2023 to January 2025. 
+
+* The stock price started around $100, hit a low of $92.53, and then steadily increased to a high of $165.95.
+* A notable surge occurred between late 2023 and early 2024, with the price rising from around $100 to $140.
+* The price continued to increase, reaching a peak of $165.95 before declining to around $155 by January 2025.
+* The average stock price over this period was $125.74.

@@ -1,0 +1,8 @@
+**TGT Stock Price Analysis**
+
+The TGT stock price chart exhibits a volatile trend over the observed period. 
+
+* The stock price initially peaked around 170 in early 2023, then declined to a low of approximately 105 by late 2023.
+* A significant recovery occurred in early 2024, with the price surging to around 175.
+* Subsequently, the stock price stabilized, fluctuating between 140 and 170 for the remainder of 2024 and early 2025.
+* Overall, the relationship between time (X) and stock price (Y) indicates a U-shaped trend, with a sharp decline followed by a strong recovery.

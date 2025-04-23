@@ -1,0 +1,16 @@
+Summary of XOM data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 123.25
+Lowest Closing Price: 92.78
+Average Closing Price: 106.54
+Total Volume: 8,478,455,600
+
+Quarterly Volume:
+2023-Qq: 1,053,623,300
+2023-Qq: 948,254,300
+2023-Qq: 986,784,700
+2023-Qq: 1,381,207,600
+2024-Qq: 1,128,010,600
+2024-Qq: 1,149,276,000
+2024-Qq: 883,065,700
+2024-Qq: 948,233,400

@@ -1,0 +1,16 @@
+Summary of TXN data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 218.67
+Lowest Closing Price: 135.61
+Average Closing Price: 172.48
+Total Volume: 2,682,209,400
+
+Quarterly Volume:
+2023-Qq: 331,719,900
+2023-Qq: 306,659,300
+2023-Qq: 305,322,400
+2023-Qq: 346,304,400
+2024-Qq: 347,355,500
+2024-Qq: 344,201,100
+2024-Qq: 347,152,100
+2024-Qq: 353,494,700

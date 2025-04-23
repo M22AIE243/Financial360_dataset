@@ -1,0 +1,13 @@
+Here's a concise summary of the IEX stock trading data:
+
+**Key Trends and Performance:**
+- Average Closing Price: $211.77
+- Highest Closing Price: $242.70
+- Lowest Closing Price: $184.03
+
+**Volume Changes:**
+- Total Volume: 240,702,500 shares traded
+- Quarterly volume showed a significant increase in Q3 2023 and Q3 2024, with 33,024,500 and 36,478,600 shares traded, respectively.
+
+**Price Movements:**
+- The stock price fluctuated throughout the period, with a slight upward trend, indicating a relatively stable market performance.

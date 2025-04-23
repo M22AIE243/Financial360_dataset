@@ -1,0 +1,7 @@
+Here's a concise summary of the OGI stock trading data:
+
+- Average Closing Price: $1.87
+- Highest Closing Price: $3.96 (achieved on an unknown date)
+- Lowest Closing Price: $1.00 (achieved on an unknown date)
+- Total Volume: 383,082,000 shares traded
+- Key trend: Volume increased in the first quarter of 2023, peaked in the second quarter of 2023, and declined in 2024, indicating a possible shift in market interest.

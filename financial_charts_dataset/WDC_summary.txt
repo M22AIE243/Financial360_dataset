@@ -1,0 +1,16 @@
+Summary of WDC data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 60.65
+Lowest Closing Price: 23.74
+Average Closing Price: 40.54
+Total Volume: 3,422,095,769
+
+Quarterly Volume:
+2023-Qq: 368,938,665
+2023-Qq: 321,685,339
+2023-Qq: 280,044,307
+2023-Qq: 450,872,048
+2024-Qq: 555,126,705
+2024-Qq: 516,389,658
+2024-Qq: 487,602,503
+2024-Qq: 441,436,544

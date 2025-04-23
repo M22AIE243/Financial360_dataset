@@ -1,0 +1,5 @@
+Here is a summary of the stock price chart:
+
+The BAX stock price chart shows a downward trend over the period from January 2023 to January 2025. The stock price peaked at $49.39 in early 2023 and reached a low of $28.49 during the same period. The overall average stock price is $37.59. The relationship between time (X) and stock price (Y) indicates a decline in stock price over time, with fluctuations throughout. The stock price has generally decreased, with some periods of increase. 
+
+Let me know if you need anything else!

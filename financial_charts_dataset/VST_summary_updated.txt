@@ -1,0 +1,6 @@
+Here's a concise summary of the VST stock trading data:
+
+- **Average Closing Price:** $58.43, with a highest closing price of $166.05 and lowest closing price of $20.46.
+- **Price Movement:** The stock has shown significant price fluctuations, with a potential upward trend.
+- **Volume Changes:** Total volume traded was 2,675,841,700 shares, with quarterly volume increasing in 2024 (average 435,362,900 shares per quarter).
+- **Key Trend:** The stock's average closing price has increased over time, indicating a positive trend.

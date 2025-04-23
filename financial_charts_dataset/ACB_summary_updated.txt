@@ -1,0 +1,7 @@
+Here's a summary of the ACB stock trading data in 4-5 concise lines:
+
+- The stock's average closing price over the 502 trading days is $5.79, with a highest closing price of $11.30 and a lowest closing price of $2.89.
+- Total trading volume reached 930,593,100 shares.
+- Quarterly volume shows an increase from 2023-Q1 to 2024-Q4, indicating growing interest in the stock.
+- The stock's price movement is volatile, with a significant increase in closing prices in 2024.
+- Notable volume spikes in 2023-Q3 and 2024-Q2 suggest periods of high trading activity.

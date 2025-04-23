@@ -1,0 +1,7 @@
+Here's a summary of the AG stock trading data in 4-5 concise lines:
+
+- **Average Closing Price:** The average closing price of AG stock over 2 years was $6.16.
+- **Price Movement:** The stock's highest closing price was $8.88, while the lowest was $4.20, indicating a 111% price range.
+- **Volume Growth:** Total trading volume reached 3,572,532,800 over 502 trading days, with a notable increase in volume in the last quarter of 2024.
+- **Quarterly Volume Trend:** Volume increased in 2024 compared to 2023, with the highest quarter being Q4 2024 (639,556,400).
+- **Notable Increase:** The stock experienced a significant increase in volume in the last quarter of 2024, suggesting growing investor interest.

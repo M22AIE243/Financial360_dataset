@@ -1,0 +1,16 @@
+Summary of UNM data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 76.64
+Lowest Closing Price: 34.57
+Average Closing Price: 48.95
+Total Volume: 663,155,300
+
+Quarterly Volume:
+2023-Qq: 111,734,400
+2023-Qq: 77,764,100
+2023-Qq: 65,009,900
+2023-Qq: 90,733,700
+2024-Qq: 90,665,400
+2024-Qq: 66,897,900
+2024-Qq: 76,854,600
+2024-Qq: 83,495,300

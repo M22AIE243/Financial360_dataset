@@ -1,0 +1,7 @@
+Here's a concise summary of the stock trading data for DG:
+
+- **Average Closing Price:** $139.98
+- **Price Range:** $72.23 (Lowest) to $237.46 (Highest)
+- **Price Movement:** The stock price has experienced significant fluctuations, with a notable increase from the lowest to the highest closing price.
+- **Volume Trend:** Quarterly volume has seen a decline from 2023-Q2 to 2024-Q1, followed by a notable increase in 2024-Q3.
+- **Total Volume:** 1,575,792,800 shares traded over 502 trading days.

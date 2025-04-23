@@ -1,0 +1,9 @@
+**Stock Price Analysis Summary**
+
+The CMC stock price chart exhibits a volatile trend over the period from January 2023 to January 2025. 
+
+* The stock price started around $50 in January 2023, 
+* It fluctuated significantly, reaching a low of approximately $40 in late 2023, 
+* Before rising to a high of around $62 in late 2024. 
+* The overall trend indicates a slight increase in stock price over time, with increased volatility towards the end of the period. 
+* The relationship between time (X) and stock price (Y) is positively correlated, with some fluctuations.

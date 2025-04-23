@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The IBM stock price chart shows an overall upward trend from January 2023 to January 2025. The stock price started around $120, fluctuated between $110 and $140 until October 2023, and then began a steady increase. The price surged significantly from January 2024 to January 2025, reaching a peak of $236.46. The relationship between time (X) and stock price (Y) indicates a positive correlation, with the stock price generally increasing over time. The average stock price over this period was $160.23.

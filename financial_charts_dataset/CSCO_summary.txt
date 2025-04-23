@@ -1,0 +1,16 @@
+Summary of CSCO data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 59.22
+Lowest Closing Price: 43.03
+Average Closing Price: 48.78
+Total Volume: 9,484,601,700
+
+Quarterly Volume:
+2023-Qq: 1,142,430,500
+2023-Qq: 1,161,604,400
+2023-Qq: 1,149,377,400
+2023-Qq: 1,189,797,900
+2024-Qq: 1,215,743,200
+2024-Qq: 1,234,821,300
+2024-Qq: 1,217,586,700
+2024-Qq: 1,173,240,300

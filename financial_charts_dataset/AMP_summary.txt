@@ -1,0 +1,16 @@
+Summary of AMP data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 572.43
+Lowest Closing Price: 273.36
+Average Closing Price: 384.11
+Total Volume: 251,407,000
+
+Quarterly Volume:
+2023-Qq: 38,883,000
+2023-Qq: 36,227,600
+2023-Qq: 25,616,500
+2023-Qq: 31,798,700
+2024-Qq: 30,008,900
+2024-Qq: 29,665,500
+2024-Qq: 30,012,200
+2024-Qq: 29,194,600

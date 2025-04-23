@@ -1,0 +1,16 @@
+Summary of BLDR data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 211.12
+Lowest Closing Price: 65.35
+Average Closing Price: 144.97
+Total Volume: 876,626,700
+
+Quarterly Volume:
+2023-Qq: 111,266,500
+2023-Qq: 156,928,400
+2023-Qq: 94,131,600
+2023-Qq: 126,118,300
+2024-Qq: 76,424,200
+2024-Qq: 119,627,600
+2024-Qq: 109,848,500
+2024-Qq: 82,281,600

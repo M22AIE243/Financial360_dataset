@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The UNH stock price chart shows an overall upward trend from January 2023 to January 2025. The stock price started around $500 and increased to a peak of approximately $625 in late 2024. However, the price experienced a significant decline to around $450 in early 2025. The chart exhibits volatility, with fluctuations throughout the period. The relationship between time (X) and stock price (Y) is generally positive, but with notable dips and peaks.

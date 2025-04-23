@@ -1,0 +1,16 @@
+Summary of CHTR data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 455.73
+Lowest Closing Price: 254.61
+Average Closing Price: 353.92
+Total Volume: 619,664,400
+
+Quarterly Volume:
+2023-Qq: 72,017,400
+2023-Qq: 67,378,200
+2023-Qq: 77,713,000
+2023-Qq: 63,222,800
+2024-Qq: 103,111,300
+2024-Qq: 78,385,900
+2024-Qq: 83,312,900
+2024-Qq: 74,522,900

@@ -1,0 +1,16 @@
+Summary of ISRG data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 550.62
+Lowest Closing Price: 224.75
+Average Closing Price: 366.05
+Total Volume: 798,262,800
+
+Quarterly Volume:
+2023-Qq: 106,370,900
+2023-Qq: 97,634,000
+2023-Qq: 112,492,200
+2023-Qq: 119,046,800
+2024-Qq: 102,150,100
+2024-Qq: 87,241,700
+2024-Qq: 91,084,500
+2024-Qq: 82,242,600

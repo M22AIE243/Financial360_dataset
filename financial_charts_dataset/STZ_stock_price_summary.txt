@@ -1,0 +1,8 @@
+**STZ Stock Price Analysis**
+
+The stock price of STZ exhibits a general upward trend from January 2023 to April 2024, followed by a decline. 
+
+* The stock price starts at around 210 in January 2023 and peaks at approximately 270 in April 2024.
+* It then decreases to around 220 by January 2025.
+* The overall trend shows an initial increase from January 2023 to April 2024, and then a downward trend from April 2024 to January 2025. 
+* The stock price chart indicates volatility, with several fluctuations throughout the period.

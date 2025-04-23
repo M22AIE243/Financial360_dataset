@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The SBUX stock price chart shows a fluctuating trend over the period from January 2023 to January 2025. The stock price peaked at $109.31 and hit a low of $70.70, with an average price of $92.17. The chart indicates a general downward trend from early 2023 to mid-2024, followed by a significant decline and then a recovery towards the end of 2024 and early 2025. The relationship between time (X) and stock price (Y) is positively correlated in some periods and negatively correlated in others, indicating volatility in the stock's performance. Overall, the stock price has experienced significant variability over the observed period.

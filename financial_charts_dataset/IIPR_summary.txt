@@ -1,0 +1,16 @@
+Summary of IIPR data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 127.85
+Lowest Closing Price: 53.98
+Average Closing Price: 84.40
+Total Volume: 129,401,700
+
+Quarterly Volume:
+2023-Qq: 22,341,300
+2023-Qq: 19,832,900
+2023-Qq: 14,831,900
+2023-Qq: 15,502,400
+2024-Qq: 14,372,100
+2024-Qq: 12,279,400
+2024-Qq: 11,209,800
+2024-Qq: 19,031,900

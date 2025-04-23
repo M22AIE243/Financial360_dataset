@@ -1,0 +1,16 @@
+Summary of BMY data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 67.56
+Lowest Closing Price: 38.18
+Average Closing Price: 52.61
+Total Volume: 6,109,259,600
+
+Quarterly Volume:
+2023-Qq: 507,420,200
+2023-Qq: 502,569,800
+2023-Qq: 676,176,700
+2023-Qq: 895,444,800
+2024-Qq: 1,029,099,000
+2024-Qq: 925,132,800
+2024-Qq: 873,058,000
+2024-Qq: 700,358,300

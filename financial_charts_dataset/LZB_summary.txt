@@ -1,0 +1,16 @@
+Summary of LZB data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 45.66
+Lowest Closing Price: 21.92
+Average Closing Price: 33.52
+Total Volume: 207,236,500
+
+Quarterly Volume:
+2023-Qq: 22,930,200
+2023-Qq: 22,073,300
+2023-Qq: 27,674,100
+2023-Qq: 24,676,500
+2024-Qq: 24,609,000
+2024-Qq: 27,868,600
+2024-Qq: 33,503,900
+2024-Qq: 23,900,900

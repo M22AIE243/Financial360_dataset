@@ -1,0 +1,5 @@
+Here is a summary of the stock price chart:
+
+The CEG stock price chart shows a significant upward trend from January 2023 to January 2025. The stock price started around $50 and remained relatively stable until early 2024, when it began to rise sharply. The price surged to around $250 by mid-2024, before experiencing a decline to around $200. The overall relationship between time (X) and stock price (Y) is positive, with some volatility. 
+
+Let me know if you need further analysis!

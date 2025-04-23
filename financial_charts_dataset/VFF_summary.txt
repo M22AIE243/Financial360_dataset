@@ -1,0 +1,16 @@
+Summary of VFF data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 1.68
+Lowest Closing Price: 0.56
+Average Closing Price: 0.91
+Total Volume: 352,165,100
+
+Quarterly Volume:
+2023-Qq: 84,771,700
+2023-Qq: 28,951,700
+2023-Qq: 62,661,500
+2023-Qq: 26,841,900
+2024-Qq: 41,343,700
+2024-Qq: 55,153,600
+2024-Qq: 24,651,600
+2024-Qq: 27,789,400

@@ -1,0 +1,16 @@
+Summary of ETR data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 77.63
+Lowest Closing Price: 43.22
+Average Closing Price: 53.58
+Total Volume: 1,567,755,600
+
+Quarterly Volume:
+2023-Qq: 183,289,400
+2023-Qq: 177,151,800
+2023-Qq: 182,028,600
+2023-Qq: 213,586,800
+2024-Qq: 165,332,400
+2024-Qq: 216,747,000
+2024-Qq: 213,775,000
+2024-Qq: 215,844,600

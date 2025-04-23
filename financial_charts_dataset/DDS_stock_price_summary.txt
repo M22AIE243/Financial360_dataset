@@ -1,0 +1,8 @@
+**DDS Stock Price Analysis**
+
+The DDS stock price chart exhibits a general upward trend over the observed period from January 2023 to January 2025. 
+
+* The stock price started around 300 and experienced a significant increase to approximately 450.
+* A notable decline occurred between April 2023 and July 2023, with the price dropping to around 250.
+* However, the stock price demonstrated resilience, recovering and continuing its overall upward trajectory. 
+* The relationship between time (X) and stock price (Y) is positively correlated, indicating that as time progressed, the stock price tended to increase.

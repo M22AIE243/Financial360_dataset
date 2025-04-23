@@ -1,0 +1,16 @@
+Summary of MAS data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 85.05
+Lowest Closing Price: 45.41
+Average Closing Price: 63.60
+Total Volume: 890,512,100
+
+Quarterly Volume:
+2023-Qq: 116,660,500
+2023-Qq: 116,092,900
+2023-Qq: 104,656,100
+2023-Qq: 112,218,000
+2024-Qq: 129,417,500
+2024-Qq: 109,903,700
+2024-Qq: 110,825,900
+2024-Qq: 90,737,500

@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The EOG stock price chart shows a fluctuating trend over the period from January 2023 to January 2025. The stock price started around $120, declined to a low of $93.92, and then recovered to reach a high of $134.35. Overall, the stock price has an upward trend, with an average price of $117.49. The chart exhibits significant volatility, with frequent peaks and troughs, indicating market uncertainty. The relationship between time (X) and stock price (Y) is positively correlated in the long term.

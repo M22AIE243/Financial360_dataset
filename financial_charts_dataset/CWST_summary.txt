@@ -1,0 +1,16 @@
+Summary of CWST data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 113.93
+Lowest Closing Price: 73.32
+Average Closing Price: 90.81
+Total Volume: 151,762,200
+
+Quarterly Volume:
+2023-Qq: 16,582,100
+2023-Qq: 19,841,500
+2023-Qq: 18,896,700
+2023-Qq: 17,415,800
+2024-Qq: 18,067,800
+2024-Qq: 16,948,800
+2024-Qq: 24,195,400
+2024-Qq: 19,814,100

@@ -1,0 +1,9 @@
+Here's a concise summary of the stock trading data:
+
+**MTZ Stock Trading Summary (2023-01-01 to 2025-01-01)**
+
+- **Average Closing Price:** $97.12
+- **Price Range:** $47.60 (Lowest) - $147.94 (Highest)
+- **Total Volume:** 419,466,900 shares traded
+- **Quarterly Volume Trend:** Increased in 2023-Q2 and Q3, then stabilized in 2024
+- **Average Quarterly Volume:** 55,153,100 shares

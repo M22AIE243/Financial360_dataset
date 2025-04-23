@@ -1,0 +1,16 @@
+Summary of FCX data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 54.08
+Lowest Closing Price: 32.27
+Average Closing Price: 41.40
+Total Volume: 6,133,743,900
+
+Quarterly Volume:
+2023-Qq: 803,942,700
+2023-Qq: 774,446,200
+2023-Qq: 642,145,100
+2023-Qq: 712,486,600
+2024-Qq: 792,772,500
+2024-Qq: 953,908,400
+2024-Qq: 767,818,100
+2024-Qq: 686,224,300

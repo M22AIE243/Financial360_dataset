@@ -1,0 +1,13 @@
+Here's a concise summary of the stock trading data for PWR:
+
+**Key Trends and Performance:**
+- Average closing price: $223.37
+- Highest closing price: $346.36
+- Lowest closing price: $135.10
+
+**Volume Changes:**
+- Total trading volume: 463,379,700 shares
+- Quarterly volume averages: 2023-Q4 ($81,092,700) and 2024-Q4 ($55,480,700) show a decline
+
+**Price Movements:**
+- The stock price has fluctuated significantly, with a $211.26 difference between the highest and lowest closing prices.

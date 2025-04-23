@@ -1,0 +1,16 @@
+Summary of TROW data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 121.71
+Lowest Closing Price: 82.47
+Average Closing Price: 104.50
+Total Volume: 697,501,700
+
+Quarterly Volume:
+2023-Qq: 112,654,700
+2023-Qq: 80,242,200
+2023-Qq: 84,674,500
+2023-Qq: 97,867,200
+2024-Qq: 87,260,300
+2024-Qq: 79,852,300
+2024-Qq: 70,968,700
+2024-Qq: 83,981,800

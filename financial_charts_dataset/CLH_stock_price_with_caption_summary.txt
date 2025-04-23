@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The CLH stock price exhibits an overall upward trend from January 2023 to January 2025. The stock price started at around 120 and steadily increased to reach a peak of 263.39. However, it experienced fluctuations and a significant decline to 111.02. The average stock price over this period is 185.69. The relationship between time (X) and stock price (Y) shows a general positive correlation.

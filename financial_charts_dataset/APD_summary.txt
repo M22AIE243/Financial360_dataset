@@ -1,0 +1,16 @@
+Summary of APD data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 331.55
+Lowest Closing Price: 208.52
+Average Closing Price: 269.53
+Total Volume: 636,459,900
+
+Quarterly Volume:
+2023-Qq: 71,361,700
+2023-Qq: 50,387,000
+2023-Qq: 46,655,400
+2023-Qq: 74,192,000
+2024-Qq: 112,319,100
+2024-Qq: 107,950,200
+2024-Qq: 85,146,200
+2024-Qq: 88,448,300

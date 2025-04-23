@@ -1,0 +1,7 @@
+Here's a concise summary of the EOG stock trading data:
+
+- **Average Closing Price**: $117.49, indicating moderate performance.
+- **Price Range**: $93.92 (lowest) to $134.35 (highest), a 43% price fluctuation.
+- **Volume Trend**: Total volume decreased from 243.67M (2023-Q1) to 183.73M (2024-Q4), a 24.5% decline.
+- **Quarterly Volume**: Volume saw a dip in 2023-Q3 but stabilized in 2024, with some fluctuations.
+- **Overall Market Activity**: EOG experienced a moderate trading activity with 1.62 billion shares traded over 502 days.

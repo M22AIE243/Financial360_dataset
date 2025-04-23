@@ -1,0 +1,16 @@
+Summary of AEE data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 93.61
+Lowest Closing Price: 65.19
+Average Closing Price: 77.01
+Total Volume: 775,274,100
+
+Quarterly Volume:
+2023-Qq: 88,879,700
+2023-Qq: 79,628,500
+2023-Qq: 81,342,200
+2023-Qq: 131,774,100
+2024-Qq: 115,331,900
+2024-Qq: 101,962,100
+2024-Qq: 86,934,200
+2024-Qq: 89,421,400

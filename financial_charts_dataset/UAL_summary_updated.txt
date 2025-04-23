@@ -1,0 +1,7 @@
+Here's a concise summary of the UAL stock trading data:
+
+- Total trading days: 502
+- Average closing price: $51.23
+- Price range: $33.90 (lowest) to $102.44 (highest)
+- Total volume: 3,881,388,300 shares traded
+- Notable trend: Volume increased in 2024 with 548,749,700 and 578,867,000 shares traded in the first two quarters, suggesting growing investor interest.

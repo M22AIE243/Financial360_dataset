@@ -1,0 +1,5 @@
+Here is a summary of the stock price chart:
+
+The chart shows the quarterly total volume of IIPR stock from Q1 2023 to Q4 2024. The total volume has fluctuated over time, with a peak in Q1 2023 (approximately 2.2 million) and a trough in Q3 2024 (approximately 1.1 million). The overall trend appears to be downward from Q1 2023 to Q3 2024, followed by a significant increase in Q4 2024 (approximately 1.9 million). The relationship between time (X-axis) and total volume (Y-axis) is not strictly linear, with some quarters showing larger changes than others. 
+
+Let me know if you need further analysis!

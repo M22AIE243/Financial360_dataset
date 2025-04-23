@@ -1,0 +1,16 @@
+Summary of HIG data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 122.68
+Lowest Closing Price: 62.74
+Average Closing Price: 86.96
+Total Volume: 833,901,000
+
+Quarterly Volume:
+2023-Qq: 140,855,500
+2023-Qq: 104,984,600
+2023-Qq: 80,880,700
+2023-Qq: 104,589,200
+2024-Qq: 111,564,700
+2024-Qq: 99,139,700
+2024-Qq: 92,477,400
+2024-Qq: 99,409,200

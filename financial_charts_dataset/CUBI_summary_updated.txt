@@ -1,0 +1,7 @@
+Here's a concise summary of the CUBI stock trading data:
+
+- Average closing price: 41.49, with a significant range of 66.85 (highest) to 16.02 (lowest).
+- Total trading volume: 222,080,600 shares, with a notable decrease in volume from 2023-Qq to 2024-Qq.
+- Key trend: A decrease in volume across all quarters of 2024 compared to 2023, indicating reduced market interest.
+- Price movement: The stock price fluctuated significantly throughout the period, with an average closing price that is relatively stable despite the range.
+- Notable quarter: 2023-Qq3 had the lowest volume, while 2023-Qq2 had the lowest average closing price.

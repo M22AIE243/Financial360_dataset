@@ -1,0 +1,16 @@
+Summary of CVX data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 171.33
+Lowest Closing Price: 133.19
+Average Closing Price: 148.53
+Total Volume: 4,127,968,600
+
+Quarterly Volume:
+2023-Qq: 552,802,300
+2023-Qq: 475,892,500
+2023-Qq: 455,620,800
+2023-Qq: 677,390,200
+2024-Qq: 535,973,500
+2024-Qq: 466,814,800
+2024-Qq: 469,145,100
+2024-Qq: 494,329,400

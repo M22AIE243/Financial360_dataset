@@ -1,0 +1,16 @@
+Summary of AMGN data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 332.02
+Lowest Closing Price: 203.06
+Average Closing Price: 266.48
+Total Volume: 1,291,103,200
+
+Quarterly Volume:
+2023-Qq: 155,889,400
+2023-Qq: 146,382,900
+2023-Qq: 155,864,200
+2023-Qq: 156,940,000
+2024-Qq: 185,519,700
+2024-Qq: 160,625,900
+2024-Qq: 125,214,500
+2024-Qq: 204,666,600

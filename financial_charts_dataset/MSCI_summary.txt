@@ -1,0 +1,16 @@
+Summary of MSCI data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 633.99
+Lowest Closing Price: 440.72
+Average Closing Price: 525.07
+Total Volume: 240,565,700
+
+Quarterly Volume:
+2023-Qq: 26,851,800
+2023-Qq: 33,485,500
+2023-Qq: 25,688,800
+2023-Qq: 20,954,100
+2024-Qq: 28,126,900
+2024-Qq: 45,094,700
+2024-Qq: 31,159,100
+2024-Qq: 29,204,800

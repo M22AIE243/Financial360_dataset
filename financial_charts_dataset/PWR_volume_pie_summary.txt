@@ -1,0 +1,6 @@
+The image presents a pie chart illustrating the quarterly volume distribution of PWR stock, but it does not depict a stock price chart. Therefore, I will analyze the provided chart and summarize it.
+
+**Analysis Summary:**
+The pie chart shows the quarterly volume distribution of PWR stock across multiple quarters in 2023 and 2024. The largest volume share is 17.5% in one of the 2023 quarters. The volumes are relatively evenly distributed across the quarters, with a slight variation. The distribution ranges from 9.8% to 17.5% across the quarters. There is no clear upward or downward trend in the volume distribution over time. 
+
+As this is not a stock price chart, I couldn't assess the relationship between X (time) and Y (stock price). However, I can state that the chart provides insights into the quarterly trading volume of PWR stock.

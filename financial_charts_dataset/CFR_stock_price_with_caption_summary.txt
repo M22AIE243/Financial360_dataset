@@ -1,0 +1,7 @@
+The stock price chart for CFR exhibits a volatile trend over the observed period. 
+
+* The stock price started at around $120, declined to a low of $79.65, and then rebounded to an average of $105.64.
+* A significant uptrend is observed from late 2023 to early 2025, with the stock price rising from around $90 to a high of $141.96.
+* The overall relationship between time (X) and stock price (Y) shows a recovery and growth phase, with an upward trend in the latter part of the period. 
+* The stock price appears to have a positive correlation with time in the long term, despite short-term fluctuations. 
+* The highest stock price was recorded in late 2024 to early 2025.

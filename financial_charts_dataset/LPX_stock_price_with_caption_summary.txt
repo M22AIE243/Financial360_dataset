@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The LPX stock price chart shows an overall upward trend from January 2023 to January 2025. The stock price started around $60, fluctuated between $50 and $80 until early 2024, and then began a steady increase to reach a peak of $119.93. The average stock price is $75.00, with a low of $49.51. The relationship between time (X) and stock price (Y) indicates a positive correlation, with the stock price generally increasing over time. Volatility is evident, with significant price swings throughout the period.

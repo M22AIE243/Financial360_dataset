@@ -1,0 +1,7 @@
+Here's a summary of the PEP stock trading data in 4-5 concise lines:
+
+- **Price Movement:** PEP's stock price fluctuated between $149.96 (lowest) and $184.35 (highest) with an average closing price of $166.12.
+- **Volume Trend:** Total trading volume was 2,635,458,200 shares, with a slight increase in quarterly volume from 2023 to 2024.
+- **Key Quarter:** The highest quarterly volume of 375,273,100 shares was observed in 2024-Qq, indicating increased investor interest.
+- **Average Volume:** Quarterly average volume increased from 2023 to 2024, suggesting growing market activity.
+- **Price Stability:** The average closing price remained relatively stable, with minimal fluctuations throughout the period.

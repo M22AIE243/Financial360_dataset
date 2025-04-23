@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The BKR stock price chart shows a fluctuating trend from January 2023 to January 2025. The stock price initially ranged between $25 and $35, with a low of $25.46 and a high of $44.66. A significant uptrend is observed from mid-2024, with the stock price increasing steadily to reach a peak of around $44 in January 2025. Overall, the average stock price is $32.63, indicating a moderate increase over the two-year period. The relationship between time (X) and stock price (Y) shows a general upward trend.

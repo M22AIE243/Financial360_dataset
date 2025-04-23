@@ -1,0 +1,6 @@
+Here's a concise summary of the UNH stock trading data:
+
+- **Average Closing Price:** $506.27, with a range of $432.29 (lowest) to $620.21 (highest).
+- **Total Trading Volume:** 1,853,227,700 shares over 502 trading days.
+- **Quarterly Volume Trend:** Increased from Q2 2023 (212,687,300) to Q4 2024 (285,077,500), showing a 34.4% growth.
+- **Price Movement:** The stock has shown a moderate price fluctuation, with an average closing price close to the midpoint of the highest and lowest closing prices.

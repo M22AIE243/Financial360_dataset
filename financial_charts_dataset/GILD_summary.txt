@@ -1,0 +1,16 @@
+Summary of GILD data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 96.41
+Lowest Closing Price: 61.13
+Average Closing Price: 74.72
+Total Volume: 3,235,012,900
+
+Quarterly Volume:
+2023-Qq: 387,493,800
+2023-Qq: 340,893,900
+2023-Qq: 342,858,800
+2023-Qq: 388,786,900
+2024-Qq: 464,391,300
+2024-Qq: 484,716,600
+2024-Qq: 416,604,400
+2024-Qq: 409,267,200

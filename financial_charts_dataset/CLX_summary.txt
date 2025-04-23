@@ -1,0 +1,16 @@
+Summary of CLX data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 168.44
+Lowest Closing Price: 110.78
+Average Closing Price: 143.90
+Total Volume: 642,962,200
+
+Quarterly Volume:
+2023-Qq: 75,131,200
+2023-Qq: 74,606,900
+2023-Qq: 80,957,900
+2023-Qq: 102,908,300
+2024-Qq: 76,375,400
+2024-Qq: 80,553,500
+2024-Qq: 78,679,100
+2024-Qq: 73,749,900

@@ -1,0 +1,16 @@
+Summary of ACM data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 116.36
+Lowest Closing Price: 73.72
+Average Closing Price: 89.40
+Total Volume: 415,848,500
+
+Quarterly Volume:
+2023-Qq: 71,771,400
+2023-Qq: 57,014,900
+2023-Qq: 41,600,700
+2023-Qq: 44,227,100
+2024-Qq: 47,739,700
+2024-Qq: 46,972,600
+2024-Qq: 56,761,400
+2024-Qq: 49,760,700

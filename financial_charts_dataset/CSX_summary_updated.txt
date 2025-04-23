@@ -1,0 +1,13 @@
+Here's a concise summary of the CSX stock trading data:
+
+**Key Trends and Performance:**
+- Average closing price: $32.49 (stable)
+- Highest closing price: $37.83 (up 10.4% from the average)
+- Lowest closing price: $27.30 (down 16.1% from the average)
+
+**Volume Changes:**
+- Total trading volume: 6,175,857,900 (significant trading activity)
+- Quarterly volume trends: The first quarter of 2023 had the highest volume (860,593,700), while the third quarter of 2024 had the lowest volume (687,904,900)
+
+**Price Movements:**
+- The stock price has fluctuated between $27.30 and $37.83, indicating moderate volatility.

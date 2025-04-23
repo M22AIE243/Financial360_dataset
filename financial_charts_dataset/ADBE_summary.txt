@@ -1,0 +1,16 @@
+Summary of ADBE data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 634.76
+Lowest Closing Price: 320.54
+Average Closing Price: 495.34
+Total Volume: 1,607,780,200
+
+Quarterly Volume:
+2023-Qq: 189,166,700
+2023-Qq: 234,066,100
+2023-Qq: 175,298,400
+2023-Qq: 179,567,500
+2024-Qq: 224,493,600
+2024-Qq: 220,612,100
+2024-Qq: 164,317,100
+2024-Qq: 220,258,700

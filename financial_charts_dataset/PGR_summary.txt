@@ -1,0 +1,16 @@
+Summary of PGR data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 263.71
+Lowest Closing Price: 111.78
+Average Closing Price: 176.23
+Total Volume: 1,274,744,000
+
+Quarterly Volume:
+2023-Qq: 152,246,100
+2023-Qq: 175,207,100
+2023-Qq: 170,971,600
+2023-Qq: 152,622,800
+2024-Qq: 152,893,000
+2024-Qq: 168,955,400
+2024-Qq: 151,834,200
+2024-Qq: 150,013,800

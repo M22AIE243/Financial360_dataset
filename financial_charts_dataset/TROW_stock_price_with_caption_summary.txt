@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The TROW stock price chart exhibits a volatile trend, with a significant decline to $82.47 in early 2024, followed by a strong recovery. The stock price has been generally increasing over time, with an overall upward trend from 2023 to 2025. The highest price recorded is $121.71, while the average price is $104.50. The relationship between time (X) and stock price (Y) shows a positive correlation, with the stock price increasing over the long term despite short-term fluctuations. The recent trend indicates a steady increase in stock price.

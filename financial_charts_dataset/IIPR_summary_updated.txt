@@ -1,0 +1,7 @@
+Here's a concise summary of the IIPR stock trading data:
+
+- Average closing price: $84.40
+- Highest closing price: $127.85
+- Lowest closing price: $53.98
+- Total trading volume: 129,401,700 shares
+- Key trend: The volume decreased significantly in the last quarter of 2023, but rebounded in the last quarter of 2024, indicating a possible stabilization in trading activity.

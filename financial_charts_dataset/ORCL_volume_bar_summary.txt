@@ -1,0 +1,2 @@
+The stock price chart shows the quarterly volume of ORCL from Q1 2023 to Q4 2024. The total volume increased significantly from Q1 2023 to Q2 2023 and Q3 2023, reaching its peak, then decreased in Q4 2023. It remained stable in 2024 with a slight decrease in Q4 2024. Overall, the total volume shows a downward trend from its peak in 2023. There seems to be a stable range in 2024. However, the graph does not represent stock price but rather volume. 
+It seems that the stock volume was highest in Q2 and Q3 2023.

@@ -1,0 +1,7 @@
+Here's a summary of the EXPE stock trading data in 4-5 concise lines:
+
+- The EXPE stock experienced a price range of $87.50 (lowest close) to $190.61 (highest close) over 502 trading days, with an average closing price of $125.62.
+- The total trading volume was 1,151,020,500 shares.
+- Quarterly volume showed a decline from 2023-Q1 to 2024-Q4, with a peak in 2023-Q1 at 166,387,200 shares and a low in 2024-Q4 at 92,969,900 shares.
+- The stock's performance indicates a slight decline in trading volume over time.
+- The average closing price remained relatively stable, indicating a balanced market performance.

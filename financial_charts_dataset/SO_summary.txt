@@ -1,0 +1,16 @@
+Summary of SO data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 92.59
+Lowest Closing Price: 57.86
+Average Closing Price: 71.35
+Total Volume: 2,151,603,200
+
+Quarterly Volume:
+2023-Qq: 273,721,200
+2023-Qq: 253,516,900
+2023-Qq: 234,352,400
+2023-Qq: 286,143,500
+2024-Qq: 281,078,600
+2024-Qq: 296,609,300
+2024-Qq: 265,196,300
+2024-Qq: 260,985,000

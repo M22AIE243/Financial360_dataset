@@ -1,0 +1,6 @@
+The stock price chart for KEY exhibits a volatile trend over the observed period. 
+
+* The stock price started at around $16 in January 2023, surged to approximately $18 by April 2023, then sharply declined to a low of around $8 in July 2023. 
+* It recovered gradually, reaching around $10 by October 2023, and then steadily increased to about $19 by January 2025. 
+* The overall trend indicates a significant recovery and growth phase from October 2023 to January 2025, with some fluctuations. 
+* The highest stock price recorded was $19.52, and the lowest was $7.92, with an average stock price of $13.24 over the period.

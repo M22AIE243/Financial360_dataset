@@ -1,0 +1,6 @@
+Here's a concise summary of the VZ stock trading data:
+
+- **Average Closing Price:** $35.43 (2023-2025)
+- **Price Movement:** Highest closing price: $43.05 (2025-01-01), lowest closing price: $27.81 (2023)
+- **Volume Trends:** Total volume: 10,117,670,900 (2023-2025), quarterly volume decreased in 2024 compared to 2023.
+- **Quarterly Performance:** Volume decline observed in 2024, with 2023-Q4 and 2024-Q4 showing the lowest quarterly volumes.

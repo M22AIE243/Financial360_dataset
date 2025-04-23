@@ -1,0 +1,6 @@
+The OGI stock price chart shows a clear downtrend from January 2023 to January 2024, with the price decreasing from approximately $4 to $1.25. 
+
+* A sharp decline is observed from January 2023 to October 2023
+* Followed by a recovery and fluctuation between $1.5 and $2.5 from January 2024 to January 2025. 
+* The stock price appears to be stabilizing around $1.5. 
+* The relationship between X (time) and Y (stock price) indicates a negative correlation initially and then a stable trend.

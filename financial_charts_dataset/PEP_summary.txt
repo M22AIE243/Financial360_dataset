@@ -1,0 +1,16 @@
+Summary of PEP data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 184.35
+Lowest Closing Price: 149.96
+Average Closing Price: 166.12
+Total Volume: 2,635,458,200
+
+Quarterly Volume:
+2023-Qq: 295,983,900
+2023-Qq: 276,611,100
+2023-Qq: 298,592,800
+2023-Qq: 356,775,100
+2024-Qq: 362,457,900
+2024-Qq: 321,769,000
+2024-Qq: 347,995,300
+2024-Qq: 375,273,100

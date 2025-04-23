@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The ROST stock price chart shows a general upward trend from January 2023 to January 2025. The stock price started around 115, declined to a low of around 98.48, and then rose to a high of 155.74. The overall average stock price is 127.50. The relationship between time (X) and stock price (Y) is positively correlated, with some fluctuations. The stock price has shown significant growth over the past two years.

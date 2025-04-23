@@ -1,0 +1,17 @@
+Here is a succinct representation of the stock price chart:
+
+| **Date** | **Stock Price** |
+| :-------: | :-------------: |
+| 2023-01  |       ~46       |
+| 2023-04  |       ~38       |
+| 2023-07  |       ~35       |
+| 2023-10  |       ~32       |
+| 2024-01  |       ~26       |
+| 2024-04  |       ~26       |
+| 2024-07  |       ~27       |
+| 2024-10  |       ~28       |
+| 2025-01  |       ~26       |
+
+As a financial analyst, here is a summary of the stock price chart:
+
+The PFE stock price chart shows a general downward trend from January 2023 to January 2025. The stock price started at around $46 in January 2023 and declined to around $26 by January 2024. Although there were some fluctuations, the overall trend remained downward until January 2024, after which the stock price stabilized around $26-$28. The relationship between time (X) and stock price (Y) indicates a negative correlation, with the stock price decreasing over time. The stock price has been relatively stable in the past year, with minor fluctuations.

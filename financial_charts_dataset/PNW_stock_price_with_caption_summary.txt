@@ -1,0 +1,8 @@
+**PNW Stock Price Analysis**
+
+The PNW stock price chart displays a notable upward trend over the period from January 2023 to January 2025. 
+
+* The stock price started around 65-70 and increased to a peak of 93.55.
+* A significant surge occurred between mid-2024 and early 2025, with the price rising from approximately 70 to 92.
+* The average stock price over the period was 74.64, with the lowest point being 63.60. 
+* Overall, the chart indicates a positive relationship between time (X) and stock price (Y), with some fluctuations.

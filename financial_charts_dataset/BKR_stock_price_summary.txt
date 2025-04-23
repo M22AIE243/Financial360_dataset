@@ -1,0 +1,5 @@
+The BKR stock price chart shows a trend of fluctuating prices from January 2023 to January 2025. The stock price started around $30 and fluctuated between $25 and $35 until October 2023.
+
+The stock price showed an upward trend from October 2023 to January 2025, with some fluctuations. The price increased from around $32 to $42. 
+
+The overall trend shows that the stock price increased over time, with some volatility. The relationship between time (X) and stock price (Y) is generally positive.

@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The AAPL stock price chart shows an overall upward trend from January 2023 to January 2025. The stock price started at around $120 and increased to approximately $260, with some fluctuations. From January 2023 to July 2023, the stock price rose steadily, followed by a period of volatility from July 2023 to April 2024. The stock price then surged significantly from April 2024 to January 2025. Overall, the relationship between time (X) and stock price (Y) is generally positive, indicating a long-term increase in stock value.

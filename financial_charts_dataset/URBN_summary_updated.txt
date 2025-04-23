@@ -1,0 +1,9 @@
+Here's a summary of URBN stock trading data in 4-5 concise lines:
+
+**URBN Stock Performance (2023-01-01 to 2025-01-01)**
+
+- Average Closing Price: $36.36
+- Highest Closing Price: $55.81
+- Lowest Closing Price: $24.26
+- Total Volume: 854,348,600 shares traded
+- The stock experienced a moderate price fluctuation, with a 47% increase from the lowest to the highest closing price.

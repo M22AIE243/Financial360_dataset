@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The EQH stock price chart shows a general upward trend from January 2023 to January 2025. The stock price starts around $30, dips to around $25 in April 2023, and then fluctuates between $25-$35 until January 2024. From January 2024 onwards, the stock price exhibits a strong upward trend, increasing from around $35 to nearly $50 by January 2025. The relationship between time (X) and stock price (Y) is positively correlated, with the stock price generally increasing over time. However, there are periods of volatility and fluctuations throughout the chart.

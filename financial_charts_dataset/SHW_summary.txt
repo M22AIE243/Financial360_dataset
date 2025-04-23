@@ -1,0 +1,16 @@
+Summary of SHW data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 398.84
+Lowest Closing Price: 205.39
+Average Closing Price: 291.41
+Total Volume: 777,284,300
+
+Quarterly Volume:
+2023-Qq: 99,920,100
+2023-Qq: 86,213,000
+2023-Qq: 86,621,500
+2023-Qq: 93,523,100
+2024-Qq: 87,241,400
+2024-Qq: 108,505,300
+2024-Qq: 99,742,000
+2024-Qq: 115,517,900

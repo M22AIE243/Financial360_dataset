@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The PRPL quarterly volume chart shows a significant fluctuation in trading activity over the past eight quarters. The total volume peaked in Q4 2023 at approximately $9 million and was notably higher than the other quarters. The volumes in 2024 have been consistently lower, ranging from $2-$6 million. The relationship between time (X-axis) and total volume (Y-axis) indicates a decline in trading activity from 2023 to 2024. Overall, the chart suggests a decrease in investor interest in PRPL stock over the past year.

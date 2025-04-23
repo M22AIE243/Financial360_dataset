@@ -1,0 +1,6 @@
+The stock price of GS exhibits a clear upward trend from 2023 to 2025, with some fluctuations. 
+
+The stock price started at around 350 in early 2023, and remained stable at around 300-350 until early 2024. 
+Then, it began to rise significantly, reaching around 400 by early 2024, and eventually peaked at around 600 by late 2024. 
+The stock price started to decline in early 2025. 
+The relationship between time and stock price is generally positive.

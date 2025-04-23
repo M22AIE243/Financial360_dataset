@@ -1,0 +1,16 @@
+Summary of STZ data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 267.09
+Lowest Closing Price: 201.22
+Average Closing Price: 238.83
+Total Volume: 600,998,200
+
+Quarterly Volume:
+2023-Qq: 87,995,400
+2023-Qq: 72,107,000
+2023-Qq: 56,760,700
+2023-Qq: 72,344,400
+2024-Qq: 72,680,200
+2024-Qq: 74,887,600
+2024-Qq: 73,546,500
+2024-Qq: 90,676,400

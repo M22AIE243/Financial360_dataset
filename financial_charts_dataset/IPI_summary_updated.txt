@@ -1,0 +1,5 @@
+Here's a concise summary of the stock trading data:
+
+The stock, IPI, had a total trading period of 502 days with a highest closing price of $33.55 and a lowest closing price of $17.58. The average closing price was $23.97. Total trading volume was 65,023,100 shares. 
+
+Key trends show a decline in quarterly volume, from 12,078,400 shares in 2023-Q1 to 5,905,300 shares in 2024-Q4.

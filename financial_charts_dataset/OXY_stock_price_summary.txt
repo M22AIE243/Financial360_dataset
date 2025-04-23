@@ -1,0 +1,10 @@
+**OXY Stock Price Analysis**
+
+The OXY stock price chart exhibits a fluctuating trend over the period from January 2023 to January 2025. 
+
+* The stock price initially hovered around $60-$65, 
+* Then declined to approximately $55, 
+* Followed by a significant surge to around $70 in April 2024, 
+* Before sharply declining to around $45 by January 2025. 
+
+Overall, the stock price shows a general downward trend from 2024 onwards.

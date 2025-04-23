@@ -1,0 +1,17 @@
+Here's a concise summary of the GPC stock trading data:
+
+**Key Trends:**
+- GPC stock has shown a moderate increase in average closing price from 2023 to 2024.
+- The stock has maintained a relatively stable trading volume throughout the period.
+
+**Performance:**
+- Highest closing price: 169.22
+- Lowest closing price: 111.28
+- Average closing price: 142.10
+
+**Volume Changes:**
+- Total trading volume: 522,292,700
+- Quarterly volume fluctuations: 2023-Q1 (75.31M), Q2 (55.62M), Q3 (53.58M), Q4 (67.91M); 2024-Q1 (61.61M), Q2 (61.49M), Q3 (59.71M), Q4 (87.06M)
+
+**Price Movements:**
+- The stock has shown an overall upward trend, with a slight increase in trading volume in the final quarter of 2024.

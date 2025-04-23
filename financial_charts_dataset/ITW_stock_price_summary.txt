@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The ITW stock price chart exhibits an overall upward trend from January 2023 to January 2025. The stock price starts around 210 and ends around 270, indicating a significant increase over the period. There are fluctuations throughout, with periods of volatility and short-term declines. However, the general direction is upward, with the stock price reaching a peak in late 2024 and early 2025. The relationship between time (X) and stock price (Y) is positively correlated.

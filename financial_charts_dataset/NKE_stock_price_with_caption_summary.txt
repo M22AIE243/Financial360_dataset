@@ -1,0 +1,6 @@
+The stock price chart of NKE exhibits a downward trend over the period from January 2023 to January 2025. 
+
+* The stock price started at around $110 and peaked at $125.06 before declining to $70.06, 
+* It had an average value of $97.76. 
+* The overall trend shows a significant decrease in stock price over time, with some fluctuations. 
+* The relationship between time (X) and stock price (Y) is generally inverse, indicating a decline in stock value over the observed period.

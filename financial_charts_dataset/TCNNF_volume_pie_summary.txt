@@ -1,0 +1,9 @@
+The provided chart is a pie chart, not a stock price chart. It shows the quarterly volume distribution of TCNNF. 
+
+The chart shows that the volume distribution of TCNNF is divided into eight quarters. The key trends are: 
+* The highest volume distribution is 17.7% in 2024-Qq.
+* The lowest volume distribution is 8.7% in 2023-Qq. 
+* There is an overall increase in volume distribution from 2023 to 2024. 
+* The stock demonstrates a stable trend across quarters, with no significant fluctuations. 
+
+In summary, the pie chart shows the quarterly volume distribution of TCNNF, with the highest distribution in 2024-Qq and the lowest in 2023-Qq. There is an overall increase in volume distribution from 2023 to 2024. However, no conclusions can be drawn about the stock price.

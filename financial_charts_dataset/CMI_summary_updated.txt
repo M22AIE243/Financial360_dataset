@@ -1,0 +1,7 @@
+Here's a summary of the CMI stock trading data in 5 concise lines:
+
+- **Average Performance:** CMI's average closing price is $259.47, with a highest closing price of $381.60 and a lowest closing price of $195.87.
+- **Price Movement:** The stock price has shown a moderate increase from its lowest to highest closing price.
+- **Volume Trends:** Total volume is 573,483,400, with a significant increase in 2024-Qq (199,171,300) compared to 2023-Qq (47,333,700).
+- **Quarterly Performance:** The stock saw a decline in trading volume from 2023-Qq to 2024-Qq, but showed an increase in volume in the last quarter of 2024.
+- **Volume Changes:** The stock witnessed a 323% increase in volume in 2024-Qq compared to 2023-Qq.

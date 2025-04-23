@@ -1,0 +1,16 @@
+Summary of COP data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 129.76
+Lowest Closing Price: 88.24
+Average Closing Price: 108.03
+Total Volume: 2,994,075,200
+
+Quarterly Volume:
+2023-Qq: 416,753,000
+2023-Qq: 372,185,900
+2023-Qq: 289,094,300
+2023-Qq: 369,790,500
+2024-Qq: 352,312,100
+2024-Qq: 354,177,000
+2024-Qq: 409,021,600
+2024-Qq: 430,740,800

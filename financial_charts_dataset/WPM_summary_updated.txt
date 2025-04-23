@@ -1,0 +1,15 @@
+Here's a concise summary of the WPM stock trading data:
+
+**Key Performance Indicators:**
+
+- Average Closing Price: $49.50
+- Highest Closing Price: $68.38
+- Lowest Closing Price: $37.82
+- Total Trading Days: 502
+
+**Volume Changes:**
+- Total Volume: 928,178,700
+- Quarterly Volume fluctuations with a slight increase from 2023-Q4 to 2024-Q4.
+
+**Price Movement:**
+- The stock price has shown an upward trend with a slight increase in price from the lowest to the highest closing price.

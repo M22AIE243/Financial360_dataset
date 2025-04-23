@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The chart shows the quarterly volume of CFR from Q1 2023 to Q4 2024. The total volume has been trending downward from 3.6 million (Q1 2023) to 2.4 million (Q2 2024), with some fluctuations. However, there is a slight increase in volume in Q3 2024 to 3.3 million. Overall, the relationship between time (X) and total volume (Y) shows a general decline. The recent data points suggest a possible stabilization.

@@ -1,0 +1,7 @@
+The image provided is a pie chart, not a stock price chart. It appears to show the quarterly volume distribution of CEG, with each section representing a different quarter.
+
+Here is a summary of the chart:
+
+The pie chart shows the quarterly volume distribution of CEG from 2023-Qq to 2024-Qq. The largest volume distribution is 18.1% in 2024-Qq, while the smallest is 8.7% in 2023-Qq. The chart shows a general increase in volume distribution from 2023 to 2024, with the majority of quarters in 2024 having a larger share than those in 2023. There is no clear trend in the relationship between X (time) and Y (volume distribution) as this is not a time-series chart. 
+
+If you provide a stock price chart, I can analyze it and provide a summary.

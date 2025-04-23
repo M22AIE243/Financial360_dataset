@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The FL stock price chart shows a downward trend from January 2023 to January 2025. The stock price peaked at around $45 in early 2023 and declined sharply to around $20 in late 2023. It then recovered somewhat, fluctuating between $20 and $35, before declining again to around $20-$25 by January 2025. The relationship between time (X) and stock price (Y) shows a general decline over the two-year period, with significant volatility. Overall, the stock price has trended downward over time.

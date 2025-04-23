@@ -1,0 +1,16 @@
+Summary of VLO data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 178.11
+Lowest Closing Price: 98.03
+Average Closing Price: 131.70
+Total Volume: 1,715,640,000
+
+Quarterly Volume:
+2023-Qq: 259,867,300
+2023-Qq: 277,825,200
+2023-Qq: 236,229,100
+2023-Qq: 204,254,500
+2024-Qq: 212,209,200
+2024-Qq: 178,100,500
+2024-Qq: 176,702,500
+2024-Qq: 170,451,700

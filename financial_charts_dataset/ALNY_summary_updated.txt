@@ -1,0 +1,19 @@
+Here's a concise summary of the ALNY stock trading data:
+
+**Key Performance Indicators:**
+
+- Average Closing Price: $202.61
+- Highest Closing Price: $300.55
+- Lowest Closing Price: $143.31
+
+**Volume and Price Trends:**
+- Total Volume: 380,891,400 shares traded
+- Quarterly volume increased in 2024, with a notable surge in the 4th quarter
+- Price movement indicates a general upward trend, with a peak in the highest closing price
+
+**Volume Changes:**
+- Quarterly volume decreased in 2023, with a low of 35,244,900 shares in Q3
+- Volume rebounded in 2024, with a high of 56,564,000 shares in Q3
+
+**Overall Performance:**
+- The stock showed a strong performance in 2024, with increased volume and price movement.

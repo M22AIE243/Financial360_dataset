@@ -1,0 +1,10 @@
+**DLTR Stock Price Analysis**
+
+The DLTR stock price chart exhibits a downward trend over the period from January 2023 to January 2025. 
+
+* The stock price started at around $150 in January 2023 and fluctuated between $140 and $160 until July 2023.
+* A significant decline occurred between July 2023 and October 2024, with the price dropping from approximately $150 to $100.
+* A sharp decline happened in October 2024, with the price plummeting to around $60.
+* The stock price has shown a slight recovery since then, reaching around $70 by January 2025.
+
+Overall, the relationship between time (X) and stock price (Y) indicates a predominantly negative correlation, with the stock price experiencing a substantial decline over the observed period.

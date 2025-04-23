@@ -1,0 +1,16 @@
+Summary of PRPL data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 6.37
+Lowest Closing Price: 0.56
+Average Closing Price: 1.95
+Total Volume: 401,010,500
+
+Quarterly Volume:
+2023-Qq: 59,930,500
+2023-Qq: 68,818,800
+2023-Qq: 52,926,400
+2023-Qq: 88,403,700
+2024-Qq: 57,354,300
+2024-Qq: 28,068,500
+2024-Qq: 24,442,000
+2024-Qq: 21,066,300

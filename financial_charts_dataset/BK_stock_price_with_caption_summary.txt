@@ -1,0 +1,8 @@
+**Stock Price Analysis Summary**
+
+The BK stock price chart exhibits a clear upward trend over the observed period, from January 2023 to January 2025. 
+
+* The stock price started around $45, fluctuated between $37.37 and $50 from January 2023 to October 2023, and then began a steady increase.
+* A significant surge occurred from January 2024 to January 2025, with the price rising from approximately $50 to a peak of around $80.92.
+* The overall relationship between time (X) and stock price (Y) is positive, indicating a strong growth trajectory. 
+* The average stock price over the period was $52.89.

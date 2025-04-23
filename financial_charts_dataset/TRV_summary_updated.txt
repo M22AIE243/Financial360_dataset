@@ -1,0 +1,13 @@
+Here's a concise summary of the TRV stock trading data:
+
+**Key Trends and Performance:**
+- TRV's average closing price increased from 2023 to 2024, indicating overall market growth.
+- The highest closing price reached $264.47, while the lowest was $153.62.
+
+**Volume Changes:**
+- Total trading volume was 665,809,500 shares over 502 days.
+- Quarterly volume showed a general downtrend from 2023-Q1 to 2024-Q4, with a decrease of around 13% from the first quarter to the last.
+
+**Price Movements:**
+- The stock price fluctuated throughout the period, but the average closing price indicates a net increase in value.
+- The highest closing price was $264.47, while the lowest was $153.62, indicating a price range of $110.85.

@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The FITB stock price chart shows a volatile trend from January 2023 to January 2025. Initially, the stock price dropped significantly in April 2023, then fluctuated between $20 and $35 until January 2024. From January 2024 onwards, the stock price exhibited a strong upward trend, increasing steadily to reach a peak of around $50 in January 2025. The overall relationship between time (X) and stock price (Y) is positive, with a notable increase in stock price over the past year. The stock price has generally trended upward, with some fluctuations along the way.

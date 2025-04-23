@@ -1,0 +1,7 @@
+Here's a concise summary of the stock trading data for FSS:
+
+* Average Closing Price: $72.31
+* Highest Closing Price: $99.53 (reached in 2025)
+* Lowest Closing Price: $45.85 (reached in 2023)
+* Total Volume: 165,868,700 shares traded
+* Key trend: Volume increased in 2024, with a significant surge in the 4th quarter (24,531,300 shares traded).

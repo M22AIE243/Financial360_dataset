@@ -1,0 +1,16 @@
+Summary of NRG data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 101.17
+Lowest Closing Price: 28.96
+Average Closing Price: 55.93
+Total Volume: 1,806,534,400
+
+Quarterly Volume:
+2023-Qq: 264,149,500
+2023-Qq: 314,784,200
+2023-Qq: 196,266,000
+2023-Qq: 228,964,400
+2024-Qq: 222,411,500
+2024-Qq: 240,321,500
+2024-Qq: 173,831,800
+2024-Qq: 165,805,500

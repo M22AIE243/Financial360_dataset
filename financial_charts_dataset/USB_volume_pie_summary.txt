@@ -1,0 +1,13 @@
+The provided image is a pie chart, not a stock price chart. However, I can still analyze the data and provide insights.
+
+**Summary :**
+The pie chart shows the quarterly volume distribution of USB from 2023-Qq to 2024-Qq. The data indicates a decline in volume over time, with the largest share in 2023-Qq (19.6%) and the smallest in 2024-Qq (9.0%). The volumes are relatively evenly distributed across quarters, with a slight decrease in recent quarters. There is no clear upward trend in the data. The relationship between time (X) and volume (Y) appears to be inversely related.
+
+**Key Trends:**
+
+* Declining volume over time, with a peak in 2023-Qq (19.6%) and a trough in 2024-Qq (9.0%).
+* Relatively even distribution of volumes across quarters.
+* No clear seasonal pattern or trend.
+
+**Relationship between X (time) and Y (volume):**
+The relationship between time (X) and volume (Y) appears to be inversely related, with volume decreasing as time progresses. However, please note that this analysis is based on a pie chart, which may not be the best representation of a stock price chart. A traditional stock price chart would typically display price movements over time, which is not shown here.

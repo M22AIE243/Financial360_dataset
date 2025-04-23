@@ -1,0 +1,8 @@
+Here's a concise summary of the stock trading data:
+
+**PEG Stock Performance:**
+
+- **Average Closing Price:** $65.76 (up from the lowest closing price of $52.08)
+- **Price Movement:** The stock reached a high of $93.12, showing a 79% increase from the lowest price
+- **Volume Trends:** Total volume increased to 1,329,813,200 shares traded, with a significant spike in Q4 2023 (190,005,900 shares)
+- **Quarterly Volume Growth:** Volumes decreased slightly in Q4 2024 compared to Q3 2024, but remained relatively stable throughout 2024.

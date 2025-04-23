@@ -1,0 +1,7 @@
+The WFC stock price chart shows a fluctuating trend from January 2023 to January 2025. 
+
+* The stock price started around $40 in January 2023, 
+* Hit a low of $34.28, 
+* And reached a high of $76.97. 
+
+Overall, the stock price exhibits an upward trend over time, with significant volatility. The average stock price is $49.43.

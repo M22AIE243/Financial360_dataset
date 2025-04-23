@@ -1,0 +1,16 @@
+Summary of IP data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 59.07
+Lowest Closing Price: 26.97
+Average Closing Price: 37.68
+Total Volume: 2,061,760,800
+
+Quarterly Volume:
+2023-Qq: 198,887,300
+2023-Qq: 197,501,000
+2023-Qq: 186,398,800
+2023-Qq: 193,500,200
+2024-Qq: 276,837,600
+2024-Qq: 440,786,200
+2024-Qq: 290,938,800
+2024-Qq: 276,910,900

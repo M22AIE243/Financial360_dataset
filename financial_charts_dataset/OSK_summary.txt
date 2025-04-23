@@ -1,0 +1,16 @@
+Summary of OSK data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 124.99
+Lowest Closing Price: 70.75
+Average Closing Price: 97.86
+Total Volume: 266,388,200
+
+Quarterly Volume:
+2023-Qq: 34,557,300
+2023-Qq: 33,563,100
+2023-Qq: 34,430,800
+2023-Qq: 33,543,200
+2024-Qq: 31,889,300
+2024-Qq: 28,367,800
+2024-Qq: 33,828,500
+2024-Qq: 36,208,200

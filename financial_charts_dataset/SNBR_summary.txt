@@ -1,0 +1,16 @@
+Summary of SNBR data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 41.58
+Lowest Closing Price: 8.63
+Average Closing Price: 19.26
+Total Volume: 291,249,400
+
+Quarterly Volume:
+2023-Qq: 26,420,200
+2023-Qq: 37,564,100
+2023-Qq: 35,998,200
+2023-Qq: 66,454,200
+2024-Qq: 37,212,000
+2024-Qq: 28,644,500
+2024-Qq: 33,139,600
+2024-Qq: 25,816,600

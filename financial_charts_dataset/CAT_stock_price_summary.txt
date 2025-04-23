@@ -1,0 +1,8 @@
+**Stock Price Analysis Summary**
+
+The CAT stock price chart exhibits an overall upward trend from January 2023 to January 2025. 
+
+* The stock price started around $220 and increased to approximately $380.
+* A notable surge occurred between January 2024 and January 2025, with the price rising from around $250 to $400.
+* Volatility is evident, with fluctuations throughout the period, but the general direction is upward, indicating a positive relationship between time (X) and stock price (Y). 
+* The recent trend shows a slight decline from the peak in late 2024 to early 2025.

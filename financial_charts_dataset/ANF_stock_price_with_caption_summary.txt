@@ -1,0 +1,6 @@
+The stock price chart for ANF exhibits a significant upward trend from January 2023 to July 2024, with the price increasing from around $25 to a peak of nearly $200. 
+
+* The relationship between X (time) and Y (stock price) shows a strong positive correlation during this period.
+* However, after July 2024, the stock price declined and stabilized around $150-$160, indicating a loss of momentum.
+* The average stock price is $91.53, with a highest price of $192.34 and a lowest price of $21.83. 
+* Overall, the chart suggests that the stock experienced a substantial growth phase followed by a correction and stabilization.

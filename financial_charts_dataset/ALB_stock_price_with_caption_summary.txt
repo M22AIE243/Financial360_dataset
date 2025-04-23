@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The ALB stock price chart shows a significant downtrend from January 2023 to January 2025. The stock price peaked at $281.67 in early 2023 and declined sharply to a low of $71.83. The overall trend indicates a strong negative correlation between time (X) and stock price (Y), with the price decreasing over time. The average stock price over this period was $148.41, indicating that the stock has generally trended downward. The recent price action suggests a slight recovery, but it remains well below its 2023 highs.

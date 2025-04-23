@@ -1,0 +1,17 @@
+Here's a summary of the BOKF stock trading data:
+
+**Key Trends and Performance:**
+
+- Average closing price increased by 43.5% from 61.66 to 88.54.
+- The highest closing price reached 119.07, indicating a potential peak.
+- The lowest closing price was 61.66, showing a significant drop from the peak.
+
+**Volume Changes:**
+
+- Total trading volume was 88,783,900 shares.
+- Quarterly volume saw a decline from 13,415,200 in Q1 2023 to 8,837,400 in Q3 2024.
+
+**Price Movements:**
+
+- The stock price fluctuated between 61.66 and 119.07, indicating volatility.
+- The average closing price remained above the lowest closing price, suggesting a general upward trend.

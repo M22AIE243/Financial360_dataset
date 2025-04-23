@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The GS stock price chart shows a significant overall upward trend from January 2023 to January 2025. The stock price started around 350, fluctuated between 300-350 until early 2024, then began a steady increase to reach a peak of 602.58. The relationship between time (X) and stock price (Y) is generally positive, with some volatility. The average stock price is 391.83, with a low of 279.36 and a high of 602.58. The stock price surge began around early 2024.

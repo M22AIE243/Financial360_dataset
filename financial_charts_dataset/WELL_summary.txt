@@ -1,0 +1,16 @@
+Summary of WELL data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 138.68
+Lowest Closing Price: 62.56
+Average Closing Price: 92.20
+Total Volume: 1,304,249,100
+
+Quarterly Volume:
+2023-Qq: 143,824,600
+2023-Qq: 152,154,100
+2023-Qq: 123,127,500
+2023-Qq: 201,293,300
+2024-Qq: 161,361,200
+2024-Qq: 173,446,400
+2024-Qq: 181,282,500
+2024-Qq: 167,759,500

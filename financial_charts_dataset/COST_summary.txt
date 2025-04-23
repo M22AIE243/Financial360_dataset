@@ -1,0 +1,16 @@
+Summary of COST data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 993.59
+Lowest Closing Price: 433.86
+Average Closing Price: 670.38
+Total Volume: 955,715,400
+
+Quarterly Volume:
+2023-Qq: 121,464,500
+2023-Qq: 112,422,100
+2023-Qq: 103,251,200
+2023-Qq: 129,026,100
+2024-Qq: 131,680,100
+2024-Qq: 112,816,200
+2024-Qq: 125,858,600
+2024-Qq: 119,196,600

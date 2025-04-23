@@ -1,0 +1,16 @@
+Summary of TJX data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 126.82
+Lowest Closing Price: 71.47
+Average Closing Price: 94.54
+Total Volume: 2,585,968,000
+
+Quarterly Volume:
+2023-Qq: 332,344,200
+2023-Qq: 296,572,300
+2023-Qq: 304,211,200
+2023-Qq: 329,762,300
+2024-Qq: 308,801,100
+2024-Qq: 382,346,300
+2024-Qq: 307,684,300
+2024-Qq: 324,246,300

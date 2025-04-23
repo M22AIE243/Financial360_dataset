@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The BIIB stock price chart shows a downward trend from January 2023 to January 2025. The stock price peaked at around 325 in mid-2023 and declined steadily to around 150 by January 2025. The relationship between time (X) and stock price (Y) is strongly negative, indicating a consistent decrease in stock price over time. The chart exhibits a volatile pattern with fluctuations throughout, but the overall trend is decisively bearish. The stock price has lost approximately 54% of its value over the 2-year period.

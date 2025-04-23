@@ -1,0 +1,7 @@
+Here's a summary of the INCR stock trading data in 4-5 concise lines:
+
+- The INCR stock had a total trading volume of 25,929,200 shares from 2023-01-01 to 2025-01-01.
+- The average closing price was $2.01, with a highest closing price of $4.00 and a lowest closing price of $1.01.
+- The stock's quarterly volume showed an increase in 2024, with the highest volume in Q2 2024 at 5,303,200 shares.
+- The quarterly volume trend indicates a significant decrease in Q3 2024 compared to Q2 2024.
+- The stock's performance suggests a possible price increase in the past year, but further analysis is required to confirm this trend.

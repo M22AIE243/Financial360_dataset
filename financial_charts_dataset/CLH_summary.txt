@@ -1,0 +1,16 @@
+Summary of CLH data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 263.39
+Lowest Closing Price: 111.02
+Average Closing Price: 185.69
+Total Volume: 161,615,200
+
+Quarterly Volume:
+2023-Qq: 24,418,800
+2023-Qq: 23,827,700
+2023-Qq: 19,565,600
+2023-Qq: 19,088,600
+2024-Qq: 20,361,300
+2024-Qq: 18,754,300
+2024-Qq: 16,400,800
+2024-Qq: 19,198,100

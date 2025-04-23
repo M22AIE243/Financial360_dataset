@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The ED stock price chart shows a relatively stable trend from January 2023 to mid-2024, with prices ranging between $80 and $90. However, from mid-2024 onwards, the stock price exhibits a significant upward trend, reaching a peak of around $105 in late 2024. The price then declines sharply to around $85 by January 2025. Overall, the relationship between time (X) and stock price (Y) is characterized by a prolonged period of stability followed by a sharp increase and subsequent decline. The chart suggests a notable shift in investor sentiment or market conditions around mid-2024.

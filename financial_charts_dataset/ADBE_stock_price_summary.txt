@@ -1,0 +1,5 @@
+The ADBE stock price chart shows an overall upward trend from January 2023 to January 2024, reaching a peak of around 650. 
+However, from January 2024 to January 2025, the stock price exhibits a downward trend, dropping to approximately 400. 
+The relationship between time (X) and stock price (Y) indicates a significant increase in stock price over the initial period, followed by a substantial decline. 
+The stock price volatility is also notable, with frequent fluctuations throughout the observed period. 
+The chart suggests a potential correction or decline in investor confidence in the stock.

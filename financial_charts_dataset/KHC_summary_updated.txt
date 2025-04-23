@@ -1,0 +1,17 @@
+Here's a concise summary of the KHC stock trading data:
+
+**Key Trends:**
+- The average closing price increased from $32.92 in 2023 to $33.53 in 2024.
+- The highest closing price reached $38.37, while the lowest was $28.69.
+
+**Performance:**
+- The stock maintained a relatively stable average closing price over the two-year period.
+- The stock's highest closing price was 34% above its lowest closing price.
+
+**Volume Changes:**
+- Total trading volume increased from 1,968,110,200 in 2023 to 2,959,777,100 in 2024.
+- Quarterly volume showed an overall increase, with the highest volume in Q4 2024 at 582,768,300.
+
+**Price Movements:**
+- The stock's price movement was relatively stable, with a slight increase in average closing price over the two-year period.
+- The stock's price range was $9.68, indicating a moderate level of volatility.

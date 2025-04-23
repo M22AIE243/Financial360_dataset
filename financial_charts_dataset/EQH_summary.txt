@@ -1,0 +1,16 @@
+Summary of EQH data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 49.92
+Lowest Closing Price: 21.65
+Average Closing Price: 33.24
+Total Volume: 1,394,056,300
+
+Quarterly Volume:
+2023-Qq: 178,163,600
+2023-Qq: 212,618,100
+2023-Qq: 136,422,400
+2023-Qq: 239,693,600
+2024-Qq: 165,197,600
+2024-Qq: 168,637,000
+2024-Qq: 137,891,200
+2024-Qq: 155,432,800

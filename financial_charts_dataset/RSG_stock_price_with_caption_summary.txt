@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The RSG stock price chart shows an overall upward trend from January 2023 to January 2025. The stock price started around $120, increased steadily to around $200, and peaked at $217.60. The price then declined to around $200. The average stock price is $166.36, with a low of $118.30. The chart indicates a strong positive relationship between time (X) and stock price (Y).

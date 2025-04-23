@@ -1,0 +1,6 @@
+The JCI stock price chart exhibits a notable upward trend over the observed period, from early 2023 to late January 2025. 
+
+* The stock price started around $65 and declined to a low of approximately $50 in late 2023. 
+* It then began a steady recovery, rising to around $60 by early 2024. 
+* A significant increase occurred from mid-2024 onwards, with the stock price surging to reach a peak of nearly $85 by late January 2025. 
+* The overall trend indicates a strong positive correlation between time and stock price, particularly in the latter part of the observed period.

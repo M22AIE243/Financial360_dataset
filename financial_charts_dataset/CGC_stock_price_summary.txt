@@ -1,0 +1,6 @@
+The CGC stock price chart shows a significant downtrend from January 2023 to January 2025. 
+
+* The stock price peaked at around $30 in early 2023 and then declined sharply to around $5 by mid-2023. 
+* It then fluctuated between $5 and $15 for most of 2023 and 2024, with some volatility. 
+* Overall, the stock price shows a strong negative correlation with time, indicating a decline in value over the observed period. 
+* The recent trend suggests a relatively stable but low stock price.

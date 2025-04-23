@@ -1,0 +1,16 @@
+Summary of IEX data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 242.70
+Lowest Closing Price: 184.03
+Average Closing Price: 211.77
+Total Volume: 240,702,500
+
+Quarterly Volume:
+2023-Qq: 23,715,100
+2023-Qq: 29,697,200
+2023-Qq: 33,024,500
+2023-Qq: 31,613,700
+2024-Qq: 24,331,500
+2024-Qq: 27,702,400
+2024-Qq: 36,478,600
+2024-Qq: 34,139,500

@@ -1,0 +1,16 @@
+Summary of SPG data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 179.87
+Lowest Closing Price: 90.70
+Average Closing Price: 128.61
+Total Volume: 747,436,200
+
+Quarterly Volume:
+2023-Qq: 104,463,900
+2023-Qq: 89,400,600
+2023-Qq: 91,421,900
+2023-Qq: 96,002,000
+2024-Qq: 96,492,300
+2024-Qq: 90,582,800
+2024-Qq: 92,841,200
+2024-Qq: 86,231,500

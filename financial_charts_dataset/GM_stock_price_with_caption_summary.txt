@@ -1,0 +1,5 @@
+Here is a summary of the stock price chart:
+
+The GM stock price chart shows a volatile trend from January 2023 to January 2025. The stock price started around $35, fluctuated between $30 and $45 until October 2023, and then declined to a low of $26.23. However, it rebounded strongly from January 2024, increasing steadily to a peak of $59.91. Overall, the stock price exhibits an upward trend, with an average price of $39.74. 
+
+Key trends include a significant decline in late 2023, followed by a robust recovery and growth phase from early 2024. The relationship between X (time) and Y (stock price) indicates that as time progressed, the stock price initially remained stable, then decreased, and finally increased.

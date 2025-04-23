@@ -1,0 +1,5 @@
+The image presents a pie chart illustrating the quarterly volume distribution of PPL stock, divided into eight sections representing different quarters. 
+
+Here is a summary of the chart:
+
+The PPL stock price chart shows a varied distribution across quarters. The largest share is 16.6% in 2023-Qq (red section), while the smallest shares are 11.1% in two 2024-Qq sections (brown and grey). The chart indicates fluctuations in stock price over time, with no clear upward or downward trend. The relationship between time (X) and stock price (Y) appears to be inconsistent. Overall, the chart suggests volatility in PPL's quarterly stock performance.

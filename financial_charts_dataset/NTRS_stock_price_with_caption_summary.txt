@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The stock price of NTRS exhibits a volatile trend over the period from January 2023 to January 2025. Initially, the price fluctuates between $70 and $90, then declines to a low of around $60 before recovering. From early 2024, the stock price shows a steady upward trend, with some fluctuations, reaching a peak of $109.54. The average stock price over the period is $80.84. Overall, the relationship between time (X) and stock price (Y) shows a general increasing trend.

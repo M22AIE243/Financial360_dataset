@@ -1,0 +1,6 @@
+The RMD stock price chart shows a volatile trend over the period from January 2023 to January 2025. 
+
+* The stock price started around 200 in January 2023, increased to around 240 in April 2023, and then declined to around 140 in October 2023. 
+* It then recovered to around 190 in January 2024 and increased steadily to around 250 in January 2025. 
+* The overall trend is upward, with significant fluctuations throughout the period. 
+* The relationship between time (X) and stock price (Y) is generally positive, indicating that the stock price tends to increase over time.

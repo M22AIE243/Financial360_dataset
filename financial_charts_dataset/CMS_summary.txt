@@ -1,0 +1,16 @@
+Summary of CMS data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 71.00
+Lowest Closing Price: 48.12
+Average Closing Price: 58.78
+Total Volume: 1,114,602,100
+
+Quarterly Volume:
+2023-Qq: 115,287,800
+2023-Qq: 141,050,500
+2023-Qq: 115,739,600
+2023-Qq: 171,628,900
+2024-Qq: 150,828,300
+2024-Qq: 153,421,100
+2024-Qq: 130,018,800
+2024-Qq: 136,627,100

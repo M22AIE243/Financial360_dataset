@@ -1,0 +1,16 @@
+Summary of TREX data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 100.10
+Lowest Closing Price: 43.70
+Average Closing Price: 69.81
+Total Volume: 516,154,000
+
+Quarterly Volume:
+2023-Qq: 65,551,300
+2023-Qq: 63,678,700
+2023-Qq: 62,695,700
+2023-Qq: 60,130,700
+2024-Qq: 50,994,500
+2024-Qq: 50,592,700
+2024-Qq: 75,192,500
+2024-Qq: 87,317,900

@@ -1,0 +1,8 @@
+**Stock Price Analysis Summary**
+
+The ACM stock price chart exhibits a general upward trend over the period from January 2023 to January 2025. 
+
+* The stock price started around $85 and fluctuated between $80 and $90 until early 2024.
+* A significant increase is observed from early 2024, with the price rising from around $80 to a peak of $116.36.
+* The overall average stock price is $89.40, with a low of $73.72.
+* The relationship between time (X) and stock price (Y) indicates a positive correlation, particularly from mid-2024 onwards.

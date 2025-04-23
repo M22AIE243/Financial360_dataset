@@ -1,0 +1,16 @@
+Summary of MRNA data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 197.02
+Lowest Closing Price: 36.85
+Average Closing Price: 107.33
+Total Volume: 2,267,753,500
+
+Quarterly Volume:
+2023-Qq: 222,381,000
+2023-Qq: 206,998,800
+2023-Qq: 243,346,200
+2023-Qq: 299,924,100
+2024-Qq: 269,228,700
+2024-Qq: 252,530,100
+2024-Qq: 291,347,700
+2024-Qq: 481,996,900

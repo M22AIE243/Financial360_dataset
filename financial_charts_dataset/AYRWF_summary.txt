@@ -1,0 +1,16 @@
+Summary of AYRWF data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 4.00
+Lowest Closing Price: 0.38
+Average Closing Price: 1.65
+Total Volume: 143,516,500
+
+Quarterly Volume:
+2023-Qq: 18,299,500
+2023-Qq: 9,604,200
+2023-Qq: 19,246,800
+2023-Qq: 19,213,200
+2024-Qq: 23,073,500
+2024-Qq: 15,460,800
+2024-Qq: 10,887,400
+2024-Qq: 27,731,100

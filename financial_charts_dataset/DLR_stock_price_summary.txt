@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The DLR stock price exhibits an overall upward trend from January 2023 to January 2025. The stock price starts around $90, fluctuates between $80 and $120 until mid-2023, and then steadily increases to around $140 by early 2024. The price continues to rise, with some volatility, reaching a peak of nearly $200 in late 2024 before slightly declining to around $180 by January 2025. The relationship between time (X) and stock price (Y) is generally positive, indicating a long-term increase in stock value. The trend suggests a strong and relatively stable growth in the stock price over the observed period.

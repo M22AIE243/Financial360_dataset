@@ -1,0 +1,13 @@
+Here's a summary of the stock trading data for TEX in 4-5 concise lines:
+
+**Key Trends and Performance:**
+- Average Closing Price: $53.78
+- Highest Closing Price: $66.07
+- Lowest Closing Price: $40.80
+
+**Volume Changes:**
+- Total Volume: 426,095,400 shares traded
+- Quarterly volume trend: decreased in Q4 2023 and Q1 2024, then stabilized in Q2 and Q3 2024.
+
+**Price Movements:**
+- Notable price increase from the lowest closing price of $40.80 to the highest closing price of $66.07.

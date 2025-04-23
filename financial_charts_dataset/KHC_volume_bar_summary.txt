@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The chart shows the quarterly volume of KHC stock from Q1 2023 to Q4 2024. The total volume has generally increased over time, with some fluctuations. The lowest volume was recorded in Q1 2023 (approximately 4.2 billion), while the highest volume was in Q4 2024 (approximately 5.7 billion). The relationship between time (X-axis) and total volume (Y-axis) indicates a positive trend, with some minor dips. Overall, the stock's trading activity has trended upward over the past two years.

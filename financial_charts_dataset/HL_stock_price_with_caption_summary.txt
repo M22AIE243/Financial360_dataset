@@ -1,0 +1,10 @@
+**HL Stock Price Analysis**
+
+The HL stock price chart exhibits a volatile trend over the period from January 2023 to January 2025. 
+
+* The stock price fluctuates between a **lowest point of 3.34** and a **highest point of 7.51**, 
+* With an **average stock price of 5.19**. 
+* The overall trend appears to be slightly upward, with a notable increase in stock price from mid-2024 to late 2024, 
+* Followed by a decline in early 2025. 
+
+The relationship between time (X) and stock price (Y) is positively correlated in the long term but exhibits significant short-term fluctuations.

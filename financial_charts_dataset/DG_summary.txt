@@ -1,0 +1,16 @@
+Summary of DG data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 237.46
+Lowest Closing Price: 72.23
+Average Closing Price: 139.98
+Total Volume: 1,575,792,800
+
+Quarterly Volume:
+2023-Qq: 127,601,400
+2023-Qq: 180,336,000
+2023-Qq: 218,160,800
+2023-Qq: 215,911,900
+2024-Qq: 147,806,600
+2024-Qq: 159,325,400
+2024-Qq: 262,733,000
+2024-Qq: 263,917,700

@@ -1,0 +1,16 @@
+Summary of EME data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 526.34
+Lowest Closing Price: 141.29
+Average Closing Price: 278.73
+Total Volume: 192,983,300
+
+Quarterly Volume:
+2023-Qq: 18,366,000
+2023-Qq: 29,067,900
+2023-Qq: 19,812,000
+2023-Qq: 17,830,400
+2024-Qq: 25,587,800
+2024-Qq: 32,730,000
+2024-Qq: 25,911,600
+2024-Qq: 23,677,600

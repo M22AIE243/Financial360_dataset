@@ -1,0 +1,16 @@
+Summary of RGLD data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 153.34
+Lowest Closing Price: 99.76
+Average Closing Price: 122.71
+Total Volume: 199,620,500
+
+Quarterly Volume:
+2023-Qq: 29,598,500
+2023-Qq: 27,537,100
+2023-Qq: 23,955,800
+2023-Qq: 24,011,900
+2024-Qq: 24,655,100
+2024-Qq: 26,100,600
+2024-Qq: 20,201,600
+2024-Qq: 23,559,900

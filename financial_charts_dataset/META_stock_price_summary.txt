@@ -1,0 +1,6 @@
+The META stock price chart shows a strong upward trend over the period from January 2023 to January 2025. 
+
+* The stock price started at around $100 in January 2023 and ended at around $600 in January 2025, representing a significant increase of approximately 500%. 
+* The relationship between X (time) and Y (stock price) is generally positive, with some fluctuations. 
+* The stock price experienced a sharp increase in January 2024 and another significant surge in April 2024, followed by a slight dip before continuing its upward trajectory. 
+* Overall, the chart indicates a bullish trend, suggesting investor confidence and potential growth in the company's value.

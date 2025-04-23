@@ -1,0 +1,16 @@
+Summary of CASH data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 84.75
+Lowest Closing Price: 39.99
+Average Closing Price: 54.24
+Total Volume: 100,832,000
+
+Quarterly Volume:
+2023-Qq: 18,346,300
+2023-Qq: 13,048,500
+2023-Qq: 11,830,200
+2023-Qq: 11,190,800
+2024-Qq: 11,648,400
+2024-Qq: 10,096,600
+2024-Qq: 11,882,100
+2024-Qq: 12,789,100

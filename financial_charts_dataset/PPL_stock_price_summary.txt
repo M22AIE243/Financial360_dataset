@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The PPL stock price chart shows a fluctuating trend from January 2023 to January 2025. Initially, the stock price decreased from around $28 to a low of approximately $22 in October 2023. However, it then exhibited a strong upward trend, increasing to around $34 by January 2025. The relationship between time (X) and stock price (Y) is generally positive over the long term, with some short-term volatility. Overall, the stock price has recovered and surpassed its initial value, indicating a positive trend.

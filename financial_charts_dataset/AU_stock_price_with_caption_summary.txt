@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The AU stock price chart shows a volatile trend over the period from January 2023 to January 2025. The stock price fluctuated between $14.47 and $31.44, with an average price of $21.77. Initially, the price increased from January 2023 to mid-2023, then declined until early 2024, before rising again until late 2024, and finally decreasing until January 2025. The relationship between time (X) and stock price (Y) is positively correlated in certain periods, but overall, it exhibits a mix of upward and downward trends. The stock price shows significant variability throughout the observed period.

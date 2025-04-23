@@ -1,0 +1,13 @@
+Here's a concise summary of the stock trading data for TCNNF:
+
+**Key Trends and Performance:**
+- The stock's highest closing price reached $14.37, while the lowest was $3.45.
+- The average closing price was $7.46 over the 502 trading days.
+- The stock experienced a significant increase in average closing price, indicating overall performance improvement.
+
+**Volume Changes:**
+- Total trading volume was 226,327,700 shares.
+- Quarterly volume increased from 2023-Q1 ($25.89M) to 2024-Q4 ($40.08M), indicating growing interest in the stock.
+
+**Price Movements:**
+- The stock's price fluctuated throughout the period, but overall, the average closing price trended upward, suggesting a positive market sentiment.

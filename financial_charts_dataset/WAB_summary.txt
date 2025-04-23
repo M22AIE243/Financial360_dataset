@@ -1,0 +1,16 @@
+Summary of WAB data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 205.14
+Lowest Closing Price: 91.78
+Average Closing Price: 134.34
+Total Volume: 501,581,900
+
+Quarterly Volume:
+2023-Qq: 59,834,700
+2023-Qq: 62,855,400
+2023-Qq: 49,115,500
+2023-Qq: 57,234,400
+2024-Qq: 62,293,000
+2024-Qq: 70,499,300
+2024-Qq: 75,858,500
+2024-Qq: 63,891,100

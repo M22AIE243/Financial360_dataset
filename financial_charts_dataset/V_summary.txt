@@ -1,0 +1,16 @@
+Summary of V data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 320.37
+Lowest Closing Price: 203.85
+Average Closing Price: 255.34
+Total Volume: 3,234,914,800
+
+Quarterly Volume:
+2023-Qq: 389,843,600
+2023-Qq: 403,709,200
+2023-Qq: 328,796,100
+2023-Qq: 370,423,800
+2024-Qq: 344,693,300
+2024-Qq: 499,527,200
+2024-Qq: 520,547,500
+2024-Qq: 377,374,100

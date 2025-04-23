@@ -1,0 +1,16 @@
+Summary of WM data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 226.85
+Lowest Closing Price: 143.63
+Average Closing Price: 181.27
+Total Volume: 801,930,900
+
+Quarterly Volume:
+2023-Qq: 114,861,400
+2023-Qq: 93,034,800
+2023-Qq: 88,135,100
+2023-Qq: 97,413,100
+2024-Qq: 102,074,500
+2024-Qq: 112,679,700
+2024-Qq: 98,824,000
+2024-Qq: 94,908,300

@@ -1,0 +1,5 @@
+Here is a succinct analysis of the stock price chart:
+
+The PRU stock price chart shows a general upward trend from January 2023 to January 2025. The stock price started around $90, dropped to a low of around $70 in April 2023, and then recovered to around $80. It then steadily increased to around $120 by July 2024, with some fluctuations. The price continued to rise, reaching a peak of around $130 in late 2024, before slightly declining to around $120 by January 2025. Overall, the relationship between time (X) and stock price (Y) is positively correlated, with some volatility. 
+
+Let me know if you want me to expand on this!

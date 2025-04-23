@@ -1,0 +1,16 @@
+Summary of PRGO data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 38.14
+Lowest Closing Price: 24.18
+Average Closing Price: 30.32
+Total Volume: 733,005,300
+
+Quarterly Volume:
+2023-Qq: 67,912,800
+2023-Qq: 64,698,900
+2023-Qq: 88,084,300
+2023-Qq: 112,084,300
+2024-Qq: 123,329,700
+2024-Qq: 95,235,200
+2024-Qq: 87,087,500
+2024-Qq: 94,572,600

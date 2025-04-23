@@ -1,0 +1,16 @@
+Summary of SRE data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 93.27
+Lowest Closing Price: 62.18
+Average Closing Price: 72.96
+Total Volume: 1,421,450,500
+
+Quarterly Volume:
+2023-Qq: 168,643,000
+2023-Qq: 149,446,400
+2023-Qq: 142,722,800
+2023-Qq: 216,837,700
+2024-Qq: 177,593,100
+2024-Qq: 197,895,500
+2024-Qq: 167,268,400
+2024-Qq: 201,043,600

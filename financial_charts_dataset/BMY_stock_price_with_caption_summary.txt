@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The BMY stock price chart shows a downward trend from January 2023 to July 2024, with the price decreasing from around 67 to 38. However, the trend reverses in July 2024, and the stock price starts to increase, reaching around 55 by January 2025. The highest price recorded is 67.56, while the lowest is 38.18, with an average price of 52.61. Overall, the relationship between time (X) and stock price (Y) shows a significant decline followed by a strong recovery. The stock price appears to be highly volatile, with several fluctuations throughout the period.

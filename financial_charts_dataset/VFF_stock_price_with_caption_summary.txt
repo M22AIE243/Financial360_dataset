@@ -1,0 +1,8 @@
+**Stock Price Analysis: VFF**
+
+The VFF stock price chart exhibits a volatile trend over the period from January 2023 to January 2025. 
+
+* The stock price peaked at $1.68 and hit a low of $0.56, with an average price of $0.91.
+* It initially surged to a high in early 2023, then declined steadily until mid-2023, reaching its lowest point around $0.6.
+* The price recovered and spiked again in early 2024 to around $1.6 before declining steadily to around $0.7 by January 2025. 
+* Overall, the relationship between time (X) and stock price (Y) shows a general downward trend.

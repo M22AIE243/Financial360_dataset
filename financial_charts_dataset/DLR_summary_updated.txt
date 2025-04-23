@@ -1,0 +1,7 @@
+Here's a summary of the DLR stock trading data:
+
+* Total trading days: 502
+* Average closing price: $129.00, indicating moderate growth
+* Highest closing price: $192.79, with a 140.5% increase from the lowest closing price of $80.69
+* Total volume: 1,069,253,500 shares traded, with a slight decline in volume over time
+* Key trend: Prices showed moderate growth over the period, with some fluctuations in volume.

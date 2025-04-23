@@ -1,0 +1,16 @@
+Summary of SYY data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 80.67
+Lowest Closing Price: 60.20
+Average Closing Price: 71.85
+Total Volume: 1,423,575,200
+
+Quarterly Volume:
+2023-Qq: 147,542,600
+2023-Qq: 152,988,300
+2023-Qq: 153,906,700
+2023-Qq: 182,164,600
+2024-Qq: 184,787,700
+2024-Qq: 210,648,500
+2024-Qq: 200,817,400
+2024-Qq: 190,719,400

@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The RTX stock price chart shows a general upward trend from 2023 to 2025. The stock price started around $90 in early 2023, remained relatively stable until October 2023, when it dropped to around $70. The price then recovered and steadily increased to around $120 by October 2024. Since then, the price has remained relatively stable, with some fluctuations, and ended around $110 in January 2025. Overall, the relationship between time (X) and stock price (Y) shows a significant increase over the two-year period.

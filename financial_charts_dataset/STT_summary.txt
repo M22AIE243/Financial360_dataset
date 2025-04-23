@@ -1,0 +1,16 @@
+Summary of STT data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 99.15
+Lowest Closing Price: 59.73
+Average Closing Price: 74.30
+Total Volume: 1,199,444,300
+
+Quarterly Volume:
+2023-Qq: 188,102,700
+2023-Qq: 168,625,500
+2023-Qq: 158,727,800
+2023-Qq: 127,665,000
+2024-Qq: 136,813,000
+2024-Qq: 147,514,600
+2024-Qq: 134,642,600
+2024-Qq: 137,353,100

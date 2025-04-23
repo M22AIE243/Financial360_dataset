@@ -1,0 +1,7 @@
+Here's a concise summary of the PRPL stock trading data:
+
+- **Average Closing Price:** $1.95
+- **Total Trading Volume:** 401,010,500
+- **Quarterly Volume Trend:** Decreased from Q1 2023 (59,930,500) to Q4 2024 (21,066,300), indicating a decline in trading activity.
+- **Price Movement:** PRPL's price fluctuated between $0.56 (lowest) and $6.37 (highest), showing volatility.
+- **Overall Performance:** The stock's average closing price remained relatively stable, indicating minimal growth or decline over the period.

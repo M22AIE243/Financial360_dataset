@@ -1,0 +1,6 @@
+Here's a concise summary of the ICE stock trading data:
+
+- **Average Closing Price:** $125.74 (up 37% from the lowest price of $92.53)
+- **Price Movement:** Highest closing price of $165.95, indicating a 79% increase from the lowest price
+- **Volume Trend:** Total volume of 1,287,669,200, with a slight decline in the fourth quarter of 2024 (189,877,300) compared to the third quarter (177,991,500)
+- **Quarterly Performance:** Mixed performance with the second quarter of 2023 showing the lowest average closing price ($118.63) and the third quarter of 2024 showing the highest average closing price ($143.27)

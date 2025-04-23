@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The IVZ stock price chart shows a volatile trend over the past two years, with a high of 18.24 and a low of 11.60. The stock price initially declined from 17-18 to around 11.60, before recovering to 16-17. It then trended upward, reaching 17-18 again. The overall average stock price is 15.32. The relationship between time (X) and stock price (Y) shows a general upward trend over the past two years.

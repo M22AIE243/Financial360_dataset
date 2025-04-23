@@ -1,0 +1,16 @@
+Summary of EIX data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 86.11
+Lowest Closing Price: 56.69
+Average Closing Price: 68.18
+Total Volume: 973,692,600
+
+Quarterly Volume:
+2023-Qq: 130,548,600
+2023-Qq: 95,015,700
+2023-Qq: 96,907,400
+2023-Qq: 139,015,800
+2024-Qq: 142,194,000
+2024-Qq: 112,983,200
+2024-Qq: 123,566,500
+2024-Qq: 133,461,400

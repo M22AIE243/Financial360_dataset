@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The SHOO stock price chart shows an overall upward trend from January 2023 to January 2025. The stock price started around $30 and increased to around $45, with some fluctuations. A significant surge occurred between October 2023 and October 2024, where the price rose from around $30 to $48. Since then, the price has declined to around $42. The relationship between time (X) and stock price (Y) indicates a positive correlation, with some volatility.

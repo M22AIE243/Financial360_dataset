@@ -1,0 +1,7 @@
+Here's a summary of the VFF stock trading data in 4-5 concise lines:
+
+- VFF stock experienced an average closing price of $0.91 over 502 trading days.
+- The stock saw a price range of $0.56 (lowest) to $1.68 (highest) during the period.
+- Total trading volume was 352,165,100 shares.
+- Quarterly volume trends show a decline from 84,771,700 in Q1 2023 to 27,789,400 in Q4 2024, with a slight increase in Q2 2024 (55,153,600).
+- Overall, the stock's performance indicates a relatively stable price movement with a slight decline in trading volume over the years.

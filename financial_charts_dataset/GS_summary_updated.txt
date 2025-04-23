@@ -1,0 +1,6 @@
+Here's a concise summary of the provided GS stock trading data:
+
+- **Average Closing Price:** $391.83, with a **Highest Closing Price** of $602.58 and a **Lowest Closing Price** of $279.36.
+- **Total Trading Volume:** 1,137,058,100 shares traded over 502 days.
+- **Quarterly Volume Trends:** Volume decreased from Q1 2023 to Q4 2023, but showed a slight increase in 2024, with a **peak volume** of 187,891,600 in Q1 2023 and a **low volume** of 126,891,300 in Q3 2023.
+- **Price Movement:** The stock price fluctuated significantly, with a **52-week range** of $279.36 to $602.58.

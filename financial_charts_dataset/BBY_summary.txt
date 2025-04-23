@@ -1,0 +1,16 @@
+Summary of BBY data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 100.92
+Lowest Closing Price: 58.77
+Average Closing Price: 75.70
+Total Volume: 1,376,930,300
+
+Quarterly Volume:
+2023-Qq: 148,713,500
+2023-Qq: 145,646,700
+2023-Qq: 135,594,000
+2023-Qq: 174,006,400
+2024-Qq: 190,909,400
+2024-Qq: 203,969,700
+2024-Qq: 185,651,100
+2024-Qq: 192,439,500

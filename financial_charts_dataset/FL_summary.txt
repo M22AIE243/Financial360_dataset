@@ -1,0 +1,16 @@
+Summary of FL data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 44.50
+Lowest Closing Price: 16.32
+Average Closing Price: 27.74
+Total Volume: 1,802,912,800
+
+Quarterly Volume:
+2023-Qq: 164,103,700
+2023-Qq: 227,720,700
+2023-Qq: 305,633,800
+2023-Qq: 259,509,000
+2024-Qq: 233,422,600
+2024-Qq: 200,754,800
+2024-Qq: 189,380,500
+2024-Qq: 222,387,700

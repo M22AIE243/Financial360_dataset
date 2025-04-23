@@ -1,0 +1,16 @@
+Summary of XEL data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 71.72
+Lowest Closing Price: 46.26
+Average Closing Price: 58.66
+Total Volume: 1,933,795,400
+
+Quarterly Volume:
+2023-Qq: 183,425,400
+2023-Qq: 192,343,900
+2023-Qq: 268,895,200
+2023-Qq: 256,528,700
+2024-Qq: 353,621,600
+2024-Qq: 241,324,900
+2024-Qq: 203,606,000
+2024-Qq: 234,049,700

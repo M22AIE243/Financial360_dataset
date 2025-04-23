@@ -1,0 +1,16 @@
+Summary of CHD data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 111.94
+Lowest Closing Price: 77.53
+Average Closing Price: 96.10
+Total Volume: 713,536,200
+
+Quarterly Volume:
+2023-Qq: 85,088,700
+2023-Qq: 97,645,400
+2023-Qq: 76,314,300
+2023-Qq: 102,842,700
+2024-Qq: 79,232,800
+2024-Qq: 83,197,000
+2024-Qq: 96,166,800
+2024-Qq: 93,048,500

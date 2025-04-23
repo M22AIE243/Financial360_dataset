@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The ADSK stock price chart shows an overall upward trend from January 2023 to January 2025. The stock price started around 180 and increased to around 310, with some fluctuations. There was a significant dip in mid-2024, but the price recovered and continued to rise. The relationship between time (X) and stock price (Y) is generally positive, with the stock price increasing over time. Volatility is present, with short-term price swings, but the long-term trend is bullish.

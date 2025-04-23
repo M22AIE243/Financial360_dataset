@@ -1,0 +1,6 @@
+Here's a concise summary of KBR's stock trading data:
+
+- **Average Closing Price:** $59.14, indicating a relatively stable performance.
+- **Price Movement:** The stock traded between $46.89 (lowest) and $71.60 (highest) over the period.
+- **Volume Changes:** Total trading volume was 633,680,200 shares, with a notable increase in the last quarter of 2023 (108,079,100 shares).
+- **Quarterly Trends:** The stock saw a decrease in volume in 2024, with the lowest quarterly volume being 57,707,500 shares in 2024-Qq.

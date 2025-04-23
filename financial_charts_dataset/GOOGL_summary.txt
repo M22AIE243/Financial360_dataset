@@ -1,0 +1,16 @@
+Summary of GOOGL data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 196.43
+Lowest Closing Price: 85.79
+Average Closing Price: 140.82
+Total Volume: 15,100,341,700
+
+Quarterly Volume:
+2023-Qq: 2,485,411,900
+2023-Qq: 2,081,408,400
+2023-Qq: 1,779,172,600
+2023-Qq: 1,835,836,100
+2024-Qq: 1,901,150,300
+2024-Qq: 1,662,968,100
+2024-Qq: 1,609,484,400
+2024-Qq: 1,744,909,900

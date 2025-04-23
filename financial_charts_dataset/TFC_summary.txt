@@ -1,0 +1,16 @@
+Summary of TFC data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 47.56
+Lowest Closing Price: 23.35
+Average Closing Price: 35.04
+Total Volume: 4,913,110,400
+
+Quarterly Volume:
+2023-Qq: 754,755,800
+2023-Qq: 840,441,100
+2023-Qq: 645,036,600
+2023-Qq: 610,247,400
+2024-Qq: 603,342,000
+2024-Qq: 471,560,200
+2024-Qq: 479,308,300
+2024-Qq: 508,419,000

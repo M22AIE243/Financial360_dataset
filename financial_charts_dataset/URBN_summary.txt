@@ -1,0 +1,16 @@
+Summary of URBN data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 55.81
+Lowest Closing Price: 24.26
+Average Closing Price: 36.36
+Total Volume: 854,348,600
+
+Quarterly Volume:
+2023-Qq: 100,834,500
+2023-Qq: 112,345,500
+2023-Qq: 93,829,400
+2023-Qq: 112,605,500
+2024-Qq: 107,444,800
+2024-Qq: 103,385,100
+2024-Qq: 118,898,100
+2024-Qq: 105,005,700

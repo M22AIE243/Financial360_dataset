@@ -1,0 +1,16 @@
+Summary of TRIP data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 28.56
+Lowest Closing Price: 12.95
+Average Closing Price: 18.49
+Total Volume: 1,247,823,800
+
+Quarterly Volume:
+2023-Qq: 146,463,800
+2023-Qq: 171,293,400
+2023-Qq: 167,377,600
+2023-Qq: 171,567,400
+2024-Qq: 158,813,900
+2024-Qq: 161,310,400
+2024-Qq: 134,678,500
+2024-Qq: 136,318,800

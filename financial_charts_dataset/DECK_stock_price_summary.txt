@@ -1,0 +1,8 @@
+**DECK Stock Price Analysis**
+
+The DECK stock price chart exhibits a strong upward trend over the observed period, from January 2023 to January 2025. 
+
+* The stock price started around $65 and increased to approximately $210, indicating a significant growth of about 223%.
+* A notable surge occurred between late 2023 and early 2024, where the price jumped from around $80 to $120.
+* The overall trend shows a steady increase, with some fluctuations, particularly around mid-2024. 
+* The relationship between time (X) and stock price (Y) is predominantly positive, suggesting a favorable market performance for DECK.

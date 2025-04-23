@@ -1,0 +1,17 @@
+Here's a concise summary of the CNC stock trading data:
+
+**Key Trends and Performance:**
+
+- CNC's highest closing price reached $80.41, while the lowest was $56.71, resulting in an average closing price of $70.21.
+- The stock experienced a relatively stable average closing price over the given period.
+- CNC's total trading volume was 1,928,850,700 shares.
+
+**Volume and Price Movements:**
+
+- The stock showed varying volume levels across quarters, with a significant increase in 2024-Q4 (400,670,800 shares).
+- There was a noticeable price movement, with the highest closing price exceeding the lowest by $23.70.
+
+**Notable Observations:**
+
+- The average closing price remained relatively stable despite fluctuations in volume and price.
+- CNC's trading volume showed a slight decline in the first two quarters of 2024, followed by a significant increase in the fourth quarter.

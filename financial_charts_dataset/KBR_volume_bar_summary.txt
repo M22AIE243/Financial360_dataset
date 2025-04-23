@@ -1,0 +1,8 @@
+Here is a succinct description of the stock price chart:
+
+The chart displays KBR's quarterly volume from Q1 2023 to Q4 2024. 
+* The total volume has fluctuated over time, with a peak in Q4 2023 (1.04 billion) and a trough in Q3 2024 (0.54 billion).
+* The relationship between time (X-axis) and total volume (Y-axis) shows an initial increase, followed by volatility, and then a recent surge.
+* Overall, the stock's quarterly volume has trended upward, with significant variability.
+
+Let me know if you'd like me to elaborate!

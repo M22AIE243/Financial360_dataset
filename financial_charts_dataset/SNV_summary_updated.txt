@@ -1,0 +1,7 @@
+Here's a concise summary of the SNV stock trading data:
+
+- **Key Trends:** SNV's average closing price increased from 2023 to 2024, indicating a positive trend.
+- **Performance:** The stock's average closing price rose from $35.89 to an unspecified value, although the highest closing price was $57.81.
+- **Volume Changes:** Quarterly trading volume fluctuated, with a slight decrease in 2023-Qq and a slight increase in 2024-Qq.
+- **Price Movements:** The stock's price moved within a range of $23.58 (lowest closing price) to $57.81 (highest closing price).
+- **Total Volume:** The total trading volume was 736,172,800 shares, indicating moderate trading activity over the period.

@@ -1,0 +1,10 @@
+The provided image is not a stock price chart but rather a pie chart showing the quarterly volume distribution of ASO. However, I will provide a summary of the data.
+
+The pie chart shows the quarterly volume distribution of ASO across eight quarters. The key trends are:
+
+- The highest volume distribution is 14.8% in 2023-Q2.
+- The lowest volume distribution is 10.5% in 2024-Q3.
+- The volume distribution for 2023 ranges from 10.9% to 14.8%.
+- The volume distribution for 2024 ranges from 10.5% to 13.0%.
+
+There is no clear relationship between X (time) and Y (volume distribution) as the data is presented in a pie chart and not a time series. However, it can be observed that the volume distribution for 2023 and 2024 shows some variation across quarters.

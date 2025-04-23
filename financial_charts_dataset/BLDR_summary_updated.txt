@@ -1,0 +1,7 @@
+Here's a concise summary of the BLDR stock trading data:
+
+- **Average Closing Price:** $144.97, with a **High** of $211.12 and a **Low** of $65.35.
+- **Total Trading Volume:** 876,626,700 shares over 502 trading days.
+- **Quarterly Volume Trends:** Volumes decreased in 2024 compared to 2023, with a notable decline in Q4 2024.
+- **Price Movement:** The stock experienced a moderate increase in price, but with volatility as indicated by the high and low prices.
+- **Key Takeaway:** Despite a slight decline in trading volume, the average closing price remained relatively stable, suggesting a stable market interest in the stock.

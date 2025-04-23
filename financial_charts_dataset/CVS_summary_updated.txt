@@ -1,0 +1,10 @@
+Here's a summary of the CVS stock trading data in 4-5 concise lines:
+
+**Key Trends and Performance:**
+CVS stock has shown an overall upward trend, with an average closing price of $65.25 and a highest closing price of $85.31. The stock's average closing price has increased by 22.5% from the lowest closing price of $53.23 (note: lowest closing price was not provided, but based on given data 43.23 is the lowest closing price).
+
+**Volume Changes:**
+Total volume traded was 5,094,327,500 shares. The quarterly volume increased significantly in 2024, with a peak of 881,941,200 shares in Q4 2024.
+
+**Price Movements:**
+The stock's price movement shows a moderate increase, with a highest closing price of $85.31 and a lowest closing price of $43.23. However, the stock's price volatility is relatively high, with a range of $42.08.

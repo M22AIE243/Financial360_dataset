@@ -1,0 +1,16 @@
+Summary of GIII data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 36.10
+Lowest Closing Price: 13.97
+Average Closing Price: 25.00
+Total Volume: 287,197,100
+
+Quarterly Volume:
+2023-Qq: 41,725,600
+2023-Qq: 33,127,900
+2023-Qq: 32,495,000
+2023-Qq: 36,512,400
+2024-Qq: 40,588,000
+2024-Qq: 37,698,800
+2024-Qq: 35,355,800
+2024-Qq: 29,693,600

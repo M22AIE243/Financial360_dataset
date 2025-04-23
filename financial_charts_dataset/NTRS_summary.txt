@@ -1,0 +1,16 @@
+Summary of NTRS data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 109.54
+Lowest Closing Price: 59.94
+Average Closing Price: 80.84
+Total Volume: 657,878,700
+
+Quarterly Volume:
+2023-Qq: 75,131,500
+2023-Qq: 81,617,800
+2023-Qq: 81,629,700
+2023-Qq: 92,558,000
+2024-Qq: 94,898,400
+2024-Qq: 76,788,500
+2024-Qq: 75,587,600
+2024-Qq: 79,667,200

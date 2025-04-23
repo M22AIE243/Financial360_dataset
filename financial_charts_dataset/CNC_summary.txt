@@ -1,0 +1,16 @@
+Summary of CNC data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 80.41
+Lowest Closing Price: 56.71
+Average Closing Price: 70.21
+Total Volume: 1,928,850,700
+
+Quarterly Volume:
+2023-Qq: 248,898,500
+2023-Qq: 202,872,100
+2023-Qq: 215,598,600
+2023-Qq: 194,446,900
+2024-Qq: 183,308,700
+2024-Qq: 235,412,800
+2024-Qq: 247,642,300
+2024-Qq: 400,670,800

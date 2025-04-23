@@ -1,0 +1,16 @@
+Summary of PCAR data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 119.58
+Lowest Closing Price: 59.64
+Average Closing Price: 88.27
+Total Volume: 1,309,868,150
+
+Quarterly Volume:
+2023-Qq: 203,511,750
+2023-Qq: 166,852,500
+2023-Qq: 150,944,200
+2023-Qq: 141,895,100
+2024-Qq: 141,706,800
+2024-Qq: 173,322,900
+2024-Qq: 178,910,000
+2024-Qq: 152,724,900

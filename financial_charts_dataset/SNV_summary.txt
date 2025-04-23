@@ -1,0 +1,16 @@
+Summary of SNV data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 57.81
+Lowest Closing Price: 23.58
+Average Closing Price: 35.89
+Total Volume: 736,172,800
+
+Quarterly Volume:
+2023-Qq: 105,738,400
+2023-Qq: 99,716,700
+2023-Qq: 84,154,500
+2023-Qq: 96,736,600
+2024-Qq: 90,372,200
+2024-Qq: 81,333,000
+2024-Qq: 88,687,800
+2024-Qq: 89,433,600

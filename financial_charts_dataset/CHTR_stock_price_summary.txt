@@ -1,0 +1,5 @@
+The stock price of CHTR has fluctuated significantly over the period from January 2023 to January 2025. Initially, the stock price started at around 350 and increased to approximately 420 by April 2023. It then declined to around 300 by July 2023 before rising to a peak of about 450 in October 2023. 
+
+However, the stock price experienced a significant decline to around 250 by April 2024. It then recovered to around 325 by July 2024 and continued to rise to approximately 350 by October 2024. The stock price showed a slight increase to around 380 by January 2025. 
+
+The relationship between time and stock price shows an overall trend of significant fluctuations with a major dip in early 2024 but a recovery towards the end of 2024 and into 2025.

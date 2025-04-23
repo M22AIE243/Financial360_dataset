@@ -1,0 +1,9 @@
+Here's a concise summary of the COF stock trading data:
+
+* Key trend: The average closing price increased from $82.49 (lowest) to $124.24, indicating a positive performance.
+* Price movement: The stock price fluctuated between $82.49 and $191.44, with a significant increase of 137% from the lowest to the highest closing price.
+* Volume changes: Quarterly volumes showed a decline from 2023-Q1 to 2023-Q3, but then increased in 2024-Q4.
+* Key statistics:
+  - Total trading days: 502
+  - Total volume: 1,360,815,300
+  - Average closing price: $124.24

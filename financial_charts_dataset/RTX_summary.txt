@@ -1,0 +1,16 @@
+Summary of RTX data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 125.90
+Lowest Closing Price: 66.95
+Average Closing Price: 96.12
+Total Volume: 3,307,565,700
+
+Quarterly Volume:
+2023-Qq: 297,800,800
+2023-Qq: 264,467,800
+2023-Qq: 504,918,600
+2023-Qq: 627,911,700
+2024-Qq: 495,419,000
+2024-Qq: 448,048,900
+2024-Qq: 376,627,900
+2024-Qq: 292,371,000

@@ -1,0 +1,16 @@
+Summary of RSG data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 217.60
+Lowest Closing Price: 118.30
+Average Closing Price: 166.36
+Total Volume: 586,871,000
+
+Quarterly Volume:
+2023-Qq: 97,510,800
+2023-Qq: 69,551,400
+2023-Qq: 64,757,600
+2023-Qq: 75,614,700
+2024-Qq: 72,132,100
+2024-Qq: 76,334,300
+2024-Qq: 69,960,500
+2024-Qq: 61,009,600

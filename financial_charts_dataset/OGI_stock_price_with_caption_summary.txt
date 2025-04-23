@@ -1,0 +1,6 @@
+The OGI stock price chart shows a significant decline from January 2023 to January 2024, with the price dropping from around 3.9 to 1.00. 
+
+* The stock price initially peaked at approximately 3.96 in early 2023.
+* It then exhibited a downward trend until it hit a low of 1.00 around early 2024. 
+* After that, the stock price showed some recovery and fluctuation, with an average price of 1.87 over the period. 
+* Overall, the relationship between time (X) and stock price (Y) indicates a volatile market with an overall downward trend in the initial period, followed by stabilization.

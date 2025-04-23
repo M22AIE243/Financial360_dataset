@@ -1,0 +1,16 @@
+Summary of CRON data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 3.02
+Lowest Closing Price: 1.67
+Average Closing Price: 2.13
+Total Volume: 923,707,100
+
+Quarterly Volume:
+2023-Qq: 105,263,600
+2023-Qq: 73,418,100
+2023-Qq: 173,767,300
+2023-Qq: 107,542,700
+2024-Qq: 159,472,400
+2024-Qq: 171,020,700
+2024-Qq: 60,042,700
+2024-Qq: 73,179,600

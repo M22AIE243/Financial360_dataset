@@ -1,0 +1,16 @@
+Summary of NFLX data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 936.56
+Lowest Closing Price: 292.76
+Average Closing Price: 531.43
+Total Volume: 2,503,485,700
+
+Quarterly Volume:
+2023-Qq: 487,346,900
+2023-Qq: 420,687,000
+2023-Qq: 376,297,700
+2023-Qq: 316,175,200
+2024-Qq: 277,682,000
+2024-Qq: 217,253,800
+2024-Qq: 201,334,800
+2024-Qq: 206,708,300

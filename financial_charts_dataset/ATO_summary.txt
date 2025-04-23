@@ -1,0 +1,16 @@
+Summary of ATO data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 150.55
+Lowest Closing Price: 98.82
+Average Closing Price: 116.40
+Total Volume: 446,167,100
+
+Quarterly Volume:
+2023-Qq: 50,651,900
+2023-Qq: 57,284,500
+2023-Qq: 47,461,300
+2023-Qq: 71,651,200
+2024-Qq: 52,592,100
+2024-Qq: 61,303,000
+2024-Qq: 54,257,500
+2024-Qq: 50,965,600

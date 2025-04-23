@@ -1,0 +1,17 @@
+Here's a concise summary of the EL stock trading data:
+
+**Key Performance Indicators:**
+
+- Average Closing Price: $146.53
+- Highest Closing Price: $269.17
+- Lowest Closing Price: $62.14
+- Total Volume: 1,466,299,100 shares
+
+**Trend Analysis:**
+The stock has shown a significant increase in price, with an average closing price nearly 2.4 times higher than the lowest closing price. The total volume has also increased, indicating growing interest in the stock.
+
+**Volume Changes:**
+Quarterly volume has seen a steady increase, with a notable jump in the 4th quarter of 2024 (292,735,800 shares). This suggests a surge in investor interest towards the end of the year.
+
+**Price Movements:**
+The stock's price has shown a general upward trend, with the highest closing price more than 4 times higher than the lowest closing price.

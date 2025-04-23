@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The LNT stock price chart shows a relatively stable trend from January 2023 to mid-2024, with prices ranging from $43.80 to around $50. A significant uptrend emerges from mid-2024, with the stock price increasing steadily to reach a peak of $63.09. The overall trend suggests a positive relationship between time (X) and stock price (Y), with a notable acceleration in price growth from mid-2024 onwards. The average stock price over the period is $51.01.

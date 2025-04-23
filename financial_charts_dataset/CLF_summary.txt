@@ -1,0 +1,16 @@
+Summary of CLF data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 22.83
+Lowest Closing Price: 9.24
+Average Closing Price: 16.44
+Total Volume: 5,181,898,600
+
+Quarterly Volume:
+2023-Qq: 650,096,700
+2023-Qq: 572,160,100
+2023-Qq: 633,953,800
+2023-Qq: 596,742,200
+2024-Qq: 537,642,500
+2024-Qq: 570,195,600
+2024-Qq: 746,293,200
+2024-Qq: 874,814,500

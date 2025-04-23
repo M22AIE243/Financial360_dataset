@@ -1,0 +1,3 @@
+The image presents a pie chart illustrating the quarterly volume distribution of EIX, which seems to represent stock volume traded, not stock price. Here's a summary of the chart:
+
+The chart shows the quarterly distribution of EIX's trading volume across eight quarters, from 2023-Qq to 2024-Qq. The data indicates a relatively stable trading volume, with a slight variation across quarters. The highest trading volume is observed in 2024-Qq at 14.6%, while the lowest is in 2023-Qq at 9.8%. The relationship between time (X) and trading volume (Y) shows no clear upward or downward trend, but rather a fluctuation within a narrow range. Overall, the chart suggests a consistent trading activity in EIX stock over the observed period.

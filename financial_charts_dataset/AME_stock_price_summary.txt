@@ -1,0 +1,6 @@
+The AME stock price chart shows an overall upward trend from January 2023 to January 2025. 
+
+* The stock price started around $140 and increased to approximately $190.
+* There are fluctuations throughout the period, with some dips and peaks.
+* Notably, the stock price experienced a significant increase from early 2023 to early 2024, followed by a correction and then another surge to its peak in late 2024 and early 2025. 
+* The relationship between X (time) and Y (stock price) is generally positive, indicating that the stock price tends to increase over time.

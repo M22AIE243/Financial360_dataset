@@ -1,0 +1,16 @@
+Summary of BBWI data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 50.82
+Lowest Closing Price: 26.40
+Average Closing Price: 37.15
+Total Volume: 1,876,422,100
+
+Quarterly Volume:
+2023-Qq: 193,527,300
+2023-Qq: 230,917,400
+2023-Qq: 226,388,200
+2023-Qq: 218,342,600
+2024-Qq: 170,169,800
+2024-Qq: 183,428,300
+2024-Qq: 337,018,600
+2024-Qq: 316,629,900

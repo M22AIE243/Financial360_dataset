@@ -1,0 +1,16 @@
+Summary of MTZ data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 147.94
+Lowest Closing Price: 47.60
+Average Closing Price: 97.12
+Total Volume: 419,466,900
+
+Quarterly Volume:
+2023-Qq: 38,938,100
+2023-Qq: 39,751,900
+2023-Qq: 47,850,300
+2023-Qq: 77,924,400
+2024-Qq: 60,034,300
+2024-Qq: 48,493,500
+2024-Qq: 53,883,500
+2024-Qq: 52,590,900

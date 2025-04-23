@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The WM stock price chart shows an overall upward trend from January 2023 to January 2025. The stock price started around $140 and increased to a peak of around $230. There are periods of volatility, with fluctuations in the stock price, particularly between April 2024 and January 2025. Despite these fluctuations, the stock price generally increases over time, with a notable surge in price from October 2023 to April 2024. The relationship between time (X) and stock price (Y) is generally positive.

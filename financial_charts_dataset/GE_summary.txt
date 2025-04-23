@@ -1,0 +1,16 @@
+Summary of GE data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 193.55
+Lowest Closing Price: 52.34
+Average Closing Price: 119.02
+Total Volume: 3,322,813,039
+
+Quarterly Volume:
+2023-Qq: 632,465,332
+2023-Qq: 443,630,917
+2023-Qq: 339,864,849
+2023-Qq: 372,481,944
+2024-Qq: 464,446,005
+2024-Qq: 447,828,992
+2024-Qq: 324,347,000
+2024-Qq: 297,748,000

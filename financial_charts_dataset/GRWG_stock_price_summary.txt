@@ -1,0 +1,3 @@
+The GRWG stock price chart shows a clear downtrend from January 2023 to January 2025. The stock price peaked at around $5.5 in early 2023 and declined to around $1.75 by January 2025. 
+
+The relationship between X (time) and Y (stock price) indicates a strong negative correlation, with the stock price decreasing over time. There are some fluctuations in the stock price, but the overall trend is downward. The stock price volatility appears to have decreased over time, with smaller price swings in the later part of the chart. Overall, the chart suggests a bearish trend for GRWG stock.

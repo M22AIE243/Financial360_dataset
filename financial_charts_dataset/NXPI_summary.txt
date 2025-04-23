@@ -1,0 +1,16 @@
+Summary of NXPI data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 288.09
+Lowest Closing Price: 147.79
+Average Closing Price: 212.67
+Total Volume: 1,115,572,900
+
+Quarterly Volume:
+2023-Qq: 128,131,800
+2023-Qq: 137,488,000
+2023-Qq: 133,168,300
+2023-Qq: 137,145,800
+2024-Qq: 147,456,400
+2024-Qq: 125,245,400
+2024-Qq: 159,480,400
+2024-Qq: 147,456,800

@@ -1,0 +1,16 @@
+Summary of AMT data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 237.00
+Lowest Closing Price: 148.58
+Average Closing Price: 190.27
+Total Volume: 1,120,508,400
+
+Quarterly Volume:
+2023-Qq: 128,424,200
+2023-Qq: 129,339,100
+2023-Qq: 133,045,600
+2023-Qq: 139,973,600
+2024-Qq: 142,569,900
+2024-Qq: 157,817,900
+2024-Qq: 134,993,800
+2024-Qq: 154,344,300

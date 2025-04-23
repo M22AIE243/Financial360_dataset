@@ -1,0 +1,3 @@
+The stock price chart for NFLX exhibits a significant upward trend from 2023 to 2025. The stock price started at around 300 and fluctuated between 292.76 and 936.56, with an average price of 531.43. 
+
+The relationship between X (time) and Y (stock price) shows that as time increases, the stock price tends to increase. There are some fluctuations in the stock price, but the overall trend is upward. The stock price shows a significant increase in late 2024 and early 2025.

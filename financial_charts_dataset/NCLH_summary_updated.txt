@@ -1,0 +1,13 @@
+Here's a concise summary of the NCLH stock trading data:
+
+**Key Trends and Performance:**
+- The average closing price was $18.02, indicating a relatively stable market performance.
+- The highest closing price was $28.35, while the lowest was $11.86, showing a significant price fluctuation.
+
+**Volume Changes:**
+- Total volume traded was 6,708,418,900 shares.
+- Quarterly volume showed a decline from 2023-Q4 to 2024-Q4, with a noticeable drop in 2024-Q3.
+
+**Price Movements:**
+- The stock's price fluctuated throughout the period, with no clear upward or downward trend.
+- The stock's volatility might be attributed to the significant difference between the highest and lowest closing prices.

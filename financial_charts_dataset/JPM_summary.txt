@@ -1,0 +1,16 @@
+Summary of JPM data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 247.48
+Lowest Closing Price: 118.00
+Average Closing Price: 169.55
+Total Volume: 4,959,349,100
+
+Quarterly Volume:
+2023-Qq: 838,002,400
+2023-Qq: 684,698,800
+2023-Qq: 572,740,500
+2023-Qq: 590,953,500
+2024-Qq: 552,618,100
+2024-Qq: 595,509,000
+2024-Qq: 576,370,700
+2024-Qq: 548,456,100

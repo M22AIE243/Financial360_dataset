@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The BLDR stock price chart shows a general upward trend from January 2023 to April 2024, with the price increasing from around $65 to a peak of $211.12. However, the price then declined significantly to around $140 before fluctuating and eventually decreasing to around $130 by January 2025. The average stock price over the period is $144.97. The chart exhibits volatility, with several peaks and troughs throughout the period. Overall, the relationship between time (X) and stock price (Y) is positively correlated in the early stages but becomes more volatile and negatively correlated in the later stages.

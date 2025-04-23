@@ -1,0 +1,7 @@
+Here's a concise summary of the CLH stock trading data:
+
+- **Average Closing Price:** $185.69 (2023-2025)
+- **Price Movement:** The stock's highest closing price was $263.39, while the lowest was $111.02, indicating a price fluctuation of 136.37% ($263.39 - $111.02).
+- **Volume Trend:** Total trading volume was 161,615,200 shares, with a slight decrease in quarterly volume from 2023-Q4 to 2024-Q4.
+- **Key Performance:** The stock's average closing price increased from 2023 to 2025, indicating a positive performance over time.
+- **Notable Decrease:** A notable decrease in trading volume occurred between 2023-Q3 and 2024-Q2, from 19,565,600 to 16,400,800 shares.

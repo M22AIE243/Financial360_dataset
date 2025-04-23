@@ -1,0 +1,9 @@
+**HVT Stock Price Analysis**
+
+The HVT stock price chart exhibits a volatile trend over the period from January 2023 to January 2025. 
+
+* The stock price started at around $30 in January 2023, 
+* Peaked at approximately $34 in early 2024, 
+* And declined to around $22 by January 2025.
+
+The relationship between time (X) and stock price (Y) indicates a general downward trend, with significant fluctuations throughout the period. Overall, the stock price has decreased by about $8 over the two-year period.

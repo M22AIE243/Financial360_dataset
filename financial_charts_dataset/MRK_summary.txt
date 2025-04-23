@@ -1,0 +1,16 @@
+Summary of MRK data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 129.91
+Lowest Closing Price: 94.73
+Average Closing Price: 109.14
+Total Volume: 4,271,962,000
+
+Quarterly Volume:
+2023-Qq: 546,747,400
+2023-Qq: 436,092,700
+2023-Qq: 428,876,100
+2023-Qq: 506,893,500
+2024-Qq: 537,179,300
+2024-Qq: 521,905,900
+2024-Qq: 590,746,500
+2024-Qq: 703,520,600

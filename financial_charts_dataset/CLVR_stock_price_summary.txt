@@ -1,0 +1,11 @@
+**CLVR Stock Price Analysis**
+
+The CLVR stock price chart exhibits a pronounced downward trend over the observed period, spanning from January 2023 to January 2025. 
+
+* The stock price peaked at approximately $17 in early 2023, 
+* Followed by a sharp decline to around $7 by mid-2023. 
+* The price continued to decrease, albeit at a slower pace, stabilizing between $2 and $4 from late 2023 to mid-2024. 
+* A significant drop occurred in late 2024, with the price plummeting to nearly $0. 
+* The stock price remained relatively flat near $0 through January 2025.
+
+Overall, the chart indicates a substantial and sustained decline in CLVR's stock price over the two-year period.

@@ -1,0 +1,8 @@
+**CUBI Stock Price Analysis**
+
+The CUBI stock price chart exhibits a volatile trend over the period from January 2023 to January 2025. 
+
+* The stock price initially declined sharply to a low of **16.02**, before steadily increasing to around **40**.
+* It then surged to a peak of **66.85**, followed by a decline and stabilization around **50-40**.
+* The overall trend indicates a significant recovery from the low point, with an average stock price of **41.49**.
+* The stock price shows fluctuations, suggesting market instability and potential opportunities for investors.

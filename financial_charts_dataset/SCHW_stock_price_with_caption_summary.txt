@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The SCHW stock price chart shows a volatile trend from January 2023 to January 2025. The stock price peaked at $82.69 and hit a low of $45.89, with an average price of $64.38. Initially, the stock price declined sharply from $80 to $45 in early 2023, but then gradually recovered and trended upward over the next two years. The stock price shows an overall upward trajectory, with some fluctuations, and reached a new high near $80 by January 2025. The relationship between time (X) and stock price (Y) is positively correlated in the long term.

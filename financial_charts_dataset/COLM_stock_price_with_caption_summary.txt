@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The COLM stock price chart shows a volatile trend over the period from January 2023 to January 2025. The stock price peaked at $94.19 and hit a low of $68.42, with an average price of $79.14. Initially, the price declined from around $90 to $68.42, then gradually increased to around $80, and finally surged to a high of around $90 again. The relationship between time (X) and stock price (Y) shows an overall upward trend, with significant fluctuations. The stock price appears to have recovered and reached a new high by January 2025.

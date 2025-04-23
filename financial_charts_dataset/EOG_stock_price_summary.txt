@@ -1,0 +1,9 @@
+The EOG stock price chart shows a fluctuating trend over the period from January 2023 to January 2025. 
+
+* The stock price started at around $120 in January 2023, 
+* Dropped to a low of around $95 in early 2023, 
+* Then increased to around $130 in 2024, 
+* Peaked at $135 in mid-2024, 
+* And ended at around $125 in January 2025.
+
+There is a general upward trend in the stock price over the two-year period, with some volatility. The relationship between X (time) and Y (stock price) is positively correlated, indicating that as time progresses, the stock price tends to increase. However, there are periods of decline and fluctuation, suggesting market volatility.

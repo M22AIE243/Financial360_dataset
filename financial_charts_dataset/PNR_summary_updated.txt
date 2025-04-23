@@ -1,0 +1,7 @@
+Here's a summary of the PNR stock trading data in 4-5 concise lines:
+
+- Average closing price: $72.43, indicating a relatively stable performance.
+- Highest closing price reached: $108.61, while the lowest was $43.76.
+- Total trading volume: 719,010,700, with a notable increase in trading activity.
+- Quarterly volume showed a slight increase in 2024, with the highest quarter being Q4 2023 at 88,381,600.
+- The stock's price movement suggests a general upward trend, with the average closing price above the lowest recorded price.

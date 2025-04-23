@@ -1,0 +1,16 @@
+Summary of SAP data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 255.54
+Lowest Closing Price: 101.01
+Average Closing Price: 167.18
+Total Volume: 425,906,700
+
+Quarterly Volume:
+2023-Qq: 52,746,900
+2023-Qq: 58,402,400
+2023-Qq: 56,944,100
+2023-Qq: 53,599,700
+2024-Qq: 44,382,800
+2024-Qq: 51,682,800
+2024-Qq: 51,150,700
+2024-Qq: 56,997,300

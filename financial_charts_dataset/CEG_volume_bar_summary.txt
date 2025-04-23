@@ -1,0 +1,8 @@
+The stock price chart for CEG Quarterly Volume shows a fluctuation in total volume over time. 
+
+The key trends are as follows: 
+- The total volume decreased from 2023 Q1 to 2023 Q3, 
+- then increased significantly in 2024 Q1, 
+- and peaked in 2024 Q3.
+
+The relationship between X (time) and Y (stock price) indicates that while the stock volume is largely positively correlated with time, there are periods of significant decreases, such as between 2023 Q2 and 2023 Q3. The overall trend shows an increase in total volume over the observed quarters.

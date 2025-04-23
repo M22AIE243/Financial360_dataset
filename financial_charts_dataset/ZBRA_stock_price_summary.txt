@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The ZBRA stock price chart shows a general upward trend from January 2023 to January 2025. The stock price fluctuated between $250 and $350 from January 2023 to October 2023, before declining to a low of around $200. However, the price began to recover and steadily increased from October 2023 to January 2025, reaching a high of around $400. The relationship between time (X) and stock price (Y) is generally positive, indicating a long-term increase in stock value. Overall, the chart suggests a strong recovery and growth in the stock price over the past two years.

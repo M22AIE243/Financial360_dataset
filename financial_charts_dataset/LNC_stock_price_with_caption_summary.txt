@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The LNC stock price chart shows a volatile trend from January 2023 to January 2025. The stock price initially peaked around $32 in early 2023, then sharply declined to a low of around $17 in mid-2023. However, it rebounded and has been generally increasing, with some fluctuations, reaching a high of $35.82. The overall trend suggests a recovery and growth in stock price over the period, with an average price of $25.89. The relationship between time (X) and stock price (Y) indicates a positive correlation in the long term.

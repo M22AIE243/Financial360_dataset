@@ -1,0 +1,5 @@
+The stock price chart of CHD exhibits an overall upward trend from January 2023 to January 2025. The stock price starts around $80, increases to around $95 by mid-2023, and then fluctuates between $85 and $100 until early 2024. 
+
+It then steadily rises to a peak of $112 in late 2024, before declining slightly to around $105 by January 2025. The key trend is a long-term increase in stock price over the two-year period, with some short-term volatility. 
+
+The relationship between X (time) and Y (stock price) shows that as time progresses, the stock price tends to increase, with an average price of $96.10 and a highest price of $111.94.

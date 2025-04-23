@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The AMT stock price chart shows a fluctuating trend over the period from January 2023 to January 2025. The stock price starts around 210 in January 2023, then declines to around 160 in October 2023, before recovering to around 220 in January 2024. The price then increases to a peak of around 240 in October 2024, before declining sharply to around 180 in January 2025. Overall, the relationship between time (X) and stock price (Y) shows a volatile pattern with a slight upward trend. The stock price exhibits significant variability over the two-year period.

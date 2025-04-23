@@ -1,0 +1,16 @@
+Summary of VFC data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 29.35
+Lowest Closing Price: 11.72
+Average Closing Price: 17.99
+Total Volume: 3,896,492,900
+
+Quarterly Volume:
+2023-Qq: 539,560,300
+2023-Qq: 415,081,500
+2023-Qq: 406,539,100
+2023-Qq: 554,017,300
+2024-Qq: 515,558,400
+2024-Qq: 590,872,600
+2024-Qq: 461,220,700
+2024-Qq: 413,643,000

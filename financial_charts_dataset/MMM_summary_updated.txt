@@ -1,0 +1,7 @@
+Here's a summary of the 3M (MMM) stock trading data in 4-5 concise lines:
+
+- **Key Trend:** 3M's stock price has experienced a moderate increase, with an average closing price of $93.83 and a highest closing price of $138.02.
+- **Price Movement:** The stock price fluctuated between $67.77 (lowest closing price) and $138.02 (highest closing price) over the period.
+- **Volume Change:** Trading volume increased from an average of 269 million shares in 2023 to 292 million shares in 2024, indicating growing interest in the stock.
+- **Performance:** The stock's average closing price has increased by 38% over the two-year period.
+- **Total Trading Days:** The stock was traded for a total of 502 days, with a total volume of 2.23 billion shares.

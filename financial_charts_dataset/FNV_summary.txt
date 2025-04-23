@@ -1,0 +1,16 @@
+Summary of FNV data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 157.70
+Lowest Closing Price: 102.85
+Average Closing Price: 127.65
+Total Volume: 312,262,200
+
+Quarterly Volume:
+2023-Qq: 41,948,800
+2023-Qq: 29,895,500
+2023-Qq: 25,492,900
+2023-Qq: 49,273,300
+2024-Qq: 45,668,100
+2024-Qq: 40,346,000
+2024-Qq: 36,143,300
+2024-Qq: 43,494,300

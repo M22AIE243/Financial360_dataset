@@ -1,0 +1,15 @@
+Here's a concise summary of the NI stock trading data:
+
+**Key Trends:**
+- The stock has shown a general upward trend in price, with an average closing price of $27.69.
+- The highest closing price was $37.96, indicating a peak in performance.
+
+**Performance:**
+- The stock's average closing price has increased by about 25% from the lowest closing price of $21.98.
+
+**Volume Changes:**
+- Total trading volume was 2,123,904,700 shares.
+- Quarterly volume peaked in 2023-Q4 at 376,993,100 shares.
+
+**Price Movements:**
+- The stock's price has fluctuated, but generally increased, with a highest closing price of $37.96.

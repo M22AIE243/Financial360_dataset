@@ -1,0 +1,3 @@
+**Stock Price Analysis Summary**
+
+The stock price of K exhibits a predominantly stable trend with minor fluctuations between 2023 and 2024, ranging from approximately $45 to $65. A significant surge occurs in late 2024, with the price skyrocketing to nearly $80. The stock's value remains elevated, hovering around $80, with minimal volatility. Overall, the relationship between time (X) and stock price (Y) reveals a period of stability followed by a substantial increase. Key statistics include a highest price of $80.61, a lowest price of $46.19, and an average price of $60.64.

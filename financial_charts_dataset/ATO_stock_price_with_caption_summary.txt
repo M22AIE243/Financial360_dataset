@@ -1,0 +1,5 @@
+Here is a summary of the stock price chart:
+
+The ATO stock price chart shows an overall upward trend from January 2023 to January 2025. The stock price started around 105, fluctuated between 100 and 115 until October 2023, then declined to a low of around 98.82. However, from January 2024 onwards, the stock price began a steady increase, accelerating significantly from July 2024, reaching a peak of 150.55 in late 2024. The average stock price over the period was 116.40. 
+
+Key trends include a period of stability followed by a sharp decline, and then a strong recovery and growth phase. The relationship between X (time) and Y (stock price) is generally positive, with the stock price increasing over time, especially in the latter part of the period.

@@ -1,0 +1,5 @@
+The provided image is a pie chart, not a stock price chart. It appears to show the quarterly volume distribution of SNBR. Here's a summary:
+
+The chart shows that SNBR's quarterly volume distribution is varied across 2023 and 2024. The largest volume share is 22.8% in 2023-Q1 (red section), and the smallest is 8.9% in 2024-Q2 (grey section). The volumes are: 22.8% (2023-Q1), 12.4% (2023-Q2), 12.9% (2023-Q3), 9.1% (2023-Q4), 12.8% (2024-Q1), 9.8% (2024-Q2), 11.4% (2024-Q3), and 8.9% (2024-Q4). 
+
+If you provide the actual stock price chart, I can analyze it for you.

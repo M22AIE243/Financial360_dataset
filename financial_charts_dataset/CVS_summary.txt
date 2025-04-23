@@ -1,0 +1,16 @@
+Summary of CVS data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 85.31
+Lowest Closing Price: 43.23
+Average Closing Price: 65.25
+Total Volume: 5,094,327,500
+
+Quarterly Volume:
+2023-Qq: 574,159,300
+2023-Qq: 544,889,500
+2023-Qq: 576,252,400
+2023-Qq: 464,209,600
+2024-Qq: 689,018,500
+2024-Qq: 811,630,300
+2024-Qq: 552,226,700
+2024-Qq: 881,941,200

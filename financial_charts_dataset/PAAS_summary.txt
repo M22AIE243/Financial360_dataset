@@ -1,0 +1,16 @@
+Summary of PAAS data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 25.73
+Lowest Closing Price: 11.94
+Average Closing Price: 17.32
+Total Volume: 1,939,937,500
+
+Quarterly Volume:
+2023-Qq: 265,943,100
+2023-Qq: 267,619,000
+2023-Qq: 199,602,200
+2023-Qq: 212,665,000
+2024-Qq: 215,172,100
+2024-Qq: 338,659,300
+2024-Qq: 227,222,300
+2024-Qq: 213,054,500

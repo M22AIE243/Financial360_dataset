@@ -1,0 +1,9 @@
+**WFC Stock Price Analysis**
+
+The WFC stock price chart exhibits a notable upward trend over the period from January 2023 to January 2025. 
+
+* The stock price starts around $40 in January 2023 and remains relatively stable with fluctuations until early 2024.
+* A significant increase is observed from early 2024, with the price rising to approximately $60 by mid-2024.
+* The price continues to climb, reaching around $80 by late 2024, before peaking at nearly $80 in January 2025.
+
+Overall, the chart indicates a strong positive correlation between time (X-axis) and stock price (Y-axis), with the stock price experiencing a substantial increase over the two-year period.

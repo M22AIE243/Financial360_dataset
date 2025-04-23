@@ -1,0 +1,16 @@
+Summary of MCK data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 628.17
+Lowest Closing Price: 332.00
+Average Closing Price: 473.26
+Total Volume: 424,511,100
+
+Quarterly Volume:
+2023-Qq: 61,152,400
+2023-Qq: 57,191,900
+2023-Qq: 48,975,500
+2023-Qq: 51,464,300
+2024-Qq: 45,080,700
+2024-Qq: 43,151,500
+2024-Qq: 63,274,300
+2024-Qq: 54,220,500

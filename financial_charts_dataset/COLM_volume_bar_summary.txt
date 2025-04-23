@@ -1,0 +1,8 @@
+The stock price chart shows COLM's quarterly volume from Q1 2023 to Q4 2024. 
+
+*   The total volume has generally increased over time, with some fluctuations.
+*   The lowest total volume was recorded in Q1 2023 at approximately $1.9 \times 10^{7}$.
+*   The highest total volume was recorded in Q1 2024 at approximately $3.0 \times 10^{7}$.
+*   The total volume has stabilized at around $2.8 \times 10^{7}$ to $3.0 \times 10^{7}$ from Q1 2024 to Q4 2024.
+
+The relationship between X (time) and Y (stock price) indicates a positive trend, with the total volume increasing over time.

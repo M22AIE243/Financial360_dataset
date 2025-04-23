@@ -1,0 +1,16 @@
+Summary of VZ data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 43.05
+Lowest Closing Price: 27.81
+Average Closing Price: 35.43
+Total Volume: 10,117,670,900
+
+Quarterly Volume:
+2023-Qq: 1,267,511,100
+2023-Qq: 1,224,466,000
+2023-Qq: 1,583,019,100
+2023-Qq: 1,403,079,000
+2024-Qq: 1,241,210,300
+2024-Qq: 1,106,621,400
+2024-Qq: 1,197,576,400
+2024-Qq: 1,094,187,600

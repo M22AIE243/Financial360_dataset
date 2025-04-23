@@ -1,0 +1,16 @@
+Summary of AWI data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 161.68
+Lowest Closing Price: 61.12
+Average Closing Price: 98.83
+Total Volume: 177,870,000
+
+Quarterly Volume:
+2023-Qq: 23,609,400
+2023-Qq: 27,926,900
+2023-Qq: 18,593,200
+2023-Qq: 34,267,500
+2024-Qq: 22,486,800
+2024-Qq: 19,240,900
+2024-Qq: 18,525,400
+2024-Qq: 13,219,900

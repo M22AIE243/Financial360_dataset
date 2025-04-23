@@ -1,0 +1,16 @@
+Summary of PH data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 706.48
+Lowest Closing Price: 283.43
+Average Closing Price: 465.48
+Total Volume: 355,073,900
+
+Quarterly Volume:
+2023-Qq: 59,647,100
+2023-Qq: 53,259,400
+2023-Qq: 41,914,100
+2023-Qq: 40,449,400
+2024-Qq: 36,970,700
+2024-Qq: 44,532,100
+2024-Qq: 41,249,700
+2024-Qq: 37,051,400

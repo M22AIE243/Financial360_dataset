@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The NUE stock price chart shows a fluctuating trend over the period from January 2023 to January 2025. The stock price started at around 140, increased to a peak of nearly 200 in April 2024, and then declined sharply to around 110 in January 2025. The overall trend shows an initial increase from January 2023 to April 2024, followed by a significant decline. The relationship between time (X) and stock price (Y) is positively correlated from January 2023 to April 2024 and then negatively correlated from April 2024 to January 2025. The stock price exhibits high volatility throughout the period.

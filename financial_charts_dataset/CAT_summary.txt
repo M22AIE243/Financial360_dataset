@@ -1,0 +1,16 @@
+Summary of CAT data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 413.37
+Lowest Closing Price: 198.78
+Average Closing Price: 293.28
+Total Volume: 1,400,638,000
+
+Quarterly Volume:
+2023-Qq: 207,947,300
+2023-Qq: 198,356,100
+2023-Qq: 159,601,100
+2023-Qq: 197,831,400
+2024-Qq: 150,550,300
+2024-Qq: 186,646,900
+2024-Qq: 167,584,000
+2024-Qq: 132,120,900

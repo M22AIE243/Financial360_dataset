@@ -1,0 +1,16 @@
+Summary of FMC data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 122.57
+Lowest Closing Price: 46.64
+Average Closing Price: 72.79
+Total Volume: 751,954,900
+
+Quarterly Volume:
+2023-Qq: 48,901,000
+2023-Qq: 60,782,700
+2023-Qq: 105,176,800
+2023-Qq: 120,019,800
+2024-Qq: 126,977,700
+2024-Qq: 123,880,800
+2024-Qq: 85,149,000
+2024-Qq: 81,067,100

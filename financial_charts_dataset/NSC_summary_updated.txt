@@ -1,0 +1,12 @@
+Here's a summary of the NSC stock trading data in 5 concise lines:
+
+**Key Performance Indicators:**
+
+- Average Closing Price: $224.26
+- Highest Closing Price: $275.51
+- Lowest Closing Price: $178.18
+- Total Volume: 653,543,800 shares traded
+- Average Quarterly Volume: approximately 78.3 million shares traded.
+
+**Key Trends:**
+The stock price shows an overall upward trend with a slight decrease in average closing price from 2023 to 2024, but still within a relatively stable range. The total volume traded remains consistent, indicating a stable level of investor interest.

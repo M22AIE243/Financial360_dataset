@@ -1,0 +1,9 @@
+Here's a summary of the stock trading data in 5 concise lines:
+
+**PSA Stock Performance (2023-01-01 to 2025-01-01)**
+
+- Average Closing Price: $279.25
+- Total Volume: 418,115,200 shares traded
+- Highest Closing Price: $358.02 (reached in unknown quarter)
+- Lowest Closing Price: $224.14 (reached in unknown quarter)
+- Volume trend: declined by 28% from Q1 2023 to Q4 2024.

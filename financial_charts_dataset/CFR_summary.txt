@@ -1,0 +1,16 @@
+Summary of CFR data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 141.96
+Lowest Closing Price: 79.65
+Average Closing Price: 105.64
+Total Volume: 244,818,500
+
+Quarterly Volume:
+2023-Qq: 37,326,800
+2023-Qq: 36,961,100
+2023-Qq: 31,692,100
+2023-Qq: 27,629,000
+2024-Qq: 26,124,800
+2024-Qq: 24,489,800
+2024-Qq: 32,840,300
+2024-Qq: 27,754,600

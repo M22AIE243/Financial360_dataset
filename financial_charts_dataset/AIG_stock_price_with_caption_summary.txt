@@ -1,0 +1,10 @@
+**AIG Stock Price Analysis**
+
+The AIG stock price chart exhibits a notable upward trend from 2023 to 2024, followed by a period of stability. Key trends and statistics include:
+
+* **Initial Decline**: The stock price began at around $60 in early 2023, dropping to a low of $45.14.
+* **Recovery and Growth**: A significant recovery occurred, with the price rising to approximately $78.85 by mid-2024.
+* **Stabilization**: Since then, the stock price has stabilized, fluctuating between $70 and $80.
+* **Current Trend**: As of early 2025, the stock price appears to be maintaining a stable level, slightly below its peak.
+
+Overall, the chart indicates a strong recovery and growth phase, followed by a period of consolidation.

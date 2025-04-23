@@ -1,0 +1,8 @@
+The HSBC stock price chart shows an overall upward trend from January 2023 to January 2025. 
+
+* The stock price started at around 25.96 and reached a high of 48.01.
+* It had a relatively stable period from January 2023 to early 2024 with some fluctuations, 
+* Followed by a significant increase from mid-2024 to January 2025.
+
+The average stock price over this period was 36.37. 
+The relationship between time (X) and stock price (Y) indicates a general positive correlation.

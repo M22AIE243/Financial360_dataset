@@ -1,0 +1,16 @@
+Summary of TSLA data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 479.86
+Lowest Closing Price: 108.10
+Average Closing Price: 224.07
+Total Volume: 58,228,760,100
+
+Quarterly Volume:
+2023-Qq: 10,833,964,400
+2023-Qq: 8,627,649,000
+2023-Qq: 7,332,976,000
+2023-Qq: 7,535,966,900
+2024-Qq: 6,262,596,500
+2024-Qq: 5,553,759,000
+2024-Qq: 6,175,760,700
+2024-Qq: 5,906,087,600

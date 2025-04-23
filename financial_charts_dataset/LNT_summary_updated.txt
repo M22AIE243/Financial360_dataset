@@ -1,0 +1,13 @@
+Here's a concise summary of the LNT stock trading data:
+
+**Key Trends and Performance:**
+- Average closing price: $51.01
+- Highest closing price: $63.09
+- Lowest closing price: $43.80
+
+**Volume Changes:**
+- Total volume: 792,576,500
+- Quarterly volume fluctuations, with a notable increase from Q4 2023 to Q1 2024 (114,135,100 to 124,713,900)
+
+**Price Movements:**
+- The stock price has shown a moderate increase, with the average closing price above the lowest closing price.

@@ -1,0 +1,14 @@
+Here's a concise summary of the MSFT stock trading data:
+
+**Key Trends and Performance:**
+- MSFT's stock price fluctuated between $218.28 and $464.85 throughout the period.
+- The average closing price was $364.06, indicating relatively stable performance.
+- The stock showed a moderate increase in price over the period.
+
+**Volume Changes:**
+- Total trading volume was 12,107,022,200 shares.
+- Quarterly volume showed a decline from 2023-Q1 to 2024-Q4, with a peak in 2023-Q2.
+
+**Price Movements:**
+- The stock price increased by approximately 112% from the lowest closing price to the highest closing price.
+- The average closing price was 67% higher than the lowest closing price.

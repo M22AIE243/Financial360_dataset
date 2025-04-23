@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The PG stock price chart shows an overall upward trend from January 2023 to January 2025. The stock price started around $130 and fluctuated between $130-$150 until early 2024, when it began a steady increase. The price surge accelerated in mid-2024, reaching around $170 by the end of the year. The stock price peaked at around $180 in January 2025, with some volatility throughout the period. Overall, the relationship between time (X) and stock price (Y) is positively correlated.

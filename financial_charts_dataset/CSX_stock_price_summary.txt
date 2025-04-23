@@ -1,0 +1,12 @@
+**CSX Stock Price Analysis**
+
+The CSX stock price chart exhibits a notable upward trend from January 2023 to April 2024, with the stock price increasing from approximately $30 to $38. 
+
+*   **Key Trends:** 
+    *   The stock price experiences a significant surge between January 2024 and April 2024, reaching a peak of around $38. 
+    *   A decline is observed from April 2024 to January 2025, with the price dropping to around $32. 
+*   **Relationship between X (time) and Y (stock price):** 
+    *   The stock price shows a positive correlation with time from January 2023 to April 2024, indicating a general increase in stock price over this period. 
+    *   However, from April 2024 to January 2025, the stock price exhibits a negative correlation with time, indicating a decline in stock price. 
+
+Overall, the CSX stock price chart suggests a volatile market performance, with a significant increase followed by a decline.

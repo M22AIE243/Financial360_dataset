@@ -1,0 +1,16 @@
+Summary of UAA data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 12.78
+Lowest Closing Price: 6.37
+Average Closing Price: 8.12
+Total Volume: 4,264,370,400
+
+Quarterly Volume:
+2023-Qq: 483,363,200
+2023-Qq: 422,993,200
+2023-Qq: 403,799,300
+2023-Qq: 412,983,300
+2024-Qq: 443,139,600
+2024-Qq: 528,892,900
+2024-Qq: 895,832,900
+2024-Qq: 673,366,000

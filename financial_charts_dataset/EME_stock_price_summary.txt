@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The EME stock price chart shows a general upward trend from January 2023 to January 2025. The stock price started around $150 and remained relatively stable until early 2024, when it began to rise sharply. The price surged to around $500 by late 2024, before experiencing a slight decline. Overall, the relationship between time (X) and stock price (Y) is positively correlated, with the stock price increasing over time. The trend suggests a strong growth period for EME stock.

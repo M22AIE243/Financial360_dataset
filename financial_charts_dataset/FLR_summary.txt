@@ -1,0 +1,16 @@
+Summary of FLR data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 58.93
+Lowest Closing Price: 25.83
+Average Closing Price: 39.25
+Total Volume: 881,780,800
+
+Quarterly Volume:
+2023-Qq: 103,895,900
+2023-Qq: 96,791,800
+2023-Qq: 125,529,300
+2023-Qq: 121,378,000
+2024-Qq: 101,870,300
+2024-Qq: 91,563,500
+2024-Qq: 95,590,200
+2024-Qq: 145,161,800

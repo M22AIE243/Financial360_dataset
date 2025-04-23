@@ -1,0 +1,7 @@
+**CTS Stock Price Analysis**
+
+The CTS stock price chart exhibits a general upward trend over the period from January 2023 to January 2025. 
+
+* The stock price started at around $55 and reached a peak of $81.72.
+* It had a low of $55.25, with an average price of $68.66.
+* The chart shows significant volatility, with several peaks and troughs, but overall, the stock price has increased over time, with a notable surge in 2024 and a continued upward trend into 2025.

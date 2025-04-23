@@ -1,0 +1,3 @@
+The stock price of MAR exhibits a general upward trend from 2023 to 2025. The stock price started at approximately 150 and increased to around 280. 
+
+Key trends include a significant increase in price from 2023 to 2024, with some fluctuations, and a sharp increase in 2024-2025. The relationship between X (time) and Y (stock price) shows a positive correlation, with the stock price generally increasing as time increases. However, there are some periods of decline and stability. Overall, the stock price appears to be growing over time..

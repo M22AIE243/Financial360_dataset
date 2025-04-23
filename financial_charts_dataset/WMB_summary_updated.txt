@@ -1,0 +1,7 @@
+Here's a concise summary of the WMB stock trading data:
+
+- WMB stock traded 502 days, with an average closing price of $36.12.
+- Price movement: The highest closing price was $58.70, while the lowest was $25.79, indicating a price range of $32.91.
+- Volume trends: Quarterly volumes showed a decline from 2023-Q1 to 2024-Q4, with a total decrease of 14.1% over the year.
+- Notable volume changes: The highest quarterly volume was in 2023-Q1 with 451,970,300 shares traded, while the lowest was in 2024-Q3 with 351,645,000 shares traded.
+- Overall, the data suggests a relatively stable stock with moderate price fluctuations and declining trading volumes.

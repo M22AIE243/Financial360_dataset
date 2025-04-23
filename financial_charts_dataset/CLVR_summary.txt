@@ -1,0 +1,16 @@
+Summary of CLVR data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 16.95
+Lowest Closing Price: 0.00
+Average Closing Price: 4.47
+Total Volume: 8,158,970
+
+Quarterly Volume:
+2023-Qq: 385,059
+2023-Qq: 374,031
+2023-Qq: 2,169,949
+2023-Qq: 823,207
+2024-Qq: 1,304,797
+2024-Qq: 3,021,778
+2024-Qq: 38,681
+2024-Qq: 41,468

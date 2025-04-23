@@ -1,0 +1,16 @@
+Summary of RJF data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 168.94
+Lowest Closing Price: 81.00
+Average Closing Price: 112.40
+Total Volume: 576,854,700
+
+Quarterly Volume:
+2023-Qq: 98,275,800
+2023-Qq: 82,295,700
+2023-Qq: 51,131,500
+2023-Qq: 57,554,300
+2024-Qq: 63,366,900
+2024-Qq: 63,619,800
+2024-Qq: 81,164,900
+2024-Qq: 79,445,800

@@ -1,0 +1,9 @@
+Here's a summary of the stock trading data in 4-5 concise lines:
+
+**IP Stock Performance Summary (2023-01-01 to 2025-01-01)**
+
+* Average Closing Price: $37.68, with a 40.4% increase from the lowest closing price of $26.97
+* Total Volume: 2,061,760,800 shares traded
+* Quarterly volume increased by 41.1% in 2024-Qq compared to the average of 2023-Qq
+* Highest closing price reached $59.07, a 120.4% increase from the lowest closing price
+* Trading activity showed a significant surge in the second quarter of 2024.

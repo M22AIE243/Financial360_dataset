@@ -1,0 +1,16 @@
+Summary of INTC data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 50.09
+Lowest Closing Price: 18.89
+Average Closing Price: 31.99
+Total Volume: 25,990,811,200
+
+Quarterly Volume:
+2023-Qq: 2,914,740,000
+2023-Qq: 2,762,170,900
+2023-Qq: 2,349,113,200
+2023-Qq: 2,432,789,800
+2024-Qq: 2,767,377,000
+2024-Qq: 3,040,306,300
+2024-Qq: 5,333,348,300
+2024-Qq: 4,390,965,700

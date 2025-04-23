@@ -1,0 +1,9 @@
+The stock price of IVZ exhibits a fluctuating trend over the observed period, ranging from approximately 17.5 to 18.25
+
+Here is a concise summary of the stock price trend:
+
+* The stock price initially decreased from 17.5 to approximately 12.
+* It then showed a recovery and fluctuated between 13 and 17.
+* The stock price eventually showed an upward trend, reaching around 18. 
+
+The relationship between X (time) and Y (stock price) indicates that the stock price initially decreased over time, but subsequently recovered and increased. The trend suggests a positive correlation between time and stock price in the latter part of the period.

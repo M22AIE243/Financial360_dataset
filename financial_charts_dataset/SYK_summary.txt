@@ -1,0 +1,16 @@
+Summary of SYK data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 390.34
+Lowest Closing Price: 240.63
+Average Closing Price: 310.43
+Total Volume: 660,810,100
+
+Quarterly Volume:
+2023-Qq: 83,298,700
+2023-Qq: 80,122,900
+2023-Qq: 81,010,100
+2023-Qq: 98,973,600
+2024-Qq: 80,785,400
+2024-Qq: 82,342,900
+2024-Qq: 77,688,400
+2024-Qq: 76,588,100

@@ -1,0 +1,7 @@
+Here's a summary of the CHTR stock trading data:
+
+- Average Closing Price: $353.92 (over 502 trading days)
+- Highest Closing Price: $455.73, achieved on an unspecified date
+- Lowest Closing Price: $254.61, achieved on an unspecified date
+- Total Volume: 619,664,400 shares traded
+- Key trend: Volume increased in 2024, with a notable spike in the second quarter (103,111,300 shares) compared to the first quarter of 2023 (72,017,400 shares).

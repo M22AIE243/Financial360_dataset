@@ -1,0 +1,8 @@
+**KSS Stock Price Analysis**
+
+The KSS stock price chart exhibits a downward trend over the period from January 2023 to January 2025. 
+
+* The stock price peaked at approximately $28 in early 2023 and declined to around $14 by January 2025.
+* A notable decline occurred between 2023-01 and 2023-05, followed by a partial recovery until 2024-02.
+* However, the overall trend from 2024-02 to 2025-01 is characterized by a steady and significant decrease in stock price. 
+* The relationship between time (X) and stock price (Y) indicates a strong negative correlation.

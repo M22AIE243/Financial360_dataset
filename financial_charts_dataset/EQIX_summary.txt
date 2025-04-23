@@ -1,0 +1,16 @@
+Summary of EQIX data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 979.90
+Lowest Closing Price: 631.53
+Average Closing Price: 770.90
+Total Volume: 232,792,900
+
+Quarterly Volume:
+2023-Qq: 24,648,600
+2023-Qq: 28,331,100
+2023-Qq: 22,520,700
+2023-Qq: 24,256,300
+2024-Qq: 34,234,600
+2024-Qq: 40,301,000
+2024-Qq: 27,923,300
+2024-Qq: 30,577,300

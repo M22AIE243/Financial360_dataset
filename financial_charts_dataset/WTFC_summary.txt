@@ -1,0 +1,16 @@
+Summary of WTFC data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 137.97
+Lowest Closing Price: 58.86
+Average Closing Price: 90.50
+Total Volume: 217,627,000
+
+Quarterly Volume:
+2023-Qq: 36,778,900
+2023-Qq: 32,572,000
+2023-Qq: 24,160,300
+2023-Qq: 25,608,300
+2024-Qq: 25,649,000
+2024-Qq: 19,461,200
+2024-Qq: 26,981,600
+2024-Qq: 26,415,700

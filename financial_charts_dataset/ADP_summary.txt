@@ -1,0 +1,16 @@
+Summary of ADP data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 304.76
+Lowest Closing Price: 200.02
+Average Closing Price: 239.22
+Total Volume: 856,506,200
+
+Quarterly Volume:
+2023-Qq: 129,877,200
+2023-Qq: 107,040,000
+2023-Qq: 94,710,300
+2023-Qq: 107,641,300
+2024-Qq: 116,066,200
+2024-Qq: 94,181,200
+2024-Qq: 100,046,700
+2024-Qq: 106,943,300

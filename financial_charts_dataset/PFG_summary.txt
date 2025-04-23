@@ -1,0 +1,16 @@
+Summary of PFG data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 89.68
+Lowest Closing Price: 61.57
+Average Closing Price: 75.71
+Total Volume: 640,625,400
+
+Quarterly Volume:
+2023-Qq: 119,644,100
+2023-Qq: 88,978,100
+2023-Qq: 62,199,900
+2023-Qq: 80,714,900
+2024-Qq: 72,247,800
+2024-Qq: 62,767,200
+2024-Qq: 78,321,800
+2024-Qq: 75,751,600

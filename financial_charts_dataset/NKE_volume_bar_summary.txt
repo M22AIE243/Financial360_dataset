@@ -1,0 +1,8 @@
+The stock price chart shows NKE's quarterly volume from Q1 2023 to Q4 2024. 
+
+The key trends are: 
+- A general upward trend in total volume over the period. 
+- A significant spike in volume in Q3 2024, reaching its peak at approximately $9 \times 10^8$. 
+- A slight decrease in volume in Q4 2024. 
+
+The relationship between X (time) and Y (stock price/volume) indicates that as time progresses, the total volume generally increases.

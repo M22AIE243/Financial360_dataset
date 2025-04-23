@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The chart shows the quarterly volume of CASH stock from Q1 2023 to Q4 2024. The total volume starts at approximately 1.8 million in Q1 2023 and decreases over time, with some fluctuations. The volume stabilizes around 1.1-1.2 million from Q4 2023 to Q4 2024, with a slight upward trend. Overall, the relationship between time (X) and total volume (Y) shows a general decline with some variability. The stock's quarterly volume appears to have normalized after an initial peak in Q1 2023.

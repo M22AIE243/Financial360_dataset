@@ -1,0 +1,5 @@
+The ZTS stock price chart shows a general upward trend from January 2023 to January 2025, with some fluctuations. The stock price started at around 145 and rose to a peak of approximately 200 before declining to around 160. 
+
+The relationship between X (time) and Y (stock price) is that as time progresses, the stock price tends to increase, but with significant volatility. There are several peaks and troughs throughout the period, indicating market fluctuations. 
+
+Key trends include a sharp increase in early 2023, a peak in late 2023/early 2024, and a decline in mid-2024, followed by a recovery. Overall, the stock price has increased over the two-year period.

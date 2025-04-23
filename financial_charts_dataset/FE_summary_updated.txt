@@ -1,0 +1,7 @@
+Here's a concise summary of the stock trading data:
+
+- The stock, FE, experienced an average closing price of $37.21 over 502 trading days.
+- The highest closing price reached $43.62, while the lowest closed at $30.56.
+- The total trading volume was 1,650,975,100 shares.
+- Quarterly volume trends show a slight decline from 2023-Q1 to 2023-Q4, followed by a decrease in 2024.
+- Overall, the stock's price movement suggests a relatively stable performance with some minor fluctuations.

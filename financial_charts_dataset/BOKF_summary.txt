@@ -1,0 +1,16 @@
+Summary of BOKF data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 119.07
+Lowest Closing Price: 61.66
+Average Closing Price: 88.54
+Total Volume: 88,783,900
+
+Quarterly Volume:
+2023-Qq: 13,415,200
+2023-Qq: 12,805,200
+2023-Qq: 10,836,300
+2023-Qq: 13,181,100
+2024-Qq: 10,473,300
+2024-Qq: 8,837,400
+2024-Qq: 9,269,400
+2024-Qq: 9,966,000

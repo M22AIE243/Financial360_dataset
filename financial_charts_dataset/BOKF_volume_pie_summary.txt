@@ -1,0 +1,9 @@
+The provided image is a pie chart, not a stock price chart. However, I will analyze the data and provide a summary.
+
+The pie chart shows the quarterly volume distribution of BOKF. The chart indicates that the volume distribution across different quarters in 2023 and 2024 is relatively stable. The highest volume distribution was 15.1% in 2023-Q2, while the lowest was 10% in 2024-Q3. The data shows a slight decrease in volume distribution in 2024 compared to 2023.
+
+There is no clear trend in the relationship between X (time) and Y (volume distribution) as the chart is a pie chart and not a line graph. However, it can be observed that the volume distribution in 2023 ranges from 12.2% to 15.1%, while in 2024, it ranges from 10% to 11.8%.
+
+In summary, the volume distribution of BOKF is relatively stable across different quarters, with a slight decrease in 2024 compared to 2023. 
+
+To analyze the stock price, a different chart would be required.

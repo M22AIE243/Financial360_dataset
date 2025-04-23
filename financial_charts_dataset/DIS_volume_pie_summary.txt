@@ -1,0 +1,9 @@
+The image presents a pie chart illustrating the quarterly volume distribution of DIS stock, divided into eight sections representing different quarters. 
+
+Here is a summary of the chart:
+
+The DIS stock's quarterly volume distribution shows a varied trend across 2023 and 2024. 
+The highest volume share is 17.1% in one of the 2023 quarters, while the lowest is 10% in a 2024 quarter. 
+The chart indicates that the stock's trading volume was more concentrated in certain quarters of 2023, with a range of 11.4% to 17.1%. 
+In 2024, the volume distribution is more evenly spread, ranging from 10% to 11.4%. 
+Overall, the relationship between time (X) and stock price (Y) is not directly shown, but the chart provides insight into the stock's trading activity over time.

@@ -1,0 +1,9 @@
+Here's a concise summary of the GRWG stock trading data:
+
+- Average Closing Price: $2.80 (indicating a relatively stable stock)
+- Total Trading Volume: 445.7 million (with a significant drop in Q3 2024)
+- Key price movements: 
+  - Highest Closing Price: $5.66 (indicating a potential peak in 2023)
+  - Lowest Closing Price: $1.54 (indicating a potential trough in 2023)
+- Quarterly volume trends:
+  - Q4 2023 and Q1 2024 showed increased volume, while Q3 2024 experienced a significant decline.

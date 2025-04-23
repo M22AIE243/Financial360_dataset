@@ -1,0 +1,16 @@
+Summary of NEE data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 84.17
+Lowest Closing Price: 47.15
+Average Closing Price: 68.00
+Total Volume: 5,251,418,100
+
+Quarterly Volume:
+2023-Qq: 573,669,200
+2023-Qq: 445,539,500
+2023-Qq: 571,755,900
+2023-Qq: 952,333,100
+2024-Qq: 736,485,200
+2024-Qq: 750,690,600
+2024-Qq: 567,517,300
+2024-Qq: 653,427,300

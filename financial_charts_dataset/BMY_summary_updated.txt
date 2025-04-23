@@ -1,0 +1,6 @@
+Here's a concise summary of the BMY stock trading data:
+
+- **Average Performance:** The average closing price of BMY stock over the 502 trading days was $52.61, with a highest closing price of $67.56 and a lowest closing price of $38.18.
+- **Key Trend:** The stock's average closing price has shown an upward trend, indicating overall positive performance.
+- **Volume Changes:** The total trading volume was 6,109,259,600 shares, with a notable increase in volume in the 4th quarter of 2023 (895,444,800 shares) and a decrease in the 4th quarter of 2024 (700,358,300 shares).
+- **Price Movements:** The stock's price range has been relatively wide, with a highest closing price of $67.56 and a lowest closing price of $38.18, indicating some volatility in the market.

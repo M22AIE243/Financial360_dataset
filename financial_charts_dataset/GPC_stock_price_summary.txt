@@ -1,0 +1,9 @@
+**GPC Stock Price Analysis**
+
+The GPC stock price chart exhibits a downward trend over the period from January 2023 to January 2025. 
+
+* The stock price began at approximately $160 in January 2023 and peaked at around $170 in early 2023.
+* It then declined to around $140 by October 2023, followed by a brief recovery to $160 in early 2024.
+* However, the price continued to decline, reaching a low of around $110 in January 2025.
+* The overall trend indicates a decrease in stock price over the observed period, with significant volatility throughout. 
+* The relationship between time (X) and stock price (Y) shows a general downward slope, indicating that as time progresses, the stock price tends to decrease.

@@ -1,0 +1,16 @@
+Summary of FELE data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 110.11
+Lowest Closing Price: 76.73
+Average Closing Price: 95.56
+Total Volume: 85,222,200
+
+Quarterly Volume:
+2023-Qq: 10,409,900
+2023-Qq: 10,980,300
+2023-Qq: 9,255,300
+2023-Qq: 10,143,200
+2024-Qq: 10,959,000
+2024-Qq: 11,327,800
+2024-Qq: 11,403,100
+2024-Qq: 10,743,600

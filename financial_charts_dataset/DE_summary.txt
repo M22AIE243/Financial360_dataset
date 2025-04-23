@@ -1,0 +1,16 @@
+Summary of DE data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 462.61
+Lowest Closing Price: 336.19
+Average Closing Price: 387.00
+Total Volume: 762,771,900
+
+Quarterly Volume:
+2023-Qq: 94,318,900
+2023-Qq: 114,262,700
+2023-Qq: 91,660,300
+2023-Qq: 103,498,600
+2024-Qq: 93,442,300
+2024-Qq: 94,916,600
+2024-Qq: 96,002,800
+2024-Qq: 74,669,700

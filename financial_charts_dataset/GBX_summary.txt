@@ -1,0 +1,16 @@
+Summary of GBX data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 68.10
+Lowest Closing Price: 24.60
+Average Closing Price: 42.82
+Total Volume: 162,308,700
+
+Quarterly Volume:
+2023-Qq: 22,244,000
+2023-Qq: 24,502,600
+2023-Qq: 17,759,500
+2023-Qq: 17,311,900
+2024-Qq: 19,299,600
+2024-Qq: 21,167,400
+2024-Qq: 21,011,200
+2024-Qq: 19,012,500

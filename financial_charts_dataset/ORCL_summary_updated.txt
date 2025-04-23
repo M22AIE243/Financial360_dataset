@@ -1,0 +1,13 @@
+Here's a summary of the stock trading data for ORCL:
+
+**Key Trends and Performance:**
+- ORCL's highest closing price in 2023-2025 was $191.27, while the lowest was $80.57.
+- The average closing price over the period was $120.54.
+- The stock experienced a significant price movement, indicating volatility.
+
+**Volume Changes:**
+- Total trading volume was 4,388,891,300 shares.
+- Quarterly volume fluctuations were observed, with a high of 634,622,200 shares in 2023-Q2 and a low of 448,123,900 shares in 2023-Q1.
+
+**Price Movement:**
+- The stock price showed an upward trend, with the highest closing price in 2023-2025 being $191.27, indicating a positive performance.

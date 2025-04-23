@@ -1,0 +1,6 @@
+The TEX stock price chart shows a fluctuating trend over the period from January 2023 to January 2025. 
+
+* The stock price started at around 40 and increased to a peak of 66.07, with an average price of 53.78.
+* The overall trend appears to be slightly upward from January 2023 to mid-2024, followed by a decline towards the end of 2024 and early 2025.
+* The lowest point was 40.80, and there is high volatility in the stock price throughout the period. 
+* The recent trend shows a decline in stock price from mid-2024 to January 2025.

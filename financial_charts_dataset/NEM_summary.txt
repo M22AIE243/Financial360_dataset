@@ -1,0 +1,16 @@
+Summary of NEM data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 57.99
+Lowest Closing Price: 28.96
+Average Closing Price: 41.51
+Total Volume: 5,088,310,000
+
+Quarterly Volume:
+2023-Qq: 488,459,500
+2023-Qq: 514,473,100
+2023-Qq: 467,126,200
+2023-Qq: 981,050,200
+2024-Qq: 816,968,900
+2024-Qq: 656,894,100
+2024-Qq: 486,844,500
+2024-Qq: 676,493,500

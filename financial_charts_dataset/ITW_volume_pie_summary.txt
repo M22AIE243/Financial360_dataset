@@ -1,0 +1,22 @@
+The image does not depict a stock price chart but rather a pie chart illustrating the quarterly volume distribution of ITW. Consequently, a traditional stock price analysis is not possible. Nonetheless, here is a summary of the chart's key trends and insights:
+
+The pie chart displays a fairly even distribution of ITW's quarterly volume across eight quarters, spanning 2023 and 2024. The distribution is as follows:
+
+- 2023: 
+  - Q1: 12.0%
+  - Q2: 12.8%
+  - Q3: 12.9%
+  - Q4: 13.0%
+- 2024: 
+  - Q1: 11.2%
+  - Q2: 13.0%
+  - Q3: 15.0%
+  - Q4: 10.1%
+
+Key trends and insights:
+
+* The quarterly volumes for 2023 are relatively consistent, ranging from 12.0% to 13.0%.
+* 2024 volumes have seen a slight variation, with Q3 showing the highest volume at 15.0%, while Q4 has the lowest at 10.1%.
+* There is a noticeable increase in volume in Q3 2024, which may indicate a significant event or market activity during that quarter.
+
+In summary, the pie chart provides a visual representation of ITW's quarterly volume distribution, highlighting a relatively stable trend in 2023 and a slight variation in 2024 with a peak in Q3.

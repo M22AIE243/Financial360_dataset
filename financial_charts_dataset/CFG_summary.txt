@@ -1,0 +1,16 @@
+Summary of CFG data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 48.04
+Lowest Closing Price: 21.30
+Average Closing Price: 32.73
+Total Volume: 2,909,083,000
+
+Quarterly Volume:
+2023-Qq: 376,322,500
+2023-Qq: 534,312,200
+2023-Qq: 355,512,300
+2023-Qq: 352,192,500
+2024-Qq: 363,236,600
+2024-Qq: 301,058,300
+2024-Qq: 350,827,100
+2024-Qq: 275,621,500

@@ -1,0 +1,16 @@
+Summary of TAP data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 67.10
+Lowest Closing Price: 45.89
+Average Closing Price: 56.72
+Total Volume: 935,434,300
+
+Quarterly Volume:
+2023-Qq: 104,433,600
+2023-Qq: 143,766,500
+2023-Qq: 109,604,100
+2023-Qq: 100,391,300
+2024-Qq: 101,821,300
+2024-Qq: 140,979,700
+2024-Qq: 126,170,400
+2024-Qq: 108,267,400

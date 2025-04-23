@@ -1,0 +1,16 @@
+Summary of EXC data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 40.53
+Lowest Closing Price: 31.98
+Average Closing Price: 37.05
+Total Volume: 3,355,002,000
+
+Quarterly Volume:
+2023-Qq: 454,938,700
+2023-Qq: 396,161,500
+2023-Qq: 323,428,800
+2023-Qq: 486,902,100
+2024-Qq: 435,621,400
+2024-Qq: 435,978,800
+2024-Qq: 420,398,900
+2024-Qq: 401,571,800

@@ -1,0 +1,16 @@
+Summary of J data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 148.88
+Lowest Closing Price: 91.15
+Average Closing Price: 113.80
+Total Volume: 403,705,731
+
+Quarterly Volume:
+2023-Qq: 49,732,003
+2023-Qq: 47,909,088
+2023-Qq: 43,626,225
+2023-Qq: 60,083,541
+2024-Qq: 50,611,799
+2024-Qq: 48,791,397
+2024-Qq: 51,556,178
+2024-Qq: 51,395,500

@@ -1,0 +1,16 @@
+Summary of LUV data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 37.62
+Lowest Closing Price: 21.47
+Average Closing Price: 29.37
+Total Volume: 4,103,640,400
+
+Quarterly Volume:
+2023-Qq: 423,979,200
+2023-Qq: 443,207,100
+2023-Qq: 468,531,900
+2023-Qq: 518,750,600
+2024-Qq: 513,184,000
+2024-Qq: 621,386,200
+2024-Qq: 668,304,800
+2024-Qq: 446,296,600

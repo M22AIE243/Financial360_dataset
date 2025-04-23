@@ -1,0 +1,16 @@
+Summary of OGI data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 3.96
+Lowest Closing Price: 1.00
+Average Closing Price: 1.87
+Total Volume: 383,082,000
+
+Quarterly Volume:
+2023-Qq: 15,345,875
+2023-Qq: 16,896,850
+2023-Qq: 38,930,775
+2023-Qq: 77,114,600
+2024-Qq: 73,709,500
+2024-Qq: 82,917,400
+2024-Qq: 37,418,000
+2024-Qq: 40,749,000

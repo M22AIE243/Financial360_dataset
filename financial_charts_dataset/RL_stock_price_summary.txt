@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The RL stock price chart exhibits a significant upward trend over the period from January 2023 to January 2025. Initially, the stock price fluctuates between $100 and $120 from January 2023 to October 2023. A notable surge occurs in January 2024, with the price increasing to around $140, followed by a sharp rise to $180 in April 2024. The stock price continues to rise, with some volatility, reaching approximately $220 by January 2025. Overall, the relationship between time (X) and stock price (Y) is predominantly positive, indicating a strong upward trend.

@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The chart shows the quarterly volume of DLR stock from Q1 2023 to Q4 2024. The total volume peaked in Q2 2023 at approximately 1.9 billion, then fluctuated with a general downward trend. The volume decreased to around 1.0 billion in Q3 2024, before slightly increasing to 1.2 billion in Q4 2024. Overall, the relationship between time (X) and total volume (Y) shows a decline in volume over the observed period, with some quarterly fluctuations.

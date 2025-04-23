@@ -1,0 +1,14 @@
+Here's a concise summary of the AWI stock trading data:
+
+* Average closing price: $98.83 (2023-01-01 to 2025-01-01)
+* Price range: $61.12 (lowest) to $161.68 (highest)
+* Total trading volume: 177,870,000 shares
+* Quarterly volume trends: 
+  - 2023-Q1: 23.6M (decrease)
+  - 2023-Q2: 27.9M (increase)
+  - 2023-Q3: 18.6M (decrease)
+  - 2023-Q4: 34.3M (increase)
+  - 2024-Q1: 22.5M (decrease)
+  - 2024-Q2: 19.2M (decrease)
+  - 2024-Q3: 18.5M (stable)
+  - 2024-Q4: 13.2M (decrease)

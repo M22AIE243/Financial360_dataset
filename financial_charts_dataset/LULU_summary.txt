@@ -1,0 +1,16 @@
+Summary of LULU data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 511.29
+Lowest Closing Price: 233.40
+Average Closing Price: 360.04
+Total Volume: 965,158,800
+
+Quarterly Volume:
+2023-Qq: 125,178,600
+2023-Qq: 101,705,800
+2023-Qq: 74,287,900
+2023-Qq: 135,631,800
+2024-Qq: 101,888,400
+2024-Qq: 155,726,900
+2024-Qq: 143,264,200
+2024-Qq: 127,475,200

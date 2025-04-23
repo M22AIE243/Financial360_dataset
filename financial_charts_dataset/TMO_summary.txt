@@ -1,0 +1,16 @@
+Summary of TMO data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 622.82
+Lowest Closing Price: 429.59
+Average Closing Price: 547.47
+Total Volume: 784,213,500
+
+Quarterly Volume:
+2023-Qq: 88,345,500
+2023-Qq: 98,625,600
+2023-Qq: 91,653,400
+2023-Qq: 116,470,200
+2024-Qq: 98,762,600
+2024-Qq: 93,680,700
+2024-Qq: 86,935,700
+2024-Qq: 109,739,800

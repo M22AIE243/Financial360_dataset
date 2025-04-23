@@ -1,0 +1,5 @@
+The stock price of BMY exhibits a downward trend from early 2023 to mid-2024, with the price decreasing from approximately 65 to 40. 
+
+Subsequently, the stock price shows a significant upward trend from mid-2024 to early 2025, with the price increasing from around 40 to 55. Overall, the stock price appears to have a significant trough around mid-2024, but has shown a strong recovery.
+
+The relationship between X (time) and Y (stock price) suggests that as time progresses, the stock price initially decreases and then increases.

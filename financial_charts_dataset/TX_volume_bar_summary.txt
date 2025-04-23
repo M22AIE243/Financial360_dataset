@@ -1,0 +1,8 @@
+The stock price chart shows the quarterly volume of TX from March 2023 to December 2024. 
+
+The key trends are: 
+* The total volume started at approximately $2.0B in Q1 2023 and decreased to $1.35B by Q2 2023. 
+* It then declined to $1.1B by Q3 2023, slightly increased to $1.2B in Q4 2023, and dropped to $0.9B in Q1 2024. 
+* A significant increase to $1.8B occurred in Q2 2024, followed by a decrease to $1.4B in Q3 2024 and $1.1B in Q4 2024. 
+
+The relationship between X (time) and Y (stock price) indicates a volatile trend with no clear consistent upward or downward movement over the observed period.

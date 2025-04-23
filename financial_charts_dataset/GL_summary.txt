@@ -1,0 +1,16 @@
+Summary of GL data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 126.92
+Lowest Closing Price: 48.71
+Average Closing Price: 106.45
+Total Volume: 493,743,300
+
+Quarterly Volume:
+2023-Qq: 33,095,000
+2023-Qq: 34,300,700
+2023-Qq: 28,906,900
+2023-Qq: 35,748,600
+2024-Qq: 41,447,600
+2024-Qq: 219,468,900
+2024-Qq: 58,331,800
+2024-Qq: 42,443,800

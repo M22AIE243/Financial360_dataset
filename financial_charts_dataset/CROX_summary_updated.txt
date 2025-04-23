@@ -1,0 +1,7 @@
+Here's a summary of the CROX stock trading data:
+
+- The average closing price for CROX between 2023-01-01 and 2025-01-01 was $117.81.
+- The stock experienced a price range of $77.27 to $159.68, indicating a significant price fluctuation.
+- The total trading volume was 747,100,200 shares.
+- Quarterly volume trends show a decline in the first quarter of 2024, followed by a slight increase in the subsequent quarters.
+- Overall, the data suggests a relatively stable stock performance with moderate price movements and trading activity.

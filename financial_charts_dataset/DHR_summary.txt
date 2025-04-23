@@ -1,0 +1,16 @@
+Summary of DHR data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 279.73
+Lowest Closing Price: 183.83
+Average Closing Price: 233.91
+Total Volume: 1,505,837,804
+
+Quarterly Volume:
+2023-Qq: 181,874,886
+2023-Qq: 231,208,080
+2023-Qq: 186,426,138
+2023-Qq: 199,104,400
+2024-Qq: 168,734,300
+2024-Qq: 184,662,500
+2024-Qq: 171,516,500
+2024-Qq: 182,311,000

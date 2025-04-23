@@ -1,0 +1,16 @@
+Summary of PG data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 177.50
+Lowest Closing Price: 129.17
+Average Closing Price: 151.72
+Total Volume: 3,260,472,500
+
+Quarterly Volume:
+2023-Qq: 426,948,600
+2023-Qq: 378,895,700
+2023-Qq: 348,685,000
+2023-Qq: 418,637,000
+2024-Qq: 421,346,000
+2024-Qq: 396,573,300
+2024-Qq: 438,631,000
+2024-Qq: 430,755,900

@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The OSK stock price chart shows a fluctuating trend over the period from January 2023 to January 2025. The stock price initially declined from around $95 to a low of $70.75, before rising steadily to a peak of $124.99 in April 2024. Following the peak, the stock price experienced a decline, with some volatility, and ended at around $90 in January 2025. Overall, the average stock price was $97.86, indicating a slight upward trend over the two-year period. The relationship between time (X) and stock price (Y) is positively correlated over the long term, but with significant short-term fluctuations.

@@ -1,0 +1,11 @@
+The stock price of ADSK has shown a significant upward trend from 2023 to 2025. The stock price started at around 185 and fluctuated between 180 and 240 until 2024. It then increased to around 250, with a significant spike to around 320. The stock price has shown a strong correlation with time, with the stock price increasing over time.
+
+The key trends are:
+* The stock price was stable and fluctuated between 180 and 240 until 2024.
+* The stock price then increased significantly to around 250.
+* The stock price showed a significant spike to around 320.
+* The stock price has shown a strong upward trend from 2023 to 2025.
+
+The relationship between X (time) and Y (stock price) is that as time increases, the stock price also increases. The stock price has shown a strong correlation with time, with the stock price increasing over time. The average stock price was around 232. 
+
+In summary, the ADKS stock price was 185 in January 2023, and it was 300 in January 2025.

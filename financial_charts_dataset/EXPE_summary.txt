@@ -1,0 +1,16 @@
+Summary of EXPE data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 190.61
+Lowest Closing Price: 87.50
+Average Closing Price: 125.62
+Total Volume: 1,151,020,500
+
+Quarterly Volume:
+2023-Qq: 166,387,200
+2023-Qq: 160,130,700
+2023-Qq: 152,073,300
+2023-Qq: 152,980,600
+2024-Qq: 160,177,200
+2024-Qq: 152,583,000
+2024-Qq: 113,718,600
+2024-Qq: 92,969,900

@@ -1,0 +1,16 @@
+Summary of SCCO data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 126.15
+Lowest Closing Price: 57.11
+Average Closing Price: 86.27
+Total Volume: 570,049,773
+
+Quarterly Volume:
+2023-Qq: 88,257,762
+2023-Qq: 73,324,849
+2023-Qq: 65,800,158
+2023-Qq: 62,348,199
+2024-Qq: 66,142,386
+2024-Qq: 85,578,231
+2024-Qq: 73,007,765
+2024-Qq: 55,590,423

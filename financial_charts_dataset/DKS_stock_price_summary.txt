@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The DKS stock price chart shows a general upward trend from January 2023 to January 2025. The stock price started around $120, fluctuated between $110 and $150 from January to October 2023, and then sharply increased to around $220 in early 2024. The price remained volatile but generally stable at a high level, ranging from $200 to $240, from April 2024 to January 2025. Overall, the relationship between time (X) and stock price (Y) is positively correlated, with the stock price increasing over time. The stock price exhibits significant growth and volatility, particularly in 2024.

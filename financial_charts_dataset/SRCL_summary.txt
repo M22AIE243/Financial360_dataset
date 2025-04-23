@@ -1,0 +1,16 @@
+Summary of SRCL data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 462
+Highest Closing Price: 61.98
+Lowest Closing Price: 39.18
+Average Closing Price: 49.76
+Total Volume: 352,806,947
+
+Quarterly Volume:
+2023-Qq: 25,150,701
+2023-Qq: 24,469,565
+2023-Qq: 31,557,476
+2023-Qq: 30,878,232
+2024-Qq: 28,740,749
+2024-Qq: 93,113,875
+2024-Qq: 94,662,259
+2024-Qq: 24,234,090

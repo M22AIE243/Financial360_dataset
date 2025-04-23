@@ -1,0 +1,6 @@
+The stock price of XOM exhibits a volatile trend over the period from January 2023 to January 2025. 
+
+* The stock price started around $100, fluctuated between $95 and $110 until early 2024. 
+* It then surged to a peak of around $120 in mid-2024 before declining to around $105 and rising again to $120. 
+* The price then gradually decreased to around $105 and eventually dropped sharply to around $95 in early 2025. 
+* Overall, the stock price shows an upward trend from January 2023 to early 2025, with an average price of $106.54.

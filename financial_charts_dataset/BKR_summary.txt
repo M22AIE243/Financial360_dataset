@@ -1,0 +1,16 @@
+Summary of BKR data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 44.66
+Lowest Closing Price: 25.46
+Average Closing Price: 32.63
+Total Volume: 3,496,639,900
+
+Quarterly Volume:
+2023-Qq: 421,900,600
+2023-Qq: 420,814,500
+2023-Qq: 442,423,200
+2023-Qq: 428,429,800
+2024-Qq: 582,943,000
+2024-Qq: 396,946,500
+2024-Qq: 414,714,900
+2024-Qq: 388,467,400

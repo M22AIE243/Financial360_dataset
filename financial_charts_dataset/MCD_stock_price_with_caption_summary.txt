@@ -1,0 +1,3 @@
+The stock price of MCD exhibits a fluctuating trend over the period from January 2023 to January 2025. The price started at around $260, increased to approximately $290 in mid-2023, and then declined to $237.56 in late 2023. 
+
+The price then increased to around $290 in early 2024, decreased to $260 in mid-2024, and subsequently rose to $312.86 in late 2024. The overall trend shows a slight increase in stock price over the two-year period, with an average price of $272.42. The relationship between time and stock price is positively correlated, with the stock price generally increasing over time, albeit with significant fluctuations.

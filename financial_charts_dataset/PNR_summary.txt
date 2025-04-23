@@ -1,0 +1,16 @@
+Summary of PNR data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 108.61
+Lowest Closing Price: 43.76
+Average Closing Price: 72.43
+Total Volume: 719,010,700
+
+Quarterly Volume:
+2023-Qq: 105,570,800
+2023-Qq: 75,587,000
+2023-Qq: 71,031,200
+2023-Qq: 88,381,600
+2024-Qq: 101,423,400
+2024-Qq: 93,816,800
+2024-Qq: 97,538,900
+2024-Qq: 85,661,000

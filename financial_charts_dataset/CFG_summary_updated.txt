@@ -1,0 +1,14 @@
+Here's a concise summary of the CFG stock trading data:
+
+**Key Trends and Performance:**
+
+- Average Closing Price: $32.73 (stable)
+- Highest Closing Price: $48.04 (9.5% increase from lowest)
+- Total Volume: 2,909,083,000 (indicating moderate trading activity)
+
+**Volume Changes:**
+- Quarterly volume generally decreased, with most quarters showing a decline in trading activity.
+
+**Price Movements:**
+- The stock price fluctuated, but overall remained stable with a moderate increase.
+- The stock price range was $21.30 (lowest) to $48.04 (highest).

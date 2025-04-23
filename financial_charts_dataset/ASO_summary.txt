@@ -1,0 +1,16 @@
+Summary of ASO data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 74.41
+Lowest Closing Price: 42.75
+Average Closing Price: 55.87
+Total Volume: 775,283,000
+
+Quarterly Volume:
+2023-Qq: 84,150,800
+2023-Qq: 114,528,100
+2023-Qq: 99,556,700
+2023-Qq: 102,139,500
+2024-Qq: 81,661,000
+2024-Qq: 100,506,400
+2024-Qq: 94,860,300
+2024-Qq: 97,880,200

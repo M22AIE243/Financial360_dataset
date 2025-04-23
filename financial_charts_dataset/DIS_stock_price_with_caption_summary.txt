@@ -1,0 +1,6 @@
+The DIS stock price chart shows a fluctuating trend over the period from January 2023 to January 2025. 
+
+The stock price started at around $90, increased to a peak of over $110 in early 2023, then declined to a low of around $78 in late 2023. 
+It subsequently rose to a high of $121.72 in early 2024, before decreasing to around $80 and then recovering to over $110 by January 2025. 
+The overall trend appears to be slightly upward, with an average stock price of $96.37. 
+The relationship between time (X) and stock price (Y) is positively correlated over the long term but exhibits significant short-term volatility.

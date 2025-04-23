@@ -1,0 +1,6 @@
+The NVDA stock price chart shows a strong upward trend from January 2023 to January 2025. 
+
+* The stock price started at around $20 in January 2023 and increased steadily to around $140 in January 2025. 
+* There was a significant acceleration in the price increase from early 2024 onwards, with some minor fluctuations. 
+* The overall trend indicates a positive relationship between time (X) and stock price (Y), with the stock price increasing over time. 
+* The stock price appears to have plateaued at around $130-$140 from late 2024 to January 2025.

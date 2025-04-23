@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The stock price of ALL exhibits a general upward trend from 2023 to 2025. Initially, the price drops from around 130 to 97.15, but then steadily increases to reach a peak of 206.36. The relationship between time (X) and stock price (Y) shows a strong positive correlation, with some volatility. The average stock price is 143.45, indicating a significant rebound from the lowest point. Overall, the stock price has more than doubled from its lowest point.

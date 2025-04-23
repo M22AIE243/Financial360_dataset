@@ -1,0 +1,12 @@
+Here's a concise summary of the FNV stock trading data:
+
+**Key Trends and Performance:**
+- Average closing price: $127.65, indicating a relatively stable market performance.
+- Highest closing price: $157.70, while the lowest closing price was $102.85.
+
+**Volume Changes:**
+- Total trading volume: 312,262,200 shares.
+- Quarterly volume trend: showed an increase from 2023-Q2 to 2023-Q4, followed by a decline in 2024, but still maintained relatively high levels.
+
+**Price Movements:**
+- The price fluctuated between $102.85 and $157.70, with a notable increase in the last quarter of 2023 and a slight decline in 2024.

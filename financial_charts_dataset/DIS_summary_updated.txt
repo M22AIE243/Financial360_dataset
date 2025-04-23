@@ -1,0 +1,10 @@
+Here's a concise summary of the Disney (DIS) stock trading data:
+
+* Average closing price: $96.37
+* Highest closing price: $121.72 (on an unspecified date)
+* Lowest closing price: $78.35
+* Total trading volume: 5,956,880,200 shares over 502 trading days
+
+Key trends:
+- Volume decreased in 2024 compared to 2023, with an average quarterly volume drop of around 12%.
+- Price movement showed a slight increase from the lowest closing price to the highest closing price, indicating a positive trend.

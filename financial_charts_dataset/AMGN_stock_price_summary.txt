@@ -1,0 +1,7 @@
+The AMGN stock price chart shows a fluctuating trend over time. 
+
+*   The stock price starts at around $260 in January 2023 and decreases to a low of approximately $210 by July 2023.
+*   It then increases steadily to around $250 by October 2023 and continues to rise sharply to a peak of about $320 by July 2024.
+*   After reaching the peak, the stock price remains relatively stable with some fluctuations until October 2024, then declines to around $270 by January 2025. 
+
+Overall, the stock price exhibits a general upward trend from January 2023 to July 2024, followed by a decline.

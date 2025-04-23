@@ -1,0 +1,7 @@
+Here's a summary of the JWN stock trading data in 4-5 concise lines:
+
+- Average Closing Price: $18.39, with a highest closing price of $24.50 and lowest closing price of $12.36.
+- Total Volume: 2,106,784,400 shares traded over 502 trading days.
+- Quarterly volume trends show a decline from 2023-Q2 to 2024-Q4, indicating reduced trading activity.
+- Price movement analysis suggests a moderate price fluctuation, with an average price that is 51% higher than the lowest closing price.
+- Overall, the data indicates a mixed performance with both volume and price movements showing variability over the period.

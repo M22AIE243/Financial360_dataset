@@ -1,0 +1,16 @@
+Summary of JELD data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 21.42
+Lowest Closing Price: 8.06
+Average Closing Price: 14.85
+Total Volume: 302,513,200
+
+Quarterly Volume:
+2023-Qq: 33,599,600
+2023-Qq: 31,365,900
+2023-Qq: 27,536,900
+2023-Qq: 36,368,000
+2024-Qq: 28,746,700
+2024-Qq: 56,773,600
+2024-Qq: 41,059,100
+2024-Qq: 47,063,400

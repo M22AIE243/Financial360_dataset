@@ -1,0 +1,16 @@
+Summary of RF data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 26.93
+Lowest Closing Price: 13.06
+Average Closing Price: 18.90
+Total Volume: 4,393,126,500
+
+Quarterly Volume:
+2023-Qq: 722,399,100
+2023-Qq: 608,407,400
+2023-Qq: 454,699,700
+2023-Qq: 613,509,900
+2024-Qq: 555,438,100
+2024-Qq: 444,749,300
+2024-Qq: 493,378,500
+2024-Qq: 500,544,500

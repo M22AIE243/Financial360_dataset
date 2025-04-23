@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The GNRC quarterly volume chart shows a fluctuating trend over the eight quarters from 2023 to 2024. The total volume peaked in 2023-Q3 at approximately $9.5 million and hit a low in 2024-Q4 at around $5 million. There is an overall downward trend from 2023-Q3 to 2024-Q4, with some quarterly fluctuations. The relationship between time (X) and total volume (Y) indicates that as time progresses, the total volume generally decreases. The highest and lowest volumes are 9.5M and 5M respectively.

@@ -1,0 +1,16 @@
+Summary of WBA data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 32.52
+Lowest Closing Price: 8.01
+Average Closing Price: 19.82
+Total Volume: 6,972,734,300
+
+Quarterly Volume:
+2023-Qq: 437,305,300
+2023-Qq: 516,682,500
+2023-Qq: 660,689,100
+2023-Qq: 784,328,600
+2024-Qq: 850,809,700
+2024-Qq: 934,384,200
+2024-Qq: 1,301,671,800
+2024-Qq: 1,486,863,100

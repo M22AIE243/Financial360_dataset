@@ -1,0 +1,7 @@
+Here's a concise summary of the stock trading data for AYRWF:
+
+- Average Closing Price: $1.65
+- Highest Closing Price: $4.00
+- Lowest Closing Price: $0.38
+- Total Volume: 143,516,500 shares traded over 502 days
+- Key trend: Volume increased in 2024, with a notable spike in Q4 (27,731,100 shares) compared to Q3 (10,887,400 shares).

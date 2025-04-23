@@ -1,0 +1,6 @@
+Here's a concise summary of the stock trading data for COP:
+
+- **Key Trends:** COP's stock price fluctuated within a range of 88.24 to 129.76, with an average closing price of 108.03.
+- **Performance:** The stock's average closing price increased by 23.7% from the lowest closing price.
+- **Volume Changes:** Total trading volume was 2,994,075,200 shares, with a noticeable increase in volume from 2024-Q4 (430,740,800) compared to 2023-Q4 (369,790,500).
+- **Price Movements:** The stock's highest closing price was 129.76, indicating a potential upward trend, while the lowest closing price was 88.24, indicating a downward trend.

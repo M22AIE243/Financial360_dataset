@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The LNT quarterly volume chart shows fluctuations in trading activity over eight quarters. The total volume generally trended upward from Q1 2023 to Q1 2024, peaking at approximately 1.24 billion in Q1 2024. However, the volume declined significantly to around 0.8 billion in Q3 2024. Despite this, the volume recovered somewhat, ending at around 1 billion in Q4 2024. Overall, the relationship between time (X) and total volume (Y) exhibits volatility.

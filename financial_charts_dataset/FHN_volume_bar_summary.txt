@@ -1,0 +1,13 @@
+**Stock Price Chart Analysis**
+
+The chart displays the quarterly volume of FHN stock from Q1 2023 to Q4 2024. 
+
+*   **Key Trends:** 
+    *   The stock volume exhibits a significant spike in Q2 2023, reaching approximately 8 units, which is substantially higher than other quarters.
+    *   The volume then declines sharply in Q3 2023 and fluctuates between 4 and 5 units for the remaining quarters.
+*   **Relationship between X (time) and Y (stock price/volume):** 
+    *   There is an inverse relationship between time and stock volume after the initial spike in Q2 2023. 
+    *   The volume generally decreases over time, with some fluctuations. 
+    *   The highest volume is observed in Q2 2023, while the lowest volumes are seen in Q3 2024 and Q2 2024, which are equal. 
+
+Overall, the chart indicates a volatile stock volume pattern, with a notable peak in Q2 2023, followed by a decline and stabilization at lower levels.

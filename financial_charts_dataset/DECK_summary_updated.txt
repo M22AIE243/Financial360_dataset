@@ -1,0 +1,7 @@
+Here's a summary of the DECK stock trading data in 4-5 concise lines:
+
+- The average closing price of DECK stock from 2023-01-01 to 2025-01-01 is $121.20, with a highest closing price of $211.12 and a lowest closing price of $64.87.
+- The total trading volume for the period is 1,136,969,500 shares.
+- Quarterly volume shows a slight decline from 2023-Q1 to 2024-Q4, with the highest volume in 2023-Q2 (164,962,200) and the lowest in 2024-Q3 (122,376,600).
+- The stock price has shown some volatility, with a significant increase in price from the lowest closing price.
+- Overall, the stock's performance is mixed, with some quarters showing higher average closing prices than others.

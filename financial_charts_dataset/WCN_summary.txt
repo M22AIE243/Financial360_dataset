@@ -1,0 +1,16 @@
+Summary of WCN data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 193.25
+Lowest Closing Price: 125.53
+Average Closing Price: 154.20
+Total Volume: 463,327,400
+
+Quarterly Volume:
+2023-Qq: 58,055,600
+2023-Qq: 53,024,300
+2023-Qq: 52,050,900
+2023-Qq: 72,078,500
+2024-Qq: 57,171,800
+2024-Qq: 54,170,000
+2024-Qq: 58,039,100
+2024-Qq: 58,737,200

@@ -1,0 +1,16 @@
+Summary of IVZ data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 18.24
+Lowest Closing Price: 11.60
+Average Closing Price: 15.32
+Total Volume: 2,235,566,900
+
+Quarterly Volume:
+2023-Qq: 328,638,600
+2023-Qq: 281,409,200
+2023-Qq: 248,233,100
+2023-Qq: 352,502,500
+2024-Qq: 288,820,300
+2024-Qq: 270,439,300
+2024-Qq: 242,905,300
+2024-Qq: 222,618,600

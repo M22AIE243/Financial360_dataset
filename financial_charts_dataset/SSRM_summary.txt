@@ -1,0 +1,16 @@
+Summary of SSRM data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 17.28
+Lowest Closing Price: 3.98
+Average Closing Price: 9.97
+Total Volume: 1,231,359,800
+
+Quarterly Volume:
+2023-Qq: 97,785,100
+2023-Qq: 95,769,500
+2023-Qq: 60,356,200
+2023-Qq: 127,411,900
+2024-Qq: 302,304,500
+2024-Qq: 245,748,700
+2024-Qq: 151,935,700
+2024-Qq: 150,048,200

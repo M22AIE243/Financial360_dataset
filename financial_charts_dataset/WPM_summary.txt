@@ -1,0 +1,16 @@
+Summary of WPM data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 68.38
+Lowest Closing Price: 37.82
+Average Closing Price: 49.50
+Total Volume: 928,178,700
+
+Quarterly Volume:
+2023-Qq: 154,912,300
+2023-Qq: 115,264,600
+2023-Qq: 104,325,100
+2023-Qq: 113,664,300
+2024-Qq: 123,473,100
+2024-Qq: 116,573,700
+2024-Qq: 95,259,200
+2024-Qq: 104,706,400

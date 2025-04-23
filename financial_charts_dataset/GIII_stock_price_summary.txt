@@ -1,0 +1,8 @@
+**GIII Stock Price Analysis**
+
+The GIII stock price chart exhibits a clear upward trend over the period from January 2023 to January 2025. 
+
+*   The stock price started around $15 in January 2023 and reached approximately $35 by January 2025.
+*   There is a notable increase in stock price from January 2023 to January 2024, with some fluctuations.
+*   The price then stabilizes between $25 and $35 from February 2024 to November 2024, before rising again to reach a peak of around $35 in January 2025. 
+*   Overall, the relationship between time (X) and stock price (Y) is positively correlated, indicating that as time progresses, the stock price tends to increase.

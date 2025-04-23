@@ -1,0 +1,16 @@
+Summary of KBR data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 71.60
+Lowest Closing Price: 46.89
+Average Closing Price: 59.14
+Total Volume: 633,680,200
+
+Quarterly Volume:
+2023-Qq: 64,086,100
+2023-Qq: 85,418,700
+2023-Qq: 70,804,900
+2023-Qq: 108,079,100
+2024-Qq: 82,647,200
+2024-Qq: 68,730,000
+2024-Qq: 57,707,500
+2024-Qq: 96,206,700

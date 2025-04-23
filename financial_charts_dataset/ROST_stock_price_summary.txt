@@ -1,0 +1,5 @@
+Here is a summary of the stock price chart:
+
+The ROST stock price chart shows an overall upward trend from January 2023 to January 2025. The stock price started around 115, declined to around 95, and then steadily increased to around 155. The price experienced significant fluctuations, particularly between 2024-02 and 2024-05, and between 2024-08 and 2024-11. Despite these fluctuations, the stock price generally trended upward over the two-year period, with a notable increase in value. 
+
+Key trends indicate a strong positive relationship between X (time) and Y (stock price).

@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The ZION stock price chart shows a significant decline from January 2023 to July 2023, followed by a steady recovery and subsequent growth. The stock price decreased from around $50 to a low of approximately $20, before steadily increasing to around $60 by January 2025. Overall, the relationship between time (X) and stock price (Y) exhibits a positive trend, with the stock price recovering and growing over time. The chart indicates a strong upward trend from mid-2023 to early 2025. Volatility is also evident, with fluctuations in the stock price throughout the period.

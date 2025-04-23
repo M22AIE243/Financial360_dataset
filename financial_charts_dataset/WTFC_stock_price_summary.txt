@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The WTFC stock price chart shows a general upward trend from 2023 to 2025. The stock price started around $85 in January 2023, declined to around $60 in mid-2023, and then recovered to around $80. From early 2024, the stock price consistently increased, reaching a peak of around $140 in late 2024. The relationship between time (X) and stock price (Y) is generally positive, with some volatility. Overall, the stock price has increased by approximately 65% over the two-year period.

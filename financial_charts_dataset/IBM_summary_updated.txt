@@ -1,0 +1,7 @@
+Here's a summary of the IBM stock trading data in 4-5 concise lines:
+
+- IBM's average closing price increased from $160.23 over the 2-year period.
+- The total trading volume was 2,174,824,900 shares.
+- Quarterly volume showed a slight increase in the last quarter of 2024 compared to the first quarter, indicating a potential trend reversal.
+- The highest closing price reached $236.46, while the lowest closing price was $113.31.
+- Overall, the stock's price movement indicates a 109% increase from the lowest to the highest closing price.

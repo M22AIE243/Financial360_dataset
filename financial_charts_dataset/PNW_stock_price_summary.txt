@@ -1,0 +1,13 @@
+Here is a succinct description of the stock price chart:
+
+**Summary :**
+The PNW stock price chart shows an overall upward trend from January 2023 to January 2025. The stock price started around $65-$70 in early 2023, fluctuated between $65-$80 until mid-2024, and then surged to a peak of around $92 in late 2024. The price then declined to around $85-$90 before ending at a level slightly lower. The chart exhibits volatility throughout, with noticeable price swings. The relationship between time (X) and stock price (Y) is generally positive.
+
+**Key Trends:**
+
+* Initial stability with a slight upward trend (Jan 2023 - mid 2024)
+* Significant surge in stock price (mid 2024 - late 2024)
+* Volatility throughout the period
+
+**Relationship between X (time) and Y (stock price):**
+The stock price generally increases over time, with some fluctuations. The relationship is not perfectly linear, indicating periods of high volatility.

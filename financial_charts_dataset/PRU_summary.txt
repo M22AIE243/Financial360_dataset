@@ -1,0 +1,16 @@
+Summary of PRU data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 127.95
+Lowest Closing Price: 69.99
+Average Closing Price: 98.81
+Total Volume: 853,260,300
+
+Quarterly Volume:
+2023-Qq: 145,698,900
+2023-Qq: 138,718,000
+2023-Qq: 92,339,300
+2023-Qq: 101,408,500
+2024-Qq: 96,277,600
+2024-Qq: 87,800,900
+2024-Qq: 98,101,800
+2024-Qq: 92,915,300

@@ -1,0 +1,7 @@
+Here's a summary of the STLD stock trading data in 4-5 concise lines:
+
+- The stock's average closing price was $116.10 from January 1, 2023, to January 1, 2025.
+- The highest closing price reached was $153.08, while the lowest was $89.17.
+- Total trading volume for the period was 713,055,800 shares.
+- Quarterly volume trends showed a decline from 2023-Q1 to 2024-Q4, with 2023-Q1 having the highest volume at 116,937,000 shares.
+- There is a slight increase in volume from 2023-Q2 to 2023-Q3, but a decline overall in 2024.

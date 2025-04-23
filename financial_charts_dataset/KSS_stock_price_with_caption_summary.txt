@@ -1,0 +1,5 @@
+Here is a summary of the stock price chart:
+
+The KSS stock price chart shows a volatile trend over the period from January 2023 to January 2025. The stock price peaked at $28.41 in early 2023 and hit a low of $13.66 towards the end of the period. Overall, the stock price has been on a downward trend, with an average price of $20.63. The relationship between time (X) and stock price (Y) indicates a decline in value over the two-year period. 
+
+Let me know if you need anything else!

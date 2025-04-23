@@ -1,0 +1,13 @@
+The image presents a pie chart illustrating the quarterly volume distribution of UNM stock, divided into eight sections representing different quarters. The chart does not depict a stock price chart; instead, it shows the distribution of volume across various quarters.
+
+**Key Trends and Insights:**
+
+*   **Quarterly Volume Distribution:** The chart displays the quarterly volume distribution of UNM stock, with each section representing a specific quarter.
+*   **Time (X) and Volume (Y) Relationship:** The chart shows the relationship between time (quarters) and volume (percentage of total volume).
+*   **Key Trends:**
+    *   The largest volume is observed in 2023-Qq with 16.8%.
+    *   The smallest volume is observed in 2023-Qq with 9.8%.
+    *   The volumes are relatively evenly distributed across the quarters, with no extreme outliers.
+
+**Summary:**
+The UNM quarterly volume distribution chart shows a relatively even distribution of volume across the quarters, with 2023-Qq having the largest volume at 16.8% and 2023-Qq having the smallest volume at 9.8%. The chart provides insights into the quarterly volume trends of UNM stock.

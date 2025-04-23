@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The stock price chart shows a general upward trend from January 2023 to January 2025. The stock price remained relatively stable around $25-27 from January 2023 to October 2023, then declined to a low of $21.98 before rising sharply. From January 2024, the stock price exhibited a strong upward trend, reaching a high of $37.96. The average stock price over the period was $27.69. Overall, the relationship between time (X) and stock price (Y) is positively correlated, with a notable increase in price over the past year.

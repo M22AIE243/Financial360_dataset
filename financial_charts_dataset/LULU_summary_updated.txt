@@ -1,0 +1,7 @@
+Here's a concise summary of the LULU stock trading data:
+
+- Average Closing Price: $360.04
+- Highest Closing Price: $511.29
+- Lowest Closing Price: $233.40
+- Total Trading Volume: 965,158,800 shares
+- Key trend: Volume increased in 2024, with a notable spike in the 4th quarter (155,726,900 shares).

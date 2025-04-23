@@ -1,0 +1,7 @@
+The NCLH stock price chart shows a general upward trend from January 2023 to January 2025. 
+
+* The stock price starts at around 12.5 and fluctuates between 12.5 and 20 from January 2023 to October 2023.
+* It then shows an overall upward trend, with some volatility, reaching a low of around 15 and a high of around 22.5 during this period.
+* From January 2024 to October 2024, the stock price remains relatively stable, ranging from 15 to 20.
+* However, from October 2024 to January 2025, the stock price experiences a significant increase, rising from around 20 to a peak of around 28. 
+* Overall, the relationship between X (time) and Y (stock price) shows that as time increases, the stock price also tends to increase, with some fluctuations.

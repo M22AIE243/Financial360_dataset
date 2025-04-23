@@ -1,0 +1,16 @@
+Summary of NCLH data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 28.35
+Lowest Closing Price: 11.86
+Average Closing Price: 18.02
+Total Volume: 6,708,418,900
+
+Quarterly Volume:
+2023-Qq: 931,916,600
+2023-Qq: 900,820,500
+2023-Qq: 793,115,100
+2023-Qq: 953,174,700
+2024-Qq: 748,536,500
+2024-Qq: 884,257,500
+2024-Qq: 818,213,500
+2024-Qq: 678,384,500

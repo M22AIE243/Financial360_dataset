@@ -1,0 +1,16 @@
+Summary of ABT data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 118.22
+Lowest Closing Price: 87.56
+Average Closing Price: 104.95
+Total Volume: 2,702,732,800
+
+Quarterly Volume:
+2023-Qq: 320,676,600
+2023-Qq: 312,190,300
+2023-Qq: 281,692,800
+2023-Qq: 378,380,800
+2024-Qq: 350,573,100
+2024-Qq: 357,145,700
+2024-Qq: 382,171,000
+2024-Qq: 319,902,500

@@ -1,0 +1,16 @@
+Summary of FE data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 43.62
+Lowest Closing Price: 30.56
+Average Closing Price: 37.21
+Total Volume: 1,650,975,100
+
+Quarterly Volume:
+2023-Qq: 245,191,800
+2023-Qq: 244,487,800
+2023-Qq: 197,184,300
+2023-Qq: 232,259,700
+2024-Qq: 216,542,200
+2024-Qq: 162,255,800
+2024-Qq: 176,682,700
+2024-Qq: 176,370,800

@@ -1,0 +1,7 @@
+Here's a summary of the CWST stock trading data:
+
+- **Average Closing Price:** $90.81
+- **Total Trading Volume:** 151,762,200 shares
+- **Key Price Movement:** Highest closing price of $113.93 and lowest closing price of $73.32, indicating a price range of $40.61.
+- **Quarterly Volume Trend:** Volume increased in Q4 2024, reaching 24,195,400 shares, indicating a notable increase in trading activity.
+- **Price Movement Trend:** The stock price has fluctuated, but with a general upward trend, as the highest closing price ($113.93) is higher than the average closing price ($90.81).

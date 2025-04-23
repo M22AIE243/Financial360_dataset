@@ -1,0 +1,7 @@
+Here's a concise summary of the SPG stock trading data:
+
+- Average closing price: $128.61 
+- Highest closing price: $179.87
+- Lowest closing price: $90.70
+- Total trading volume: 747,436,200 shares
+- Quarterly volume trend: Volume increased in the first quarter of 2023 (104,463,900) and remained relatively stable, with a slight decrease in the last quarter of 2024 (86,231,500).

@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The SHW stock price chart shows an overall upward trend from January 2023 to January 2025. The stock price started around 240, declined to a low of 205.39, and then steadily increased to a high of 398.84. The price experienced significant volatility, with fluctuations throughout 2024, but generally trended upward over time. The average stock price was 291.41. The relationship between time (X) and stock price (Y) is positively correlated, with Y increasing as X increases.

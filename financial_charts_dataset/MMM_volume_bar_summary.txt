@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The chart shows the quarterly volume of MMM stock from Q1 2023 to Q4 2024. The total volume remained relatively stable from Q1 2023 to Q4 2023, with a slight decrease in Q4 2023. However, there was a significant spike in volume in Q1 2024, reaching approximately 3.6 billion. The volume then decreased to around 3 billion in Q2 2024 and continued to decline to approximately 2.6 billion in Q4 2024. Overall, the relationship between time (X) and total volume (Y) shows a notable increase in Q1 2024, followed by a downward trend.

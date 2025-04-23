@@ -1,0 +1,7 @@
+Here's a summary of the GTBIF stock trading data in 4-5 concise lines:
+
+- **Average Closing Price:** $9.96, indicating a relatively stable performance over the 2-year period.
+- **Volume Growth:** Quarterly volume increased from 18.7 million in Q3 2023 to 37.7 million in Q2 2024, a 102% rise.
+- **Price Movement:** The stock's highest closing price was $15.35, while the lowest was $6.57.
+- **Total Volume:** A total of 214.4 million shares were traded over the 2-year period.
+- **Key Trend:** A noticeable increase in trading volume in 2024, with a slight decline in the last quarter.

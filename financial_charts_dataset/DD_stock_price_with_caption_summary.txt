@@ -1,0 +1,1 @@
+The stock price of DD exhibits a fluctuating trend, with a range of 59.74 to 88.69. The price initially fluctuores, but overall shows an upward trend from 2023 to mid-2024. However, it has declined since then. The average stock price is 73.45. The relationship between time (X) and stock price (Y) shows a general increase in stock price over time, with some volatility.

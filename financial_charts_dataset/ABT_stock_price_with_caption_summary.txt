@@ -1,0 +1,5 @@
+Here is a summary of the stock price chart:
+
+The ABT stock price chart shows a fluctuating trend over the period from January 2023 to January 2025. The stock price started around 110, declined to a low of 87.56, and then rebounded to reach a high of 118.22. Overall, the stock price exhibits an upward trend, with an average price of 104.95. The relationship between time (X) and stock price (Y) is positively correlated, with some volatility. 
+
+Let me know if you need further analysis!

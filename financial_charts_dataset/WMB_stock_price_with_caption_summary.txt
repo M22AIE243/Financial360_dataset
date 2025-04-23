@@ -1,0 +1,8 @@
+The stock price chart for WMB exhibits a notable upward trend over the period from January 2023 to January 2025. 
+
+* The stock price starts around 28 and remains relatively stable until mid-2023, 
+* Then it begins a steady increase, reaching approximately 30 by the end of 2023. 
+* From early 2024 onwards, the stock price experiences a significant surge, 
+* Peaking at around 58.70 before declining to about 50 by January 2025. 
+
+Overall, the relationship between time (X) and stock price (Y) is predominantly positive, indicating a general increase in stock price over the observed period.

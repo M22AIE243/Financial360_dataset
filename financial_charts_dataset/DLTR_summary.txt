@@ -1,0 +1,16 @@
+Summary of DLTR data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 160.68
+Lowest Closing Price: 61.21
+Average Closing Price: 119.68
+Total Volume: 1,425,478,300
+
+Quarterly Volume:
+2023-Qq: 141,820,200
+2023-Qq: 139,757,200
+2023-Qq: 138,360,600
+2023-Qq: 143,431,500
+2024-Qq: 173,160,000
+2024-Qq: 177,538,300
+2024-Qq: 254,636,700
+2024-Qq: 256,773,800

@@ -1,0 +1,6 @@
+The stock price chart for JWN exhibits a volatile trend from January 2023 to January 2025. 
+
+* The stock price starts at around $16 in January 2023, peaks at approximately $24 in April 2023, and then declines to a low of around $12 in October 2023. 
+* From October 2023 to January 2024, the stock price recovers to around $16. 
+* A steady upward trend is observed from January 2024 to January 2025, with the stock price increasing from $16 to around $24. 
+* Overall, the stock price shows a positive correlation with time, indicating a general upward trend over the two-year period.

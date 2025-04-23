@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The chart shows the quarterly volume of GOOS stock from Q1 2023 to Q4 2024. The total volume peaked at approximately 1.4 billion in Q1 2023, then fluctuated, with a notable decline to around 0.45 billion in Q3 2024. The volume has generally trended downward over time, with some quarterly variations. The relationship between time (X) and total volume (Y) appears to be inversely correlated, with volume decreasing as time progresses. Overall, the chart indicates a decline in trading activity over the observed period.

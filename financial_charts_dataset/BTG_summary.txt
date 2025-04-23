@@ -1,0 +1,16 @@
+Summary of BTG data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 4.01
+Lowest Closing Price: 2.24
+Average Closing Price: 3.01
+Total Volume: 5,359,519,300
+
+Quarterly Volume:
+2023-Qq: 626,469,600
+2023-Qq: 502,141,000
+2023-Qq: 452,294,000
+2023-Qq: 554,833,400
+2024-Qq: 644,945,600
+2024-Qq: 790,529,900
+2024-Qq: 900,504,000
+2024-Qq: 887,801,800

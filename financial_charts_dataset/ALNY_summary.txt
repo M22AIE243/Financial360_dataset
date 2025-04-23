@@ -1,0 +1,16 @@
+Summary of ALNY data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 300.55
+Lowest Closing Price: 143.31
+Average Closing Price: 202.61
+Total Volume: 380,891,400
+
+Quarterly Volume:
+2023-Qq: 50,776,600
+2023-Qq: 40,681,300
+2023-Qq: 35,244,900
+2023-Qq: 39,848,300
+2024-Qq: 53,061,100
+2024-Qq: 55,795,900
+2024-Qq: 56,564,000
+2024-Qq: 48,919,300

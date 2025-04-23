@@ -1,0 +1,14 @@
+Here's a concise summary of the PCG stock trading data:
+
+**Key Trends and Performance:**
+- The stock's average closing price is $17.47, with a high of $21.57 and a low of $15.10.
+- The overall trading volume is 7,759,154,000 shares.
+- The stock's performance suggests a relatively stable price movement.
+
+**Volume Changes:**
+- The volume increased in the first three quarters of 2023, reaching a peak of 1,137,359,100 shares in Q3 2023.
+- The volume declined in Q4 2023 and Q1 2024, reaching a low of 808,635,300 shares in Q2 2024.
+
+**Price Movement:**
+- The stock price has fluctuated between $15.10 and $21.57, indicating a moderate price movement.
+- The quarterly price movements suggest a relatively stable trend, with minimal extreme price fluctuations.

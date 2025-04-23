@@ -1,0 +1,16 @@
+Summary of UNH data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 620.21
+Lowest Closing Price: 432.29
+Average Closing Price: 506.27
+Total Volume: 1,853,227,700
+
+Quarterly Volume:
+2023-Qq: 223,531,400
+2023-Qq: 212,687,300
+2023-Qq: 202,227,400
+2023-Qq: 179,765,400
+2024-Qq: 249,956,400
+2024-Qq: 283,153,800
+2024-Qq: 216,828,500
+2024-Qq: 285,077,500

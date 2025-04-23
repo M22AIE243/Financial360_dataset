@@ -1,0 +1,3 @@
+Here is a succinct description of the stock price chart:
+
+The KBR stock price chart shows an overall upward trend from January 2023 to January 2025. The stock price starts around $50, increases to $65 by mid-2023, dips to around $50 in early 2024, and then surges to a peak of around $72 by late 2024. The price then declines to around $55 by January 2025. The chart exhibits volatility, with numerous fluctuations throughout the period, but the overall relationship between time (X) and stock price (Y) is a general increase with a notable spike in 2024.

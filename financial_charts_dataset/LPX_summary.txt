@@ -1,0 +1,16 @@
+Summary of LPX data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 119.93
+Lowest Closing Price: 49.51
+Average Closing Price: 75.00
+Total Volume: 418,522,600
+
+Quarterly Volume:
+2023-Qq: 49,180,700
+2023-Qq: 54,918,400
+2023-Qq: 60,864,300
+2023-Qq: 49,481,400
+2024-Qq: 53,410,500
+2024-Qq: 66,402,200
+2024-Qq: 43,013,200
+2024-Qq: 41,251,900

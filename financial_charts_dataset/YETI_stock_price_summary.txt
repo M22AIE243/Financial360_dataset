@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The YETI stock price chart exhibits a volatile trend over the period from January 2023 to January 2025. The stock price fluctuates between $35.0 and $52.5, with no clear upward or downward trend. The price peaks in January 2024 at around $52.5, but then declines sharply to around $35.0 by April 2024. The price then stabilizes between $37.5 and $45.0 for the remainder of the period. Overall, the relationship between time (X) and stock price (Y) is highly variable and unpredictable.

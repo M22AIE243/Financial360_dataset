@@ -1,0 +1,5 @@
+The stock price chart for CSX quarterly volume shows a fluctuation in volume over time. 
+
+The volume has decreased from 2023-03-31 ($8.4M) to 2023-06-30 ($7.6M). It then increased to $8.1M by 2023-09-30 and decreased to $7.9M by 2023-12-31. The volume continued to decrease to $7.3M by 2024-03-31, then increased to $7.6M by 2024-06-30. The volume decreased to $7.2M by 2024-09-30 and increased to $7.7M by 2024-12-31. 
+
+The relationship between X (time) and Y (volume) indicates an overall decrease in volume over the 2-year period.

@@ -1,0 +1,15 @@
+The provided image is a pie chart, not a stock price chart. However, I can analyze it and provide insights.
+
+**Analysis:**
+The pie chart shows the quarterly volume distribution of WTFC. The chart is divided into 10 sections, each representing a quarter. 
+
+**Key Trends:**
+
+* The largest volume distribution is in 2023-Qq with 16.9%, 
+* Followed by 2024-Qq with 12.4% and 2023-Qq with 15.0%.
+* The smallest volume distribution is in 2023-Qq with 8.9%.
+
+**Relationship between X (time) and Y (volume distribution):**
+The chart shows the distribution of volume across different quarters. There is no direct relationship between time (X) and volume distribution (Y) as it is a pie chart and not a time-series chart. However, we can see that the volume distribution varies across quarters, with some quarters having a larger share than others. 
+
+If you provide a stock price chart, I can analyze it and provide a summary, explaining key trends and the relationship between X (time) and Y (stock price).

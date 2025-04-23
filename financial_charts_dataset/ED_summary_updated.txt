@@ -1,0 +1,13 @@
+Here's a summary of the stock trading data in 4-5 concise lines:
+
+**Stock Performance:**
+The stock's average closing price was $89.78, with a highest closing price of $105.54 and a lowest closing price of $77.42.
+
+**Volume Changes:**
+Total trading volume was 959,934,800 shares, with a notable increase in volume in the last quarter of 2024, reaching 135,335,300 shares.
+
+**Price Movements:**
+The stock's price movement shows a slight upward trend, with a relatively stable average closing price and a highest closing price above the average.
+
+**Key Trends:**
+The stock's quarterly volume was relatively consistent throughout 2023, but experienced a significant increase in the last quarter of 2024.

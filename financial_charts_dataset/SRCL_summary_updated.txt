@@ -1,0 +1,7 @@
+Here's a concise summary of the SRCL stock trading data:
+
+- **Total Trading Days:** 462 days from 2023-01-01 to 2025-01-01.
+- **Key Price Movements:** The stock traded between $39.18 (lowest closing price) and $61.98 (highest closing price), with an average closing price of $49.76.
+- **Trading Volume:** Total volume reached 352,806,947 shares, with a notable increase in 2024-Qq2 and Qq3.
+- **Volume Trend:** Volume increased in 2024-Qq2 and Qq3, with 93,113,875 and 94,662,259 shares traded in these quarters, respectively.
+- **Performance:** The stock showed a mixed performance, with a slight increase in average closing price over the period.

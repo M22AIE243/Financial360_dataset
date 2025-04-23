@@ -1,0 +1,7 @@
+The provided image is a pie chart, not a stock price chart. It appears to show the quarterly volume distribution of AMGN (Amgen Inc.) stock, with each section representing a quarter and its corresponding percentage of the total volume.
+
+Here is a summary of the image:
+
+The pie chart shows the quarterly volume distribution of AMGN stock from 2023-Qq to 2024-Qq. The chart is divided into 8 sections, each representing a quarter. The percentages range from 9.7% to 15.9%, with no clear upward or downward trend. The distribution seems relatively stable, with most quarters having a volume distribution between 11-14%. There is a slight increase in volume distribution in 2024, with 15.9% in one of the quarters. 
+
+As a financial analyst, I would note that the relationship between X (time) and Y (volume distribution) is not strongly correlated, as the percentages fluctuate relatively randomly over time.

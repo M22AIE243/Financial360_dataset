@@ -1,0 +1,6 @@
+The INTC stock price chart shows a volatile trend over the period from January 2023 to January 2025. 
+
+* The stock price started around $30, increased steadily to a peak of $50.09 in early 2024.
+* It then declined sharply to $18.89, before recovering slightly to around $25-30.
+* The overall trend shows an initial increase, followed by a significant drop and a partial recovery.
+* The average stock price over the period is $31.99.

@@ -1,0 +1,7 @@
+Here's a concise summary of the SPGI stock trading data:
+
+- Average Closing Price: $417.80 
+- Highest Closing Price: $527.12 (reached on an unspecified date within the period)
+- Lowest Closing Price: $319.45
+- Total Volume: 613,254,200 shares traded within the period
+- Key trend: Increasing average closing price, with a slight decrease in volume over the quarters.

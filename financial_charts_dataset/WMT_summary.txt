@@ -1,0 +1,16 @@
+Summary of WMT data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 95.23
+Lowest Closing Price: 44.32
+Average Closing Price: 59.86
+Total Volume: 9,017,083,700
+
+Quarterly Volume:
+2023-Qq: 1,217,256,600
+2023-Qq: 1,098,680,700
+2023-Qq: 995,090,100
+2023-Qq: 1,424,407,200
+2024-Qq: 1,247,786,000
+2024-Qq: 994,843,700
+2024-Qq: 1,041,512,900
+2024-Qq: 997,506,500

@@ -1,0 +1,17 @@
+Here's a concise summary of the JCI stock trading data:
+
+**Key Trends and Performance:**
+
+- Average Closing Price: $62.80
+- Highest Closing Price: $85.82
+- Lowest Closing Price: $46.58
+
+**Volume Changes:**
+
+- Total Volume: 2,256,684,000
+- Quarterly Volume increased from 226,616,400 in 2023-Q1 to 343,183,800 in 2023-Q4, then decreased to 215,431,100 in 2024-Q4.
+
+**Price Movements:**
+
+- The stock showed a price increase from its lowest point to its highest point, indicating overall growth.
+- The price volatility is evident with a significant price difference between the highest and lowest closing prices.

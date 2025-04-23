@@ -1,0 +1,16 @@
+Summary of FITB data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 47.56
+Lowest Closing Price: 21.38
+Average Closing Price: 32.23
+Total Volume: 2,808,181,600
+
+Quarterly Volume:
+2023-Qq: 553,808,400
+2023-Qq: 441,995,300
+2023-Qq: 322,457,500
+2023-Qq: 343,842,100
+2024-Qq: 343,694,400
+2024-Qq: 260,492,200
+2024-Qq: 269,893,200
+2024-Qq: 271,998,500

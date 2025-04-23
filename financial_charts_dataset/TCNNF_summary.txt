@@ -1,0 +1,16 @@
+Summary of TCNNF data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 14.37
+Lowest Closing Price: 3.45
+Average Closing Price: 7.46
+Total Volume: 226,327,700
+
+Quarterly Volume:
+2023-Qq: 25,890,900
+2023-Qq: 19,621,500
+2023-Qq: 26,647,500
+2023-Qq: 23,042,000
+2024-Qq: 36,021,200
+2024-Qq: 34,447,200
+2024-Qq: 20,574,200
+2024-Qq: 40,083,200

@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The chart shows the quarterly volume of PPL stock from Q1 2023 to Q4 2024. The total volume fluctuates over time, with a peak in Q4 2023 (4.2 billion) and a trough in Q2 2024 (2.8 billion). The overall trend appears to be relatively stable, with volumes ranging from 2.8 to 4.2 billion. There is no clear upward or downward trend in the data. The relationship between time (X) and total volume (Y) is mostly flat with some quarterly fluctuations.

@@ -1,0 +1,6 @@
+Here's a concise summary of the CMA stock trading data:
+
+- **Price Movement:** CMA's average closing price rose from 27.94 to 49.15, indicating a 75.6% increase over the period.
+- **Volume Shift:** Quarterly trading volume peaked in 2023-Q2 with 257,123,800 shares traded, while the lowest volume was recorded in 2023-Q3 with 140,486,800 shares traded.
+- **Price Trend:** The stock's highest closing price was 71.06, achieved in the given period, while the lowest closing price was 27.94.
+- **Average Trading Volume:** The total trading volume over 502 days was 1,279,648,500 shares, averaging around 2,550,000 shares traded per day.

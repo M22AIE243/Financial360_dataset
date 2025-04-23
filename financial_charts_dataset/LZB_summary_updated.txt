@@ -1,0 +1,15 @@
+Here's a concise summary of the LZB stock trading data:
+
+**Key Trends:**
+- Average Closing Price: $33.52, indicating a relatively stable stock performance.
+- Highest Closing Price: $45.66, while the lowest was $21.92, showing a price fluctuation of $23.74.
+
+**Performance:**
+- Average Closing Price increased by 0.15% from 2023 to 2024, suggesting a slight improvement in stock value.
+
+**Volume Changes:**
+- Total Volume: 207,236,500 shares traded over 502 trading days, with an average daily volume of approximately 412,700 shares.
+- Quarterly Volume showed an increase in 2024, with the highest volume in Q4 2024 at 33,503,900 shares.
+
+**Price Movements:**
+- The stock price fluctuated between $21.92 and $45.66, indicating a moderate price movement.

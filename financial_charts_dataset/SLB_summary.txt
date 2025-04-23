@@ -1,0 +1,16 @@
+Summary of SLB data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 59.87
+Lowest Closing Price: 36.58
+Average Closing Price: 48.19
+Total Volume: 5,152,580,700
+
+Quarterly Volume:
+2023-Qq: 603,923,100
+2023-Qq: 594,066,800
+2023-Qq: 574,622,600
+2023-Qq: 542,772,400
+2024-Qq: 700,924,400
+2024-Qq: 712,856,900
+2024-Qq: 658,562,400
+2024-Qq: 764,852,100

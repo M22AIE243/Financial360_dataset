@@ -1,0 +1,16 @@
+Summary of ALB data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 281.67
+Lowest Closing Price: 71.83
+Average Closing Price: 148.41
+Total Volume: 1,276,228,400
+
+Quarterly Volume:
+2023-Qq: 104,611,300
+2023-Qq: 144,851,800
+2023-Qq: 112,256,200
+2023-Qq: 200,758,700
+2024-Qq: 212,146,900
+2024-Qq: 170,463,500
+2024-Qq: 190,867,900
+2024-Qq: 140,272,100

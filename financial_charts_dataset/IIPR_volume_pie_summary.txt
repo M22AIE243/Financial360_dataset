@@ -1,0 +1,9 @@
+The provided image is a pie chart, not a stock price chart. However, I will analyze it as a representation of a stock's quarterly volume distribution.
+
+Here is a summary of the chart:
+
+The pie chart shows the quarterly volume distribution of IIPR stock. The chart is divided into 8 sections, representing different quarters. The largest section is 2023-Qq with 17.3%, while the smallest is 2024-Qq with 8.7%. The chart indicates that the stock's volume was highest in 2023-Qq and lowest in 2024-Qq. The distribution shows a decline in volume from 2023 to 2024. 
+
+Note that the relationship between X (time) and Y (volume distribution) is not a direct correlation, but rather a distribution of volume across different quarters. 
+
+If you provide a stock price chart, I can give a more accurate analysis.

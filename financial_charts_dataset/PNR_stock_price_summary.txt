@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The PNR stock price exhibits a general upward trend from January 2023 to January 2025. The stock price starts around $45 and increases to around $110, with some fluctuations. There are periods of volatility, but the overall direction is positive, with a significant surge in price from mid-2024 to early 2025. The relationship between time (X) and stock price (Y) is largely positive, indicating a strong upward trend over the observed period. The stock price peaks in late 2024 and then slightly declines.

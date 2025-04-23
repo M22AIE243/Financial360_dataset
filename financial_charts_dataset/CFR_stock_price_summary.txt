@@ -1,0 +1,10 @@
+**Stock Price Analysis Summary**
+
+The CFR stock price chart exhibits a notable trend over the observed period. 
+
+* The stock price began around $125 in early 2023, experiencing a significant decline to approximately $85 by late 2023.
+* A recovery phase ensued, with the price stabilizing around $100-$110 in mid-2024.
+* A strong upward trend emerged in late 2024, propelling the stock price to nearly $140 by early 2025.
+
+**Key Relationship:** 
+The relationship between time (X) and stock price (Y) indicates a predominantly positive correlation, particularly in the latter part of the observed period, with some fluctuations.

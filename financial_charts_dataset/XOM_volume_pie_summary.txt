@@ -1,0 +1,9 @@
+The image provided is not a stock price chart but a pie chart showing the quarterly volume distribution of XOM. The chart is divided into eight sections, each representing a quarter, with the percentage of volume distribution for that quarter.
+
+Here is a summary of the image:
+
+The pie chart shows the quarterly volume distribution of XOM from 2023-Qq to 2024-Qq. The chart indicates that the highest volume distribution was in 2023-Qq at 16.3%, while the lowest was in 2024-Qq at 10.4%. The volume distribution shows a fluctuating trend over the quarters. There is no clear upward or downward trend in the stock price, as the chart only shows volume distribution. The relationship between X (time) and Y (volume distribution) is not linear. 
+
+As a financial analyst, I would note that the chart does not provide information on the stock price, but rather the volume distribution over time. If you are looking for a stock price chart analysis, I would need a different image. 
+
+However, if you'd like to provide the stock price chart, I can assist you with analyzing it.

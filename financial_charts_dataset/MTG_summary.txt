@@ -1,0 +1,16 @@
+Summary of MTG data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 26.19
+Lowest Closing Price: 11.81
+Average Closing Price: 18.66
+Total Volume: 999,162,500
+
+Quarterly Volume:
+2023-Qq: 204,428,700
+2023-Qq: 134,961,700
+2023-Qq: 111,469,800
+2023-Qq: 111,744,800
+2024-Qq: 127,213,400
+2024-Qq: 110,949,700
+2024-Qq: 101,144,000
+2024-Qq: 97,250,400

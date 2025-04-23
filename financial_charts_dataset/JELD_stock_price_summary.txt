@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The JELD stock price chart shows a general upward trend from January 2023 to April 2024, with the price increasing from around $10 to $22. However, the price then experiences a significant decline to around $8 by January 2025. The chart exhibits volatility, with fluctuations in the stock price throughout the period. The relationship between time (X) and stock price (Y) is positive from 2023 to 2024 but becomes strongly negative from 2024 to 2025. Overall, the stock price peaks in April 2024 and then sharply declines.

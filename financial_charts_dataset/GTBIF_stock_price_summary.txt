@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The GTBIF stock price chart shows a general upward trend from early 2023 to mid-2024, with a significant increase in price from around $8 to $15. However, the price then declines sharply to around $7 by early 2025. The relationship between time (X) and stock price (Y) is positively correlated from 2023 to 2024, but negatively correlated from 2024 to 2025. The stock price exhibits high volatility throughout the period, with several peaks and troughs. Overall, the chart suggests a boom-and-bust pattern in the stock's price over the observed period.

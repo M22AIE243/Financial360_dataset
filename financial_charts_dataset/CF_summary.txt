@@ -1,0 +1,16 @@
+Summary of CF data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 93.56
+Lowest Closing Price: 57.79
+Average Closing Price: 76.63
+Total Volume: 1,134,656,600
+
+Quarterly Volume:
+2023-Qq: 184,679,100
+2023-Qq: 166,866,900
+2023-Qq: 139,328,200
+2023-Qq: 132,034,300
+2024-Qq: 152,255,600
+2024-Qq: 144,339,500
+2024-Qq: 108,062,500
+2024-Qq: 107,090,500

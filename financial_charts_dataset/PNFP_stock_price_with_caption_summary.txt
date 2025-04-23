@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The PNFP stock price chart shows a volatile trend from January 2023 to January 2025. The stock price initially declined from around $80 to a low of $45.34, before recovering and steadily increasing to a high of $129.62. The overall trend is upward, with some fluctuations, indicating a positive relationship between time (X) and stock price (Y) over the long term. The average stock price is $78.21, suggesting that the stock has generally trended upward despite short-term volatility.

@@ -1,0 +1,16 @@
+Summary of WFC data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 76.97
+Lowest Closing Price: 34.28
+Average Closing Price: 49.43
+Total Volume: 9,314,738,800
+
+Quarterly Volume:
+2023-Qq: 1,443,333,700
+2023-Qq: 1,352,630,500
+2023-Qq: 958,429,100
+2023-Qq: 1,052,703,300
+2024-Qq: 1,167,968,700
+2024-Qq: 1,134,376,400
+2024-Qq: 1,112,176,500
+2024-Qq: 1,093,120,600

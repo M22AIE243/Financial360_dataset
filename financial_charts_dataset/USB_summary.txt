@@ -1,0 +1,16 @@
+Summary of USB data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 52.48
+Lowest Closing Price: 26.00
+Average Closing Price: 38.32
+Total Volume: 5,393,629,500
+
+Quarterly Volume:
+2023-Qq: 803,830,400
+2023-Qq: 1,056,526,200
+2023-Qq: 772,869,900
+2023-Qq: 700,025,600
+2024-Qq: 554,734,000
+2024-Qq: 487,893,200
+2024-Qq: 527,905,400
+2024-Qq: 489,844,800

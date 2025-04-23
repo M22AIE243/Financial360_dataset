@@ -1,0 +1,16 @@
+Summary of LLY data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 956.78
+Lowest Closing Price: 306.06
+Average Closing Price: 633.76
+Total Volume: 1,575,413,700
+
+Quarterly Volume:
+2023-Qq: 197,507,900
+2023-Qq: 188,323,400
+2023-Qq: 175,986,900
+2023-Qq: 204,350,700
+2024-Qq: 197,368,000
+2024-Qq: 166,712,100
+2024-Qq: 209,606,600
+2024-Qq: 235,558,100

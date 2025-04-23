@@ -1,0 +1,8 @@
+**Stock Price Analysis Summary**
+
+The AEE stock price chart exhibits a volatile trend from January 2023 to January 2025. 
+
+* The stock price initially fluctuates between $75 and $85 from January 2023 to October 2023.
+* It then declines to a low of around $65 in early 2024, before rising steadily to $90 by January 2025.
+* The overall trend shows a significant increase in stock price over the two-year period, with a highest price of $93.61 and a lowest price of $65.19.
+* The average stock price over this period is $77.01.

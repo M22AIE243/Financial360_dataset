@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The stock price of ALL exhibits a significant recovery and growth trend over the observed period. Initially, the price drops from around 130 in early 2023 to a low of approximately 100, but then steadily increases to around 140 by late 2023. From early 2024 onwards, the stock price shows a strong upward trend, reaching a peak of nearly 200 by late 2024. The overall relationship between time (X) and stock price (Y) is positive, indicating a long-term bullish trend. However, there are periods of volatility and fluctuations throughout the chart.

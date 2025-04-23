@@ -1,0 +1,16 @@
+Summary of VST data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 166.05
+Lowest Closing Price: 20.46
+Average Closing Price: 58.43
+Total Volume: 2,675,841,700
+
+Quarterly Volume:
+2023-Qq: 242,141,000
+2023-Qq: 205,133,100
+2023-Qq: 297,986,500
+2023-Qq: 246,604,100
+2024-Qq: 296,946,200
+2024-Qq: 545,531,400
+2024-Qq: 434,392,700
+2024-Qq: 407,106,700

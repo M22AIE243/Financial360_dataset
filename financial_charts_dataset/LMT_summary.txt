@@ -1,0 +1,16 @@
+Summary of LMT data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 606.30
+Lowest Closing Price: 381.65
+Average Closing Price: 460.15
+Total Volume: 583,248,800
+
+Quarterly Volume:
+2023-Qq: 92,034,900
+2023-Qq: 64,421,600
+2023-Qq: 67,092,100
+2023-Qq: 84,489,000
+2024-Qq: 71,702,100
+2024-Qq: 64,552,000
+2024-Qq: 63,260,400
+2024-Qq: 75,696,700

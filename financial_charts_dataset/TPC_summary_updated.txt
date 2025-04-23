@@ -1,0 +1,8 @@
+Here's a summary of the stock trading data in 4-5 concise lines:
+
+**TPC Stock Trading Data Summary:**
+- **Average Closing Price:** $13.69 (2023-2025)
+- **Price Range:** $5.06 (Low) to $33.24 (High)
+- **Total Volume:** 186,689,700 shares traded
+- **Key Trend:** Increasing volume, with a notable spike in 2024-Qq (35,341,300)
+- **Price Movement:** Generally upward trend, with occasional fluctuations

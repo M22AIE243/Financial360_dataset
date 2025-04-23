@@ -1,0 +1,16 @@
+Summary of PEG data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 93.12
+Lowest Closing Price: 52.08
+Average Closing Price: 65.76
+Total Volume: 1,329,813,200
+
+Quarterly Volume:
+2023-Qq: 154,198,900
+2023-Qq: 154,985,700
+2023-Qq: 144,608,400
+2023-Qq: 190,005,900
+2024-Qq: 178,440,400
+2024-Qq: 176,391,300
+2024-Qq: 177,212,400
+2024-Qq: 153,970,200

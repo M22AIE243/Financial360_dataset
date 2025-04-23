@@ -1,0 +1,7 @@
+Here's a summary of the MCK stock trading data in 4-5 concise lines:
+
+* Total trading days: 502, with an average closing price of $473.26.
+* The stock price fluctuated between a high of $628.17 and a low of $332.00.
+* Total volume traded was 424,511,100 shares, with a noticeable decrease in volume from 2023-Q3 to 2024-Q1.
+* Quarterly volume peaked in 2023-Q2 at 61,152,400, followed by a decline to 43,151,500 in 2024-Q2.
+* The stock price showed a general upward trend, with a slight dip in 2024.

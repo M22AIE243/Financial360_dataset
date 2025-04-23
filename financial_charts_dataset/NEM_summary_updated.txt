@@ -1,0 +1,7 @@
+Here's a summary of the NEM stock trading data in 4-5 concise lines:
+
+- **Average Closing Price**: $41.51 with a range of $28.96 (lowest) to $57.99 (highest).
+- **Total Volume**: 5,088,310,000 shares traded over 502 trading days.
+- **Quarterly Volume Trend**: Volumes decreased from 2023-Qq to 2024-Qq, with a significant drop in the last quarter of 2023.
+- **Price Movement**: Prices fluctuated, but overall, the average closing price remained relatively stable.
+- **Key Trend**: A decline in trading volume in 2024 compared to 2023, indicating reduced market interest in NEM.

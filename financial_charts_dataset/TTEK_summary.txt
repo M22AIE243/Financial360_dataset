@@ -1,0 +1,16 @@
+Summary of TTEK data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 50.36
+Lowest Closing Price: 26.27
+Average Closing Price: 35.85
+Total Volume: 758,200,500
+
+Quarterly Volume:
+2023-Qq: 85,331,000
+2023-Qq: 92,458,000
+2023-Qq: 102,725,500
+2023-Qq: 92,104,000
+2024-Qq: 76,578,000
+2024-Qq: 95,069,500
+2024-Qq: 83,602,200
+2024-Qq: 130,332,300

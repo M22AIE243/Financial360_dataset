@@ -1,0 +1,9 @@
+The stock price chart for NTRS shows a downward trend from January 2023 to October 2023, with the price decreasing from around $90 to a low of approximately $60. 
+
+However, from October 2023 to January 2025, the stock price exhibits a strong upward trend, increasing from around $60 to $110. 
+
+The overall relationship between time (X) and stock price (Y) indicates a significant recovery and growth in the stock's value over the observed period, with some fluctuations. 
+
+The recent surge in stock price from 2024-10 to 2025-01 is particularly notable, suggesting positive market sentiment or company performance during this time. 
+
+Overall, the chart suggests that NTRS stock has regained momentum and investor confidence after a period of decline.

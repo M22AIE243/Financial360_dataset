@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The ISRG stock price chart exhibits a strong upward trend over the period from January 2023 to January 2025. The stock price started around $250 and declined to a low of approximately $230 before steadily increasing to around $550. The relationship between time (X) and stock price (Y) is positively correlated, with the stock price generally rising over time. There are some fluctuations and minor corrections along the way, but the overall trend is bullish. The stock price has more than doubled over the 2-year period.

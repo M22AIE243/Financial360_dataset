@@ -1,0 +1,9 @@
+Here is a summary of the PVH stock trading data in 4-5 concise lines:
+
+**PVH Stock Performance Summary (2023-01-01 to 2025-01-01)**
+
+- Average Closing Price: $97.41
+- Highest Closing Price: $140.38 (achieved in the last quarter of 2023)
+- Lowest Closing Price: $70.03 (achieved in the first quarter of 2023)
+- Total Volume: 448,915,800 shares traded
+- Volume trend: Decreased in 2024, with a notable drop in the last quarter of 2024

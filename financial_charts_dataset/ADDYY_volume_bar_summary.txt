@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The chart shows the quarterly volume of ADDYY stock from Q1 2023 to Q4 2024. The stock's volume has fluctuated over time, with a significant spike in Q1 2023 (8 million) and a low in Q4 2023 (1.8 million). The volume has generally trended upward since Q4 2023, with a recent increase to around 4.5 million in Q4 2024. The relationship between time (X-axis) and volume (Y-axis) is not strictly linear, with some quarters showing significant increases or decreases. Overall, the chart suggests a recovery in stock volume after a low point in Q4 2023.

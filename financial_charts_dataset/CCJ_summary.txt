@@ -1,0 +1,16 @@
+Summary of CCJ data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 61.14
+Lowest Closing Price: 22.43
+Average Closing Price: 40.52
+Total Volume: 2,232,830,800
+
+Quarterly Volume:
+2023-Qq: 281,266,400
+2023-Qq: 267,680,900
+2023-Qq: 269,967,700
+2023-Qq: 321,739,900
+2024-Qq: 320,287,200
+2024-Qq: 238,382,200
+2024-Qq: 263,084,300
+2024-Qq: 270,422,200

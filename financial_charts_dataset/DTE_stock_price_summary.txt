@@ -1,0 +1,12 @@
+**DTE Stock Price Analysis**
+
+The DTE stock price chart exhibits a notable trend over the observed period. 
+
+*   The stock price started around 110 in January 2023 and declined to approximately 95 by October 2023.
+*   A significant recovery began in late 2023, with the price rising to around 105 by early 2024.
+*   A strong upward trend emerged from early 2024, reaching a peak of about 125 by late 2024.
+*   The price then stabilized, experiencing fluctuations but remaining above 120 until January 2025.
+
+**Key Trends and Relationship:** 
+
+The relationship between time (X) and stock price (Y) indicates a general upward trend, with some volatility. The stock price initially decreased, then recovered and surged significantly from early 2024, showcasing a positive correlation with time over the latter part of the observed period.

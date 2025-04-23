@@ -1,0 +1,3 @@
+The provided image is a pie chart, not a stock price chart. However, I will analyze the data and provide a summary:
+
+The pie chart shows the quarterly volume distribution of SNV, with 8 sections representing different quarters. The chart shows that the volume distribution across quarters is relatively stable, with 2023-Q2 having the highest volume at 14.4% and 2024-Q2 having the lowest at 11.0%. The volume distribution in 2023 ranges from 11.4% to 14.4%, while in 2024, it ranges from 11.0% to 12.3%. Overall, the chart indicates a stable quarterly volume distribution with a slight variation between quarters.

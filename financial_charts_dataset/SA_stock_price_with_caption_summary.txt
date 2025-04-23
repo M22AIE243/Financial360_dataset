@@ -1,0 +1,10 @@
+**Stock Price Analysis Summary**
+
+The SA stock price chart exhibits a volatile trend over the period from January 2023 to January 2025. 
+
+* The stock price fluctuates between $9.43 and $20.53, with an average price of $13.49.
+* Initially, the price shows a slight decline from January 2023 to mid-2023, followed by a moderate increase until early 2024.
+* A significant surge is observed from April 2024 to October 2024, where the price nearly doubles, reaching its peak.
+* Subsequently, the stock price declines sharply from October 2024 to January 2025, dropping to its lowest point. 
+
+Overall, the relationship between time (X) and stock price (Y) indicates a highly volatile market with a notable peak in late 2024, followed by a sharp decline.

@@ -1,0 +1,16 @@
+Summary of AIG data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 78.85
+Lowest Closing Price: 45.14
+Average Closing Price: 64.92
+Total Volume: 2,023,767,200
+
+Quarterly Volume:
+2023-Qq: 337,434,600
+2023-Qq: 252,557,400
+2023-Qq: 186,495,500
+2023-Qq: 208,554,200
+2024-Qq: 245,739,800
+2024-Qq: 267,467,400
+2024-Qq: 272,518,100
+2024-Qq: 253,000,200

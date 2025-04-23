@@ -1,0 +1,16 @@
+Summary of FIS data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 90.06
+Lowest Closing Price: 45.63
+Average Closing Price: 65.35
+Total Volume: 2,287,970,000
+
+Quarterly Volume:
+2023-Qq: 412,208,700
+2023-Qq: 313,887,800
+2023-Qq: 286,341,100
+2023-Qq: 344,645,800
+2024-Qq: 289,519,800
+2024-Qq: 261,496,200
+2024-Qq: 178,529,600
+2024-Qq: 201,341,000

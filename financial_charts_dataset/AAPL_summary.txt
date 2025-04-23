@@ -1,0 +1,16 @@
+Summary of AAPL data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 258.74
+Lowest Closing Price: 123.58
+Average Closing Price: 188.89
+Total Volume: 29,200,325,300
+
+Quarterly Volume:
+2023-Qq: 4,271,118,000
+2023-Qq: 3,541,966,300
+2023-Qq: 3,656,092,400
+2023-Qq: 3,335,080,500
+2024-Qq: 3,781,629,100
+2024-Qq: 4,306,239,200
+2024-Qq: 3,507,907,100
+2024-Qq: 2,800,292,700

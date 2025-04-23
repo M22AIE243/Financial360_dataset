@@ -1,0 +1,10 @@
+**Stock Price Analysis Summary**
+
+The TMO stock price chart exhibits a volatile trend over the observed period from January 2023 to January 2025. 
+
+*   **Initial Trend (2023):** The stock price starts around 575, fluctuates, and reaches a peak above 600 in early 2023, before declining to approximately 525 by mid-2023.
+*   **Downward Trend (2023-2024):** A significant drop occurs towards the end of 2023, with the price falling to around 425 in early 2024, indicating a substantial decrease.
+*   **Recovery and Growth (2024):** The stock then recovers and increases steadily to a peak above 600 in mid-2024.
+*   **Recent Trend (2024-2025):** Following the peak, the stock price gradually declines to around 525 by early 2025.
+
+Overall, the relationship between time (X) and stock price (Y) shows a mix of volatility, with periods of both significant growth and decline. The stock price ends the observed period slightly above 525.

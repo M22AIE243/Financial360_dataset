@@ -1,0 +1,7 @@
+Here's a concise summary of the stock trading data for C:
+
+- **Average Closing Price**: $51.72, indicating a stable market performance.
+- **Price Range**: The stock traded between $36.14 (lowest) and $72.00 (highest), showing a price variation of 98.7%.
+- **Volume Trends**: Quarterly trading volume decreased from 2023-Q1 to 2024-Q4, indicating a possible decline in investor interest.
+- **Total Volume**: 7,987,779,600 shares traded over 502 days, with a noticeable decrease in volume from 2023-Q1 to 2024-Q4.
+- **Price Movement**: The stock showed a stable performance with moderate price fluctuations, but no significant upward or downward trend over the given period.

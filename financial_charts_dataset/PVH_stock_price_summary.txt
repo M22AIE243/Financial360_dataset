@@ -1,0 +1,7 @@
+The PVH stock price chart shows a volatile trend from January 2023 to January 2025. 
+
+* The stock price started around $75 in January 2023 and fluctuated between $70 and $95 until December 2023.
+* It then surged to around $140 in April 2024, before dropping sharply to below $100.
+* The price then stabilized between $90 and $110 from June 2024 to January 2025.
+* Overall, the stock price shows an upward trend over the two-year period, with a significant increase in value from late 2023 to early 2024. 
+* The relationship between X (time) and Y (stock price) is generally positive, but with notable fluctuations.

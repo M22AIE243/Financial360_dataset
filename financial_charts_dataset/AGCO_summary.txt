@@ -1,0 +1,16 @@
+Summary of AGCO data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 134.12
+Lowest Closing Price: 84.18
+Average Closing Price: 110.47
+Total Volume: 365,602,100
+
+Quarterly Volume:
+2023-Qq: 42,690,200
+2023-Qq: 38,831,400
+2023-Qq: 36,883,800
+2023-Qq: 41,083,100
+2024-Qq: 43,564,500
+2024-Qq: 48,337,400
+2024-Qq: 53,897,400
+2024-Qq: 60,314,300

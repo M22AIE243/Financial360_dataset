@@ -1,0 +1,3 @@
+Based on the stock price chart, here is a summary of the trend:
+
+The LECO stock price has fluctuated significantly over the past two years, with a overall upward trend. The stock price started at around $140 and increased to a peak of $254.42, before declining to a low of $141.55. The average stock price is $192.38. The relationship between time (X) and stock price (Y) shows a general increase in stock price over time, with some volatility and fluctuations. The stock price has a noticeable peak in early 2024, followed by a decline and a relatively stable range in the second half of 2024 and early 2025.

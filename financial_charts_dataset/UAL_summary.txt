@@ -1,0 +1,16 @@
+Summary of UAL data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 102.44
+Lowest Closing Price: 33.90
+Average Closing Price: 51.23
+Total Volume: 3,881,388,300
+
+Quarterly Volume:
+2023-Qq: 534,597,300
+2023-Qq: 438,365,500
+2023-Qq: 368,329,800
+2023-Qq: 513,794,500
+2024-Qq: 548,749,700
+2024-Qq: 578,867,000
+2024-Qq: 474,408,300
+2024-Qq: 424,276,200

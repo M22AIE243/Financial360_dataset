@@ -1,0 +1,6 @@
+Here's a concise summary of the RJF stock trading data:
+
+- **Average Closing Price:** $112.40 (stable with a moderate increase)
+- **Highest and Lowest Prices:** $168.94 and $81.00 respectively, indicating a price range of 108.94
+- **Total Volume:** 576,854,700 shares traded over 502 days
+- **Quarterly Volume Trends:** Volume increased in 2024 compared to 2023, with a notable surge in Q4 2024 (81,164,900)

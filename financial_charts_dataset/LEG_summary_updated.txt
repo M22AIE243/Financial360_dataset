@@ -1,0 +1,10 @@
+Here's a concise summary of the LEG stock trading data:
+
+**LEG Stock Performance (2023-01-01 to 2025-01-01)**
+
+- **Key Trends:** The stock's average closing price increased from 2023 to 2024, indicating overall growth.
+- **Price Movement:** The highest closing price reached $34.18, while the lowest was $9.44.
+- **Volume Changes:** The stock's trading volume increased significantly in 2024, with a notable spike in the 2nd quarter (236,930,900).
+- **Average Closing Price:** $20.83, reflecting a steady increase over the period.
+
+Note: The data suggests a strong upward trend in trading volume and average closing price, indicating positive market sentiment towards LEG stock.

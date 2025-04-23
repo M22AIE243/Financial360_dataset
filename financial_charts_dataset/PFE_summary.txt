@@ -1,0 +1,16 @@
+Summary of PFE data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 45.46
+Lowest Closing Price: 23.77
+Average Closing Price: 30.04
+Total Volume: 16,841,135,000
+
+Quarterly Volume:
+2023-Qq: 1,430,825,400
+2023-Qq: 1,628,234,700
+2023-Qq: 1,533,276,400
+2023-Qq: 2,466,837,900
+2024-Qq: 2,673,790,300
+2024-Qq: 2,396,314,300
+2024-Qq: 1,994,957,500
+2024-Qq: 2,716,898,500

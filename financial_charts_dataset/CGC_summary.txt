@@ -1,0 +1,16 @@
+Summary of CGC data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 31.40
+Lowest Closing Price: 2.71
+Average Closing Price: 8.62
+Total Volume: 2,530,164,420
+
+Quarterly Volume:
+2023-Qq: 45,471,100
+2023-Qq: 61,001,570
+2023-Qq: 373,316,520
+2023-Qq: 186,351,230
+2024-Qq: 472,942,000
+2024-Qq: 799,226,000
+2024-Qq: 218,516,200
+2024-Qq: 373,339,800

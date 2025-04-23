@@ -1,0 +1,16 @@
+Summary of HD data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 428.65
+Lowest Closing Price: 266.36
+Average Closing Price: 329.21
+Total Volume: 1,762,492,300
+
+Quarterly Volume:
+2023-Qq: 241,928,300
+2023-Qq: 271,594,900
+2023-Qq: 183,957,300
+2023-Qq: 217,377,200
+2024-Qq: 193,695,500
+2024-Qq: 236,007,200
+2024-Qq: 207,273,600
+2024-Qq: 210,658,300

@@ -1,0 +1,8 @@
+Here's a concise summary of the PNFP stock trading data:
+
+**PNFP Stock Performance Summary (2023-01-01 to 2025-01-01)**
+
+- **Price Movement:** PNFP's stock price fluctuated between $45.34 (lowest) and $129.62 (highest) with an average closing price of $78.21.
+- **Volume Trend:** Total trading volume was 274,224,700 shares. Quarterly volumes decreased from 49,157,400 (2023-Q1) to 28,685,000 (2024-Q1), indicating a decline in trading activity.
+- **Key Trend:** Despite the decline in trading volume, PNFP's stock price showed a range of movement, suggesting a volatile market.
+- **Average Trading Volume:** Approximately 547,000 shares traded per day over the 502-day period.

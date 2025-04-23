@@ -1,0 +1,14 @@
+Here's a summary of the TRIP stock trading data in 4-5 concise lines:
+
+**Key Trends and Performance:**
+- Average Closing Price: $18.49
+- Highest Closing Price: $28.56 (representing a 124% increase from the lowest closing price)
+- Average price movement over the year: 10% increase from the lowest closing price
+
+**Volume Changes:**
+- Total Volume: 1,247,823,800
+- Quarterly volume declined by 10% from 2023-Q4 to 2024-Q4
+
+**Price Movements:**
+- Price range: $12.95 (lowest) to $28.56 (highest)
+- Overall price movement: 122% increase from the lowest to the highest closing price

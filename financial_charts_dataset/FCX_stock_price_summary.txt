@@ -1,0 +1,7 @@
+The FCX stock price chart exhibits a volatile trend over the period from January 2023 to January 2025. 
+
+* The stock price started at around $38 in January 2023, 
+* Peaked at approximately $54 in July 2024, 
+* And ended at around $36 in January 2025. 
+
+The relationship between time (X-axis) and stock price (Y-axis) shows an overall increase from early 2023 to mid-2024, followed by a sharp decline. The stock price demonstrates significant fluctuations throughout the period, indicating high volatility.

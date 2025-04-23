@@ -1,0 +1,16 @@
+Here's a concise summary of the NTRS stock trading data:
+
+**Key Trends and Performance:**
+
+- The average closing price is $80.84, indicating a stable stock performance.
+- The highest closing price reached $109.54, while the lowest was $59.94.
+
+**Volume Changes:**
+
+- Total volume traded over the period is 657,878,700 shares.
+- Quarterly volume trends show a slight increase from Q1 2023 to Q4 2023, followed by a decrease in Q1 2024 and a slight increase in Q4 2024.
+
+**Price Movements:**
+
+- The stock price has fluctuated over the period, with no clear long-term upward or downward trend.
+- The stock has shown resilience with a relatively stable average closing price despite price fluctuations.

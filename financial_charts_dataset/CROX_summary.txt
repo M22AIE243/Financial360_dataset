@@ -1,0 +1,16 @@
+Summary of CROX data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 159.68
+Lowest Closing Price: 77.27
+Average Closing Price: 117.81
+Total Volume: 747,100,200
+
+Quarterly Volume:
+2023-Qq: 97,003,300
+2023-Qq: 112,123,900
+2023-Qq: 107,802,900
+2023-Qq: 91,122,200
+2024-Qq: 92,818,000
+2024-Qq: 75,066,700
+2024-Qq: 78,096,200
+2024-Qq: 93,067,000

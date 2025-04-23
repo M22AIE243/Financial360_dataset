@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The stock price of DG exhibits a clear downward trend over the period from January 2023 to January 2025. The price starts at around 230 and declines to a low of 72.23, with a highest point of 237.46. The overall average price is 139.98. The relationship between time (X) and stock price (Y) is predominantly negative, indicating a decline in stock value over time. There are some fluctuations, but the overall trend is bearish.

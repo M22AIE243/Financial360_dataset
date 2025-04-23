@@ -1,0 +1,8 @@
+The TSCO stock price chart shows a fluctuating trend over time, with an overall upward trajectory. 
+
+Here is a summary of the chart:
+The stock price started around $40 in January 2023 and increased to around $60 by October 2024. 
+It hit a low of $36.76 and a high of $60.27, with an average price of $47.69. 
+The relationship between X (time) and Y (stock price) shows that as time progressed, the stock price generally increased, with some volatility. 
+There was a significant dip in late 2023, but the price recovered and continued to rise. 
+The stock price has remained above $50 since early 2024.

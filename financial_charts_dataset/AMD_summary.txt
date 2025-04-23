@@ -1,0 +1,16 @@
+Summary of AMD data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 211.38
+Lowest Closing Price: 62.33
+Average Closing Price: 130.46
+Total Volume: 28,808,288,100
+
+Quarterly Volume:
+2023-Qq: 3,883,370,000
+2023-Qq: 4,201,460,900
+2023-Qq: 3,757,324,300
+2023-Qq: 3,557,180,900
+2024-Qq: 4,755,116,900
+2024-Qq: 3,321,715,900
+2024-Qq: 3,005,374,000
+2024-Qq: 2,326,745,200

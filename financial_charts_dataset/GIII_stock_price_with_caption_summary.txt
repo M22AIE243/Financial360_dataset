@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The GIII stock price has exhibited an overall upward trend from January 2023 to January 2025. The stock price started around $15 and reached a high of $36.10, with a low of $13.97. The average stock price over this period was $25.00. The chart shows significant volatility, with numerous fluctuations in stock price over time. The relationship between time (X) and stock price (Y) is generally positive, indicating a long-term increase in stock value.

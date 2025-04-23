@@ -1,0 +1,16 @@
+Summary of RMD data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 254.95
+Lowest Closing Price: 132.68
+Average Closing Price: 200.90
+Total Volume: 500,702,400
+
+Quarterly Volume:
+2023-Qq: 40,011,800
+2023-Qq: 38,045,500
+2023-Qq: 88,338,200
+2023-Qq: 79,419,700
+2024-Qq: 60,166,100
+2024-Qq: 74,095,700
+2024-Qq: 63,335,000
+2024-Qq: 57,290,400

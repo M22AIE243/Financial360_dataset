@@ -1,0 +1,5 @@
+The EQR stock price chart shows a general upward trend from January 2023 to January 2025. The stock price started around 55, hit a low of 50.14, and reached a high of 76.01. 
+
+The relationship between X (time) and Y (stock price) indicates that as time progressed, the stock price generally increased, with some fluctuations. Notably, there was a significant increase in stock price from early 2024 to late 2024. 
+
+Overall, the stock price trend is bullish, indicating a positive outlook for the stock.

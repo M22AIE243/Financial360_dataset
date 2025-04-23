@@ -1,0 +1,7 @@
+Here's a concise summary of YETI's stock trading data:
+
+- Average Closing Price: $41.11 (up from the lowest closing price of $34.39)
+- Highest Closing Price: $53.60 (representing a 56% increase from the lowest closing price)
+- Total Volume: 720,674,800 shares traded
+- Quarterly Volume trend: shows an increasing pattern, with 2024-Qq volumes higher than 2023-Qq volumes (average increase of 17%)
+- Key price movement: the stock price has shown a moderate increase, with a highest closing price of $53.60, indicating a stable and growing trend.

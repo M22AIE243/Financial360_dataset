@@ -1,0 +1,16 @@
+Summary of GS data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 602.58
+Lowest Closing Price: 279.36
+Average Closing Price: 391.83
+Total Volume: 1,137,058,100
+
+Quarterly Volume:
+2023-Qq: 187,891,600
+2023-Qq: 136,415,600
+2023-Qq: 126,891,300
+2023-Qq: 134,528,300
+2024-Qq: 142,974,200
+2024-Qq: 142,436,200
+2024-Qq: 135,878,900
+2024-Qq: 130,042,000

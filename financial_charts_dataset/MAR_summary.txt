@@ -1,0 +1,16 @@
+Summary of MAR data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 291.94
+Lowest Closing Price: 144.44
+Average Closing Price: 214.14
+Total Volume: 808,598,500
+
+Quarterly Volume:
+2023-Qq: 115,130,200
+2023-Qq: 105,171,700
+2023-Qq: 128,398,600
+2023-Qq: 98,737,800
+2024-Qq: 87,814,200
+2024-Qq: 93,946,500
+2024-Qq: 100,482,000
+2024-Qq: 78,917,500

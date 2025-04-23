@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The MTZ stock price chart shows a volatile trend over the period from January 2023 to January 2025. The stock price initially fluctuates between $90 and $120 from January 2023 to July 2023, then sharply declines to around $60 by January 2024. However, it recovers and steadily increases to around $140 by January 2025. The overall trend indicates a significant rebound and growth in stock price over the last year. The relationship between time (X) and stock price (Y) shows a strong positive correlation in the latter half of the period.

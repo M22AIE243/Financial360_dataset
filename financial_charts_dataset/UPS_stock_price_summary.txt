@@ -1,0 +1,7 @@
+The UPS stock price chart shows a clear downward trend from early 2023 to early 2025. 
+
+* The stock price peaked at around $180 in mid-2023 and 
+* declined to around $120 by early 2025. 
+* There are fluctuations throughout the period, but the overall relationship between X (time) and Y (stock price) is a steady decrease over time. 
+* The stock price volatility appears to be relatively high during the first half of the period and 
+* becomes less volatile during the second half.

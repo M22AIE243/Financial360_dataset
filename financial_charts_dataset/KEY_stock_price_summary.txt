@@ -1,0 +1,13 @@
+Here is a succinct representation of the stock price chart:
+
+| **Date Range** | **Stock Price Trend** |
+| :-------------: | :------------------: |
+| 2023-01 to 2023-04 | Decreases from ~16 to ~9 |
+| 2023-04 to 2023-07 | Fluctuates around ~9-10 |
+| 2023-07 to 2024-01 | Increases from ~9 to ~13 |
+| 2024-01 to 2024-10 | Steadily increases from ~13 to ~16 |
+| 2024-10 to 2025-01 | Peaks at ~19, then decreases to ~17 |
+
+And here is a summary of the chart:
+
+The stock price of KEY exhibits a volatile trend from January 2023 to January 2025. Initially, it drops significantly from around $16 to $9, then fluctuates around $9-10. The price gradually recovers, steadily increasing to around $16 by October 2024. It then surges to a peak of around $19 before declining to $17. Overall, the stock price shows a general upward trend over the two-year period.

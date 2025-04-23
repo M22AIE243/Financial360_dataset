@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The chart shows the quarterly volume of SSRM stock from Q1 2023 to Q4 2024. The total volume exhibits a volatile trend, with a significant spike in Q1 2024, reaching approximately 3.0 billion. Prior to this peak, the volume remained relatively stable between 0.7-1.2 billion from Q1 2023 to Q4 2023. Following the peak, the volume decreased to around 2.5 billion in Q2 2024 and then stabilized between 1.4-1.5 billion from Q3 2024 to Q4 2024. Overall, the relationship between time (X) and total volume (Y) is characterized by a notable increase in Q1 2024, with some fluctuations in other quarters.

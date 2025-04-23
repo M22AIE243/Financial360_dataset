@@ -1,0 +1,6 @@
+The stock price chart for COP exhibits a volatile trend over the observed period. 
+
+* The stock price started at around 115 in January 2023, then declined to a low of 88.24 before rising to 129.76 by April 2024. 
+* It then declined to around 95 by January 2025. 
+* The average stock price over the period was 108.03. 
+* Overall, the relationship between time (X) and stock price (Y) shows an initial decline, followed by a significant increase and then a decrease.

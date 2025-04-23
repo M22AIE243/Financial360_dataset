@@ -1,0 +1,16 @@
+Summary of ZION data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 61.25
+Lowest Closing Price: 18.31
+Average Closing Price: 39.57
+Total Volume: 1,473,184,200
+
+Quarterly Volume:
+2023-Qq: 226,334,600
+2023-Qq: 375,465,000
+2023-Qq: 206,768,000
+2023-Qq: 169,521,400
+2024-Qq: 202,876,800
+2024-Qq: 100,352,100
+2024-Qq: 106,553,300
+2024-Qq: 85,313,000

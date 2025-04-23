@@ -1,0 +1,16 @@
+Summary of PSA data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 358.02
+Lowest Closing Price: 224.14
+Average Closing Price: 279.25
+Total Volume: 418,115,200
+
+Quarterly Volume:
+2023-Qq: 64,825,900
+2023-Qq: 63,309,000
+2023-Qq: 48,421,700
+2023-Qq: 60,306,900
+2024-Qq: 46,182,800
+2024-Qq: 44,012,900
+2024-Qq: 44,479,300
+2024-Qq: 46,576,700

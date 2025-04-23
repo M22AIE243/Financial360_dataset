@@ -1,0 +1,16 @@
+Summary of EQR data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 76.01
+Lowest Closing Price: 50.14
+Average Closing Price: 61.52
+Total Volume: 945,695,200
+
+Quarterly Volume:
+2023-Qq: 145,463,700
+2023-Qq: 109,729,000
+2023-Qq: 96,850,300
+2023-Qq: 140,156,400
+2024-Qq: 130,635,100
+2024-Qq: 117,231,700
+2024-Qq: 113,116,400
+2024-Qq: 92,512,600

@@ -1,0 +1,5 @@
+Here is a summary of the stock price chart:
+
+The SNBR stock price chart shows a significant decline from January 2023 to mid-2023, with a peak around 40 in early 2023 and a trough around 10 in late 2023. The stock price then fluctuates between 10 and 20 from mid-2023 to late 2024. A slight recovery is observed from late 2024 to January 2025, with the price rising to around 20. Overall, the chart indicates a downward trend from early 2023 to late 2024, followed by a modest recovery. The relationship between time (X) and stock price (Y) appears to be inversely correlated. 
+
+Let me know if you want me to expand on this!

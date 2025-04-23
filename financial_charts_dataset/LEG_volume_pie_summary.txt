@@ -1,0 +1,9 @@
+The image presents a pie chart illustrating the quarterly volume distribution of LEG, divided into eight sections representing different quarters. 
+
+Here is a summary of the chart:
+
+The chart shows the quarterly volume distribution of LEG stock across eight quarters. The key trend is that the most recent quarters in 2024 have the largest shares, with 27.8% and 13.6%. In contrast, the earlier quarters in 2023 have smaller shares, ranging from 6.1% to 10.9%. Overall, the chart indicates a significant increase in volume in 2024 compared to 2023. The relationship between X (time) and Y (stock price/volume) suggests a positive correlation. 
+
+However, it is worth noting that the chart provided is a pie chart and does not directly show the stock price but rather the volume distribution. Therefore, we can't directly comment on the stock price. 
+
+If you provide the stock price chart, I can give a more accurate analysis.

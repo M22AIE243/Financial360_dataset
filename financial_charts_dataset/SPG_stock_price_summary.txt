@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The SPG stock price chart shows an overall upward trend from January 2023 to January 2025. The stock price started around $100, fluctuated between $90 and $120 until December 2023, then surged to around $140 in January 2024. The price continued to rise, reaching $160 by July 2024, and eventually peaked at around $180 by January 2025. The relationship between time (X) and stock price (Y) indicates a strong positive correlation, with the stock price increasing over time. Volatility is present, with short-term fluctuations.

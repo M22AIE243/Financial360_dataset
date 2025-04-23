@@ -1,0 +1,16 @@
+Summary of GTBIF data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 15.35
+Lowest Closing Price: 6.57
+Average Closing Price: 9.96
+Total Volume: 214,422,000
+
+Quarterly Volume:
+2023-Qq: 27,524,500
+2023-Qq: 18,713,000
+2023-Qq: 26,248,200
+2023-Qq: 23,904,900
+2024-Qq: 30,981,900
+2024-Qq: 37,661,600
+2024-Qq: 19,178,700
+2024-Qq: 30,209,200

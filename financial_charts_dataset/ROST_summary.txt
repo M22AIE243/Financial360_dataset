@@ -1,0 +1,16 @@
+Summary of ROST data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 155.74
+Lowest Closing Price: 98.48
+Average Closing Price: 127.50
+Total Volume: 1,163,329,100
+
+Quarterly Volume:
+2023-Qq: 146,213,400
+2023-Qq: 143,795,700
+2023-Qq: 141,126,900
+2023-Qq: 142,957,900
+2024-Qq: 120,683,500
+2024-Qq: 166,636,900
+2024-Qq: 133,736,200
+2024-Qq: 168,178,600

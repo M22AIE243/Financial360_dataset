@@ -1,0 +1,9 @@
+**Stock Price Analysis Summary**
+
+The NSC stock price chart exhibits a fluctuating trend over the observed period. 
+
+* The stock price started at around 240 in January 2023, declined to approximately 190 in October 2023, and then rebounded to around 260 by January 2024.
+* A notable increase occurred between January 2024 and January 2025, reaching a peak of nearly 280.
+* The overall relationship between time (X) and stock price (Y) indicates a general upward trend with significant volatility.
+
+Key trends include a sharp decline in 2023, followed by a recovery and subsequent growth. The stock price shows a positive correlation with time, with some fluctuations.

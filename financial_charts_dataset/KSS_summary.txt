@@ -1,0 +1,16 @@
+Summary of KSS data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 28.41
+Lowest Closing Price: 13.66
+Average Closing Price: 20.63
+Total Volume: 2,915,032,100
+
+Quarterly Volume:
+2023-Qq: 265,418,800
+2023-Qq: 321,951,300
+2023-Qq: 242,473,500
+2023-Qq: 387,683,900
+2024-Qq: 327,746,500
+2024-Qq: 380,268,400
+2024-Qq: 423,468,600
+2024-Qq: 566,021,100

@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The URBN stock price chart shows an overall upward trend from January 2023 to January 2025. The stock price started around $25 and increased to around $55, with some fluctuations. There were periods of volatility, with the price dropping to around $30 in late 2023 and early 2024, but it consistently trended upwards over time. The relationship between time (X) and stock price (Y) is generally positive, indicating that as time progressed, the stock price tended to increase. The stock price surged significantly in late 2024 and early 2025.

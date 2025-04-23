@@ -1,0 +1,9 @@
+**HUM Stock Price Analysis**
+
+The HUM stock price chart exhibits a clear downward trend over the period from January 2023 to January 2025. 
+
+* The stock price starts around 475 and remains stable until mid-2023, reaching a peak of approximately 525.
+* A significant decline occurs in early 2024, with the price dropping to around 350.
+* The price continues to decrease, reaching a low of approximately 250 in late 2024.
+* The overall trend indicates a strong negative correlation between time (X) and stock price (Y), with the stock price decreasing over time. 
+* The chart suggests a loss of investor confidence or a decline in the company's performance over the observed period.

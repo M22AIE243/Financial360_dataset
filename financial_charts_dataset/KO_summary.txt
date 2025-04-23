@@ -1,0 +1,16 @@
+Summary of KO data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 71.44
+Lowest Closing Price: 50.06
+Average Closing Price: 59.58
+Total Volume: 6,959,391,800
+
+Quarterly Volume:
+2023-Qq: 862,082,000
+2023-Qq: 828,506,500
+2023-Qq: 771,205,700
+2023-Qq: 976,397,100
+2024-Qq: 865,658,000
+2024-Qq: 761,706,000
+2024-Qq: 875,098,200
+2024-Qq: 1,018,738,300

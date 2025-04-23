@@ -1,0 +1,7 @@
+Here's a summary of the stock trading data in 4-5 concise lines:
+
+* **Average Closing Price:** $113.80, with a **Price Range** of $57.73 ($148.88 - $91.15).
+* **Total Volume:** 403,705,731 shares traded over 502 days, with a **Quarterly Volume** increase of 11% in Q4 2024 compared to Q4 2023.
+* **Price Trend:** The stock has shown a moderate increase, with the average closing price rising by 25% over the period.
+* **Volume Trend:** Quarterly volume has been relatively stable, with a slight increase in Q4 2024.
+* **Key Takeaway:** The stock has demonstrated steady performance with moderate price growth and stable volume.

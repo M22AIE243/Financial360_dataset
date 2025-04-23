@@ -1,0 +1,9 @@
+The DE stock price chart shows a volatile trend over the period from January 2023 to January 2025. 
+
+* The stock price started around 420 in January 2023, 
+* It then declined to around 340 in July 2023, 
+* Followed by an increase to around 440 in October 2023, 
+* Then fluctuated between 340 and 400 from January 2024 to October 2024, 
+* Before surging to around 460 in January 2025. 
+
+Overall, the stock price shows an upward trend over the two-year period, with significant fluctuations.

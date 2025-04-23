@@ -1,0 +1,10 @@
+Summary of ETH data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 113
+Highest Closing Price: 38.26
+Lowest Closing Price: 20.90
+Average Closing Price: 27.26
+Total Volume: 233,214,740
+
+Quarterly Volume:
+2024-Qq: 74,685,470
+2024-Qq: 158,529,270

@@ -1,0 +1,16 @@
+Summary of LEG data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 34.18
+Lowest Closing Price: 9.44
+Average Closing Price: 20.83
+Total Volume: 851,950,300
+
+Quarterly Volume:
+2023-Qq: 57,087,100
+2023-Qq: 52,050,900
+2023-Qq: 92,530,400
+2023-Qq: 84,167,500
+2024-Qq: 102,134,200
+2024-Qq: 236,930,900
+2024-Qq: 116,260,100
+2024-Qq: 110,789,200

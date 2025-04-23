@@ -1,0 +1,7 @@
+Here's a concise summary of the LNC stock trading data:
+
+- **Price Movement**: LNC's stock price fluctuated between $16.87 (lowest) and $35.82 (highest), with an average closing price of $25.89.
+- **Volume Change**: The total trading volume was 1,155,814,900 shares, with a noticeable decline in volume from 2023-Qq to 2024-Qq, from 228,687,100 to 120,429,000.
+- **Quarterly Trends**: Volume decreased in each quarter of 2023 and 2024, indicating a possible downtrend in trading activity.
+- **Performance**: The average closing price increased by 6.45% from the lowest closing price ($16.87) to the highest closing price ($35.82), indicating a moderate increase in stock value.
+- **Key Statistic**: The total trading days were 502, with a significant amount of trading activity throughout the period.

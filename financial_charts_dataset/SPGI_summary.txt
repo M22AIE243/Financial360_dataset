@@ -1,0 +1,16 @@
+Summary of SPGI data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 527.12
+Lowest Closing Price: 319.45
+Average Closing Price: 417.80
+Total Volume: 613,254,200
+
+Quarterly Volume:
+2023-Qq: 88,377,800
+2023-Qq: 69,828,000
+2023-Qq: 74,356,000
+2023-Qq: 76,054,200
+2024-Qq: 82,227,800
+2024-Qq: 78,195,500
+2024-Qq: 68,412,500
+2024-Qq: 75,802,400

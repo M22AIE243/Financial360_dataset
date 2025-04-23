@@ -1,0 +1,16 @@
+Summary of AMZN data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 232.93
+Lowest Closing Price: 83.12
+Average Closing Price: 153.13
+Total Volume: 25,035,653,300
+
+Quarterly Volume:
+2023-Qq: 4,237,140,900
+2023-Qq: 3,899,624,000
+2023-Qq: 3,389,452,900
+2023-Qq: 3,181,680,200
+2024-Qq: 2,700,335,000
+2024-Qq: 2,622,598,800
+2024-Qq: 2,604,113,800
+2024-Qq: 2,400,707,700

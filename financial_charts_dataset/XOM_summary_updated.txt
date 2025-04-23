@@ -1,0 +1,7 @@
+Here's a summary of the XOM stock trading data in 4-5 concise lines:
+
+- Over the period of 2023-01-01 to 2025-01-01, XOM's average closing price was $106.54, with a highest closing price of $123.25 and a lowest closing price of $92.78.
+- Total trading volume for the period was 8,478,455,600 shares.
+- Quarterly volume trends show an increase from 2023-Q1 to 2023-Q4, followed by a decline in 2024-Q1, then a slight increase in 2024-Q2.
+- The average quarterly volume for 2023 was approximately 1,046,179,100 shares, while the average quarterly volume for 2024 was approximately 1,044,800,900 shares.
+- Overall, the price movement suggests a general upward trend, with a slight decline in trading volume in 2024 compared to 2023.

@@ -1,0 +1,7 @@
+Here's a summary of the stock trading data for PNW in 4-5 concise lines:
+
+- The average closing price of PNW from 2023-01-01 to 2025-01-01 is $74.64, with a highest closing price of $93.55 and a lowest closing price of $63.60.
+- The total trading volume for the period is 505,266,200 shares.
+- Quarterly volume trend shows an increase from 2023-Q1 (60,439,800) to Q4 (60,093,100), followed by a significant rise in 2024-Q1 (89,267,000) and Q4 (80,125,100).
+- The volume increased by 47.5% from Q1 2023 to Q1 2024, and by 33.3% from Q3 2023 to Q4 2023.
+- The overall data suggests a moderate increase in price and trading volume over the period.

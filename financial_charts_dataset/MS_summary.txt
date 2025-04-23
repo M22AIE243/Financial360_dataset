@@ -1,0 +1,16 @@
+Summary of MS data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 134.10
+Lowest Closing Price: 66.66
+Average Closing Price: 90.60
+Total Volume: 3,679,250,500
+
+Quarterly Volume:
+2023-Qq: 495,188,100
+2023-Qq: 430,908,400
+2023-Qq: 438,497,600
+2023-Qq: 559,722,600
+2024-Qq: 547,887,800
+2024-Qq: 399,729,500
+2024-Qq: 395,342,500
+2024-Qq: 411,974,000

@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The MRK stock price chart shows a fluctuating trend over time, with an overall average price of $109.14. The stock price ranged from a low of $94.73 to a high of $129.91. Initially, the stock price remained relatively stable between $100 and $110 from January 2023 to January 2024. However, it then surged to a peak of around $130 in mid-2024 before declining sharply to around $100 by October 2024 and further down to below $100 by January 2025. The relationship between time (X) and stock price (Y) is positively correlated from January 2023 to mid-2024 but negatively correlated from mid-2024 to January 2025.

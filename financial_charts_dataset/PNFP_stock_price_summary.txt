@@ -1,0 +1,7 @@
+Here is a summary of the stock price chart:
+
+The PNFP stock price chart shows a significant decline from January 2023 to July 2023, reaching a low point around $50. 
+The stock price then stabilized and gradually increased from July 2023 to January 2024, trading between $60 and $80. 
+A strong uptrend emerged from January 2024 to January 2025, with the stock price rising to around $130. 
+The overall trend indicates a recovery and substantial growth in stock price over the past two years. 
+The relationship between time (X) and stock price (Y) shows a positive correlation, with the stock price increasing over time.

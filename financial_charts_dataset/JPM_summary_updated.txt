@@ -1,0 +1,13 @@
+Here's a concise summary of the JPM stock trading data:
+
+**Key Trends and Performance:**
+- Average closing price: $169.55
+- Highest closing price: $247.48
+- Lowest closing price: $118.00
+
+**Volume Changes:**
+- Total trading volume: 4,959,349,100
+- Quarterly volume decreased by 18.6% from 2023-Q1 to 2024-Q4
+
+**Price Movements:**
+- The stock price fluctuated throughout the period, with a highest closing price of $247.48 and a lowest closing price of $118.00.

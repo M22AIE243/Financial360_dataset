@@ -1,0 +1,16 @@
+Summary of ANF data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 192.34
+Lowest Closing Price: 21.83
+Average Closing Price: 91.53
+Total Volume: 864,492,800
+
+Quarterly Volume:
+2023-Qq: 105,279,400
+2023-Qq: 109,307,800
+2023-Qq: 118,854,500
+2023-Qq: 98,862,000
+2024-Qq: 104,189,900
+2024-Qq: 97,526,300
+2024-Qq: 120,768,500
+2024-Qq: 109,704,400

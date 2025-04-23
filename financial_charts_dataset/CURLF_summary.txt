@@ -1,0 +1,16 @@
+Summary of CURLF data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 6.28
+Lowest Closing Price: 1.47
+Average Closing Price: 3.66
+Total Volume: 332,149,400
+
+Quarterly Volume:
+2023-Qq: 42,261,400
+2023-Qq: 25,871,100
+2023-Qq: 44,781,400
+2023-Qq: 34,948,500
+2024-Qq: 55,407,100
+2024-Qq: 52,338,400
+2024-Qq: 25,727,600
+2024-Qq: 50,813,900

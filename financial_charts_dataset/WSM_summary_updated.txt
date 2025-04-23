@@ -1,0 +1,9 @@
+Here's a 4-5 concise line summary of the WSM stock trading data:
+
+**WSM Stock Performance Summary (2023-2025)**
+
+- **Average Closing Price:** $103.78
+- **Total Trading Days:** 502
+- **Total Volume:** 1,019,186,900
+- **Key Trend:** Moderate price fluctuations with an average closing price increase of 47.19% from the lowest closing price ($53.59)
+- **Price Movement:** Highest closing price reached $196.69, indicating a significant increase from the lowest closing price.

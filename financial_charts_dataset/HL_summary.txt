@@ -1,0 +1,16 @@
+Summary of HL data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 7.51
+Lowest Closing Price: 3.34
+Average Closing Price: 5.19
+Total Volume: 4,131,047,100
+
+Quarterly Volume:
+2023-Qq: 556,044,000
+2023-Qq: 434,992,100
+2023-Qq: 376,405,600
+2023-Qq: 394,493,000
+2024-Qq: 395,552,300
+2024-Qq: 621,309,900
+2024-Qq: 621,917,800
+2024-Qq: 730,332,400

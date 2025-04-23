@@ -1,0 +1,7 @@
+Here's a summary of the AIG stock trading data in 4-5 concise lines:
+
+- **Key Performance Indicators:** AIG's average closing price is $64.92, with a highest closing price of $78.85 and a lowest closing price of $45.14.
+- **Volume Trend:** Total trading volume for 2023 was 1,045,241,900, increasing to 1,362,825,800 in 2024, with a total of 2,023,767,200 for the entire period.
+- **Price Movement:** The stock price fluctuated over the period, but showed an overall increase from the lowest closing price to the highest.
+- **Volume Growth:** Quarterly volume increased in 2024 compared to 2023, indicating growing investor interest in the stock.
+- **Average Quarterly Volume:** Increased from approximately 244 million in 2023 to around 263 million in 2024.

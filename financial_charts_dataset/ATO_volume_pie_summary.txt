@@ -1,0 +1,5 @@
+The provided chart is a pie chart showing the quarterly volume distribution for ATO. The chart does not show a stock price, but rather a distribution of volume across different quarters.
+
+Here is a summary of the chart:
+
+The pie chart shows the quarterly volume distribution for ATO, with 8 quarters reported. The largest volume was recorded in 2023-Q3 at 16.1%, while the lowest was in 2023-Q2 at 10.6%. The volume distribution shows a varying trend across quarters, with no clear consistent trend. The volumes for 2024 are slightly more consistent, ranging from 11.4% to 13.7%. The chart indicates that the most recent quarters have relatively similar volume distributions.

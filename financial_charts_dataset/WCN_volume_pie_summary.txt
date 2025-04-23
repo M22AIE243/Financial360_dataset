@@ -1,0 +1,5 @@
+The provided image is a pie chart, not a stock price chart. It appears to show the quarterly volume distribution of WCN, divided into sections representing different quarters of 2023 and 2024.
+
+Here is a summary of the chart:
+
+The pie chart shows the quarterly volume distribution of WCN across multiple quarters. The largest volume share is 15.6% in 2023-Qq (red section), while the smallest is 11.2% in another 2023-Qq (green section). The volumes are relatively stable, ranging from 11.2% to 15.6%. There is no clear upward or downward trend in the chart, as it seems to be a distribution of volumes rather than a time-series chart. The chart does not provide information on stock prices.

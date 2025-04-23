@@ -1,0 +1,7 @@
+The stock price of AEO exhibits a significant trend over the observed period. 
+
+The stock price starts at around 15 and fluctuates between 10 and 16 until 2023-10. 
+Then, it shows a steady increase to reach a peak of 25.25 in 2024-04. 
+Afterward, the stock price steadily decreases to 18 and then fluctuates between 18 and 20 until 2024-07. 
+The stock price then continues to decrease to around 17 by 2025-01. 
+The overall trend shows a significant increase from 2023-10 to 2024-04 and then a decrease.

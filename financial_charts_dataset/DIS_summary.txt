@@ -1,0 +1,16 @@
+Summary of DIS data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 121.72
+Lowest Closing Price: 78.35
+Average Closing Price: 96.37
+Total Volume: 5,956,880,200
+
+Quarterly Volume:
+2023-Qq: 678,448,800
+2023-Qq: 774,270,400
+2023-Qq: 1,017,349,600
+2023-Qq: 789,643,800
+2024-Qq: 767,200,400
+2024-Qq: 657,123,300
+2024-Qq: 679,560,300
+2024-Qq: 593,283,600

@@ -1,0 +1,11 @@
+Here's a summary of the CTSH stock trading data in 4-5 concise lines:
+
+**Key Performance Indicators:**
+- Average Closing Price: $68.66
+- Highest Closing Price: $81.72
+- Lowest Closing Price: $55.25
+- Total Volume: 1,873,629,600 shares
+
+**Key Trends and Volume Changes:**
+- Quarterly volume shows a slight increase in 2024, with an average of 236,674,300 shares traded per quarter, up from 224,964,400 shares in 2023.
+- The stock price has fluctuated, with no clear trend, but the average closing price remains relatively stable.

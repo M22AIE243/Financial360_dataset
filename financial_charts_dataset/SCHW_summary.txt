@@ -1,0 +1,16 @@
+Summary of SCHW data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 82.69
+Lowest Closing Price: 45.89
+Average Closing Price: 64.38
+Total Volume: 5,734,788,200
+
+Quarterly Volume:
+2023-Qq: 1,360,207,100
+2023-Qq: 1,089,835,900
+2023-Qq: 605,518,800
+2023-Qq: 664,750,700
+2024-Qq: 477,200,700
+2024-Qq: 435,517,500
+2024-Qq: 600,370,400
+2024-Qq: 501,387,100

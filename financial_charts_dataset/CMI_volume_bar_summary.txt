@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The chart shows the quarterly volume of CMI stock from Q1 2023 to Q4 2024. The total volume generally fluctuates, with a significant spike in Q1 2024, reaching approximately 2.0. The volume then decreases to around 0.6-0.7 in subsequent quarters. The lowest volume is observed in Q4 2024, at around 0.35. Overall, the relationship between time (X) and total volume (Y) exhibits volatility, with a notable peak in Q1 2024.

@@ -1,0 +1,16 @@
+Summary of ADDYY data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 133.40
+Lowest Closing Price: 69.23
+Average Closing Price: 102.66
+Total Volume: 32,397,700
+
+Quarterly Volume:
+2023-Qq: 8,075,700
+2023-Qq: 4,081,400
+2023-Qq: 2,242,900
+2023-Qq: 1,690,200
+2024-Qq: 3,449,900
+2024-Qq: 3,941,400
+2024-Qq: 4,349,100
+2024-Qq: 4,567,100

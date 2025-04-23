@@ -1,0 +1,16 @@
+Summary of DD data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 88.69
+Lowest Closing Price: 59.74
+Average Closing Price: 73.45
+Total Volume: 1,359,394,100
+
+Quarterly Volume:
+2023-Qq: 195,695,300
+2023-Qq: 215,466,100
+2023-Qq: 153,235,800
+2023-Qq: 184,592,200
+2024-Qq: 203,779,800
+2024-Qq: 159,935,300
+2024-Qq: 127,136,200
+2024-Qq: 119,553,400

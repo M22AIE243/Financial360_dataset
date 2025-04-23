@@ -1,0 +1,16 @@
+Summary of MCD data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 312.86
+Lowest Closing Price: 237.56
+Average Closing Price: 272.42
+Total Volume: 1,542,049,300
+
+Quarterly Volume:
+2023-Qq: 170,089,800
+2023-Qq: 155,719,100
+2023-Qq: 149,445,100
+2023-Qq: 199,012,300
+2024-Qq: 194,557,900
+2024-Qq: 230,781,300
+2024-Qq: 220,660,200
+2024-Qq: 221,783,600

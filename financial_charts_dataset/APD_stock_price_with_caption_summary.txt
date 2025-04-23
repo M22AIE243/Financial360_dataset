@@ -1,0 +1,6 @@
+The stock price chart of APD exhibits a volatile trend over the period from January 2023 to January 2025. 
+
+* The stock price started at around 300 and fluctuated between 260 and 300 until October 2023. 
+* It then declined to a low of 208.52 in early 2024, before recovering and rising sharply to a peak of 331.55 in late 2024. 
+* The average stock price over the period is 269.53. 
+* Overall, the relationship between time (X) and stock price (Y) shows a general upward trend, with significant fluctuations.

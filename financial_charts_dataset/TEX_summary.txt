@@ -1,0 +1,16 @@
+Summary of TEX data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 66.07
+Lowest Closing Price: 40.80
+Average Closing Price: 53.78
+Total Volume: 426,095,400
+
+Quarterly Volume:
+2023-Qq: 57,357,900
+2023-Qq: 57,354,000
+2023-Qq: 48,782,100
+2023-Qq: 58,758,100
+2024-Qq: 43,229,600
+2024-Qq: 51,241,600
+2024-Qq: 62,383,400
+2024-Qq: 46,988,700

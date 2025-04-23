@@ -1,0 +1,3 @@
+The stock price of USB exhibits a significant trend over the period from January 2023 to January 2025. 
+
+The stock price started at around 40, increased to around 45, then sharply declined to approximately 26 before recovering and steadily increasing to around 50. The relationship between X (time) and Y (stock price) shows an overall upward trend. The stock price experienced significant volatility, with a low of 26 and a high of 52.48, averaging 38.32. The stock price appears to have a strong upward trend from 2023 to 2025.

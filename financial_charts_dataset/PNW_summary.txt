@@ -1,0 +1,16 @@
+Summary of PNW data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 93.55
+Lowest Closing Price: 63.60
+Average Closing Price: 74.64
+Total Volume: 505,266,200
+
+Quarterly Volume:
+2023-Qq: 60,439,800
+2023-Qq: 44,874,100
+2023-Qq: 49,553,400
+2023-Qq: 60,093,100
+2024-Qq: 89,267,000
+2024-Qq: 61,209,300
+2024-Qq: 59,704,400
+2024-Qq: 80,125,100

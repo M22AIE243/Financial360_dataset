@@ -1,0 +1,6 @@
+Here's a summary of the FLR stock trading data in 4-5 concise lines:
+
+- FLR's average closing price over 502 trading days is $39.25, with a highest closing price of $58.93 and a lowest closing price of $25.83.
+- Total trading volume for the period is 881,780,800 shares.
+- Quarterly volume trends show a decline from 2023-Q1 to 2024-Q4, with the highest volume in 2023-Q3 at 145,161,800 shares.
+- The stock's price movement indicates a fluctuating trend, with no clear upward or downward trend over the given period.

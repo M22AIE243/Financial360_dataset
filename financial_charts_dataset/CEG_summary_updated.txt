@@ -1,0 +1,7 @@
+Here's a concise summary of the CEG stock trading data:
+
+- The stock has shown moderate price growth, with an average closing price of $146.65.
+- The highest closing price reached was $284.54, while the lowest was $72.14.
+- The total trading volume was 1,237,903,000 shares over 502 trading days.
+- Quarterly volume analysis shows a slight increase from 2023-Q1 to 2024-Q4, with a notable surge in volume in 2024-Q2 (199,771,200 shares).
+- This indicates a potential increase in investor interest and market activity in the stock.

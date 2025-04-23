@@ -1,0 +1,7 @@
+**Stock Price Analysis Summary**
+
+The stock price of DG exhibits a predominantly downward trend over the period from January 2023 to January 2025. 
+
+* It started at approximately 230 in January 2023 and declined to around 75 by January 2025.
+* Notable declines occurred in July 2023 and October 2024, with a brief recovery observed between 2023-10 and 2024-04.
+* The overall relationship between time (X) and stock price (Y) is inversely correlated, indicating that as time progresses, the stock price tends to decrease.

@@ -1,0 +1,9 @@
+The provided image is a pie chart, not a stock price chart. It appears to show the quarterly volume distribution of NTRS, with each section representing a different quarter.
+
+Here is a summary of the chart:
+
+The chart shows the quarterly volume distribution of NTRS, with the largest share in 2024-Qq at 14.4% and the smallest in 2023-Qq at 11.4%. The distribution across quarters is relatively stable, with no extreme outliers. The majority of the quarters have a volume distribution between 11.4% and 14.4%. There is no clear upward or downward trend in the data. The chart suggests a consistent quarterly volume distribution for NTRS. 
+
+Note that there is no stock price information in the chart, so a traditional stock price analysis is not possible. 
+
+If you meant to provide a different chart, please provide it, and I'll be happy to help.

@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The KGC stock price chart shows an overall upward trend from January 2023 to January 2025. The stock price started around $4.5, dipped to around $3.5 in April 2023, and then fluctuated between $4-$6 until early 2024. From January 2024 onwards, the stock price exhibits a significant and steady increase, reaching around $10 by October 2024. The price then stabilizes around $10-$11 until January 2025. Overall, the relationship between time (X) and stock price (Y) is positively correlated, with a notable acceleration in price growth from early 2024 onwards.

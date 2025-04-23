@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The chart shows the quarterly volume of ADBE stock from Q1 2023 to Q4 2024. The total volume has fluctuated over time, with a peak in Q2 2023 and Q1 2024. The relationship between time (X-axis) and total volume (Y-axis) shows an overall stable trend with some quarterly variations. Notably, there is a significant drop in volume in Q3 2024. The volume has generally remained above $1.5B.

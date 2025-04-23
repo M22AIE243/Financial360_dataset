@@ -1,0 +1,16 @@
+Summary of MTB data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 219.03
+Lowest Closing Price: 103.67
+Average Closing Price: 141.01
+Total Volume: 600,836,200
+
+Quarterly Volume:
+2023-Qq: 117,922,200
+2023-Qq: 94,738,700
+2023-Qq: 59,340,800
+2023-Qq: 64,190,500
+2024-Qq: 74,770,000
+2024-Qq: 55,090,100
+2024-Qq: 62,544,500
+2024-Qq: 72,239,400

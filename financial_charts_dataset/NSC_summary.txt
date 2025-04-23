@@ -1,0 +1,16 @@
+Summary of NSC data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 275.51
+Lowest Closing Price: 178.18
+Average Closing Price: 224.26
+Total Volume: 653,543,800
+
+Quarterly Volume:
+2023-Qq: 101,249,300
+2023-Qq: 88,645,500
+2023-Qq: 73,531,700
+2023-Qq: 76,364,100
+2024-Qq: 83,615,200
+2024-Qq: 81,719,600
+2024-Qq: 72,606,800
+2024-Qq: 75,811,600

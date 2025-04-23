@@ -1,0 +1,16 @@
+Summary of SNDL data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 2.65
+Lowest Closing Price: 1.25
+Average Closing Price: 1.79
+Total Volume: 1,777,149,000
+
+Quarterly Volume:
+2023-Qq: 215,780,900
+2023-Qq: 170,907,200
+2023-Qq: 311,077,500
+2023-Qq: 184,617,200
+2024-Qq: 253,446,800
+2024-Qq: 362,877,800
+2024-Qq: 137,918,700
+2024-Qq: 140,522,900

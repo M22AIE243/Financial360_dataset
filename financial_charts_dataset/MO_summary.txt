@@ -1,0 +1,16 @@
+Summary of MO data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 55.64
+Lowest Closing Price: 34.69
+Average Closing Price: 41.28
+Total Volume: 4,435,343,200
+
+Quarterly Volume:
+2023-Qq: 527,554,700
+2023-Qq: 454,392,300
+2023-Qq: 473,475,400
+2023-Qq: 569,822,100
+2024-Qq: 720,334,000
+2024-Qq: 677,576,800
+2024-Qq: 525,617,200
+2024-Qq: 486,570,700

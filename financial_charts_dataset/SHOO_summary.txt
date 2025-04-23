@@ -1,0 +1,16 @@
+Summary of SHOO data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 49.10
+Lowest Closing Price: 29.17
+Average Closing Price: 37.84
+Total Volume: 372,330,900
+
+Quarterly Volume:
+2023-Qq: 53,282,100
+2023-Qq: 59,155,400
+2023-Qq: 43,495,000
+2023-Qq: 36,607,500
+2024-Qq: 51,751,700
+2024-Qq: 39,650,100
+2024-Qq: 41,717,200
+2024-Qq: 46,671,900

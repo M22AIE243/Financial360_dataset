@@ -1,0 +1,16 @@
+Summary of BABA data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 117.52
+Lowest Closing Price: 66.60
+Average Closing Price: 83.79
+Total Volume: 9,233,280,900
+
+Quarterly Volume:
+2023-Qq: 1,507,673,600
+2023-Qq: 1,243,150,500
+2023-Qq: 1,049,488,300
+2023-Qq: 1,087,034,100
+2024-Qq: 1,169,447,500
+2024-Qq: 1,037,235,000
+2024-Qq: 1,015,530,100
+2024-Qq: 1,123,721,800

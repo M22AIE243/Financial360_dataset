@@ -1,0 +1,16 @@
+Summary of DDS data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 454.70
+Lowest Closing Price: 245.44
+Average Closing Price: 342.06
+Total Volume: 63,425,100
+
+Quarterly Volume:
+2023-Qq: 8,559,200
+2023-Qq: 10,028,200
+2023-Qq: 7,556,300
+2023-Qq: 6,856,500
+2024-Qq: 5,665,700
+2024-Qq: 6,195,700
+2024-Qq: 9,889,900
+2024-Qq: 8,673,600

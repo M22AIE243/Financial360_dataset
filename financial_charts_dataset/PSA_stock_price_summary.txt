@@ -1,0 +1,8 @@
+The PSA stock price chart shows a fluctuating trend over time. 
+
+* The stock price started around 250 in January 2023 and increased to around 280 by April 2023. 
+* It then remained relatively stable until January 2024, when it dropped to around 230. 
+* However, the stock price rebounded and steadily increased to around 360 by October 2024. 
+* After reaching its peak, the stock price declined to around 280 by January 2025. 
+
+Overall, the stock price exhibits a general upward trend from January 2023 to October 2024, followed by a sharp decline.

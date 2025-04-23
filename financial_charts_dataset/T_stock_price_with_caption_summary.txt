@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The stock price of T exhibits a significant overall upward trend from 2023 to early 2025. Initially, the price fluctuates between $14 and $18 from January 2023 to mid-2023, before declining to a low of around $12.14. However, from late 2023 onwards, the stock price steadily increases, reaching a high of $23.33 by early 2025. The relationship between time (X) and stock price (Y) shows a strong positive correlation, particularly from late 2023 to early 2025. The average stock price over the period is $16.66.

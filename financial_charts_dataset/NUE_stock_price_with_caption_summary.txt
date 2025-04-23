@@ -1,0 +1,9 @@
+The NUE stock price chart shows a fluctuating trend over time. 
+
+Here is a summary of the chart:
+
+The stock price of NUE experienced significant volatility between January 2023 and January 2025. 
+The stock's value started at around $140, increased to a peak of $197.71, and then declined to a low of $114.71. 
+The overall trend shows an initial increase, followed by a sharp rise and then a decline. 
+The average stock price over this period was $156.62. 
+The relationship between time (X) and stock price (Y) indicates that the stock price generally increased from January 2023 to April 2024, before declining sharply thereafter.

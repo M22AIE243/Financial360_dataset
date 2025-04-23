@@ -1,0 +1,7 @@
+**EXC Stock Price Analysis**
+
+The EXC stock price chart exhibits a volatile trend over the period from January 2023 to January 2025. 
+
+* The stock price fluctuates between **$31.98** (lowest) and **$40.53** (highest), with an average price of **$37.05**. 
+* A downward trend is observed from early 2023 to early 2024, followed by a significant recovery and upward trend from mid-2024 to late 2024. 
+* The relationship between time (X) and stock price (Y) indicates that while there are short-term fluctuations, the overall trend shows a decline from 2023 to early 2024 and then a strong rebound in 2024.

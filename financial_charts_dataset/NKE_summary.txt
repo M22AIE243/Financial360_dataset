@@ -1,0 +1,16 @@
+Summary of NKE data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 125.06
+Lowest Closing Price: 70.06
+Average Closing Price: 97.76
+Total Volume: 4,843,311,900
+
+Quarterly Volume:
+2023-Qq: 393,155,600
+2023-Qq: 464,803,200
+2023-Qq: 487,991,700
+2023-Qq: 565,129,300
+2024-Qq: 574,948,900
+2024-Qq: 702,361,700
+2024-Qq: 902,619,000
+2024-Qq: 752,302,500

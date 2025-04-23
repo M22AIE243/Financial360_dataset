@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The DUK stock price chart shows a fluctuating trend over time, with an overall upward trajectory. The stock price starts around $95 in January 2023, dips to a low of $80.40, and then steadily increases to a high of $118.52. The price peaks in late 2024 and then declines to around $105 by January 2025. The average stock price is $94.83. The relationship between time (X) and stock price (Y) shows a general positive correlation, with some volatility.

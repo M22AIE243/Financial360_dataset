@@ -1,0 +1,16 @@
+Summary of NVDA data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 148.86
+Lowest Closing Price: 14.25
+Average Closing Price: 72.32
+Total Volume: 213,482,275,200
+
+Quarterly Volume:
+2023-Qq: 31,112,170,000
+2023-Qq: 29,661,319,000
+2023-Qq: 30,918,270,000
+2023-Qq: 26,697,606,000
+2024-Qq: 32,933,354,000
+2024-Qq: 27,164,691,100
+2024-Qq: 20,783,017,400
+2024-Qq: 14,211,847,700

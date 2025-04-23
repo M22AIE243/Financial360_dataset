@@ -1,0 +1,7 @@
+Here's a concise summary of the ATO stock trading data:
+
+* Average Closing Price: $116.40 with a highest closing price of $150.55 and a lowest closing price of $98.82.
+* Total Volume: 446,167,100 shares traded over 502 trading days.
+* Quarterly volume trend shows a generally increasing pattern, with a notable surge in the 4th quarter of 2023 (71,651,200 shares) and relatively stable volumes in 2024.
+* Average quarterly volume has seen a slight decline from 2023 to 2024, indicating a potential shift in investor interest.
+* Overall, the stock has shown a stable price movement with a slight upward trend, supported by moderate trading volumes.

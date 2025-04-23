@@ -1,0 +1,12 @@
+**CFG Stock Price/Volume Analysis**
+
+The CFG quarterly volume chart shows a fluctuating trend over the past eight quarters, from Q1 2023 to Q4 2024. 
+
+*   **Key Trends:** 
+    *   The highest trading volume occurred in Q2 2023, with approximately 5.3 billion shares traded. 
+    *   The lowest volume was recorded in Q4 2024, with around 2.7 billion shares traded. 
+*   **Relationship between X (time) and Y (stock volume):** 
+    *   There is no clear, consistent upward or downward trend in trading volume over time. 
+    *   The data suggests volatility in investor interest or market activity. 
+*   **Overall:** 
+    *   The chart indicates that CFG's trading volume has experienced significant variability, with a peak in Q2 2023 and a relatively low point in Q4 2024.

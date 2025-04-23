@@ -1,0 +1,9 @@
+**Stock Price Analysis Summary:**
+
+The TRN stock price chart exhibits a clear upward trend over the period from January 2023 to January 2025. 
+
+* The stock price started around 27.5 and declined to approximately 20.0 in mid-2023. 
+* It then stabilized and began a steady increase from late 2023 to early 2024. 
+* A significant surge occurred from mid-2024 to early 2025, with the price rising from around 25.0 to nearly 37.5. 
+
+Overall, the relationship between time (X) and stock price (Y) indicates a positive correlation, with the stock price generally increasing over time.

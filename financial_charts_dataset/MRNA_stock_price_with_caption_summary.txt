@@ -1,0 +1,6 @@
+The MRNA stock price chart shows a significant decline over the period from January 2023 to January 2025. 
+
+* The stock price peaked at $197.02 in early 2023 and reached a low of $36.85 towards the end of the period.
+* The overall trend indicates a substantial decrease in stock price over time, with an average price of $107.33.
+* There were periods of fluctuation, with a notable increase around mid-2024, but the general direction was downward. 
+* The stock price has a negative correlation with time (X), as the price decreases as time (X) increases.

@@ -1,0 +1,16 @@
+Summary of AME data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 196.74
+Lowest Closing Price: 132.01
+Average Closing Price: 160.12
+Total Volume: 531,904,600
+
+Quarterly Volume:
+2023-Qq: 63,696,000
+2023-Qq: 61,771,300
+2023-Qq: 57,812,600
+2023-Qq: 60,993,200
+2024-Qq: 59,168,800
+2024-Qq: 72,224,800
+2024-Qq: 79,230,800
+2024-Qq: 77,007,100

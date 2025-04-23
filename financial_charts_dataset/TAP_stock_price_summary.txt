@@ -1,0 +1,7 @@
+The TAP stock price chart shows a fluctuating trend over the period from January 2023 to January 2025. 
+
+* The stock price started around $47 in January 2023 and rose to approximately $68 by August 2023.
+* It then declined to around $50 by October 2023 but recovered to $67 by March 2024.
+* A significant drop occurred in July 2024, with the price falling to about $48, before rising again to $62 by December 2024.
+* The overall trend indicates volatility, with peaks in mid-2023 and early 2024, and troughs in early 2023 and mid-2024. 
+* The relationship between time (X) and stock price (Y) is positively correlated in the long term, but with significant short-term fluctuations.

@@ -1,0 +1,16 @@
+Summary of AVGO data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 248.58
+Lowest Closing Price: 53.24
+Average Closing Price: 113.86
+Total Volume: 14,318,972,100
+
+Quarterly Volume:
+2023-Qq: 1,424,381,000
+2023-Qq: 1,753,250,000
+2023-Qq: 1,473,010,000
+2023-Qq: 1,993,557,000
+2024-Qq: 1,889,157,000
+2024-Qq: 2,060,798,000
+2024-Qq: 1,970,979,400
+2024-Qq: 1,753,839,700

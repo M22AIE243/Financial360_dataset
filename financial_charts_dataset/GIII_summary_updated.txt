@@ -1,0 +1,8 @@
+Here's a summary of the GIII stock trading data:
+
+- **Price Movement:** GIII's stock price fluctuated between $13.97 and $36.10, with an average closing price of $25.00.
+- **Volume Changes:** Total trading volume was 287,197,100 shares, with a noticeable decrease in volume from 2023-Q4 to 2024-Q4 (from 36,512,400 to 29,693,600).
+- **Key Trend:** The stock price showed an overall upward trend, with a slight decrease in 2024-Q4.
+- **Quarterly Performance:** The stock price increased in 2023-Q1 and Q2, followed by a decrease in 2023-Q3 and a slight increase in 2024-Q1, then a decrease in 2024-Q2 and Q3, and another slight increase in 2024-Q4.
+
+Overall, GIII's stock price exhibited moderate volatility, with some fluctuations in volume and price movements throughout the period.

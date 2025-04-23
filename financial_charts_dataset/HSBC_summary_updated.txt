@@ -1,0 +1,7 @@
+Here's a concise summary of the HSBC stock trading data:
+
+- **Average Closing Price:** HSBC's average closing price over the 502 trading days was $36.37.
+- **Price Movement:** The stock's highest closing price was $48.01, while the lowest was $25.96, indicating a 87.9% price fluctuation.
+- **Volume Trends:** Total trading volume for the period was 898,761,200 shares, with quarterly volumes showing a decline from Q4 2023 to Q4 2024.
+- **Key Trend:** The stock's average closing price has been relatively stable, with no significant decline or rise over the observed period.
+- **Volume Change:** Quarterly volume decreased by 45.3% from Q1 2023 to Q4 2024, indicating a decline in investor interest.

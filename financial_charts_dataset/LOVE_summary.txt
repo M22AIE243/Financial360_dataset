@@ -1,0 +1,16 @@
+Summary of LOVE data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 38.64
+Lowest Closing Price: 14.44
+Average Closing Price: 24.88
+Total Volume: 181,610,100
+
+Quarterly Volume:
+2023-Qq: 34,025,600
+2023-Qq: 25,349,100
+2023-Qq: 19,408,000
+2023-Qq: 24,904,100
+2024-Qq: 13,856,300
+2024-Qq: 24,036,300
+2024-Qq: 17,133,400
+2024-Qq: 22,897,300

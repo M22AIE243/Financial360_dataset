@@ -1,0 +1,16 @@
+Summary of BK data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 80.92
+Lowest Closing Price: 37.37
+Average Closing Price: 52.89
+Total Volume: 2,217,886,000
+
+Quarterly Volume:
+2023-Qq: 375,111,100
+2023-Qq: 311,844,400
+2023-Qq: 277,270,600
+2023-Qq: 287,624,600
+2024-Qq: 246,401,100
+2024-Qq: 215,776,800
+2024-Qq: 259,758,900
+2024-Qq: 244,098,500

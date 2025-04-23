@@ -1,0 +1,8 @@
+The KMB stock price chart shows a fluctuating trend over the period from January 2023 to January 2025. 
+
+* The stock price starts at around $125 in January 2023 and decreases to around $110 by April 2023. 
+* It then increases to around $135 by July 2023, before declining to around $110 by October 2023. 
+* The stock price shows a steady increase from January 2024 to October 2024, reaching a peak of around $145. 
+* However, it then declines to around $130 by January 2025. 
+
+Overall, the stock price exhibits a general upward trend over the two-year period, with significant volatility.

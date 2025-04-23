@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The chart shows LULU's quarterly volume from Q1 2023 to Q4 2024. The stock's trading volume fluctuates over time, with a notable dip in Q3 2023. The volume recovers and reaches its peak in Q2 2024, followed by a slight decline. Overall, the relationship between time (X) and total volume (Y) exhibits volatility, with an upward trend from 2023 to 2024. The highest volume is recorded in Q2 2024.

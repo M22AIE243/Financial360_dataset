@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The EIX stock price chart shows a general upward trend from January 2023 to January 2025. The stock price started around $60, increased to around $70 by mid-2023, and then declined to a low of $56.69. However, it rebounded strongly, reaching a high of $86.11 in late 2024. The stock price then declined to around $75 by January 2025. Overall, the relationship between time (X) and stock price (Y) shows a positive trend with significant volatility.

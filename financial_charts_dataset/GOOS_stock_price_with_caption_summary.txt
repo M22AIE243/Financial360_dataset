@@ -1,0 +1,7 @@
+Here is a succinct summary of the stock price chart:
+
+**Summary :**
+The GOOS stock price chart shows a significant downtrend from January 2023 to January 2025. The stock price peaked at $24.65 in early 2023 and declined to a low of $9.32. The overall trend indicates a strong negative correlation between time (X) and stock price (Y). The average stock price over this period was $14.01. The chart suggests a steady decline in stock value over the past two years.
+
+**Key Trends and Relationship:**
+The chart exhibits a clear downward trend, indicating that as time (X) increases, the stock price (Y) tends to decrease. The relationship between X and Y is negatively correlated, with some fluctuations in the stock price over time. The highest stock price was recorded in early 2023, while the lowest price occurred in late 2024/early 2025.

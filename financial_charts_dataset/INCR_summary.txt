@@ -1,0 +1,16 @@
+Summary of INCR data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 4.00
+Lowest Closing Price: 1.01
+Average Closing Price: 2.01
+Total Volume: 25,929,200
+
+Quarterly Volume:
+2023-Qq: 3,676,400
+2023-Qq: 2,882,000
+2023-Qq: 3,024,500
+2023-Qq: 2,857,200
+2024-Qq: 5,303,200
+2024-Qq: 3,778,800
+2024-Qq: 1,790,800
+2024-Qq: 2,616,300

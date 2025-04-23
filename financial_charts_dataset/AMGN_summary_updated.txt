@@ -1,0 +1,13 @@
+Here's a concise summary of the AMGN stock trading data:
+
+**Key Trends and Performance:**
+- The average closing price over the period is $266.48, indicating a stable market performance.
+- The highest closing price of $332.02 and lowest closing price of $203.06 show a price fluctuation of 62.47%.
+
+**Volume Changes:**
+- Total trading volume over 502 days is 1,291,103,200 shares.
+- Quarterly volume increased in 2024, with a peak of 204,666,600 shares in Q4.
+
+**Price Movements:**
+- The stock price showed a moderate increase, with an average closing price higher than the lowest closing price.
+- A significant price jump occurred in Q4 2024, indicating potential market interest and growth.

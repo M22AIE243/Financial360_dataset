@@ -1,0 +1,7 @@
+Here's a summary of AEE's stock trading data in 4-5 concise lines:
+
+- AEE's average closing price for the given period was $77.01, with a highest closing price of $93.61 and a lowest closing price of $65.19.
+- The total trading volume was 775,274,100 shares.
+- Quarterly volume trends show a slight decline from 2023-Q1 to 2024-Q4, with a peak in 2023-Q4 at 131,774,100 shares.
+- The overall volume trend has been decreasing over the past year, indicating reduced market activity.
+- The price movement has been relatively stable, with no significant upward or downward trends.

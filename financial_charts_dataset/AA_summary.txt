@@ -1,0 +1,16 @@
+Summary of AA data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 54.05
+Lowest Closing Price: 22.96
+Average Closing Price: 35.28
+Total Volume: 2,773,791,200
+
+Quarterly Volume:
+2023-Qq: 327,551,200
+2023-Qq: 277,655,600
+2023-Qq: 377,502,700
+2023-Qq: 368,374,700
+2024-Qq: 377,638,200
+2024-Qq: 362,635,700
+2024-Qq: 396,281,800
+2024-Qq: 286,151,300

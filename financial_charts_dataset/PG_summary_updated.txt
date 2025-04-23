@@ -1,0 +1,7 @@
+Here's a concise summary of the Procter & Gamble (PG) stock trading data:
+
+- **Price Performance:** PG's stock price fluctuated between $129.17 and $177.50, with an average closing price of $151.72.
+- **Price Movement:** The stock price increased by 12.4% from the lowest to the highest closing price.
+- **Volume Trends:** Total trading volume was 3,260,472,500 shares, with a noticeable increase in volume during the 2024 quarters.
+- **Volume Growth:** Quarterly volume increased significantly from 2023-Q4 to 2024-Q4, indicating rising investor interest.
+- **Average Volume:** PG's average quarterly volume was approximately 409,421,700 shares.

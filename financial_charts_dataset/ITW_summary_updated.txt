@@ -1,0 +1,6 @@
+Here's a concise summary of the ITW stock trading data:
+
+- **Average Closing Price:** $238.70, indicating a stable performance.
+- **Price Movement:** The stock price fluctuated between $207.99 (lowest) and $275.18 (highest), showing a 32.5% price range.
+- **Volume Trends:** Total trading volume was 527,355,100, with a slight increase in volume over the quarters, especially in 2024 (79,150,200 in Q2).
+- **Key Trend:** The quarterly volume shows a slight decline in Q3 and Q4 of 2023 and 2024, but still maintains a relatively stable trading activity.

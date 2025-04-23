@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The MKC stock price chart shows a volatile trend over the period from January 2023 to January 2025. The stock price peaked at $89.65 and hit a low of $57.53, with an average price of $74.00. The chart exhibits a general upward trend, with significant fluctuations throughout the period. The stock price appears to have experienced a sharp decline in late 2023, followed by a recovery and subsequent growth. Overall, the relationship between time (X) and stock price (Y) is complex, with periods of high volatility.

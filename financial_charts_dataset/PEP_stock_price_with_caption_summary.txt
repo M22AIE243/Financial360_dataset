@@ -1,0 +1,12 @@
+The PEP stock price chart shows a fluctuating trend over the period from January 2023 to January 2025. 
+
+* The stock price initially increased from around 170 to a peak of 184.35 in mid-2023.
+* It then declined to a low of 149.96 in late 2023, before recovering to around 180 in mid-2024.
+* However, the price declined again to around 150 in early 2025.
+
+Key statistics include: 
+* Highest: 184.35 
+* Lowest: 149.96 
+* Average: 166.12.
+
+The relationship between X (time) and Y (stock price) shows volatility in the stock price over time.

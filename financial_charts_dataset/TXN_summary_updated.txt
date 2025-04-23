@@ -1,0 +1,7 @@
+Here's a summary of the TXN stock trading data:
+
+- Average closing price: $172.48
+- Total trading days: 502
+- Total volume: 2,682,209,400 shares traded
+- Highest closing price: $218.67, lowest closing price: $135.61
+- Quarterly volume trend: Increasing volume in 2024 compared to 2023, with a notable increase in the 4th quarter of 2024.

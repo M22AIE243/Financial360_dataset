@@ -1,0 +1,16 @@
+Summary of TPC data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 33.24
+Lowest Closing Price: 5.06
+Average Closing Price: 13.69
+Total Volume: 186,689,700
+
+Quarterly Volume:
+2023-Qq: 18,538,900
+2023-Qq: 26,811,100
+2023-Qq: 16,480,200
+2023-Qq: 12,321,300
+2024-Qq: 18,882,500
+2024-Qq: 35,341,300
+2024-Qq: 31,595,800
+2024-Qq: 26,718,600

@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The FCX stock price chart exhibits a volatile trend over the period from January 2023 to January 2025. The stock price fluctuated between $32.27 and $54.08, with an average price of $41.40. Initially, the price showed a downward trend until mid-2023, followed by a relatively stable period, and then a significant increase from early 2024 to mid-2024. After reaching a peak, the price declined steadily until January 2025. Overall, the relationship between time (X) and stock price (Y) indicates a mix of downward and upward movements with high variability.

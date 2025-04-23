@@ -1,0 +1,7 @@
+Here's a concise summary of the AMD stock trading data:
+
+- **Average Closing Price:** $130.46, indicating a relatively stable performance.
+- **Price Range:** $62.33 (lowest) to $211.38 (highest), showing a significant price movement.
+- **Total Volume:** 28,808,288,100 shares traded, with a moderate increase in volume over time.
+- **Quarterly Volume Trend:** Volume increased in 2024 (4,755,116,900 in Q1) compared to 2023 (3,883,370,000 in Q1).
+- **Key Trend:** A slight decrease in volume over the last two quarters of 2024, indicating a possible market correction.

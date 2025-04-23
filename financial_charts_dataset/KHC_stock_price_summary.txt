@@ -1,0 +1,6 @@
+The KHC stock price chart shows a general downward trend from January 2023 to January 2025. 
+
+* The stock price started at around 38 in January 2023 and decreased to around 30 by October 2023. 
+* It then recovered slightly to around 37 in April 2024 but declined again to around 30 by January 2025. 
+* The relationship between X (time) and Y (stock price) indicates that over the two-year period, the stock price has generally decreased over time with fluctuations. 
+* There are noticeable peaks and troughs throughout the period, suggesting volatility in the stock's performance.

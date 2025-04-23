@@ -1,0 +1,6 @@
+Here's a concise summary of the DKS stock trading data:
+
+- **Price Movement:** The stock's average closing price increased from $97.73 (lowest) to $160.85, with a highest closing price of $235.40.
+- **Volume Trend:** The total trading volume decreased from 2023-Q1 ($84.77B) to 2024-Q4 ($67.61B), indicating a decline in trading activity.
+- **Quarterly Performance:** The stock's average closing price increased in 2023 (from $123.18 to $151.71) and decreased in 2024 (from $151.71 to $143.91), showing a mixed performance.
+- **Key Statistics:** The stock had a total trading volume of 651,732,200 and 502 trading days, with a highest closing price of $235.40.

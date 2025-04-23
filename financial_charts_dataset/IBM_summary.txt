@@ -1,0 +1,16 @@
+Summary of IBM data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 236.46
+Lowest Closing Price: 113.31
+Average Closing Price: 160.23
+Total Volume: 2,174,824,900
+
+Quarterly Volume:
+2023-Qq: 319,894,200
+2023-Qq: 280,598,700
+2023-Qq: 252,840,600
+2023-Qq: 260,672,100
+2024-Qq: 318,549,100
+2024-Qq: 247,679,700
+2024-Qq: 230,156,400
+2024-Qq: 264,434,100

@@ -1,0 +1,16 @@
+Summary of ALLY data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 43.99
+Lowest Closing Price: 20.72
+Average Closing Price: 31.70
+Total Volume: 2,171,308,400
+
+Quarterly Volume:
+2023-Qq: 462,941,800
+2023-Qq: 282,698,300
+2023-Qq: 276,905,100
+2023-Qq: 288,416,100
+2024-Qq: 247,316,600
+2024-Qq: 176,119,300
+2024-Qq: 230,505,800
+2024-Qq: 206,405,400

@@ -1,0 +1,7 @@
+The stock price chart for DD Quarterly Volume shows a fluctuating trend over the period from Q1 2023 to Q4 2024. 
+
+The key trends are: 
+- The highest volume was recorded in Q2 2023 and Q1 2024, both around 2 x 10^8. 
+- The lowest volume was in Q4 2024. 
+- There is an overall decrease in volume from 2023 to 2024. 
+- The volume generally shows a downward trend over time.

@@ -1,0 +1,8 @@
+**HSBC Quarterly Volume Analysis**
+
+The stock price chart displays HSBC's quarterly volume from March 2023 to December 2024. 
+
+* The highest volume was recorded on March 31, 2023, at approximately $1.6 billion. 
+* The lowest volume occurred on December 31, 2024, at around $0.7 billion. 
+* Overall, the trend indicates a decline in volume over time, with fluctuations in between. 
+* The relationship between time (X-axis) and stock price (Y-axis) shows a general downward trend.

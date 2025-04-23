@@ -1,0 +1,16 @@
+Summary of NUE data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 197.71
+Lowest Closing Price: 114.71
+Average Closing Price: 156.62
+Total Volume: 798,756,600
+
+Quarterly Volume:
+2023-Qq: 114,747,200
+2023-Qq: 101,444,100
+2023-Qq: 83,405,700
+2023-Qq: 88,826,700
+2024-Qq: 89,759,100
+2024-Qq: 92,979,600
+2024-Qq: 93,312,600
+2024-Qq: 134,281,600

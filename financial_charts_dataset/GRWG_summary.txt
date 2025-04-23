@@ -1,0 +1,16 @@
+Summary of GRWG data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 5.66
+Lowest Closing Price: 1.54
+Average Closing Price: 2.80
+Total Volume: 445,724,900
+
+Quarterly Volume:
+2023-Qq: 70,324,900
+2023-Qq: 56,575,600
+2023-Qq: 64,427,300
+2023-Qq: 50,893,700
+2024-Qq: 64,243,200
+2024-Qq: 65,199,700
+2024-Qq: 33,983,200
+2024-Qq: 40,077,300

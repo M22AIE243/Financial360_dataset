@@ -1,0 +1,16 @@
+Summary of PVH data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 140.38
+Lowest Closing Price: 70.03
+Average Closing Price: 97.41
+Total Volume: 448,915,800
+
+Quarterly Volume:
+2023-Qq: 66,243,600
+2023-Qq: 59,423,300
+2023-Qq: 51,059,300
+2023-Qq: 60,790,200
+2024-Qq: 47,334,900
+2024-Qq: 66,006,400
+2024-Qq: 51,410,500
+2024-Qq: 46,647,600

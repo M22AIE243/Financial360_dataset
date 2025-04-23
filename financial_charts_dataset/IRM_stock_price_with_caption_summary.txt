@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The IRM stock price chart shows a significant upward trend from January 2023 to January 2025. The stock price started around $50 and increased to a peak of $126.17, with an average price of $73.59. The price remained relatively stable until mid-2024, when it began to rise sharply, reaching its highest point in late 2024. Since then, the price has declined to around $100. Overall, the chart indicates a strong positive relationship between time (X) and stock price (Y).

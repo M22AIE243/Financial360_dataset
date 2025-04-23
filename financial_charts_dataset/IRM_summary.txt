@@ -1,0 +1,16 @@
+Summary of IRM data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 126.17
+Lowest Closing Price: 45.18
+Average Closing Price: 73.59
+Total Volume: 768,597,400
+
+Quarterly Volume:
+2023-Qq: 93,357,500
+2023-Qq: 84,072,900
+2023-Qq: 90,210,800
+2023-Qq: 95,128,700
+2024-Qq: 92,628,600
+2024-Qq: 104,873,600
+2024-Qq: 110,897,500
+2024-Qq: 97,427,800

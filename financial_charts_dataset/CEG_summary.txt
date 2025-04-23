@@ -1,0 +1,16 @@
+Summary of CEG data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 284.54
+Lowest Closing Price: 72.14
+Average Closing Price: 146.65
+Total Volume: 1,237,903,000
+
+Quarterly Volume:
+2023-Qq: 136,549,600
+2023-Qq: 138,489,900
+2023-Qq: 109,579,800
+2023-Qq: 107,536,900
+2024-Qq: 135,928,900
+2024-Qq: 199,771,200
+2024-Qq: 223,802,900
+2024-Qq: 186,243,800

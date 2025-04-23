@@ -1,0 +1,16 @@
+Summary of SA data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 20.53
+Lowest Closing Price: 9.43
+Average Closing Price: 13.49
+Total Volume: 220,493,800
+
+Quarterly Volume:
+2023-Qq: 20,004,700
+2023-Qq: 25,124,600
+2023-Qq: 16,329,200
+2023-Qq: 27,102,500
+2024-Qq: 31,269,500
+2024-Qq: 33,795,500
+2024-Qq: 29,443,400
+2024-Qq: 37,424,400

@@ -1,0 +1,16 @@
+Summary of BURL data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 295.49
+Lowest Closing Price: 116.31
+Average Closing Price: 205.11
+Total Volume: 543,600,400
+
+Quarterly Volume:
+2023-Qq: 59,475,700
+2023-Qq: 72,580,700
+2023-Qq: 79,847,200
+2023-Qq: 107,664,400
+2024-Qq: 51,138,800
+2024-Qq: 69,594,600
+2024-Qq: 48,792,400
+2024-Qq: 54,506,600

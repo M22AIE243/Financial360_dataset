@@ -1,0 +1,16 @@
+Summary of WSM data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 196.69
+Lowest Closing Price: 53.59
+Average Closing Price: 103.78
+Total Volume: 1,019,186,900
+
+Quarterly Volume:
+2023-Qq: 132,455,600
+2023-Qq: 128,736,600
+2023-Qq: 145,581,400
+2023-Qq: 112,345,800
+2024-Qq: 130,717,400
+2024-Qq: 131,972,200
+2024-Qq: 108,521,200
+2024-Qq: 128,856,700

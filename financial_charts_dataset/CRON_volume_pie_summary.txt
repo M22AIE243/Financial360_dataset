@@ -1,0 +1,8 @@
+The provided image is a pie chart, not a stock price chart. It appears to show the quarterly volume distribution of CRON. Here's a summary:
+
+* The chart is divided into 8 sections, each representing a quarterly period in 2023 and 2024.
+* The largest volume distribution is in 2023-Qq (18.8%) and 2024-Qq (18.5%).
+* The smallest volume distribution is in 2024-Qq (6.5%).
+* The chart shows a relatively stable distribution across quarters, with no extreme fluctuations.
+
+As a financial analyst, I would note that this chart does not provide information on stock prices, but rather on volume distribution. If you provide a stock price chart, I would be happy to analyze it and provide a summary.

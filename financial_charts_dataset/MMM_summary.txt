@@ -1,0 +1,16 @@
+Summary of MMM data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 138.02
+Lowest Closing Price: 67.77
+Average Closing Price: 93.83
+Total Volume: 2,237,827,882
+
+Quarterly Volume:
+2023-Qq: 267,131,862
+2023-Qq: 268,659,275
+2023-Qq: 271,943,606
+2023-Qq: 269,736,032
+2024-Qq: 372,665,107
+2024-Qq: 311,609,200
+2024-Qq: 266,661,500
+2024-Qq: 209,421,300

@@ -1,0 +1,16 @@
+Summary of ADSK data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 321.27
+Lowest Closing Price: 182.07
+Average Closing Price: 232.29
+Total Volume: 748,867,600
+
+Quarterly Volume:
+2023-Qq: 88,532,600
+2023-Qq: 89,717,000
+2023-Qq: 86,727,700
+2023-Qq: 85,655,200
+2024-Qq: 79,311,600
+2024-Qq: 142,269,100
+2024-Qq: 87,743,500
+2024-Qq: 88,910,900

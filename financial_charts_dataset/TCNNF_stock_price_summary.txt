@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The TCNNF stock price chart shows a volatile trend over the period from January 2023 to January 2025. The stock price declined from around $7 in early 2023 to a low of around $4 in late 2023, before surging to a peak of around $14 in mid-2024. The price then fluctuated between $10 and $12 until a sharp decline to around $4 in late 2024 and early 2025. Overall, the relationship between time (X) and stock price (Y) is characterized by a significant increase in price over the long term, with substantial short-term fluctuations. The stock price exhibits a general upward trend from 2023 to 2024, followed by a sharp correction in 2025.

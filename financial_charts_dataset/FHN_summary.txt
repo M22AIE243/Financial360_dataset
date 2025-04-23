@@ -1,0 +1,16 @@
+Summary of FHN data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 22.68
+Lowest Closing Price: 8.90
+Average Closing Price: 14.76
+Total Volume: 3,899,179,700
+
+Quarterly Volume:
+2023-Qq: 488,037,000
+2023-Qq: 788,114,700
+2023-Qq: 432,370,500
+2023-Qq: 546,219,400
+2024-Qq: 461,338,400
+2024-Qq: 389,621,000
+2024-Qq: 383,209,700
+2024-Qq: 410,269,000

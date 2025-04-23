@@ -1,0 +1,8 @@
+Here's a concise summary of the DUK stock trading data:
+
+**Key Takeaways:**
+
+- The stock's average closing price was $94.83, with a highest closing price of $118.52 and a lowest closing price of $80.40.
+- Total trading volume reached 1,553,408,600 shares over 502 trading days.
+- Quarterly volume trends show an increasing pattern, with a significant spike in the last quarter of 2023 and consistent growth throughout 2024.
+- The stock's performance suggests a stable and relatively strong market presence, with no extreme price fluctuations.

@@ -1,0 +1,3 @@
+The stock price of FHN exhibits a significant decline from its peak in early 2023, reaching its lowest point in 2023. 
+
+Following this, it shows a steady upward trend. The relationship between X (time) and Y (stock price) indicates that as time progresses, the stock price tends to increase, with some fluctuations. The stock price started at around 22, sharply declined to 8.90, and then increased to around 20.

@@ -1,0 +1,16 @@
+Summary of LECO data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 254.42
+Lowest Closing Price: 141.55
+Average Closing Price: 192.38
+Total Volume: 166,751,900
+
+Quarterly Volume:
+2023-Qq: 25,047,600
+2023-Qq: 23,808,000
+2023-Qq: 18,878,800
+2023-Qq: 19,462,400
+2024-Qq: 17,765,500
+2024-Qq: 24,442,100
+2024-Qq: 19,210,200
+2024-Qq: 18,137,300

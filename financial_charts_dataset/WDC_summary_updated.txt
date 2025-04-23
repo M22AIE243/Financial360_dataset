@@ -1,0 +1,6 @@
+Here's a summary of the WDC stock trading data:
+
+- **Key Trends:** WDC's stock price fluctuated between $23.74 and $60.65, with an average closing price of $40.54 over 502 trading days.
+- **Performance:** The stock's average closing price increased by 71.4% from the lowest closing price of $23.74 to the highest closing price of $60.65.
+- **Volume Changes:** The total trading volume was 3,422,095,769 shares, with a significant increase in volume in the last quarter of 2024 (555,126,705 shares).
+- **Price Movements:** The stock price showed an overall upward trend, with a notable increase in the first quarter of 2024, followed by a steady decline in the subsequent quarters.

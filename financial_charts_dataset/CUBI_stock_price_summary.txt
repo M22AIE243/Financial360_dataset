@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The CUBI stock price chart shows a general upward trend from January 2023 to January 2025. The stock price started around $30, dropped to around $20 in April 2023, and then recovered to around $40 by October 2023. The price then surged to around $60 by mid-2024, before declining to around $50 by January 2025. The relationship between time (X) and stock price (Y) shows a positive correlation, with some volatility. Overall, the stock price has increased by approximately 67% over the 2-year period.

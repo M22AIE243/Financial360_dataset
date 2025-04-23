@@ -1,0 +1,16 @@
+Summary of AU data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 31.44
+Lowest Closing Price: 14.47
+Average Closing Price: 21.77
+Total Volume: 1,266,692,200
+
+Quarterly Volume:
+2023-Qq: 204,989,400
+2023-Qq: 182,841,100
+2023-Qq: 143,989,700
+2023-Qq: 166,789,600
+2024-Qq: 120,783,400
+2024-Qq: 133,604,500
+2024-Qq: 110,699,700
+2024-Qq: 202,994,800

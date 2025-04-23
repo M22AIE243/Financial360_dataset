@@ -1,0 +1,6 @@
+The ADP stock price chart shows a volatile trend from January 2023 to January 2025. 
+
+* The stock price started at around 220, declined to a low of 200.02, and then fluctuated between 200 and 240 until October 2023.
+* A significant increase occurred from October 2023 to January 2025, with the stock price rising to a high of 304.76.
+* The overall trend indicates a strong upward movement, with an average stock price of 239.22.
+* The relationship between time (X) and stock price (Y) is generally positive, with a notable surge in stock price from mid-2023 to January 2025.

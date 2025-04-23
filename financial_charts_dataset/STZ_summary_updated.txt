@@ -1,0 +1,7 @@
+Here's a concise summary of the STZ stock trading data:
+
+- Total trading days: 502
+- Average closing price: $238.83
+- Highest closing price: $267.09, lowest closing price: $201.22
+- Total volume: 600,998,200 shares traded
+- Key trend: Increasing volume in 2024 (average quarterly volume up 25% from 2023)

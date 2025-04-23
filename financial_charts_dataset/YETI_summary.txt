@@ -1,0 +1,16 @@
+Summary of YETI data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 53.60
+Lowest Closing Price: 34.39
+Average Closing Price: 41.11
+Total Volume: 720,674,800
+
+Quarterly Volume:
+2023-Qq: 79,140,400
+2023-Qq: 66,896,200
+2023-Qq: 83,927,300
+2023-Qq: 86,766,500
+2024-Qq: 100,270,300
+2024-Qq: 104,327,700
+2024-Qq: 97,454,300
+2024-Qq: 101,892,100

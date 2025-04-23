@@ -1,0 +1,9 @@
+The stock price of INCR exhibits a fluctuating trend, starting at around 3.9 in early 2023 and decreasing to approximately 1.2 by the end of 2023. 
+
+Following this, the stock price shows a significant recovery, reaching a peak of around 3.7 in mid-2024. 
+
+However, it then experiences another decline, ultimately settling at around 1.5 by the end of 2024 and 1.5-1.6 in early 2025.
+
+The relationship between X (time) and Y (stock price) indicates that the stock price tends to fluctuate over time, with no clear and consistent upward or downward trend across the entire period.
+
+Overall, the stock price appears to be highly volatile, with significant fluctuations throughout the observed period.

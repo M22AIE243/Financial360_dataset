@@ -1,0 +1,16 @@
+Here is a succinct representation of the stock price chart:
+
+| Quarter | Total Volume (in millions) |
+| :------ | :------------------------- |
+| 2023-03 | approximately 3.7           |
+| 2023-06 | approximately 3.2           |
+| 2023-09 | approximately 2.8           |
+| 2023-12 | approximately 2.9           |
+| 2024-03 | approximately 2.5           |
+| 2024-06 | approximately 2.1           |
+| 2024-09 | approximately 2.7           |
+| 2024-12 | approximately 2.5           |
+
+## Summary
+
+The stock's quarterly volume has been trending downward over time, with some fluctuations. The volume started at approximately 3.7 million in Q1 2023 and decreased to 2.1 million in Q2 2024, before slightly recovering to 2.7 million in Q3 2024. The relationship between time (X) and volume (Y) is generally inverse, indicating a decline in trading activity over the observed period.

@@ -1,0 +1,14 @@
+Here's a concise summary of the EQR stock trading data:
+
+**Key Trends and Performance:**
+- The average closing price of EQR stock remained relatively stable at $61.52 from 2023-01-01 to 2025-01-01.
+- The stock's highest closing price reached $76.01, while its lowest closing price was $50.14.
+- EQR's average closing price increased by 1.45% from 2023 to 2024.
+
+**Volume Changes:**
+- The total trading volume was 945,695,200 shares.
+- 2024 saw a decrease in quarterly volume compared to 2023, with a 9.43% decline in the fourth quarter.
+
+**Price Movements:**
+- The stock's price fluctuated within a range of $25.87 ($76.01 - $50.14).
+- The highest quarterly price movement occurred in the first quarter of 2023, with a closing price of $65.12 (not provided).

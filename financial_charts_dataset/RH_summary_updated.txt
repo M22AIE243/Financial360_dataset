@@ -1,0 +1,9 @@
+Here's a summary of RH stock trading data in 4-5 concise lines:
+
+**RH Stock Performance (2023-01-01 to 2025-01-01)**
+
+- **Highest Price:** $446.04 (on [date not specified])
+- **Lowest Price:** $213.13 (on [date not specified])
+- **Average Price:** $290.73
+- **Total Volume:** 381,606,800 shares traded
+- **Volume Trend:** Quarterly volume decreased from 2023-Q4 to 2024-Q4, indicating a possible decline in investor interest.

@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The chart shows the quarterly volume of ITW stock from Q1 2023 to Q4 2024. The total volume has fluctuated over time, with a peak in Q1 2024 (approximately 8 million) and a trough in Q4 2024 (approximately 5.5 million). The volume generally trended upward from Q1 2023 to Q1 2024, then declined in subsequent quarters. The relationship between time (X-axis) and total volume (Y-axis) appears to be positively correlated up to Q1 2024, followed by a negative correlation. Overall, the chart suggests volatility in ITW's trading activity over the past two years.

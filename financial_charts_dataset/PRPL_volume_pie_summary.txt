@@ -1,0 +1,17 @@
+The image presents a pie chart illustrating the quarterly volume distribution of PRPL stock, divided into eight sections representing different quarters. The chart shows that:
+
+*   The most significant volume share is 22% in 2023-Qq (red section).
+*   The second-highest share is 17.2% in 2023-Qq (orange section).
+*   The third-largest share is 14.9% in 2023-Qq (blue section).
+*   The fourth-largest share is 14.3% in 2024-Qq (purple section).
+
+**Key Trends and Relationship Between X (Time) and Y (Stock Price):**
+
+The chart indicates a downward trend in volume distribution over time, with the highest volumes observed in 2023 and decreasing volumes in 2024. Specifically:
+
+*   The total volume share for 2023 is 54.1% (22% + 17.2% + 14.9%).
+*   The total volume share for 2024 is 32.9% (14.3% + 7.0% + 6.1% + 5.3%).
+
+The relationship between time (X) and stock price (Y) suggests that as time progresses from 2023 to 2024, the volume distribution decreases. However, without a direct stock price chart, it is challenging to determine the exact relationship between time and stock price. Nevertheless, the chart provides valuable insights into the quarterly volume distribution of PRPL stock. 
+
+In summary, the PRPL stock's quarterly volume distribution has decreased over time, with the highest volumes observed in 2023 and lower volumes in 2024.

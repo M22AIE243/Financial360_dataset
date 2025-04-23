@@ -1,0 +1,3 @@
+Here is a summary of the stock price chart:
+
+The AYRWF stock price chart shows a highly volatile trend over the period from January 2023 to January 2025. The stock price starts around $1.3, fluctuates between $0.5 and $1.5 until October 2023, then surges to a peak of around $4 in January 2024. After the peak, the stock price declines to around $2.5 by April 2024 and remains relatively stable before decreasing again to around $0.5 by January 2025. Overall, the relationship between time (X) and stock price (Y) is characterized by significant fluctuations and a general downward trend.

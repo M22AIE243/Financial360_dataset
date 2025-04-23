@@ -1,0 +1,16 @@
+Summary of IPI data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 33.55
+Lowest Closing Price: 17.58
+Average Closing Price: 23.97
+Total Volume: 65,023,100
+
+Quarterly Volume:
+2023-Qq: 12,078,400
+2023-Qq: 11,748,700
+2023-Qq: 9,282,700
+2023-Qq: 8,261,400
+2024-Qq: 7,167,600
+2024-Qq: 6,414,300
+2024-Qq: 4,164,700
+2024-Qq: 5,905,300

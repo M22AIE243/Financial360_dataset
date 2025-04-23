@@ -1,0 +1,16 @@
+Summary of PPL data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 34.45
+Lowest Closing Price: 21.41
+Average Closing Price: 26.99
+Total Volume: 2,599,771,200
+
+Quarterly Volume:
+2023-Qq: 359,528,400
+2023-Qq: 300,537,900
+2023-Qq: 300,353,400
+2023-Qq: 430,623,600
+2024-Qq: 318,596,900
+2024-Qq: 287,744,000
+2024-Qq: 314,818,900
+2024-Qq: 287,568,100

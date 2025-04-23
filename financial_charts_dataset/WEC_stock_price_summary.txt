@@ -1,0 +1,9 @@
+**WEC Stock Price Analysis**
+
+The WEC stock price chart exhibits a fluctuating trend over the observed period. 
+
+* The stock price started around $88 in January 2023 and remained volatile until mid-2023, with a slight downward trend.
+* From mid-2023 to early 2024, the price continued to decline, reaching a low of around $75.
+* A significant upward trend emerged in late 2024, with the stock price surging to approximately $100 by early 2025.
+* The overall relationship between time (X) and stock price (Y) indicates a long-term upward trend, with notable short-term fluctuations. 
+* The recent peak in early 2025 suggests a potential correction or consolidation phase.

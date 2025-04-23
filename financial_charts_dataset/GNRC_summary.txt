@@ -1,0 +1,16 @@
+Summary of GNRC data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 195.11
+Lowest Closing Price: 82.20
+Average Closing Price: 130.19
+Total Volume: 557,681,000
+
+Quarterly Volume:
+2023-Qq: 84,053,800
+2023-Qq: 72,703,700
+2023-Qq: 93,679,900
+2023-Qq: 74,924,700
+2024-Qq: 60,059,500
+2024-Qq: 65,405,400
+2024-Qq: 54,832,000
+2024-Qq: 52,022,000

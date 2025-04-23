@@ -1,0 +1,16 @@
+Summary of CMC data from 2023-01-01 to 2025-01-01:
+Total Trading Days: 502
+Highest Closing Price: 62.85
+Lowest Closing Price: 39.09
+Average Closing Price: 51.17
+Total Volume: 457,848,000
+
+Quarterly Volume:
+2023-Qq: 74,373,300
+2023-Qq: 48,081,800
+2023-Qq: 47,215,300
+2023-Qq: 69,088,600
+2024-Qq: 64,661,000
+2024-Qq: 49,461,100
+2024-Qq: 47,126,100
+2024-Qq: 57,840,800

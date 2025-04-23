@@ -1,0 +1,6 @@
+The provided image is a pie chart, not a stock price chart. However, I can analyze it and provide a summary.
+
+The pie chart shows the quarterly volume distribution of CLH from 2023-Q1 to 2024-Q2. 
+
+Here is a summary of the chart:
+The chart shows a relatively stable quarterly volume distribution of CLH over the past year. The highest volume was in 2023-Q2 at 15.1%, while the lowest was in 2024-Q2 at 10.1%. The volumes are distributed as follows: 15.1% in 2023-Q1, 14.7% in 2023-Q2, 12.1% in 2023-Q3, 11.8% in 2023-Q4, 12.6% in 2024-Q1, 11.6% in 2024-Q2, 11.9% in 2024-Q3, and 10.1% in 2024-Q4. Overall, there is no clear upward or downward trend in the data.

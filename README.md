@@ -39,3 +39,22 @@ AAPL/
 ├── AAPL_summary.txt                     # General company-level summary
 
 ├── AAPL_summary_updated.txt             # Enhanced or corrected version of the summary
+
+
+## Running Python Files
+
+To run any Python file:
+
+
+export GROQ_API_KEY="your key in double Quotes from groq"
+
+
+Important Notes:
+
+Verify the folder location from where the code is reading/writing files.
+
+Based on the imports used in the Python files, you might need to install necessary libraries using pip install <package_name>.
+
+
+Thank you.
+

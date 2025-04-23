@@ -21,8 +21,11 @@ Although the dataset was created using in real financial data, the visualization
 It’s designed not just for researchers in vision and language tasks, but also for those looking to validate or fine-tune small, efficient models on domain-specific data with real-world utility
 
 
-To run any python File Export GROQ_API_KEY=your key in double Quotes from groq 
-Also verify the folder location form where We reading/writing  files.
+-----for running python files------------
+To run any python File Export GROQ_API_KEY="your key in double Quotes from groq"
+
+Also verify the folder location from where code is reading/writing files.
 Based on imports you may need to run pip install commands.
+
 
 Thank you.

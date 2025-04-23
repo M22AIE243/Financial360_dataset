@@ -20,7 +20,7 @@ for filename in os.listdir(FOLDER_PATH):
         image_path = os.path.join(FOLDER_PATH, filename)
         base64_image = encode_image(image_path)
 
-        # Compose the prompt
+
         messages = [
             {
                 "role": "user",
@@ -43,7 +43,7 @@ for filename in os.listdir(FOLDER_PATH):
         ]
 
         try:
-            # Make the API call
+            # The API call
             response = client.chat.completions.create(
                 model=MODEL_ID,
                 messages=messages,
@@ -54,7 +54,7 @@ for filename in os.listdir(FOLDER_PATH):
 
             summary = response.choices[0].message.content.strip()
 
-            # Write summary to corresponding file
+            # Writting summary to corresponding file
             out_filename = filename.replace(".png", "_summary.txt")
             out_path = os.path.join(FOLDER_PATH, out_filename)
 

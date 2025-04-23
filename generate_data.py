@@ -4,7 +4,7 @@ import os
 import pandas as pd
 import numpy as np
 
-# Define your tickers
+# companies tickers
 companies = [
     'SQ', 'SPGI', 'SYK', 'PFE', 'BMY',
     'ABT', 'MDT', 'TXN', 'BAX', 'ISRG', 'ROST', 'AMGN', 'COST', 'TRV', 'WMT', 'WBA', 'CSX', 'SCHW', 'NEM', 'CHTR', 'ZTS', 'EXC', 'VLO', 'FIS', 'AIG',
@@ -29,13 +29,13 @@ companies = [
 start_date = '2023-01-01'
 end_date = '2025-01-01'
 
-# Create output directory
+# output directory
 output_dir = 'financial_charts-dataset'
 os.makedirs(output_dir, exist_ok=True)
 
 
 def generate_charts(company, start_date, end_date):
-    # Download stock data
+    # Downloading stock data
     stock_data = yf.download(company, start=start_date, end=end_date, auto_adjust=False)
 
     if len(stock_data) < 100:
@@ -87,7 +87,7 @@ def generate_charts(company, start_date, end_date):
     plt.savefig(volume_bar_chart)
     plt.close()
 
-    # Plot volume pie chart
+    # Plotting volume pie chart
     if not quarterly_volume.empty:
         plt.figure(figsize=(8, 8))
         plt.pie(quarterly_volume.values,
@@ -99,7 +99,7 @@ def generate_charts(company, start_date, end_date):
         plt.savefig(volume_pie_chart)
         plt.close()
 
-    # Generate summary
+    # Generating summary
     summary = f"Summary of {company} data from {start_date} to {end_date}:\n"
     summary += f"Total Trading Days: {len(stock_data)}\n"
     summary += f"Highest Closing Price: {stock_data[close_col].max():.2f}\n"
@@ -111,11 +111,11 @@ def generate_charts(company, start_date, end_date):
     for date, volume in quarterly_volume.items():
         summary += f"{date.strftime('%Y-Q%q')}: {volume:,.0f}\n"
 
-    # Save summary
+    # Saving  summary to file
     with open(f'{output_dir}/{company}_summary.txt', 'w') as f:
         f.write(summary)
 
-    # Create chart with caption
+    # Creating chart with caption
     fig, ax = plt.subplots(figsize=(10, 6))
     stock_data[close_col].plot(ax=ax, title=f'{company} Stock Price')
     caption = f"Highest: {stock_data[close_col].max():.2f}, Lowest: {stock_data[close_col].min():.2f}, Avg: {stock_data[close_col].mean():.2f}"

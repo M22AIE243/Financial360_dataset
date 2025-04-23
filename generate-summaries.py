@@ -5,7 +5,7 @@ from groq import Groq
 FOLDER_PATH = "financial_charts-dataset"
 MODEL_ID = "llama-3.1-8b-instant"
 
-# Initialize Groq client
+# Initializing Groq client
 client = Groq(api_key=os.environ.get("GROQ_API_KEY"))
 
 
@@ -30,7 +30,7 @@ for filename in os.listdir(FOLDER_PATH):
         ]
 
         try:
-            # Make the request to Groq
+            # request to Groq API
             response = client.chat.completions.create(
                 model=MODEL_ID,
                 messages=messages,
@@ -41,7 +41,7 @@ for filename in os.listdir(FOLDER_PATH):
 
             summary = response.choices[0].message.content
 
-            # Write the output to a new file
+
             new_filename = filename.replace("_summary.txt", "_summary_updated.txt")
             new_path = os.path.join(FOLDER_PATH, new_filename)
 

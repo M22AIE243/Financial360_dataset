@@ -1,3 +1,1 @@
-Here is a summary of the stock price chart:
-
 The ADBE stock price chart shows a general upward trend from January 2023 to January 2024, with the price increasing from around 350 to a peak of 634.76. However, the price then declined sharply to a low of 320.54. Since then, the price has fluctuated but generally trended downward, currently stabilizing around 450-500. The average stock price over the period is 495.34. Overall, the relationship between time (X) and stock price (Y) is characterized by an initial increase, followed by a sharp decline and subsequent volatility.

@@ -1,7 +1,1 @@
-The provided image is a pie chart, not a stock price chart. However, I can still analyze the distribution of quarterly volume for ACB.
-
-Here is a summary of the chart:
-
 The pie chart shows the quarterly volume distribution of ACB, with the largest share (47.7%) occurring in 2024-Qq. The second-largest share is 12.0% in 2024-Qq. The subsequent quarters have smaller shares, ranging from 2.2% to 13.6%. The chart indicates a significant concentration of volume in a single quarter. There is no clear trend over time, as the data appears to be inconsistent. 
-
-Note that without a traditional stock price chart, it's not possible to analyze the relationship between X (time) and Y (stock price). However, the chart does show the relationship between quarters and their corresponding volume distributions.

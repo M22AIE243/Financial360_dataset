@@ -1,5 +1,3 @@
-**Stock Price Chart Analysis**
-
 The chart displays the quarterly total volume of AA stock from March 2023 to December 2024. 
 
 *   **Key Trends:** 

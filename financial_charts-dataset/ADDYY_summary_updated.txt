@@ -1,7 +1,1 @@
-Here's a concise summary of the ADDYY stock trading data:
-
-- Average Closing Price: $102.66
-- Price Range: $69.23 (Lowest) to $133.40 (Highest)
-- Total Trading Volume: 32,397,700 shares
-- Key Trend: Increasing volume, with a notable spike in the last quarter of 2024
-- Price Movement: Suggests a moderate upward trend, with a 49.4% increase from the lowest to the highest closing price.
+The stock showed an average closing price of $102.66, trading within a range of $69.23 to $133.40. Total trading volume reached 32,397,700 shares, with volumes rising steadily and spiking in late 2024. Price movement indicates a moderate upward trend, reflecting a 49.4% gain from the lowest to the highest closing price.

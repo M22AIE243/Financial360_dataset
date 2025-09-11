@@ -1,5 +1,3 @@
-Here is a concise summary of the AAPL stock trading data:
-
 - **Key Trend:** AAPL's average closing price increased from 2023 to 2024, indicating a positive performance.
 - **Price Movement:** The stock's highest closing price reached $258.74, while the lowest closing price was $123.58.
 - **Volume Change:** Total trading volume was 29,200,325,300 shares, with a notable increase in 2024-Q2 (4,306,239,200 shares).

@@ -1,3 +1,1 @@
-Here is a summary of the stock price chart:
-
 The chart shows the quarterly volume of ACB stock from Q1 2023 to Q4 2024. The stock volume exhibits a volatile trend, with a significant spike in Q2 2024, reaching approximately 4.5 billion. Prior to this surge, the volume was relatively stable, ranging from 0.2 to 1.2 billion. The relationship between time (X-axis) and stock volume (Y-axis) indicates a notable increase in investor activity in Q2 2024. Overall, the chart suggests that Q2 2024 was an unusually active quarter for ACB stock.

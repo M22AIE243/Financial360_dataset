@@ -1,5 +1,3 @@
-**ACB Stock Price Analysis**
-
 The ACB stock price chart exhibits a downward trend from January 2023 to January 2025. 
 
 * The stock price started at around 11 and decreased to approximately 4 by April 2024, 

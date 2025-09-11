@@ -1,3 +1,1 @@
-Here is a summary of the stock price chart:
-
 The ACB stock price chart shows a downward trend from January 2023 to April 2024, with the price decreasing from around 11 to 2.89. The stock price then recovers and fluctuates between 4 and 8 from May 2024 to January 2025. The highest price recorded is 11.30, while the lowest is 2.89, with an average price of 5.79. Overall, the relationship between time (X) and stock price (Y) shows a volatile pattern with a general decline in the first half and a recovery in the second half. The stock price has been trending downward over the past two years.

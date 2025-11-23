@@ -1,0 +1,5 @@
+This pie chart details WELL's quarterly volume distribution across eight periods, encompassing four quarters each from 2023 and 2024.
+
+Overall, 2024 represented a slightly larger share of the total volume at 52.5%, compared to 47.5% for 2023. The highest individual quarterly volume recorded was 15.4% (from 2023), with the lowest being 9.4% (also 2023).
+
+This indicates a wider range of volume distribution within 2023 quarters, while 2024 quarters exhibit a more consistent volume contribution to the total.

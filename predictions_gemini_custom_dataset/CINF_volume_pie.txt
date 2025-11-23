@@ -1,0 +1,3 @@
+This pie chart illustrates CINF's total volume distribution across eight distinct quarters, comprising four quarters from 2023 and four from 2024. The total volume is almost evenly split between the two years, with 2024 quarters slightly outperforming 2023, contributing approximately 50.6% versus 49.5%.
+
+Notably, one quarter in 2024 represents the highest individual share at 16.8% of the total volume. Quarterly contributions overall range from a low of 10.6% to this peak of 16.8%, indicating fluctuations in CINF's activity across these periods.

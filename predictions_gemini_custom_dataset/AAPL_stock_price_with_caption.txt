@@ -1,0 +1,4 @@
+The AAPL stock price chart from January 2023 to January 2025 illustrates a significant overall upward trend, interspersed with periods of volatility.
+The stock initially surged from around $120 to nearly $200 by mid-2023, then experienced a choppy phase until early 2024, fluctuating between approximately $160 and $200.
+A strong rally commenced in mid-2024, leading to new highs and reaching close to $260 by early 2025.
+Over the depicted period, AAPL recorded a highest price of $258.74, a lowest of $123.58, and an average price of $188.89.

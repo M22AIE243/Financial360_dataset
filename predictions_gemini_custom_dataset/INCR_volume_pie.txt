@@ -1,0 +1,3 @@
+This pie chart illustrates INCR's quarterly volume distribution across 2023 and 2024. Notably, 2024 accounts for a slightly larger share of the total volume (approximately 52.1%) compared to 2023 (approximately 48.0%).
+
+There is significant quarterly variability, with a 2024 quarter representing the highest individual contribution at 20.5%, and another 2024 quarter showing the lowest at 6.9%. This suggests considerable fluctuation in INCR's volume activity across periods.

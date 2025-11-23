@@ -1,0 +1,3 @@
+This pie chart displays the quarterly volume distribution for HL across various quarters in 2023 and 2024.
+
+Collectively, the quarters from 2024 account for a significantly larger portion of the total volume (approximately 57.4%) compared to the 2023 quarters (around 42.6%). The highest individual quarterly contribution is 17.7% from a 2024-Qq, while the smallest is 9.1% from a 2023-Qq. This distribution suggests a notable shift in volume towards the 2024 periods captured.

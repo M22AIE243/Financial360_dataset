@@ -1,0 +1,3 @@
+This pie chart illustrates the distribution of FIS's quarterly volume across eight periods, four from 2023 and four from 2024.
+
+Cumulatively, the quarters in 2023 account for a significantly larger share, representing 59.3% of the total volume shown, compared to 40.7% from 2024. The highest individual quarterly contribution was 18.0% (from 2023), while the lowest was 7.8% (from 2024). This indicates a relative decrease in quarterly volume contribution during the 2024 periods depicted compared to 2023.

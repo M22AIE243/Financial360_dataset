@@ -1,0 +1,4 @@
+This pie chart details WM's volume distribution across eight distinct quarters, comprising four periods from 2023 and four from 2024.
+The volume shares are relatively evenly distributed among these quarters, ranging from a low of 11.0% to a high of 14.3% of the total.
+A specific 2023 quarter captured the largest share at 14.3%, while another 2023 quarter represented the smallest at 11.0%.
+The highest individual quarter contribution from 2024 reached 14.1%, indicating balanced contributions across both years.

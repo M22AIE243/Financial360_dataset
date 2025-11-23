@@ -1,0 +1,3 @@
+This chart illustrates the PCG Quarterly Volume Distribution, showing the proportional contribution of various individual quarters from 2023 and 2024 to the total volume.
+
+The distribution is relatively balanced across the depicted quarters, with individual shares ranging from 10.4% to 14.7%. Notably, the highest individual quarterly volume share (14.7%) originates from a 2023 quarter, while the lowest (10.4%) is from a 2024 quarter. Overall, the 2023 quarters generally account for the larger individual percentages of total volume in this dataset.

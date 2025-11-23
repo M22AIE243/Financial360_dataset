@@ -1,0 +1,3 @@
+The chart displays MTZ's quarterly trading volume from Q1 2023 through Q4 2024, showing a dynamic trend over the period. Volume significantly increased throughout 2023, reaching a peak of approximately 78 million units in Q4 2023.
+
+Following this peak, volume experienced a decline in the first half of 2024 before showing a moderate recovery and stabilization in Q3 and Q4 2024. While 2024 volumes were generally higher than the initial quarters of 2023, they did not reach the high established at the end of 2023.

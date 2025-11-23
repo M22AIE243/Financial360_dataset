@@ -1,0 +1,1 @@
+The pie chart illustrates the quarterly volume distribution of LUV stock across multiple quarters in 2023 and 2024. The distribution shows variability, with 2024-Qq having the highest volume at 16.3% and 2023-Qq having the lowest at 10.3%. While the volume distribution fluctuates over time, there is an overall increase in volume distribution in 2024 compared to 2023.

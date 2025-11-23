@@ -1,0 +1,5 @@
+The chart displays SO's quarterly trading volume over eight quarters, from Q1 2023 through Q4 2024, indicating significant fluctuations.
+
+Volume bottomed out at approximately 235 million in Q3 2023 before staging a strong rebound, culminating in a peak of nearly 295 million in Q2 2024. However, the latter half of 2024 shows a noticeable declining trend in quarterly volume.
+
+This suggests that while trading activity saw increased momentum from late 2023 into mid-2024, interest appears to have cooled off towards the end of the observed period.

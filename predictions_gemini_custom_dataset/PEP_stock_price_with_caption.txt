@@ -1,0 +1,5 @@
+The PEP stock price demonstrated considerable volatility from early 2023 to early 2025, with prices ranging from a high of $184.35 to a low of $149.96, averaging $166.12.
+
+The stock initially peaked in mid-2023 before a significant decline into late 2023. It then recovered through the first half of 2024, reaching another local peak.
+
+However, from mid-2024, the price entered a consistent downward trend, ending near its lowest point of the period in early 2025.

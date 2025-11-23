@@ -1,0 +1,3 @@
+This chart displays XOM's quarterly trading volume from Q1 2023 through Q4 2024. Trading activity peaked significantly in Q4 2023, reaching nearly 1.4 billion shares.
+
+Following this peak, volumes in 2024 generally trended downwards after a strong Q1/Q2, with Q3 2024 recording the lowest volume at approximately 880 million shares. Overall, quarterly volumes consistently fluctuated between roughly 950 million and 1.4 billion shares during this period.

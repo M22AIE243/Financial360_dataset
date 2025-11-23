@@ -1,0 +1,3 @@
+The chart displays ALLY's quarterly volume from Q1 2023 to Q4 2024, revealing a general decline after an initial surge. Volume peaked significantly in Q1 2023 at approximately 460 million, before dropping and stabilizing around the 270-290 million range for the remainder of 2023.
+
+This downward trend continued into 2024, with volume hitting its lowest point in Q2 2024 at roughly 180 million. Although Q3 2024 showed a modest recovery, the latest quarter (Q4 2024) experienced a slight decline, indicating overall lower trading activity in 2024 compared to 2023.

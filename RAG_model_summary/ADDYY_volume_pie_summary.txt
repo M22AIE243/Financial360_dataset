@@ -1,0 +1,1 @@
+The pie chart displays the quarterly volume distribution of ADDYY stock across multiple quarters. The largest volume distribution is 24.9% in 2023-Qq, followed by 14.1% in 2024-Qq. The smallest volume distribution is 5.2% in 2023-Qq. The chart indicates varying levels of trading activity across quarters, with no clear trend in volume distribution over time.

@@ -1,0 +1,3 @@
+This pie chart illustrates HD's quarterly volume distribution across various quarters in 2023 and 2024. Quarters from 2023 collectively represent a slightly larger share of the total volume at 51.8%, compared to 48.2% from 2024 quarters.
+
+Individual quarterly contributions range from 10.4% to 15.4%, with the highest single volume quarter occurring in 2023. Overall, the distribution appears relatively balanced among the presented quarters, indicating no extreme dominance by any single period.

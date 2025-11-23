@@ -1,0 +1,3 @@
+This pie chart displays TSCO's total volume distributed across eight quarters, split between 2023 and 2024. The 2023 quarters collectively represent a slightly larger share of the total volume (approximately 52.8%) compared to the 2024 quarters (approximately 47.3%).
+
+Individual quarterly volumes range from a low of 9.7% (in a 2024 quarter) to a high of 14.1% (in a 2023 quarter). This indicates a relatively even but slightly higher overall contribution from 2023 quarters to the total volume represented.

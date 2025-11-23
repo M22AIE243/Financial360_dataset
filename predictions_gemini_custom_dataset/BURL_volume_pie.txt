@@ -1,0 +1,5 @@
+This pie chart illustrates BURL's quarterly volume distribution across eight quarters, comprising four from 2023 and four from 2024.
+
+Cumulatively, the four quarters of 2023 accounted for a significant majority, representing 58.8% of the total volume depicted, compared to 41.2% from the four quarters of 2024. The highest individual quarterly contribution was 19.8% (2023-Qq), while the lowest was 9.0% (2024-Qq).
+
+This indicates a general decline in BURL's relative quarterly volume contribution from 2023 into 2024 within this period.

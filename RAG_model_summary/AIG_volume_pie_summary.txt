@@ -1,0 +1,1 @@
+The pie chart displays the quarterly volume distribution of AIG. The largest share of volume (16.7%) occurred in 2023-Q2, while the lowest share (9.2%) occurred in 2023-Q3. The quarters in 2023 and 2024 show a similar distribution with some fluctuations, but no clear upward or downward trend over time.

@@ -1,0 +1,3 @@
+The chart displays CAT's quarterly trading volume from Q1 2023 through Q4 2024, revealing notable fluctuations. Volumes peaked in Q1 2023 at over 200 million shares, and generally remained robust throughout 2023, frequently exceeding 180 million.
+
+However, trading activity saw dips in Q3 2023 and Q1 2024. Critically, the period concluded with the lowest volume in Q4 2024, registering approximately 130 million shares. This suggests a general trend of decreasing investor interest towards the end of the observed timeframe, despite interim rebounds.

@@ -1,0 +1,4 @@
+The TJX Quarterly Volume chart illustrates trading activity from Q1 2023 through Q4 2024.
+Volume remained relatively stable throughout 2023, generally hovering between 300 and 330 million shares per quarter.
+A significant spike occurred in Q2 2024, pushing volume to its peak at approximately 380 million shares.
+Following this peak, volume retreated, normalizing to levels consistent with the prior year's activity by Q3 and Q4 2024.

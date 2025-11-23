@@ -1,0 +1,1 @@
+The pie chart displays the quarterly volume distribution of FELE across eight quarters, showing an upward trend in volume. The lowest volume distribution is 10.9% in 2023-Qq, while the highest distributions are 13.4% in 2024-Qq and 13.3% in 2024-Qq. This indicates a significant increase in activity, with 2024 quarters reaching above 13%.

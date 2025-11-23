@@ -1,0 +1,4 @@
+This chart displays the IPI Quarterly Volume Distribution across eight quarters, encompassing both 2023 and 2024.
+Quarters from 2023 collectively account for the majority of the volume, totaling 63.7%, with the highest single quarter contributing 18.6%.
+Conversely, 2024 quarters represent 36.4% of the total distribution, showing generally lower individual volumes ranging from 6.4% to 11.0%.
+Overall, 2023 demonstrated a significantly higher cumulative volume share compared to the depicted 2024 quarters.

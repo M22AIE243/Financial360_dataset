@@ -1,0 +1,3 @@
+This pie chart displays AMP's quarterly volume distribution across eight quarters from 2023 and 2024.
+
+Overall, 2023 quarters account for approximately 52.7% of the total volume shown, while 2024 quarters contribute about 47.2%. Notably, individual quarters in 2023 demonstrated higher volume shares, with one quarter reaching 15.5%. In contrast, 2024 quarters showed a more consistent distribution, each contributing between 11.6% and 11.9% of the total volume.

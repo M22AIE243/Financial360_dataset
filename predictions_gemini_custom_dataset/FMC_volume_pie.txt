@@ -1,0 +1,3 @@
+This pie chart details the FMC Quarterly Volume Distribution across eight quarters, four from 2023 and four from 2024. Quarters in 2024 collectively represent a larger share of the total volume at approximately 55.5%, while 2023 quarters account for about 44.6%.
+
+The highest individual quarterly volume distribution is 16.9% from a 2024 quarter, and the lowest is 6.5% from a 2023 quarter. Overall, 2024 shows a higher average quarterly volume contribution compared to 2023.

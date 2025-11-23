@@ -1,0 +1,1 @@
+The pie chart displays the quarterly volume distribution of MKC from 2023-Q1 to 2024-Q4. The highest volume was recorded in 2023-Q4 at 16.1%, while the lowest was in 2023-Q2 at 8.4%. The data indicates a general upward trend from 2023-Q2 to 2023-Q4, followed by a decline and stabilization in 2024. The volume distribution varies across quarters, showing non-linear fluctuations.

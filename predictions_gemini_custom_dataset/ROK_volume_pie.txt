@@ -1,0 +1,4 @@
+This pie chart illustrates ROK's quarterly trading volume distribution across various quarters of 2023 and 2024.
+Collectively, the four 2024 quarters shown represent a larger share of the total volume (approximately 53.8%) compared to the four 2023 quarters (approximately 46.1%).
+The highest individual quarterly volume recorded was 15.4% in a 2024 quarter, while the lowest was 10.4% in a 2023 quarter.
+This suggests a slight increase in ROK's overall trading activity or a shift in volume distribution towards the 2024 periods represented.

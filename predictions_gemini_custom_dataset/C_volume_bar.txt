@@ -1,0 +1,3 @@
+This chart depicts C's quarterly total volume from Q1 2023 through Q4 2024. Volume was robust in 2023, peaking at approximately 1.25 billion in Q1 and maintaining strong levels through Q4.
+
+However, 2024 showed a clear decline, with volume dropping significantly from Q1 2024 to a low of about 810 million in Q2 2024. The downward trend persisted, with activity in the latter half of 2024 remaining notably below 2023 levels, indicating a sustained decrease in C's overall volume.

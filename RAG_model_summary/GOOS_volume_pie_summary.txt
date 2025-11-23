@@ -1,0 +1,1 @@
+The pie chart displays the quarterly volume distribution of GOOS. The largest share is observed in 2023-Qq at 23.8%, with 2023-Qq also showing shares of 15.7% and 13.3%. For 2024, the shares are 14.0%, 9.4%, 8.4%, and 7.1%. The chart indicates a varied and non-linear distribution of volume across quarters, with fluctuations.

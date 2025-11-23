@@ -1,0 +1,3 @@
+This pie chart details the quarterly volume distribution for XOM across selected quarters in 2023 and 2024. The highest individual quarterly contribution was 16.3% from one of the 2023 quarters, while the lowest was 10.4% from a 2024 quarter.
+
+Overall, the displayed 2023 quarters collectively represent 51.5% of the total volume, slightly surpassing the 48.5% from the 2024 quarters. This indicates a relatively balanced, yet variable, distribution of trading activity across these two years.

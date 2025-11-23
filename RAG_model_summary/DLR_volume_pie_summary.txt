@@ -1,0 +1,1 @@
+The pie chart illustrates the quarterly volume distribution for DLR across 8 quarters in 2023 and 2024. The largest volume distribution was 18.0% in 2023-Q3, followed by 13.6% in 2023-Q4. Conversely, the smallest volume distribution was 9.7% in 2024-Q2. Overall, the quarterly distributions appear relatively stable, with a slight decrease observed in 2024.

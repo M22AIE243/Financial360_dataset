@@ -1,0 +1,3 @@
+This pie chart details VZ's Quarterly Volume Distribution across eight distinct periods, four each from 2023 and 2024.
+
+Collectively, the four 2023 quarters represent a larger portion of the total volume, accounting for approximately 54.1%, compared to the 2024 quarters which comprise about 45.8%. The highest individual quarterly volume observed was 15.6% from a 2023 period, while the lowest was 10.8% from a 2024 period. This indicates a slightly greater contribution from the presented 2023 quarters to the overall volume distribution.

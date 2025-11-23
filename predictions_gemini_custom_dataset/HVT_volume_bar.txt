@@ -1,0 +1,3 @@
+The chart depicts HVT's quarterly volume from Q1 2023 through Q4 2024, showing considerable volatility and a strong recovery trend. Volume in 2023 initially held steady before declining to its lowest point in Q4 2023 at approximately 5.5 x 10^7.
+
+However, 2024 marked a substantial resurgence, with volumes growing consistently and peaking dramatically in Q3 2024 at around 1.78 x 10^8, representing the highest volume recorded. While Q4 2024 saw a slight decrease from this peak, overall volume remained robust, closing significantly higher than any quarter in 2023. This indicates a strong positive momentum for HVT following its 2023 dip.

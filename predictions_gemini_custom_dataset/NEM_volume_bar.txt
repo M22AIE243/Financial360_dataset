@@ -1,0 +1,5 @@
+The chart illustrates NEM Quarterly Volume from Q1 2023 to Q4 2024. Volume remained relatively stable around 0.5 billion during the first three quarters of 2023 before experiencing a significant surge, peaking at nearly 1.0 billion in Q4 2023.
+
+Following this peak, volume showed a gradual decline through Q3 2024, where it reached its lowest point since Q4 2023, around 0.5 billion. However, Q4 2024 indicates a rebound, with volume increasing to approximately 0.65 billion.
+
+Overall, the period is characterized by a major spike in Q4 2023, followed by a moderation and subsequent recovery in the most recent quarter, stabilizing above early 2023 levels.

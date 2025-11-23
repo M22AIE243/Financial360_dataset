@@ -1,0 +1,1 @@
+This pie chart illustrates the quarterly volume distribution of NCLH. The highest volume distribution was 14.2% in 2023-Q2, while the lowest was 10.1% in 2024-Qq. The volume distribution in 2023 ranged from 11.8% to 14.2%, and in 2024, it ranged from 10.1% to 13.2%. There is no clear trend observed in the relationship between time and volume distribution.

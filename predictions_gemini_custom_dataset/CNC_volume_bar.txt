@@ -1,0 +1,3 @@
+This chart displays CNC's quarterly volume from Q1 2023 through Q4 2024. Volume showed some fluctuation in 2023, starting at approximately 245 million and reaching its lowest point around Q1 2024 at roughly 185 million.
+
+However, a clear upward trend began in Q2 2024, with each subsequent quarter demonstrating increased volume. This culminated in a significant surge in Q4 2024, registering an all-time high volume of approximately 400 million, nearly doubling the volume from Q1 2024.

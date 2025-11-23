@@ -1,0 +1,5 @@
+This pie chart illustrates the distribution of Microsoft's (MSFT) trading volume across various quarters in 2023 and 2024.
+
+Collectively, the quarters in 2023 accounted for a larger share, making up approximately 57.1% of the total volume depicted, compared to 42.9% for the 2024 quarters. The highest individual quarterly volume observed was 16.8% from a 2023 period, while the lowest was 9.9% from a 2024 period.
+
+This indicates that trading activity was generally more robust in 2023 within the scope of this analysis, with no single quarter dominating excessively but 2023 showing a higher cumulative contribution.

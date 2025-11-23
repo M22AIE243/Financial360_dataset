@@ -1,0 +1,1 @@
+The chart displays the quarterly volume of PEP stock from Q1 2023 to Q4 2024. The total volume generally trended upward, with the lowest volume recorded in Q2 2023 and the highest in Q4 2024. A significant increase was observed from Q2 2023 to Q3 2023, followed by a relatively stable period. Overall, this suggests a positive correlation between time and total volume.

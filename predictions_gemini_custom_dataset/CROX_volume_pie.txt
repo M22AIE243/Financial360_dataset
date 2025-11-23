@@ -1,0 +1,3 @@
+This pie chart details CROX's trading volume distribution across eight quarters, encompassing both 2023 and 2024. The four quarters of 2023 collectively represent a larger share of the total volume at 54.6%, compared to the 45.4% contributed by the four quarters of 2024.
+
+Individual quarterly contributions varied significantly, ranging from a low of 10.0% for a 2024 quarter to a high of 15.0% for a 2023 quarter. This indicates that 2023 generally experienced stronger individual quarterly volume activity relative to the observed 2024 quarters.

@@ -1,0 +1,3 @@
+The pie chart displays the ED Quarterly Volume Distribution across eight quarters, four each from 2023 and 2024.
+
+Overall, the volume is split almost evenly, with 2024 quarters collectively contributing 50.2% and 2023 quarters contributing 49.8% of the total. Individual quarterly volumes show a relatively narrow range, from a low of 11.1% (a 2024 quarter) to a high of 14.4% (a 2023 quarter). This indicates a fairly consistent distribution without any single quarter dominating the total volume.

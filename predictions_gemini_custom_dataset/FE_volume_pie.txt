@@ -1,0 +1,3 @@
+This pie chart displays the FE quarterly volume distribution across selected quarters in 2023 and 2024.
+
+Overall, 2023 quarters collectively account for a larger share of the total volume, approximately 55.7%, significantly outpacing the 2024 quarters which represent about 44.3%. The highest individual quarterly contribution observed was 14.9% from a 2023 quarter, while the lowest was 9.8% from a 2024 quarter. This suggests a relatively stronger volume performance in 2023 compared to the partial data shown for 2024.

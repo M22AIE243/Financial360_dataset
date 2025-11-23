@@ -1,0 +1,5 @@
+This pie chart displays KLAC's trading volume distributed across eight quarters, covering both 2023 and 2024.
+
+The volume distribution is relatively even, with no single quarter significantly dominating the total. Individual quarterly contributions range from a low of 10.4% (a 2024 quarter) to a high of 14.4% (observed in both a 2023 and a 2024 quarter).
+
+Overall, total volume appears fairly balanced between the two years, with 2023 quarters slightly outperforming 2024 quarters in terms of combined distribution.

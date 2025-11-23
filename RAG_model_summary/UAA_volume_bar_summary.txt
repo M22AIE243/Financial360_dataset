@@ -1,0 +1,1 @@
+The chart displays the quarterly volume of UAA from 2023 to 2024. The UAA quarterly volume has generally increased over time, showing a positive correlation between time and volume. A significant spike in volume is recorded in 2024-09-30, which is the highest volume, while the lowest volumes are observed in 2023-06-30 and 2023-09-30.

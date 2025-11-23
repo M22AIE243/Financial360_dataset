@@ -1,0 +1,3 @@
+This pie chart illustrates LEVI's quarterly volume distribution, showing a near even split between 2023 (50.6%) and 2024 (49.3%) over the represented periods.
+
+The largest individual quarter contributed 17.3% of the total volume, while the smallest accounted for 9.5%, both falling within the unspecified 2024 quarters. Notably, 2024 quarters exhibit greater variability in volume distribution, ranging from 9.5% to 17.3%, compared to 2023 quarters which saw a narrower range from 11.9% to 13.9%.

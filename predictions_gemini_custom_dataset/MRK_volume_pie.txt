@@ -1,0 +1,3 @@
+This pie chart displays MRK's quarterly volume distribution across eight distinct quarters, spanning periods in both 2023 and 2024.
+
+A 2024 quarter accounts for the largest share at 16.5% of the total volume, while the smallest contribution comes from a 2023 quarter at 10.0%. Generally, quarters falling within 2024 show a higher individual percentage of the overall volume compared to those from 2023 within this depicted timeframe.

@@ -1,0 +1,3 @@
+This pie chart details the quarterly volume distribution for Intel (INTC) across specific periods in 2023 and 2024.
+
+A significant portion of the total volume is concentrated in 2024, with the largest single quarterly contribution reaching 20.5%. Collectively, 2024 quarters account for nearly 60% of the total volume represented. In contrast, 2023 quarters generally exhibit lower individual volume percentages, with the smallest contribution being 9.0%.

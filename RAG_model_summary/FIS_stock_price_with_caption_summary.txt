@@ -1,0 +1,1 @@
+The FIS stock price chart from January 2023 to January 2025 shows a volatile, yet overall upward trend. The stock price initially declined from around 70 to a low of 45.63, before steadily increasing to a high of 90.06. This indicates a recovery and growth phase, with the average stock price being 65.35. The relationship between time and stock price is positively correlated.

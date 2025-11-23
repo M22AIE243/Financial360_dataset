@@ -1,0 +1,3 @@
+This pie chart displays NTRS's quarterly volume distribution across eight different quarters, four from 2023 and four from 2024. The volume distribution appears relatively balanced, with individual quarter contributions ranging from 11.4% to 14.4% of the total.
+
+The highest volume quarter accounted for 14.4% (a 2024 quarter), while the lowest was 11.4% (a 2023 quarter). This indicates a fairly consistent volume generation pattern across the quarters presented, without any single period showing a significant dominance or decline.

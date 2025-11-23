@@ -1,0 +1,3 @@
+The pie chart illustrates DD's quarterly volume distribution across eight quarters from 2023 and 2024. Overall, 2023 quarters accounted for 55.2% of the total volume, with 2024 quarters contributing 45.0%.
+
+The largest single quarterly volume was 15.9% in a 2023 quarter, while the smallest was 8.8% in a 2024 quarter. This indicates a slight shift in volume, with 2023 quarters generally showing higher individual contributions compared to most 2024 quarters.

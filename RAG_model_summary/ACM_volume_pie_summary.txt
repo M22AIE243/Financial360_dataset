@@ -1,0 +1,1 @@
+The pie chart illustrates the quarterly volume distribution of ACM from 2023-Qq to 2024-Qq. The largest volume distribution is 17.3% in 2023-Qq. Volumes are relatively evenly distributed across the quarters, showing a slight decrease from 2023-Qq to 2024-Qq. Overall, the volume distribution remains stable.

@@ -1,0 +1,5 @@
+This pie chart illustrates the quarterly volume distribution for PCAR, detailing contributions from various quarters across 2023 and 2024.
+
+The total volume is almost evenly split between the two years, with 2023 quarters collectively contributing approximately 50.5% and 2024 quarters around 49.4% of the depicted volume. Individually, the largest quarterly share observed is 15.5% (from a 2023 quarter), while the smallest contributions are 10.8%, representing quarters from both years.
+
+However, the generic "Qq" labels for each slice prevent a precise quarter-on-quarter trend analysis or identification of specific high/low performing periods within each year.

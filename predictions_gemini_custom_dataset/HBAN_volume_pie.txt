@@ -1,0 +1,3 @@
+This pie chart details HBAN's trading volume distribution across eight quarters, covering both 2023 and 2024. Volume is nearly evenly split between the two years, with 2023 contributing approximately 50.1% and 2024 accounting for about 50.0% of the total depicted volume.
+
+Individual quarterly contributions show variability, ranging from a high of 15.7% (in one of the 2023 quarters) to a low of 9.8% (also in a 2023 quarter). This suggests some quarterly fluctuations in trading activity, with 2023 showing a wider range of distribution compared to the tighter range observed in 2024 quarters (11.3% to 13.6%).

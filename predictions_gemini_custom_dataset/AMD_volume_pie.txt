@@ -1,0 +1,5 @@
+This pie chart illustrates AMD's quarterly volume distribution across periods in 2023 and 2024.
+
+Quarters labeled 2023 cumulatively represent approximately 53.4% of the total volume depicted, slightly outweighing the 2024 quarters at roughly 46.5%. Individual quarterly contributions range from a high of 16.5% (from a 2024 quarter) to a low of 8.1% (from another 2024 quarter).
+
+A key limitation is the absence of specific quarter identifiers (e.g., Q1, Q2) for each slice, which hinders more granular analysis of performance trends within each year.

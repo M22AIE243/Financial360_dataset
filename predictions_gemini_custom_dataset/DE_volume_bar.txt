@@ -1,0 +1,3 @@
+This bar chart illustrates DE's quarterly volume from Q1 2023 through Q4 2024.
+
+Volume peaked significantly in Q2 2023 at approximately 115 million units, followed by a period of relative stability with volumes generally ranging between 90-105 million through Q3 2024. However, the most recent quarter, Q4 2024, shows a notable decline, recording the lowest volume in the period at around 75 million units. This represents a significant drop from the preceding quarters.

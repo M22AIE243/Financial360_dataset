@@ -1,0 +1,1 @@
+The pie chart displays the quarterly volume distribution of AGCO from 2023-Qq to 2024-Qq. The largest volume share is 16.5% in 2024-Qq, while the smallest is 10.1% in 2023-Qq. The volume distribution varies across quarters, showing no clear linear or direct relationship between the quarters and the volume.

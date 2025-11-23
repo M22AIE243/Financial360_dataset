@@ -1,0 +1,5 @@
+This pie chart displays BKR's quarterly volume distribution across eight periods, likely representing four quarters each for 2023 and 2024.
+
+In 2023, quarterly volumes remained relatively consistent, ranging narrowly from 12.0% to 12.7% of the total. Conversely, 2024 quarters showed greater variance, with one quarter contributing a significant 16.7%, marking the highest volume share among all periods.
+
+However, another 2024 quarter represented the lowest share at 11.1%. This suggests more fluctuating performance in 2024, culminating in a peak quarterly volume for BKR.

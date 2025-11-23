@@ -1,0 +1,1 @@
+The retrieved context provides summaries for LPX, LOW, and LZB quarterly volume distributions, but it does not contain information specific to the 'LMT_volume_pie.png' chart. Therefore, a summary for the LMT chart cannot be generated based on the provided context.

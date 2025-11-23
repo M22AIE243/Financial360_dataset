@@ -1,0 +1,4 @@
+This pie chart illustrates JELD's quarterly volume distribution, showing a clear shift in activity between 2023 and 2024.
+The four 2024 quarters collectively account for approximately 57.5% of the total volume depicted, significantly outpacing the 2023 quarters' combined share of 42.6%.
+A single 2024 quarter represents the highest individual contribution at 18.8%, while a 2023 quarter shows the lowest at 9.1%.
+This indicates a stronger volume presence in the more recent 2024 periods included in this analysis.

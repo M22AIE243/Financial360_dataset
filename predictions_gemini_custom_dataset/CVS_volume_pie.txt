@@ -1,0 +1,3 @@
+This pie chart displays CVS's quarterly volume distribution across selected quarters of 2023 and 2024.
+
+Collectively, the quarters from 2024 account for a significantly larger portion of the total volume, approximately 57.5%, compared to 2023 quarters, which make up about 42.4%. The largest individual quarterly contribution is 17.3% from a 2024 quarter, while the smallest is 9.1% from a 2023 quarter. This indicates a shift in relative volume distribution, with 2024 quarters generally contributing more than their 2023 counterparts.

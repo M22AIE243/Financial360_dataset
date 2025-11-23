@@ -1,0 +1,3 @@
+This chart displays MS's quarterly trading volume from Q1 2023 through Q4 2024, with volumes scaled in hundreds of millions.
+
+Volume reached its highest points in Q4 2023 and Q1 2024, both exceeding 550 million. Following these peaks, there was a notable decline in mid-2024, with Q3 2024 recording the lowest volume around 390 million. Although Q4 2024 saw a slight rebound, it remained significantly lower than the preceding year's peak performance.

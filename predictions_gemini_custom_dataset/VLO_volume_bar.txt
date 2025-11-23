@@ -1,0 +1,3 @@
+This chart presents VLO's quarterly volume from Q1 2023 through Q4 2024.
+
+VLO's volume peaked in Q2 2023 at approximately 275 million units. Since then, the quarterly volume has shown a consistent declining trend across subsequent quarters. By Q4 2024, the volume had fallen to its lowest point in the observed period, around 170 million units, indicating a significant reduction in activity.

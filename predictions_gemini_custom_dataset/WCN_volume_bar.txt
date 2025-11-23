@@ -1,0 +1,3 @@
+The WCN Quarterly Volume chart illustrates trading activity from Q1 2023 through Q4 2024. A significant outlier was observed in Q4 2023, when volume surged to an approximate peak of 71 million units.
+
+Prior to this peak, volumes showed a slight decline throughout 2023, reaching a low of around 52 million in Q3 2023. Post-peak, volumes normalized, consistently ranging between 54 and 59 million units across 2024, with the latest quarter (Q4 2024) closing at roughly 59 million units.

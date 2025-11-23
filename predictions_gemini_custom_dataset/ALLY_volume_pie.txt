@@ -1,0 +1,3 @@
+This pie chart illustrates ALLY's quarterly volume distribution between 2023 and 2024. Overall, 2023 quarters represent the majority of the volume shown, accounting for 60.4%, compared to 39.6% from 2024 quarters.
+
+The largest single quarterly contribution was 21.3% from a 2023 quarter, while the highest for 2024 quarters was 11.4%. This suggests a notably higher volume activity in the analyzed 2023 periods compared to those in 2024.

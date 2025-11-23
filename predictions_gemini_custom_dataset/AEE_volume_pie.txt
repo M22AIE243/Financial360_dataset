@@ -1,0 +1,3 @@
+The AEE Quarterly Volume Distribution chart illustrates the proportional volume contributions from eight distinct quarters spanning 2023 and 2024. Individual quarterly volumes range from a low of 10.3% (2023-Qq) to a high of 17.0% (2023-Qq), showing a relatively broad distribution.
+
+Collectively, the four 2024 quarters account for approximately 50.8% of the total volume, slightly exceeding the 49.3% contributed by the four 2023 quarters. This indicates a modest, but not dramatic, shift in volume weighting towards the more recent quarters.

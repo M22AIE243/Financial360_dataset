@@ -1,0 +1,3 @@
+The chart displays SPGI's quarterly trading volume from the first quarter of 2023 through the fourth quarter of 2024. Volumes fluctuated across this period, peaking at approximately 88 million in Q1 2023.
+
+Following this initial high, volumes generally ranged between 68 million and 82 million per quarter. The lowest volume within the displayed timeframe was recorded in Q3 2024, at approximately 68 million. However, the most recent quarter, Q4 2024, shows a recovery in volume, closing at around 76 million.

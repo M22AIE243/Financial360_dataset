@@ -1,0 +1,5 @@
+This pie chart illustrates the distribution of SO's total volume across eight distinct quarters, comprising four quarters from 2023 and four from 2024.
+
+Overall, the quarterly volume distribution is remarkably even, indicating consistent trading activity over this period. Individual quarterly contributions to the total volume range narrowly from a low of 10.9% to a high of 13.8%.
+
+Notably, the 2024 quarters collectively represent approximately 51.3% of the total volume displayed, slightly surpassing the 48.7% from 2023.

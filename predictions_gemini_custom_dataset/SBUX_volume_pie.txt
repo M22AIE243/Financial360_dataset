@@ -1,0 +1,3 @@
+This pie chart displays the distribution of SBUX's quarterly volume across several periods in 2023 and 2024. Notably, the quarters from 2024 collectively account for approximately 62.4% of the total volume depicted, suggesting a significant concentration in the more recent period.
+
+The highest individual quarterly volume recorded is 21.2%, attributed to a 2024 quarter. In contrast, 2023 quarters generally show smaller contributions, with the lowest individual share being 8.5%. This indicates a substantial shift or relative increase in volume during the 2024 quarters within this dataset.

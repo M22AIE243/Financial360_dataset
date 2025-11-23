@@ -1,0 +1,3 @@
+This pie chart illustrates SYK's quarterly volume distribution, showing how total volume is spread across eight specific quarters from 2023 and 2024. Individual quarterly contributions range from 11.6% to 15.0% of the total, suggesting a relatively balanced distribution over this period.
+
+The strongest performing quarter, at 15.0%, occurred in 2023, while the lowest was a 2024 quarter at 11.6%. On average, the 2023 quarters shown contributed a slightly higher proportion of the total volume (averaging 13.0%) compared to the 2024 quarters (averaging 12.0%).

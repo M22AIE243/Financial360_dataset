@@ -1,0 +1,3 @@
+This pie chart illustrates AWI's quarterly volume distribution across periods in 2023 and 2024. Overall, 2023 quarters collectively account for a significantly larger portion (approximately 58.8%) of the total volume compared to 2024 quarters (approximately 41.2%).
+
+The highest single quarterly volume contribution was 19.3% in 2023, whereas the lowest was 7.4% in 2024, suggesting a notable decline in quarterly volume trends between the two years.

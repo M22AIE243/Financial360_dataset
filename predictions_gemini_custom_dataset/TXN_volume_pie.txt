@@ -1,0 +1,3 @@
+This pie chart displays TXN's quarterly volume distribution, indicating a relatively even spread across the observed quarters from 2023 to 2024. Quarterly volumes range narrowly from 11.4% to 13.2% of the total.
+
+Notably, the 2024 quarters generally show slightly higher volume contributions, with a peak of 13.2%, compared to the 2023 quarters which registered the lowest at 11.4%. This suggests consistent quarterly volume for TXN, with a modest increase in relative contribution during the later periods presented.

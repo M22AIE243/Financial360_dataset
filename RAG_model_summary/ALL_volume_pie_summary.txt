@@ -1,0 +1,1 @@
+The pie chart illustrates the quarterly volume distribution of SA stock across eight quarters from 2023-Qq to 2024-Qq. It displays a varied distribution, with the highest volume at 17.0% in 2024-Qq and the lowest at 7.4% in 2023-Qq. There is no clear increasing or decreasing trend, indicating fluctuations in volume distribution over time.

@@ -1,0 +1,3 @@
+The OKE Quarterly Volume Distribution chart reveals volume contributions across multiple quarters from 2023 and 2024. Quarters from 2023 collectively constitute the majority, representing 55.3% of the total volume, with one particular 2023 quarter contributing the largest individual share at 17.3%.
+
+In comparison, the 2024 quarters account for 44.7% of the total volume. Interestingly, 2024 shows a more even distribution among its quarters, ranging from 10.4% to 11.9%, indicating less volatility than the 2023 quarters, which varied from 10.0% to 17.3%.

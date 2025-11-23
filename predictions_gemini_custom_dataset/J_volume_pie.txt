@@ -1,0 +1,4 @@
+This pie chart illustrates the distribution of J's total volume across eight quarters spanning 2023 and 2024.
+The overall volume is nearly evenly split between the two years, with each contributing approximately 50%.
+Quarterly volumes in 2023 showed greater variance, ranging from 10.8% to a peak of 14.9% of the total.
+Conversely, 2024 exhibited more consistent quarterly contributions, with volumes tightly clustered between 12.1% and 12.8%, indicating a more stable distribution.

@@ -1,0 +1,1 @@
+The stock price exhibits a fluctuating trend with high volatility, initially decreasing from 14 to 10 before recovering and significantly increasing to a peak of 20 in late 2024. The lowest price observed was around 10. Overall, the relationship between time and stock price shows an upward trend from 2023 to mid-2024, followed by a downward trend.

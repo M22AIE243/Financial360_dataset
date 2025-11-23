@@ -1,0 +1,3 @@
+This chart displays NG (Natural Gas) quarterly trading volume from Q1 2023 through Q4 2024.
+
+Volume showed a significant upward trend throughout 2023, peaking at approximately 146 million units in Q1 2024. Following this peak, there was a consistent decline in volume throughout the rest of 2024. By Q4 2024, the volume had settled around 79 million units, similar to mid-2023 levels, but still higher than the initial quarter shown.

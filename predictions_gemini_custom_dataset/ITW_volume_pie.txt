@@ -1,0 +1,3 @@
+This pie chart illustrates ITW's quarterly volume distribution across eight quarters from 2023 and 2024. Volume contributions are relatively balanced, ranging from 10.1% to 15.0% per quarter, indicating no single period significantly dominates.
+
+Notably, 2024 quarters show greater variability, encompassing both the highest (15.0%) and lowest (10.1%) individual quarterly volumes. In contrast, 2023 quarters demonstrated more consistent contributions, ranging narrowly from 12.0% to 13.0%. Overall, the combined volume for 2023 quarters slightly edged out 2024 quarters within this two-year period.

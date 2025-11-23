@@ -1,0 +1,3 @@
+This pie chart illustrates EQR's quarterly volume distribution across various quarters in 2023 and 2024. The largest single quarter's contribution came from a 2023 quarter, accounting for 15.4% of the total volume, while the smallest was 9.8% from a 2024 quarter.
+
+Cumulatively, the combined volume from the four 2023 quarters represents 52.0% of the distribution, marginally exceeding the 48.0% contributed by the four 2024 quarters. This indicates a relatively balanced, but slightly higher, volume share attributed to the 2023 periods shown.

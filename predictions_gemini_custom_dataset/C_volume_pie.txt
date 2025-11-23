@@ -1,0 +1,4 @@
+This pie chart illustrates the distribution of "C Quarterly Volume" across eight distinct quarters, four from 2023 and four from 2024.
+Collectively, the quarters in 2023 accounted for approximately 55.1% of the total volume, outweighing 2024's share of roughly 44.8%.
+Individually, the highest contribution came from a 2023 quarter at 15.8%, whereas 2024 quarters exhibited a narrower range of contributions from 10.1% to 13.3%.
+This suggests a slight decrease in overall quarterly volume share when comparing the periods shown from 2023 to 2024.

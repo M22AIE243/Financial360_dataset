@@ -1,0 +1,4 @@
+This chart illustrates CSCO's quarterly trading volume from Q1 2023 through Q4 2024.
+Overall, trading activity has been consistently high, with volumes generally exceeding 1.15 billion shares per quarter throughout the period.
+The volume exhibited a gradual upward trend from early 2023, peaking around 1.22 billion shares in Q2 2024.
+While Q4 2024 saw a slight moderation, quarterly volume remains strong compared to the initial quarters of 2023.

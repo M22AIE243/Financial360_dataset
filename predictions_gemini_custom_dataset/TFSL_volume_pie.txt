@@ -1,0 +1,3 @@
+This pie chart displays TFSL's quarterly volume distribution across eight distinct quarters from 2023 and 2024.
+
+The quarters in 2023 collectively accounted for a larger proportion of the total volume, with two individual quarters peaking at 15.5% each. In contrast, 2024 quarters generally show lower individual volume contributions, ranging from 10.5% to 12.0%. This indicates that TFSL experienced higher individual quarterly volume shares during 2023 within the analyzed period.

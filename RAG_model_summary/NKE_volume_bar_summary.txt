@@ -1,0 +1,1 @@
+The chart displays NKE's quarterly volume from Q1 2023 to Q4 2024, showing a general upward trend over the period. A significant spike in volume occurred in Q3 2024, reaching its peak at approximately $9 \times 10^8$, followed by a slight decrease in Q4 2024. The relationship between time and total volume indicates a general increase as time progresses.

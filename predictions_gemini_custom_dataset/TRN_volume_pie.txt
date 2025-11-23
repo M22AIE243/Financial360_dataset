@@ -1,0 +1,3 @@
+This pie chart illustrates TRN's quarterly volume distribution across periods generically labeled "2023-Qq" and "2024-Qq."
+
+Analysis reveals that the quarters from 2024 collectively represent a larger share of the total volume, approximately 56.6%, compared to the 2023 quarters which account for 43.4%. The highest individual quarterly contribution was 15.5% (2024), while the lowest was 8.2% (2023). This indicates a notable shift towards higher volume in the more recent quarters represented by 2024.

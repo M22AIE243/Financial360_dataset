@@ -1,0 +1,3 @@
+This pie chart illustrates the KSS Quarterly Volume Distribution across various quarters in 2023 and 2024.
+
+Overall, 2024 quarters account for a significantly larger portion of the total volume (58.1%) compared to 2023 quarters (41.7%). The highest single quarterly contribution is 19.4% (from a 2024 quarter), while the lowest is 8.3% (from a 2023 quarter). This distribution suggests a notable increase in KSS volume within the more recent quarters presented.

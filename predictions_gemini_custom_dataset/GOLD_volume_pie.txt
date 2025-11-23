@@ -1,0 +1,3 @@
+This pie chart illustrates the quarterly volume distribution for GOLD across select periods in 2023 and 2024.
+
+Quarters from 2024 collectively account for a larger share of the total volume shown, totaling approximately 56.9%, compared to 2023 quarters at 43.0%. The highest individual quarterly volume recorded is 15.6% (from a 2024 quarter), while the lowest is 8.9% (from a 2023 quarter). This distribution suggests a recent increase in the proportional GOLD trading activity, with 2024 quarters generally showing higher individual volumes.

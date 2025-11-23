@@ -1,0 +1,3 @@
+This chart illustrates HCA's quarterly volume distribution across eight distinct quarters from 2023 and 2024. The volume is relatively evenly distributed among these periods, with individual quarters ranging from 10.5% to 14.4% of the total.
+
+Collectively, the four quarters labeled "2023-Qq" accounted for a slightly larger share (51.7%) compared to the four quarters labeled "2024-Qq" (48.3%). No single quarter demonstrated overwhelming dominance, indicating a relatively stable volume spread across the analyzed periods.

@@ -1,0 +1,4 @@
+The chart displays TSLA's quarterly trading volume from Q1 2023 to Q4 2024.
+Volume was highest in Q1 2023 at approximately 10.7 billion shares, after which it generally trended downwards.
+By Q2 2024, volume had decreased significantly to its lowest point, around 5.6 billion shares.
+The overall trend indicates a substantial decline in TSLA's quarterly trading activity over the observed two-year period, despite minor fluctuations.

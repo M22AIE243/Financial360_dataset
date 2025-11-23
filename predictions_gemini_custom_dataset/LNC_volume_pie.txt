@@ -1,0 +1,4 @@
+This pie chart illustrates the LNC's quarterly volume distribution across various quarters in 2023 and 2024.
+Notably, the majority of the volume originated from 2023 quarters, which collectively represent approximately 65.4% of the total distribution, with one 2023 quarter alone contributing the largest share at 19.8%.
+Conversely, the 2024 quarters shown account for a smaller proportion, totaling around 34.6%, and include the lowest individual quarterly contribution at 7.4%.
+This indicates a significant shift or decline in LNC's quarterly volume contribution from the observed periods in 2023 to those in 2024.

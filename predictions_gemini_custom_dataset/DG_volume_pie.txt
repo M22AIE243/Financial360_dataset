@@ -1,0 +1,3 @@
+This pie chart displays DG's quarterly volume distribution across eight periods, four from 2023 and four from 2024. Cumulatively, the 2024 quarters generated approximately 53% of the total volume shown, slightly surpassing the 47% from the 2023 quarters.
+
+The highest individual quarterly contributions were 16.7%, observed in two distinct 2024 quarters. Conversely, the lowest single-quarter volume was 8.1%, recorded in one of the 2023 quarters, indicating a slightly higher volume base in the more recent periods.

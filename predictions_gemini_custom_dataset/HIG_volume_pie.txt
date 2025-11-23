@@ -1,0 +1,3 @@
+This pie chart details HIG's total volume distribution across eight quarters, four from 2023 and four from 2024. The quarters from 2023 collectively account for 51.7% of the total volume, slightly surpassing the 48.3% contributed by the 2024 quarters.
+
+Individually, quarterly contributions varied significantly in 2023, ranging from a high of 16.9% to a low of 9.7%. In contrast, 2024 quarters showed a more even distribution, with contributions between 11.1% and 13.4%.

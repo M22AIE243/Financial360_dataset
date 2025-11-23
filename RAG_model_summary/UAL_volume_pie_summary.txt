@@ -1,0 +1,1 @@
+This pie chart illustrates the quarterly volume distribution of UAL stock over several quarters. It shows a relatively stable distribution of trading volume, with the highest volume in 2024-Q2 (14.9%) and the lowest in 2023-Q3 (9.5%). The distribution suggests a slight increase in trading volume in 2024 quarters compared to 2023.

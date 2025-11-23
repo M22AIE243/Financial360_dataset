@@ -1,0 +1,5 @@
+This chart illustrates GM's quarterly volume from Q1 2023 through Q4 2024, with volumes generally ranging from 780 million to over 1.2 billion.
+
+A significant peak in volume was observed in Q4 2023, exceeding 1.2 billion units. Following this, Q1 2024 maintained robust volume around 1.14 billion. However, subsequent quarters in 2024 show a declining trend.
+
+The chart indicates that Q4 2024 volume is around 780 million, a substantial decrease from the prior year's peak and aligning with the lower volumes seen in Q3 2023. This suggests a notable slowdown in quarterly volume performance towards the end of 2024 compared to 2023.

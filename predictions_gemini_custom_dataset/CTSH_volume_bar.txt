@@ -1,0 +1,3 @@
+The CTSH Quarterly Volume chart displays trading activity from Q1 2023 to Q4 2024. Volume peaked in Q1 2023 at approximately 285 million, followed by a general decline throughout 2023, hitting a low of around 205 million in Q4 2023.
+
+A significant rebound occurred in Q1 2024, reaching nearly 270 million, the second-highest volume in the period. However, volumes have since trended downwards, with Q4 2024 projected as the lowest point at approximately 200 million. Overall, the data indicates considerable quarter-to-quarter volatility in CTSH's trading activity.

@@ -1,0 +1,3 @@
+This pie chart details NKE's (Nike, Inc.) quarterly trading volume distribution across various quarters in 2023 and 2024.
+
+Notably, quarters in 2024 account for a significantly larger share of the total volume displayed, with the highest individual quarter reaching 18.6%. Conversely, the 2023 quarters generally show lower individual contributions, with the smallest share being 8.1%. This indicates a shift towards higher trading activity in the more recent 2024 periods.

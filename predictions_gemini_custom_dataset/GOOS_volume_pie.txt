@@ -1,0 +1,3 @@
+This pie chart illustrates the GOOS quarterly volume distribution across various quarters in 2023 and 2024.
+
+Notably, 2023 quarters account for the majority of the total volume presented, with the largest single share at 23.8%. While 2024 quarters contribute, their individual shares are generally smaller, ranging from 7.1% to 14.0%. This indicates a higher concentration of trading activity in the identified 2023 periods compared to the shown 2024 quarters.

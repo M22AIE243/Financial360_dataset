@@ -1,0 +1,1 @@
+The stock volume for DE shows a fluctuation over time, peaking at $1.1 \times 10^8$ in 2023-Q2 and troughing at $0.7 \times 10^8$ in 2024-Q4. There is an overall decline in volume from 2023-Q2 to 2024-Q4. However, the volume remains stable at around $0.9 \times 10^8$ for the last four quarters, indicating a stable trend with some fluctuation.

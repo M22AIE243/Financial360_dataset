@@ -1,0 +1,3 @@
+This pie chart displays the distribution of TSLA's total trading volume across eight quarters, consisting of four quarters from 2023 and four from 2024.
+
+The largest individual quarterly volume share observed is 18.6% from a 2023 quarter, while the smallest is 9.5% from a 2024 quarter. Cumulatively, the four 2023 quarters account for approximately 58.9% of the total volume shown. In contrast, the combined volume from the four 2024 quarters makes up roughly 41.0%. This indicates significantly higher trading activity for TSLA during the observed 2023 quarters compared to the 2024 quarters within this dataset.

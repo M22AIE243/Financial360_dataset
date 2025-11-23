@@ -1,0 +1,3 @@
+The EOG Quarterly Volume Distribution chart displays the relative contribution of eight distinct quarters from 2023 and 2024 to its total volume.
+Total volume is almost evenly split, with the four 2023 quarters contributing approximately 51.1% and the four 2024 quarters accounting for roughly 48.8% of the total.
+Individual quarterly contributions show moderate variability, ranging from a low of 10.6% (2023-Qq) to a high of 15.0% (2023-Qq).

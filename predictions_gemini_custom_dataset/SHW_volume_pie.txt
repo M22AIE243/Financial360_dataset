@@ -1,0 +1,3 @@
+This pie chart illustrates SHW's quarterly volume distribution across the years 2023 and 2024. Quarters in 2024 collectively represent a slightly larger portion of the total volume, accounting for 52.9%, compared to 47.1% for 2023.
+
+The highest individual quarterly volume observed was 14.9% within a 2024 quarter, while the lowest contributions were around 11.1-11.2% in quarters from both years. This distribution indicates a moderate consistency in quarterly volume contributions, with a slight upward shift in aggregate volume percentage for the 2024 quarters compared to 2023.

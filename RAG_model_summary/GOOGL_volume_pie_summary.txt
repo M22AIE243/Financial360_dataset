@@ -1,0 +1,1 @@
+The pie chart displays the quarterly volume distribution of GOOGL stock across various quarters. The largest volume distribution was observed in 2023-Qq at 16.5%, while the smallest was in 2024-Qq at 10.7%. The volumes are relatively evenly distributed across the quarters, with a slight peak in 2023-Qq, and show no clear upward or downward trend.

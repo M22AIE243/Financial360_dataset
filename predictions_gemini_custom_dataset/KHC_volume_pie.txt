@@ -1,0 +1,3 @@
+This pie chart details KHC's quarterly volume distribution across eight distinct quarters, four from 2023 and four from 2024. Quarters in 2024 collectively represent a slightly larger share of the total volume at 52.8%, compared to 47.2% for the 2023 quarters.
+
+The highest individual quarterly volume contribution observed is 14.8%, belonging to a 2024 quarter, while the lowest is 10.7%, from a 2023 quarter. This distribution suggests a general upward trend or higher average volume contribution from the quarters in 2024 compared to those in 2023.

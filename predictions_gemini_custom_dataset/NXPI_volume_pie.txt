@@ -1,0 +1,3 @@
+This pie chart displays the distribution of NXPI's trading volume across eight quarters, covering both 2023 and 2024. Overall, the quarters in 2024 collectively account for approximately 52% of the total volume, marginally exceeding the 48% attributed to 2023.
+
+Individual quarterly volumes are relatively evenly distributed, ranging from a low of 11.2% to a peak of 14.3% of the total over the period. This suggests a consistent level of trading activity throughout these quarters, with a slight overall increase in volume contribution from 2024.

@@ -1,0 +1,5 @@
+This pie chart illustrates WMB's quarterly volume distribution across eight quarters from 2023 and 2024.
+
+The volume is relatively evenly distributed, with individual quarters contributing between 10.7% and 13.7% of the total volume. A 2023 quarter recorded the highest contribution at 13.7%, while a 2024 quarter registered the lowest at 10.7%.
+
+Overall, the 2023 quarters collectively accounted for a slightly larger share (approx. 51.1%) than the 2024 quarters (approx. 48.8%), indicating consistent operational activity without extreme fluctuations over this period.

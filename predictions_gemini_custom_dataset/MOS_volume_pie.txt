@@ -1,0 +1,5 @@
+This pie chart displays the MOS Quarterly Volume Distribution across eight distinct quarters in 2023 and 2024.
+
+Quarters within 2024 collectively account for a slightly larger share of the total volume (approximately 52.2%) compared to 2023 quarters (around 47.7%). The largest individual contribution comes from a 2024 quarter, representing 15.1% of the total volume.
+
+Conversely, the smallest single share is attributed to a 2023 quarter at 10.9%. Overall, the volume is relatively evenly distributed, with individual quarterly percentages ranging from 10.9% to 15.1%.

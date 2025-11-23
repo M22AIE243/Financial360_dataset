@@ -1,0 +1,3 @@
+This pie chart displays DKS's quarterly volume distribution across eight quarters, comprising four from 2023 and four from 2024. The highest individual quarterly volume contribution was 17.1% from a 2023 quarter, while the lowest was 10.2% from a 2024 quarter.
+
+Overall, the 2023 quarters collectively represent a larger share of the total volume, approximately 57.4%, compared to the 2024 quarters' combined 42.7%. This indicates a notable decline in volume during the more recent quarters compared to those in 2023.

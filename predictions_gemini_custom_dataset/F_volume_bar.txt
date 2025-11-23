@@ -1,0 +1,3 @@
+The "F Quarterly Volume" chart shows fluctuating total volumes over an eight-quarter period from Q1 2023 to Q4 2024.
+
+Volume peaked in Q1 2023 at approximately 4.25 billion units, subsequently trending downwards to reach its lowest point of roughly 3.0 billion units in Q2 2024. Following this trough, volumes saw a significant recovery in Q3 2024, approaching 3.9 billion, before experiencing a slight decline to approximately 3.5 billion by Q4 2024. Overall, the data indicates a volatile period without a clear sustained growth or decline trend.

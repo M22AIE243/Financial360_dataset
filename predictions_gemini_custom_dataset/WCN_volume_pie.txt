@@ -1,0 +1,3 @@
+This chart presents the WCN Quarterly Volume Distribution, breaking down total volume across eight quarters spanning 2023 and 2024.
+
+Collectively, 2023 quarters accounted for a slightly larger share of the total volume (approx. 50.7%) compared to 2024 quarters (approx. 49.2%). While 2023 experienced both the highest individual quarterly volume at 15.6% and the lowest at 11.2%, 2024 quarters showed more consistent contributions, ranging from 11.7% to 12.7%. This suggests greater variability in quarterly performance during 2023 for WCN.

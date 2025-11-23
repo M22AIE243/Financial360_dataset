@@ -1,0 +1,5 @@
+This pie chart illustrates the DY Quarterly Volume Distribution across various quarters in 2023 and 2024.
+
+Collectively, the quarters from 2023 account for a larger share of the total volume (54.8%) compared to those in 2024 (45.2%). The single largest contributor is a 2023 quarter, representing 20.2% of the total volume.
+
+Another 2024 quarter is the second-largest contributor at 15.7%, while the smallest contribution comes from a 2024 quarter at 9.1%. The volume is generally fragmented, with individual quarters contributing between 9.1% and 20.2%.

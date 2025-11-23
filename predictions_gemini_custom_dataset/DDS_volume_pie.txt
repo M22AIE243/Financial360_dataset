@@ -1,0 +1,3 @@
+This pie chart illustrates DDS's quarterly volume distribution across specific quarters in 2023 and 2024. Quarters from 2023 collectively account for 52.0% of the total volume, slightly outperforming the 48.0% contributed by 2024 quarters.
+
+Individually, the highest recorded quarterly volume was 15.8% (from a 2023 quarter), closely followed by 15.6% (from a 2024 quarter). Conversely, the lowest volume quarter was 8.9%, also occurring in 2024. This indicates a relatively balanced total volume between the two years, with significant variability in volume among individual quarters.

@@ -1,0 +1,3 @@
+This bar chart illustrates WMB's quarterly volume from Q1 2023 through Q4 2024. Volumes primarily ranged between approximately 350 million and 450 million units over this period.
+
+Q1 2023 recorded the highest volume, while Q3 2024 showed the lowest. A noticeable pattern reveals that volumes tended to dip in the third quarter of both years before recovering by the fourth quarter.

@@ -1,0 +1,3 @@
+The pie chart details the TX quarterly volume distribution across eight periods, with four quarters from 2023 and four from 2024. Collectively, 2023 quarters account for 52.1% of the total volume, slightly surpassing 2024's 47.9%.
+
+Individual quarterly contributions vary, with the highest share at 18.4% (from a 2023 quarter) and the lowest at 8.5% (from a 2024 quarter). This indicates a fairly balanced distribution without any single quarter dominating a significant portion of the total volume.

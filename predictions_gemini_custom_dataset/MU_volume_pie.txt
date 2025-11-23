@@ -1,0 +1,3 @@
+This pie chart details the distribution of MU's trading volume across various quarterly periods in 2023 and 2024.
+
+Notably, quarters from 2024 collectively represent a larger portion of the total volume (approximately 59%) compared to 2023 quarters (roughly 41%). The single largest quarterly contribution is 17.3% from a 2024 period, while the smallest is 9.0% from a 2023 period. This indicates a higher concentration of trading activity in the more recent 2024 quarters shown.

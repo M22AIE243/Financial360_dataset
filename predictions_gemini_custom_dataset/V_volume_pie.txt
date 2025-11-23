@@ -1,0 +1,3 @@
+This pie chart illustrates the quarterly volume distribution for "V" across the years 2023 and 2024. Overall, 2024 accounted for approximately 53.9% of the total volume shown, a higher contribution compared to 2023's 46.3%.
+
+The largest single quarterly volume was 16.1% in 2024, with another strong quarter at 15.4% the same year. In contrast, 2023's highest quarter reached 12.5%. The lowest quarterly volume recorded was 10.2% in 2023, indicating a relatively consistent distribution across all quarters depicted.

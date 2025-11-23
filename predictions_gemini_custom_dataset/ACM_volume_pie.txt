@@ -1,0 +1,3 @@
+This pie chart illustrates ACM's quarterly volume distribution across the years 2023 and 2024. Overall, 2023 accounted for a larger share of the total volume at 51.6%, marginally surpassing 2024's contribution of 48.4%.
+
+The highest individual quarterly volume observed was 17.3%, originating from a 2023 quarter. Conversely, the smallest contribution came from another 2023 quarter, representing 10.0% of the total volume.

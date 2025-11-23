@@ -1,0 +1,3 @@
+The SRE Quarterly Volume chart displays significant fluctuations in total volume from Q1 2023 through Q4 2024. Volumes generally ranged from approximately 145 million to over 215 million units across the observed periods.
+
+A clear seasonal pattern is evident, with the fourth quarters consistently exhibiting the highest volumes, peaking notably in Q4 2023 and ending Q4 2024 on another strong note. Conversely, the third quarters typically recorded the lowest trading activity within each year.

@@ -1,0 +1,1 @@
+The pie chart illustrates the quarterly volume distribution of ORCL stock, divided into 8 sections representing quarters from 2023-Qq to 2024-Qq. The distribution of volume across these quarters ranges from 10.2% to 14.5%. There is no clear trend in the data, as it appears to be a distribution of volume rather than a time series of stock prices.

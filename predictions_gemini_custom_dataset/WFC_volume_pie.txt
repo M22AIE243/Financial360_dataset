@@ -1,0 +1,3 @@
+This pie chart illustrates WFC's quarterly trading volume distribution across eight quarters from 2023 and 2024. In 2023, individual quarterly volumes showed greater variability, with the largest quarter accounting for 15.5% of the total.
+
+In contrast, the four quarters presented for 2024 exhibit a tighter and more consistent distribution, ranging narrowly from 11.7% to 12.5% of the total volume. This suggests a stabilization or more even spread of WFC's trading activity across quarters in 2024 compared to the more volatile individual quarterly contributions seen in 2023.

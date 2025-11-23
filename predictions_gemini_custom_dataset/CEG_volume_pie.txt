@@ -1,0 +1,3 @@
+The CEG Quarterly Volume Distribution chart shows the proportional contribution of different quarters to the total volume across 2023 and 2024. Individual quarterly volumes range from a low of 8.7% (2023-Qq) to a high of 18.1% (2024-Qq).
+
+Significantly, the quarters labeled "2024-Qq" collectively account for a larger share of the total volume, approximately 60.2%, compared to the "2023-Qq" quarters, which contribute about 39.8%. This suggests a notable shift or increase in volume composition attributed to 2024 periods.

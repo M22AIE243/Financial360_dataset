@@ -1,0 +1,1 @@
+The pie chart displays the quarterly volume distribution of SPGI across 8 sections representing different quarters. The distribution is relatively stable, with percentages ranging from 11.2% to 14.4%. The highest volume is in 2023-Qq (14.4%), while the lowest is in 2024-Qq (11.2%). The chart does not show a clear trend or pattern in the data.

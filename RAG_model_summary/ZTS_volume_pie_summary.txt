@@ -1,0 +1,1 @@
+The retrieved context describes the chart as a pie chart showing the quarterly volume distribution of RTX across eight quarters. It indicates a varied distribution of volume, with the largest volume at 19.0% in 2023-Qq and the smallest at 8.0% in 2023-Qq. There is no clear trend in volume distribution over time, highlighting fluctuations across different quarters.

@@ -1,0 +1,3 @@
+This chart displays MMM's quarterly volume from Q1 2023 to Q4 2024, illustrating notable fluctuations. Volumes remained relatively stable around 270 million throughout 2023, before surging significantly to a peak of approximately 370 million in Q1 2024.
+
+Following this peak, a consistent decline in volume was observed. The period concluded with Q4 2024 recording the lowest volume in the observed timeframe, estimated at approximately 210 million, indicating a significant reduction in activity after the early 2024 surge.

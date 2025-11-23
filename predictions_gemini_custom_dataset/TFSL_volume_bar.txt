@@ -1,0 +1,3 @@
+This chart displays TFSL's quarterly volume from Q1 2023 through Q4 2024, revealing notable volatility.
+
+Volume peaked in Q2 and Q4 of 2023, reaching approximately 23 million units, demonstrating strong performance in the latter half of that year. However, 2024 generally experienced a decline, with volumes bottoming out around 16 million in Q2 and Q3. While Q4 2024 showed a modest rebound, the overall trend for 2024 suggests a significant decrease in volume compared to the peaks observed in 2023.

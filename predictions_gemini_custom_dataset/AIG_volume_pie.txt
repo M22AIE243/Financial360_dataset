@@ -1,0 +1,3 @@
+This pie chart illustrates AIG's quarterly volume distribution for periods within 2023 and 2024. Total volume is nearly evenly split between the two years, with 2024 accounting for 51.3% and 2023 for 48.7%.
+
+Within 2023, quarterly volumes showed wider variance, ranging from a high of 16.7% to a low of 9.2%. Conversely, 2024 quarters exhibited a more balanced distribution, with volumes consistently falling between 12.1% and 13.5%.

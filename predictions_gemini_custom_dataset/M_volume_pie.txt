@@ -1,0 +1,6 @@
+The "M Quarterly Volume Distribution" chart illustrates how total volume is allocated across various quarters in 2023 and 2024.
+
+**Key Observations:**
+*   **2023 quarters collectively account for the majority of the total volume, representing approximately 64.3%, with individual quarters contributing between 13.4% and 18.5%.**
+*   **Conversely, the observed 2024 quarters comprise about 35.7% of the total volume, with no single 2024 quarter exceeding 11.4%.**
+*   **This indicates a notable decrease in quarterly volume contribution in 2024 compared to 2023 within the periods represented.**

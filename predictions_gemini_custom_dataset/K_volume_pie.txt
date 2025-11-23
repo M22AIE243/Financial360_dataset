@@ -1,0 +1,5 @@
+The pie chart illustrates the distribution of 'K' quarterly volume across segments from both 2023 and 2024.
+
+Quarters within 2024 collectively account for a larger proportion of the total volume, representing 53.2%, compared to 46.6% for 2023 quarters. The highest individual quarterly contribution is 17.9% (from 2024), while the lowest is 8.8% (also from 2024).
+
+This suggests a slight increase in overall volume contribution from the more recent 2024 periods compared to the previous year.

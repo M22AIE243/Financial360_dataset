@@ -1,0 +1,1 @@
+The chart is a pie chart, not a stock price chart, displaying the quarterly volume distribution for a company. Each section represents a different quarter's share of the total volume. This type of chart focuses on volume distribution rather than stock prices and typically does not show a clear upward or downward trend over time.

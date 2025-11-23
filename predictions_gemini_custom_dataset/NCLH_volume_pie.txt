@@ -1,0 +1,3 @@
+This pie chart illustrates NCLH's quarterly volume distribution across eight quarters, four from 2023 and four from 2024.
+
+Collectively, the quarters in 2023 accounted for a slightly larger portion of the total volume (53.3%) compared to the 2024 quarters (46.7%). Individual quarterly contributions are relatively balanced, ranging from a low of 10.1% (a 2024 quarter) to a high of 14.2% (a 2023 quarter). This indicates a fairly even spread of volume without any single quarter showing extreme dominance.

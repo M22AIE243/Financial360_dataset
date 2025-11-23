@@ -1,0 +1,1 @@
+The pie chart displays the quarterly volume distribution of ASO across eight quarters. The highest volume distribution was 14.8% in 2023-Q2, while the lowest was 10.5% in 2024-Q3. The volume distribution for 2023 ranged from 10.9% to 14.8%, and for 2024, it ranged from 10.5% to 13.0%. The data shows variation across quarters, with no clear time-series relationship.

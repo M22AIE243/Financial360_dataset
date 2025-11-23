@@ -1,0 +1,3 @@
+This pie chart displays VFC's total volume distribution across eight distinct quarters, four from 2023 and four from 2024. The volume was nearly evenly distributed between the two years, with 2023 quarters contributing approximately 49.1% and 2024 quarters 50.8% of the total.
+
+Individually, the largest quarterly share was 15.2% (a 2024 quarter), while the smallest was 10.4% (a 2023 quarter). This indicates a relatively consistent quarterly volume performance across the two-year period, with a marginal increase in overall share during the 2024 quarters presented.

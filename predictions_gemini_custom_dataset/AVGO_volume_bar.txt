@@ -1,0 +1,1 @@
+This chart displays AVGO's quarterly trading volume from Q1 2023 through Q4 2024. Volume generally trended upwards, rising from approximately 1.45 billion in Q1 2023 to a peak of about 2.05 billion in Q2 2024. However, the latter half of 2024 experienced a noticeable decline, with volume decreasing to roughly 1.70 billion by Q4 2024.

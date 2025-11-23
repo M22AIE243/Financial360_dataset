@@ -1,0 +1,3 @@
+The stock price of 'F' displayed significant volatility from early 2023 to early 2025, oscillating between a low of $8.71 and a high of $13.69, with an average price of $10.89.
+
+The company experienced two major peaks, one in mid-2023 and another in mid-2024, both followed by substantial declines. As of early 2025, the stock is on a downward trend, trading near the lower end of its historical range for the past two years.

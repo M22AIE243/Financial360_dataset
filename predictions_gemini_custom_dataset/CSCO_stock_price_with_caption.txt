@@ -1,0 +1,5 @@
+The CSCO stock price chart spans approximately two years, from early 2023 to early 2025, exhibiting notable volatility. The stock began around $44, experienced an initial rally to $55 by late 2023, followed by a sharp correction.
+
+After a period of consolidation, CSCO saw a strong upward trend throughout late 2024, pushing its price to new highs within this period. It is currently trading near its peak observed on the chart.
+
+During this timeframe, the stock's price ranged from a lowest point of $43.03 to a highest point of $59.22, with an average price of $48.78. The overall trend shows significant appreciation from the start to the end of the observed period.

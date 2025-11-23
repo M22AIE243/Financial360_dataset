@@ -1,0 +1,1 @@
+The TPC stock price chart exhibits a notable upward trend from January 2023 to January 2025. The price initially fluctuated between $5 and $10 until early 2024. A significant increase then occurred, rising from approximately $7 to a peak of around $32, before declining to around $25 by January 2025. This indicates a positive correlation between time and stock price.

@@ -1,0 +1,3 @@
+This chart illustrates ETR's quarterly trading volume from Q1 2023 through Q4 2024.
+After fluctuating in 2023 and peaking at approximately 210 million in Q4 2023, volume saw a significant dip to its lowest point of roughly 165 million in Q1 2024.
+However, the subsequent quarters of 2024 (Q2-Q4) demonstrated a strong recovery and sustained high activity, consistently registering volumes around 210-215 million, marking the highest levels observed in this period.

@@ -1,0 +1,4 @@
+This pie chart illustrates ISRG's quarterly volume distribution, covering eight quarters from 2023 and 2024.
+Collectively, the quarters in 2023 represented a larger share of the total volume at 54.5%, compared to 45.5% for 2024.
+The highest individual quarterly contribution was 14.9% in 2023, while the lowest was 10.3% in 2024.
+Overall, 2023 quarters generally saw higher individual volume shares than those observed in 2024.

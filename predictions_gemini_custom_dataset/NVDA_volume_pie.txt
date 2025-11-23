@@ -1,0 +1,5 @@
+This pie chart displays NVIDIA's (NVDA) trading volume distribution across eight distinct quarters, comprising four from 2023 and four from 2024.
+
+Collectively, the 2023 quarters accounted for 55.5% of the total volume represented, while the 2024 quarters made up the remaining 44.5%. A specific 2024 quarter recorded the highest individual volume at 15.4%, contrasted by the lowest individual volume of 6.7% also in a 2024 quarter.
+
+This indicates more varied volume performance within 2024 compared to the relatively consistent quarterly volumes seen throughout 2023.

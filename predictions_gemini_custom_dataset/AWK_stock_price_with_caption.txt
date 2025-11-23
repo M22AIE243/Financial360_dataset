@@ -1,0 +1,3 @@
+The AWK stock price exhibited significant volatility from early 2023 to early 2025. Initially, the stock fell sharply from around $150 in early 2023 to a low of $111.24 by late 2023.
+
+A recovery phase in early to mid-2024 saw the price climb back, peaking at $153.79. However, this was followed by another notable decline towards the end of 2024, with the stock finishing around the low $120s by early 2025. Over the entire period, the average stock price was $132.18.

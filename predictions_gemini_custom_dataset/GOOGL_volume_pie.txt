@@ -1,0 +1,3 @@
+This pie chart details the distribution of GOOGL's trading volume across various quarters in 2023 and 2024.
+
+The highest individual quarterly volume accounted for 16.5% of the total, stemming from a 2023 quarter, while the lowest was 10.7% from a 2024 quarter. Generally, the quarters in 2023 exhibited a slightly higher individual percentage contribution to the overall volume compared to those shown for 2024. This indicates a moderate shift in quarterly volume distribution between the two periods.

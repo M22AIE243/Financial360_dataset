@@ -1,0 +1,3 @@
+The chart illustrates FL's total volume distribution across eight distinct quarters, comprising four quarters from 2023 and four from 2024.
+
+Cumulatively, 2023 quarters accounted for a larger portion of the total volume (approximately 53.1%) compared to 2024 quarters (approximately 46.8%). The highest single quarterly volume recorded was 17.0% (from a 2023 quarter), while the lowest was 9.1%, also from a 2023 quarter. This indicates a slightly stronger overall volume contribution from 2023 within this combined period, despite variability across individual quarters in both years.

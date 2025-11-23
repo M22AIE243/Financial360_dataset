@@ -1,0 +1,3 @@
+This pie chart illustrates HUM's quarterly volume distribution across 2023 and 2024. Volume contributions from the 2024 quarters collectively account for approximately 61% of the total, significantly surpassing the 39% contributed by 2023 quarters.
+
+Notably, a single quarter in 2024 stands out as the largest individual contributor at 21.1%. This suggests a substantial increase in overall volume activity for HUM during 2024 compared to the prior year.

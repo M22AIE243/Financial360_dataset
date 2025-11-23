@@ -1,0 +1,3 @@
+This pie chart illustrates PayPal's (PYPL) quarterly volume distribution over eight recent periods, encompassing four quarters from 2023 and four from 2024.
+
+Cumulatively, the 2023 quarters represent a larger share of the total volume at approximately 54.2%, compared to the 2024 quarters' combined 45.7%. Individual quarterly contributions show significant variation, ranging from a low of 8.4% in one 2024 quarter to a high of 15.8% in another 2024 quarter. This indicates a diverse distribution of volume across the analyzed periods, with no single quarter overwhelmingly dominating the total.

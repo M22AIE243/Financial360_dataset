@@ -1,0 +1,5 @@
+This pie chart illustrates the IEX quarterly volume distribution, showing eight periods across 2023 and 2024.
+
+Overall, 2024 quarters collectively represented a slightly larger share of the total volume at 51.0%, compared to 49.0% for 2023. Individual quarterly contributions varied, with the highest share at 15.2% (2024) and the lowest at 9.9% (2023).
+
+This indicates a marginal increase in IEX volume distribution share in 2024 over 2023, though specific quarter-on-quarter trends cannot be determined without explicit quarter labels.

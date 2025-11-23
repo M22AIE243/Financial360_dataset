@@ -1,0 +1,3 @@
+This chart illustrates GS's quarterly trading volume from Q1 2023 to Q4 2024. Volume peaked significantly in Q1 2023 at approximately 180 million, followed by a noticeable decline through Q3 2023.
+
+A modest recovery and stabilization occurred from Q4 2023 into Q2 2024, with volumes holding around 135-145 million. However, the latter half of 2024 shows a clear downward trend, culminating in the lowest observed volume in Q4 2024 at roughly 128 million. Overall, trading activity appears to have softened considerably since the peak in early 2023.

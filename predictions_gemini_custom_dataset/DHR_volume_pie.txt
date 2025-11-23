@@ -1,0 +1,3 @@
+The DHR Quarterly Volume Distribution chart illustrates the proportional volume contribution across eight quarters in 2023 and 2024. Cumulatively, quarters from 2023 accounted for approximately 53.1% of the total volume, while 2024 quarters made up the remaining 47.0%.
+
+Individual quarterly contributions vary, ranging from a low of 11.2% (a 2024 quarter) to a high of 15.4% (a 2023 quarter). This indicates a relatively balanced distribution, though 2023 quarters generally show a slightly larger share of the overall volume.

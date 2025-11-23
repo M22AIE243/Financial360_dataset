@@ -1,0 +1,5 @@
+This chart displays SCHW's quarterly volume distribution, highlighting contributions from distinct quarters in 2023 and 2024.
+
+The majority of the distributed volume, a combined 64.9%, originates from the four represented quarters of 2023. In contrast, the four quarters shown from 2024 collectively account for 35.1% of the total volume.
+
+The largest individual quarterly contribution (23.7%) is from a 2023 quarter, significantly outpacing any single 2024 quarter, which range from 7.6% to 10.5%. This indicates a notable shift or decrease in overall volume contribution from the earlier to the later period represented.

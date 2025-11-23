@@ -1,0 +1,3 @@
+This pie chart illustrates MS's quarterly volume distribution across eight periods, encompassing four quarters each from 2023 and 2024. Overall, 2023 quarters collectively accounted for 52.3% of the total volume, slightly exceeding the 47.7% contributed by 2024 quarters.
+
+Individual quarterly volumes are relatively evenly distributed, ranging from a low of 10.7% (a 2024 quarter) to a high of 15.2% (a 2023 quarter). The highest single quarter's contribution came from a 2023 quarter at 15.2%, with the next highest from a 2024 quarter at 14.9%.

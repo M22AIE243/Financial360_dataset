@@ -1,0 +1,3 @@
+This pie chart illustrates the NI Quarterly Volume Distribution across 2023 and 2024. Overall, 2023 quarters account for a slightly larger share of the total volume (approximately 52.7%) compared to 2024 quarters (approximately 47.4%).
+
+The highest individual quarterly volume contribution was 17.8%, recorded by one of the 2023 quarters. Conversely, the 2024 quarters exhibit a more consistent distribution, with contributions ranging from 10.2% to 12.7% of the total volume.

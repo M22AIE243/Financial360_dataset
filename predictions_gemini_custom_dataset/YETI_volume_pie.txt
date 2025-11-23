@@ -1,0 +1,3 @@
+This pie chart details YETI's quarterly volume distribution over eight quarters, spanning 2023 and 2024. The 2024 quarters collectively represent a significantly larger portion of the total volume shown, contributing approximately 56% compared to roughly 44% from the 2023 quarters.
+
+Individual quarterly volumes in 2024 (ranging from 13.5% to 14.5%) consistently exceeded those of 2023 (ranging from 9.3% to 12.0%). This indicates a clear upward trend or stronger volume performance in the more recent year.

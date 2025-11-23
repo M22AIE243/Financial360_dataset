@@ -1,0 +1,3 @@
+This pie chart details the PH Quarterly Volume Distribution across various quarters in 2023 and 2024.
+
+Overall, 2023 quarters collectively accounted for a larger portion of the total volume, representing approximately 55%, compared to 2024 quarters which contributed around 45%. The highest individual quarterly volume recorded was 16.8%, attributed to a 2023 quarter. Conversely, the smallest share for any given quarter was 10.4% (seen in two 2024 quarters).

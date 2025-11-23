@@ -1,0 +1,5 @@
+The pie chart illustrates PRU's quarterly volume distribution across various periods in 2023 and 2024.
+
+Quarters in 2023 collectively represent the majority of the total volume, accounting for approximately 56.1%, significantly outpacing 2024 quarters which total about 44.0%. The largest individual quarterly volume recorded was 17.1% (from a 2023 quarter).
+
+In contrast, 2024 quarterly volumes were more tightly clustered, ranging from 10.3% to 11.5%. This indicates that 2023 experienced periods of higher individual volume contributions compared to the more evenly distributed and lower-peak quarters of 2024.

@@ -1,0 +1,3 @@
+This pie chart details the CASH Quarterly Volume Distribution across specific quarters in 2023 and 2024. The largest single quarterly volume, representing 18.2%, was observed in a 2023 quarter, while the lowest, at 10.0%, occurred in a 2024 quarter.
+
+Overall, quarters from 2023 collectively accounted for a higher proportion of the total volume (approximately 53.9%) compared to quarters from 2024 (approximately 46.1%). This indicates a slight shift in volume distribution or activity levels between the two years, with 2023 generally showing stronger individual quarterly contributions.

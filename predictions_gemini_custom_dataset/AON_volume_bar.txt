@@ -1,0 +1,3 @@
+This bar chart illustrates AON's quarterly trading volume from Q1 2023 through Q4 2024. Volume initially hovered around 45-52 million units in early 2023 before gradually increasing towards the end of the year and into early 2024.
+
+A significant surge occurred in Q2 2024, with volume peaking at approximately 100 million units. Following this peak, volume declined in the latter half of 2024 but remained robust, consistently above 60 million units, indicating a higher baseline compared to early 2023.

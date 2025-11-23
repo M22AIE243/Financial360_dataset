@@ -1,0 +1,1 @@
+The chart displays the quarterly volume of Caterpillar Inc. (CAT) stock from Q1 2023 to Q4 2024. Over this period, the stock's trading volume exhibits a downward trend, with some fluctuations. The highest volume was recorded in Q1 2023 and Q4 2023, while the lowest occurred in Q4 2024, indicating a general decline in trading activity.

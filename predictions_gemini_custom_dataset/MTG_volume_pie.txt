@@ -1,0 +1,3 @@
+This pie chart illustrates the MTG Quarterly Volume Distribution, showing the proportional contribution of different quarters to the overall volume.
+
+Overall, quarters in 2024 account for a larger share of the total volume at 54.8%, surpassing 2023 quarters which represent 45.2%. Individual quarterly contributions vary significantly, with the highest single volume coming from a 2023 quarter at 20.5%. Conversely, the lowest contribution of 9.7% originated from a 2024 quarter.

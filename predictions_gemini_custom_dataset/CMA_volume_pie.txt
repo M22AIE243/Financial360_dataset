@@ -1,0 +1,3 @@
+This pie chart illustrates the CMA Quarterly Volume Distribution across eight recent quarters, four from 2023 and four from 2024.
+
+Overall, 2023 quarters collectively represent approximately 57% of the total volume, significantly higher than the 2024 quarters which account for about 43%. The highest single quarterly contribution was 20.1% from a 2023 quarter. Volumes in 2024 were more evenly distributed (ranging from 10.3% to 11.2%) than in 2023 (10.0% to 20.1%).

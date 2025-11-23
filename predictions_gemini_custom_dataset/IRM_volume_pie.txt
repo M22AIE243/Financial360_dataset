@@ -1,0 +1,4 @@
+This pie chart illustrates the IRM Quarterly Volume Distribution, comparing performance across quarters in 2023 and 2024.
+Overall, 2024 quarters collectively account for a larger share of the total volume (approximately 52.8%) compared to 2023 quarters (approximately 47.1%).
+The highest individual quarterly contribution was 14.4% in 2024, while the lowest was 10.9% in 2023.
+This suggests a modest overall increase in IRM's volume contribution in 2024 relative to the prior year.

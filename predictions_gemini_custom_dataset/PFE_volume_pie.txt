@@ -1,0 +1,3 @@
+This pie chart details the quarterly trading volume distribution for PFE. A significant majority of the represented volume, approximately 58%, occurred across the 2024 quarters, clearly outweighing the roughly 42% from the 2023 quarters.
+
+Individual quarterly contributions varied, with the largest single quarter contributing 16.1% (a 2024 quarter) and the smallest being 8.5% (a 2023 quarter). This indicates a notable shift towards higher trading activity in PFE during the depicted 2024 periods compared to 2023.

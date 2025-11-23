@@ -1,0 +1,3 @@
+This pie chart illustrates the distribution of PEP's total volume across eight distinct quarters, comprising four quarters from 2023 and four from 2024.
+
+Individual quarterly contributions range from a low of 10.5% (a 2023 quarter) to a high of 14.2% (a 2024 quarter). Collectively, the four 2024 quarters account for approximately 53.4% of the total volume, while the four 2023 quarters make up about 46.5%. This suggests a slightly higher volume contribution per quarter in 2024 compared to 2023.

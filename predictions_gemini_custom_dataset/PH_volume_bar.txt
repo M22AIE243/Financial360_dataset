@@ -1,0 +1,5 @@
+This chart displays PH's total quarterly volume from Q1 2023 through Q4 2024.
+
+Volume initiated strongly in Q1 2023, peaking at approximately 59-60 million units, but subsequently experienced a general decline throughout 2023. The lowest quarterly volumes were recorded in Q1 2024 and Q4 2024, both around 37 million units, representing a significant reduction from the initial peak.
+
+Despite a modest rebound in Q2 2024 to 45 million units, volumes largely trended downwards afterward. This indicates a notable overall decrease in PH's quarterly volume over the two-year period analyzed.

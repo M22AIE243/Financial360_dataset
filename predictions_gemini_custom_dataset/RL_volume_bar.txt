@@ -1,0 +1,3 @@
+The "RL Quarterly Volume" chart displays trading activity from Q1 2023 through Q4 2024. Volume generally fluctuated between approximately 40 million and 60 million units over this period.
+
+Peak volumes were observed in Q1 and Q2 2024, both reaching around 60 million units. However, the latest quarter, Q4 2024, recorded the lowest volume in the series, dropping to just over 40 million units, indicating a notable decline in trading activity towards the end of the period.

@@ -1,0 +1,5 @@
+This pie chart displays the distribution of IVZ's total volume across eight distinct quarters, four from 2023 and four from 2024.
+
+The four 2023 quarters collectively account for approximately 54.2% of the total volume presented, with the highest single quarterly contribution at 15.8%. Conversely, the four 2024 quarters represent about 45.9% of the total volume, with individual contributions ranging from 10.0% to 12.9%.
+
+This indicates a slightly higher volume share from the 2023 quarters compared to the 2024 quarters within this analyzed period.

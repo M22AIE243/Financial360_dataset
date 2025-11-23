@@ -1,0 +1,3 @@
+This pie chart details ADDYY's quarterly trading volume distribution across 2023 and 2024.
+
+The volume is almost equally split between the two years, with 2024 quarters collectively accounting for a slightly larger share than 2023. A single quarter in 2023 represented the largest individual contribution at 24.9% of the total. Overall, there is a notable variance in trading activity per quarter, ranging from 5.2% to 24.9% of the total volume presented.

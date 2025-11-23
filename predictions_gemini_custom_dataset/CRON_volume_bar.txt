@@ -1,0 +1,3 @@
+The chart illustrates CRON's quarterly trading volume from Q1 2023 through Q4 2024, showing significant volatility across the period. Peak volumes, reaching approximately 175 million, were observed in Q3 2023 and Q2 2024, indicating periods of heightened investor interest.
+
+Conversely, CRON experienced substantial dips in volume, notably in Q2 2023 and Q3 2024, falling to lows around 60-75 million. The most recent quarter (Q4 2024) shows a moderate recovery in volume to roughly 75 million, which is higher than the preceding quarter but still well below the annual peak levels, suggesting continued fluctuations rather than a clear upward or downward trajectory.

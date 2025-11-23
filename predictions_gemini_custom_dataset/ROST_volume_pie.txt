@@ -1,0 +1,3 @@
+This pie chart illustrates ROST's volume distribution across eight distinct quarters, four from 2023 and four from 2024. Individual quarterly volumes are relatively balanced, ranging from 10.4% to 14.5% of the total aggregated volume shown.
+
+Collectively, the four 2024 quarters accounted for 50.7% of the total volume, slightly surpassing the 49.4% contributed by the 2023 quarters. This indicates a minor upward shift in ROST's overall volume contribution in 2024 compared to 2023 within this period.

@@ -1,0 +1,5 @@
+This pie chart illustrates CSX's volume distribution across eight quarterly periods for 2023 and 2024.
+
+Individual quarterly contributions are remarkably consistent, ranging narrowly from a low of 11.1% (from a 2024 quarter) to a high of 13.9% (from a 2023 quarter). This relatively uniform spread suggests no significant quarter-specific dominance in volume.
+
+However, the lack of specific quarter identifiers (e.g., Q1, Q2) prevents deeper analysis into potential seasonal patterns within each year.

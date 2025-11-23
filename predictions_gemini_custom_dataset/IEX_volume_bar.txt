@@ -1,0 +1,3 @@
+This chart illustrates the IEX Quarterly Volume from Q1 2023 through Q4 2024, showing a fluctuating yet generally increasing trend. Volume rose steadily throughout 2023, reaching approximately 33 million in Q3, before experiencing a notable dip in Q1 2024.
+
+Following this, volume recovered significantly, culminating in an all-time high of approximately 36 million in Q3 2024. The final quarter of 2024 saw a slight decrease but maintained a high level, indicating strong overall growth for IEX volume during the depicted period, particularly in the latter half of 2024.

@@ -1,0 +1,1 @@
+The pie chart illustrates the WEC quarterly volume distribution across 2023 and 2024, divided into 8 sections. The volume distribution ranges from 9.2% to 15.7%. Specifically, the largest volume is in 2024-Qq at 15.7%, and the smallest is in 2023-Qq at 9.2%. This highlights the varying proportion of volume across the quarters.

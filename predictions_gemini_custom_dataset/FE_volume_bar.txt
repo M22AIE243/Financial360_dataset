@@ -1,0 +1,3 @@
+The chart illustrates FE's quarterly volume from Q1 2023 through Q4 2024.
+
+Volume peaked in Q1 and Q2 2023 at approximately 245 million, followed by a slight dip in Q3 before recovering to around 230 million by Q4 2023. However, 2024 experienced a significant downward trend, hitting its lowest point in Q2 at around 165 million. The volume then stabilized at a lower level for the latter half of 2024, remaining around 178 million.

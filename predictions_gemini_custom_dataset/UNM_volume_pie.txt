@@ -1,0 +1,5 @@
+This pie chart details UNM's quarterly volume distribution across various periods in 2023 and 2024.
+
+A single 2023 quarter demonstrates the highest individual volume contribution at 16.8%, contrasting with the lowest at 9.8%, also from a 2023 quarter.
+
+Cumulatively, the 2023 quarters represent 52% of the total volume depicted, marginally exceeding the 48% contributed by the 2024 quarters shown.

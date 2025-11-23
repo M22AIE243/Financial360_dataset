@@ -1,0 +1,3 @@
+This pie chart illustrates KBR's total volume distribution across eight quarterly periods, spanning 2023 and 2024.
+
+Overall, the quarters in 2023 collectively contributed a slightly larger share of the total volume at 51.9%, compared to the 2024 quarters which accounted for 48.1%. Individual quarterly volumes show significant variation, ranging from 9.1% to a peak of 17.1% of the total, with the highest single quarter occurring in 2023. This suggests inconsistent performance or seasonal patterns in volume across the analyzed periods.

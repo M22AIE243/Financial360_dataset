@@ -1,0 +1,1 @@
+The pie chart displays VLO's quarterly volume distribution across multiple quarters. It shows a varied distribution, with the largest share being 16.2% in 2023-Qq and the smallest 9.9% in 2024-Qq. The majority of quarters had a volume distribution between 10-15%. Overall, the volume distribution is not consistent across quarters and does not show a clear trend.

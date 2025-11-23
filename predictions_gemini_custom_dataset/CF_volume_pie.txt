@@ -1,0 +1,5 @@
+This chart depicts the "CF Quarterly Volume Distribution" across eight periods, with four quarters each from 2023 and 2024.
+
+Notably, the sum of all percentages exceeds 100%, which should be noted for a standard distribution. Based on the presented figures, individual quarterly contributions were higher in 2023, with one quarter reaching 16.3% of the reported volume. Conversely, 2024 quarters generally showed smaller individual shares, with the lowest at 9.4%.
+
+Cumulatively, the total reported volume for the four 2024 quarters (55.0%) is marginally higher than that for the four 2023 quarters (54.9%).

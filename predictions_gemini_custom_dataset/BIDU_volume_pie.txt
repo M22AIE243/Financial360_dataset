@@ -1,0 +1,3 @@
+This pie chart displays BIDU's quarterly volume distribution across various quarters in 2023 and 2024. Quarters in 2024 collectively represent the majority of the volume at 56.2%, compared to 43.8% from 2023 quarters.
+
+The largest individual quarterly contribution observed was 15.6% from a 2023 quarter, while two 2024 quarters closely followed with 15.1% each. The smallest contribution came from a 2023 quarter, accounting for 7.6% of the total volume.

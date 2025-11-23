@@ -1,0 +1,3 @@
+This pie chart details the BAX quarterly volume distribution across 2023 and 2024.
+
+A single 2023 quarter accounted for the largest share at 16.9% of the total volume, while the smallest contribution came from a 2024 quarter at 9.8%. Overall, 2023 quarters collectively contributed a greater proportion of the total volume shown (56.0%) compared to 2024 quarters (43.9%). The volume distribution within 2024 quarters was relatively more uniform than in 2023.

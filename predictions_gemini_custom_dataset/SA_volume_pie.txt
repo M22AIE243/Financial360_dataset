@@ -1,0 +1,5 @@
+This pie chart illustrates the SA Quarterly Volume Distribution across various quarters in 2023 and 2024.
+
+Notably, 2024 quarters collectively account for a larger share of the total volume (approximately 60%) compared to 2023 quarters (approximately 40%). Individual quarterly contributions from 2024, ranging from 13.4% to 17.0%, generally surpassed those in 2023, which ranged from 7.4% to 12.3%.
+
+The highest single quarterly volume contribution is 17.0% from a 2024 quarter, while the lowest is 7.4% from a 2023 quarter, indicating a stronger volume performance in the more recent year.

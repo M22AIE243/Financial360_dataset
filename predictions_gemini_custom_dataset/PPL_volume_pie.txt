@@ -1,0 +1,3 @@
+This pie chart illustrates PPL's quarterly volume distribution across selected periods in 2023 and 2024. The highest individual quarterly volume, at 16.6%, was recorded in a 2023 quarter, with another 2023 quarter contributing 13.8%.
+
+Overall, 2023 quarters represent a larger share of the total volume displayed, while the 2024 quarters show a tighter, more consistent distribution ranging from 11.1% to 12.3%, indicating slightly lower individual contributions to the overall volume.

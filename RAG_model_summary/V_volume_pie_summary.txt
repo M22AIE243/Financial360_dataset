@@ -1,0 +1,1 @@
+The pie chart illustrates the quarterly volume distribution of asset "V" across eight quarters of 2023 and 2024. The distribution is relatively even, with volumes ranging from 10.2% to 16.1%. There is a slight variation between 2023 and 2024, with 2024 showing a wider range of performance. The highest volume is 16.1% in 2024-Qq, and the lowest is 10.2% in 2023-Qq.

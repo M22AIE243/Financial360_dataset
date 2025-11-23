@@ -1,0 +1,4 @@
+The SRE stock price displayed considerable volatility over the period from early 2023 to early 2025.
+Initially fluctuating, the stock hit its lowest point at $62.18 in late 2023 before embarking on a strong upward trend throughout 2024.
+It reached its peak at $93.27 by the end of 2024, followed by a minor retraction in early 2025.
+Overall, the stock's average price for this period was $72.96, indicating significant growth from its lows.

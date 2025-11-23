@@ -1,0 +1,4 @@
+The NG stock price has shown significant volatility over the past two years, ranging from a high of \$6.95 to a low of \$2.28, with an average price of \$4.16.
+Initially, the stock experienced a pronounced downtrend throughout 2023, falling from nearly \$7.00 to its lowest point in early 2024.
+A strong rebound followed from Q1 to Q3 2024, pushing prices back above \$4.50.
+However, this recovery was not sustained, with the price trending downwards again towards the end of 2024, settling around the mid-\$3s.

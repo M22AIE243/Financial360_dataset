@@ -1,0 +1,3 @@
+This pie chart illustrates CHTR's quarterly volume distribution across eight distinct quarters, four from 2023 and four from 2024.
+
+The quarters in 2024 collectively represent a greater share of the total volume displayed, accounting for approximately 54.6% versus 45.2% from the 2023 quarters. Individual quarterly contributions range from a low of 10.2% (a 2023 quarter) to a high of 16.6% (a 2024 quarter). This indicates a general increase in CHTR's volume activity or market presence in the more recent quarters presented.

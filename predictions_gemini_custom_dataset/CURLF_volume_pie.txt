@@ -1,0 +1,3 @@
+This pie chart illustrates CURLF's quarterly volume distribution across eight distinct quarters from 2023 and 2024. Quarters in 2024 collectively represent a larger share of the total volume at 55.5%, compared to 44.5% from 2023 quarters.
+
+Individual quarterly contributions show significant variance, ranging from a high of 16.7% (a 2024 quarter) to a low of 7.7% (another 2024 quarter). This suggests that while 2024 quarters generally contributed more volume, performance across quarters was not uniform.

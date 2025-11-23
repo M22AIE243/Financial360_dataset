@@ -1,0 +1,1 @@
+The pie chart displays the company's quarterly volume distribution across eight quarters. The percentages of total volume range from approximately 10.4% to 14.1%. This indicates a relatively stable and consistent volume distribution pattern over the observed period, with no clear upward or downward trend.

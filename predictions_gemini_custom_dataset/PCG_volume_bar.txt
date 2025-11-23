@@ -1,0 +1,3 @@
+This chart displays PCG's quarterly volume from Q1 2023 through Q4 2024. Volume increased steadily throughout 2023, peaking at over 1.1 billion in Q4 2023.
+
+Following this peak, volume experienced a decline, reaching its lowest point of approximately 0.8 billion in Q2 2024. The latter half of 2024 showed a modest recovery, with quarterly volumes closing near 0.9 billion by year-end.

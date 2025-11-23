@@ -1,0 +1,3 @@
+This chart displays J Quarterly Volume from Q1 2023 through Q4 2024, showing fluctuating activity between approximately 44 million and 60 million units. Volume peaked significantly in Q4 2023 at around 60 million, following a dip to its lowest point of 44 million in Q3 2023.
+
+Subsequently, 2024 volumes have been more stable, generally ranging between 49 million and 52 million. This indicates a period of higher volatility in 2023, followed by more consistent, albeit lower than the 2023 peak, performance in 2024.

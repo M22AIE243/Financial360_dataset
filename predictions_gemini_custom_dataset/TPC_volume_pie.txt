@@ -1,0 +1,4 @@
+This pie chart displays the TPC Quarterly Volume Distribution across various quarters in both 2023 and 2024.
+Notably, 2024 quarters collectively represent the majority of the total volume, accounting for approximately 60.2%, a significant increase compared to the 39.7% from 2023 quarters.
+The largest single quarterly contribution is 18.9% from a 2024 quarter, while the smallest is 6.6% from a 2023 quarter.
+This distribution highlights a substantial growth in TPC volume in 2024 compared to the previous year.

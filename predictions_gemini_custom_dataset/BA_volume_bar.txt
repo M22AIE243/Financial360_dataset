@@ -1,0 +1,4 @@
+The BA Quarterly Volume chart reveals a significant upward trend in total volume from Q1 2023 to Q4 2024.
+Volumes in 2023 remained relatively stable, fluctuating between approximately 3.1x10^8 and 3.9x10^8 units, with Q3 2023 marking the lowest point.
+A sharp surge occurred in Q1 2024, reaching about 6.3x10^8, which then saw a dip in Q2 2024 before recovering.
+The period culminated in Q4 2024 reaching an impressive peak of over 8.4x10^8, representing the highest volume observed.

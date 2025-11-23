@@ -1,0 +1,5 @@
+The chart displays AMD's quarterly trading volume from Q1 2023 through Q4 2024. Volume fluctuated in 2023, generally staying above 3.5 billion shares.
+
+The highest quarterly trading volume was recorded in Q1 2024, reaching nearly 4.6 billion shares. Following this peak, AMD experienced a consistent decline in volume throughout 2024.
+
+Q4 2024 showed the lowest volume of the entire period at approximately 2.3 billion shares, indicating a significant drop from the beginning of the year.

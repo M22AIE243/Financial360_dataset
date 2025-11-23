@@ -1,0 +1,3 @@
+This pie chart illustrates the distribution of Chevron (CVX) quarterly trading volume across several quarters in 2023 and 2024.
+
+The most active quarter accounted for 16.4% of the total volume, originating from a 2023 period. Conversely, the least active quarter represented 11.0%, also within 2023. The overall distribution across all displayed quarters is relatively consistent, ranging from 11.0% to 16.4%, suggesting a fairly even spread of trading activity without significant quarterly dominance.

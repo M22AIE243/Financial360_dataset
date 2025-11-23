@@ -1,0 +1,3 @@
+This pie chart illustrates META's total volume distribution across eight quarters, comprising four quarters from 2023 and four from 2024.
+The majority of the volume, 62%, was generated in 2023, with one quarter notably contributing 20.6% of the total.
+Conversely, the four quarters represented from 2024 collectively accounted for 38% of the total volume, showing a declining trend from 11.2% down to 7.9% for the latest quarter.

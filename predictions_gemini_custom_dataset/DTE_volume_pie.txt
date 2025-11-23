@@ -1,0 +1,3 @@
+This pie chart illustrates DTE's quarterly volume distribution across various quarters in 2023 and 2024.
+
+The volume appears relatively evenly distributed, with individual quarterly contributions ranging from a low of 10.6% (a 2024 quarter) to a high of 15.6% (a 2023 quarter). No single quarter significantly dominates the total. This suggests a fairly consistent level of activity across these periods rather than pronounced seasonal peaks or troughs.

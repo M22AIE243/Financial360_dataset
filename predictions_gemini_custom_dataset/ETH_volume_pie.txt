@@ -1,0 +1,3 @@
+This pie chart illustrates the ETH Quarterly Volume Distribution, showing two primary segments. One segment accounts for 32.0% of the total volume, with the other comprising 68.0%.
+
+However, both segments are identically labeled "2024-Qq," which makes it impossible to discern the specific quarters or distinct categories represented by these percentages within the overall distribution. Further clarification on the segment definitions is needed for a meaningful analysis.

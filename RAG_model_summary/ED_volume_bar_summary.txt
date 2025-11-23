@@ -1,0 +1,1 @@
+The chart displays the quarterly volume of ED stock from Q1 2023 to Q4 2024. The total volume has fluctuated over time, with peaks in Q4 2023 and Q4 2024, and decreases in Q2 2023 and Q2 2024. The relationship between time and total volume is irregular, showing no clear linear trend, but generally remaining above $1.0 billion.

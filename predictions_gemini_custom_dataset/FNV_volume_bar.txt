@@ -1,0 +1,3 @@
+This chart illustrates FNV's quarterly volume from Q1 2023 through Q4 2024, showing significant fluctuations. Volume experienced a notable increase in the latter half of 2023, peaking in Q4 2023 at nearly 50 million after reaching a low point in Q3 2023.
+
+While 2024 generally maintained higher base volumes compared to the corresponding quarters in 2023, the overall peak of Q4 2023 was not surpassed. Both years exhibited a similar pattern of declining volume from Q1 to Q3, followed by a strong rebound in Q4.

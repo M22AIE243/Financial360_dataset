@@ -1,0 +1,5 @@
+This bar chart illustrates ASO's total quarterly volume from Q1 2023 through Q4 2024.
+
+Volume peaked at approximately 115 million in Q2 2023, with the lowest point recorded around 82 million in Q1 2024.
+
+Overall, quarterly volumes have generally fluctuated between 80 million and 115 million, recovering from an early 2024 dip to end the year with strong activity consistently above 95 million.

@@ -1,0 +1,3 @@
+This pie chart illustrates TTEK's trading volume distribution across eight unspecified quarters from 2023 and 2024. Individual quarterly contributions vary, with the largest single quarter accounting for 17.2% (from 2024) and the smallest for 10.1% (also from 2024).
+
+Cumulatively, the four 2024 quarters represent approximately 50.8% of the total volume, slightly exceeding the 49.1% contributed by the four 2023 quarters. This suggests a relatively even distribution of trading activity between the two years shown, without a clear overwhelming dominance by either.

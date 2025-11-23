@@ -1,0 +1,1 @@
+The pie chart displays the quarterly volume distribution of ABT across eight quarters, covering 2023 and 2024. The distribution is relatively stable, with percentages ranging from 10.4% to 14.1%. There is no clear upward or downward trend in the data, suggesting a consistent volume distribution over time.

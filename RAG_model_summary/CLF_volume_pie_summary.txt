@@ -1,0 +1,1 @@
+The pie chart displays the quarterly volume distribution of CLF across eight quarters. It shows a varied distribution, with the largest section being 2024-Qq at 16.9% and the smallest at 2024-Qq with 10.4%. The majority of the sections are from 2023 and 2024, exhibiting similar percentage ranges and no clear trend.

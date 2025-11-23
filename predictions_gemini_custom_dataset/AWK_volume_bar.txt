@@ -1,0 +1,3 @@
+AWK's quarterly trading volume from Q1 2023 to Q4 2024 shows significant fluctuation, generally ranging from 56 million to 88 million shares. A recurring pattern suggests lower volumes in the Q2/Q3 periods, followed by stronger activity in Q4 and Q1.
+
+The highest volume was recorded in Q1 2024 (approx. 88M), following a strong recovery in Q4 2023. However, Q3 2024 saw a sharp decline in volume, which then partially recovered by Q4 2024.

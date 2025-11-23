@@ -1,0 +1,5 @@
+This pie chart illustrates the quarterly volume distribution for CGC across 2023 and 2024.
+
+Notably, 2024 quarters collectively represent the vast majority of the total volume, accounting for approximately 73.7%. The largest single quarterly contribution comes from a 2024 quarter at 31.6%.
+
+In contrast, 2023 quarters make up a smaller portion of the total, around 26.4%, with several individual 2023 quarters showing minimal contributions (e.g., 1.8% and 2.4%). This distribution indicates a significant concentration of CGC's volume activity within 2024.

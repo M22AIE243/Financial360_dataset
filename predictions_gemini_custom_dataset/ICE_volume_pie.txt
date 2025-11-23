@@ -1,0 +1,5 @@
+This pie chart illustrates the distribution of ICE's total volume across eight distinct quarters, four from 2023 and four from 2024.
+
+Volume contributions are relatively consistent across these periods, ranging from a low of 10.9% (a 2023 quarter) to a high of 14.7% (a 2024 quarter).
+
+Collectively, the four 2024 quarters account for approximately 51% of the total volume shown, slightly outpacing the 2023 quarters' combined contribution of about 49%. This suggests a modest shift towards higher volume concentration in the more recent periods depicted.

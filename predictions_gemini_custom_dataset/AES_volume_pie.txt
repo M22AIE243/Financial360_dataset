@@ -1,0 +1,3 @@
+This pie chart displays the AES Quarterly Volume Distribution, with data points generically labeled as "2023-Qq" or "2024-Qq" rather than specific quarters. Approximately 60.6% of the total volume is attributed to the 2024 periods, while the 2023 periods account for about 39.5%.
+
+One specific 2024 period represents the largest single share at 21.1% of the total volume, considerably higher than any individual 2023 period, which range from 7.3% to 13.3%. This suggests a significant increase in volume contribution from some 2024 periods compared to 2023.

@@ -1,0 +1,3 @@
+This pie chart illustrates WPM's quarterly volume distribution across eight quarters in 2023 and 2024.
+
+Volume is relatively evenly distributed among the quarters, with individual contributions ranging from 10.3% to 16.7%, where a 2023 quarter shows the highest share. Cumulatively, 2023 quarters account for 52.5% of the total volume presented, slightly outweighing the 47.5% contributed by 2024 quarters.

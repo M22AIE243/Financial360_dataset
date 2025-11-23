@@ -1,0 +1,1 @@
+This pie chart displays the quarterly volume distribution of AMT (American Tower Corporation) across eight quarters in 2023 and 2024. The quarterly volumes range from 11.5% to 14.1%. There is no clear upward or downward trend in the data, indicating a relatively stable volume distribution with minor variations over the observed period.
